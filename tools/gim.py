@@ -172,22 +172,27 @@ class Gim:
         assert im.size == (hd['w'], hd['h'])
         raw = bytearray(wbytes * h)
         if hd['fmt'] in (4, 5):
-            phd = self._hdr(self.pal)
-            psize = 4 if phd['fmt'] == 3 else 2
-            ncol = min((phd['pe'] - phd['ps']) // psize, 16 if bpp == 4 else 256)
-            q = _quantize_rgba(im, ncol)
-            pal, idxs = q
+            # On conserve la palette d'origine : chaque pixel prend la couleur existante la plus
+            # proche (les zones non modifiées restent identiques au pixel près).
+            import numpy as np
+            pal = np.array(self.palette(), dtype=np.int32)
+            ncol = 16 if bpp == 4 else 256
+            pal = pal[:ncol]
+            pix = np.array(im, dtype=np.int32).reshape(-1, 4)
+            uniq, inv = np.unique(pix, axis=0, return_inverse=True)
+            # distance pondérée : l'alpha compte autant que la couleur
+            dist = ((uniq[:, None, :] - pal[None, :, :]) ** 2).sum(axis=2)
+            best = dist.argmin(axis=1)
+            idxs = best[inv.reshape(-1)]
+            w = hd['w']
             for y in range(hd['h']):
-                for x in range(hd['w']):
-                    i = idxs[y * hd['w'] + x]
+                row = idxs[y * w:(y + 1) * w]
+                for x in range(w):
+                    i = int(row[x])
                     if bpp == 4:
                         raw[y * wbytes + (x >> 1)] |= i << (4 * (x & 1))
                     else:
                         raw[y * wbytes + x] = i
-            fmtc = '<I' if psize == 4 else '<H'
-            for i in range((phd['pe'] - phd['ps']) // psize):
-                c = pal[i] if i < len(pal) else (0, 0, 0, 0)
-                struct.pack_into(fmtc, self.data, phd['ps'] + i * psize, _encode_color(phd['fmt'], c))
         else:
             size = bpp // 8
             fmtc = '<I' if size == 4 else '<H'

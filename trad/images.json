@@ -1315,7 +1315,7 @@
    ],
    "fr": "PHASE",
    "font": "sans_it",
-   "fill_sat": true,
+   "fill_sat": "dark",
    "outline_color": [
     255,
     250,
@@ -1338,7 +1338,7 @@
    ],
    "fr": "ENNEMIE",
    "font": "sans_it",
-   "fill_sat": true,
+   "fill_sat": "dark",
    "outline_color": [
     255,
     250,
@@ -1361,7 +1361,7 @@
    ],
    "fr": "PHASE",
    "font": "sans_it",
-   "fill_sat": true,
+   "fill_sat": "dark",
    "outline_color": [
     255,
     250,
@@ -1384,7 +1384,7 @@
    ],
    "fr": "ALLIÉE",
    "font": "sans_it",
-   "fill_sat": true,
+   "fill_sat": "dark",
    "outline_color": [
     255,
     250,
@@ -1399,6 +1399,15 @@
    "ext_down": 0
   },
   {
+   "draw": "clear",
+   "box": [
+    134,
+    80,
+    184,
+    104
+   ]
+  },
+  {
    "box": [
     136,
     83,
@@ -1407,7 +1416,6 @@
    ],
    "fr": "Tour",
    "font": "sans",
-   "fill_sat": true,
    "outline_color": [
     50,
     25,

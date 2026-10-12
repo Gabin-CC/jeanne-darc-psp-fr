@@ -122,7 +122,10 @@ def render_word(im, box, text, font='sans', cap=None, base=None, outline_px=1, s
         sat = lambda c: max(c[:3]) - min(c[:3])
         rows = []
         for y in range(crop.height):
-            cs = [cp[x, y] for x in range(crop.width) if cp[x, y][3] > 200 and sat(cp[x, y]) > 60]
+            cs = sorted((cp[x, y] for x in range(crop.width) if cp[x, y][3] > 200 and sat(cp[x, y]) > 60),
+                        key=lambda c: sum(c[:3]))
+            if fill_sat == 'dark':
+                cs = cs[:max(1, len(cs) // 2)]  # moitié la plus foncée : le cœur de la lettre
             rows.append(tuple(sum(c[i] for c in cs) // len(cs) for i in range(3)) if cs else None)
         known = [i for i, c in enumerate(rows) if c]
         fill_rows = [rows[i] or rows[min(known, key=lambda k: abs(k - i))] for i in range(len(rows))] if known else fill_rows
