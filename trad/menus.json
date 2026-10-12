@@ -213,13 +213,13 @@
   "ctx": "0x112d00",
   "max": 71,
   "en": "End Turn\nTroops\nReport\nQuicksave\nLoad\nOptions\n(Clear)\n(Debug)\nEnd Game\n",
-  "fr": "Fin tour\nTroupes\nRapport\nSuspendre\nCharger\nOptions\n(C)\n(D)\nQuitter\n"
+  "fr": "Fin tour\nTroupes\nRapport\nSauvegarde\nCharger\nOptions\n(C)\n(D)\nQuitter\n"
  },
  {
   "ctx": "0x112d54",
   "max": 143,
   "en": "End your turn?\nQuicksave and end the game?\n(Warning: The quicksave will be deleted\nwhen you resume the game later.)\nQuicksave and end the game?",
-  "fr": "Terminer le tour ?\nSuspendre et quitter ?\n(Attention : elle sera effacée\nà la reprise de la partie.)\nSuspendre et quitter ?"
+  "fr": "Terminer le tour ?\nSauv. rapide et quitter ?\n(Attention : elle sera effacée\nà la reprise de la partie.)\nSauv. rapide et quitter ?"
  },
  {
   "ctx": "0x1132cc",
@@ -333,7 +333,7 @@
   "ctx": "0x113c28",
   "max": 23,
   "en": "Load\nResume Quicksave",
-  "fr": "Charger\nReprendre"
+  "fr": "Charger\nSauv. rapide"
  },
  {
   "ctx": "0x113c4c",
@@ -363,7 +363,7 @@
   "ctx": "0x113e50",
   "max": 23,
   "en": "Quicksave\nDelete Data",
-  "fr": "Suspendre\nSupprimer"
+  "fr": "Sauv. rapide\nSupprimer"
  },
  {
   "ctx": "0x113e68",
