@@ -16,8 +16,10 @@ from PIL import Image
 
 def _blocks(data, start, end):
     pos = start
-    while pos < end:
+    while pos + 16 <= end:
         bid, size, nxt, doff = struct.unpack_from('<HxxIII', data, pos)
+        if size == 0:
+            break
         yield bid, pos, size, doff
         if bid in (0x02, 0x03):
             yield from _blocks(data, pos + doff, pos + size)

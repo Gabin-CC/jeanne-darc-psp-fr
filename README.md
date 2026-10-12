@@ -15,7 +15,7 @@ version américaine. Le jeu n'est jamais sorti officiellement en français (la r
 | Objets, armes, armures, sorts, compétences et descriptions | ✅ |
 | Menus, sauvegarde, options, aide textuelle | ✅ |
 | Titres de chapitres, objectifs, noms de lieux, carte du monde | ✅ |
-| Textures : écran titre, interface de combat, menus, bandeaux de lieux, cartons de chapitre | ✅ |
+| Textures : écran titre, interface de combat, menus, carte du monde, bandeaux de lieux, cartons de chapitre | ✅ |
 | Pages d'aide illustrées (`HELP/*.GIM`) | ❌ en anglais pour l'instant |
 | Vidéos | (pas de texte à traduire) |
 
@@ -35,7 +35,7 @@ Le glossaire complet est dans [`trad/glossaire.md`](trad/glossaire.md).
    - en ligne, sans installation : [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) ;
    - Windows : *xdelta UI* ou *Delta Patcher* ;
    - ligne de commande : `xdelta3 -d -s "Jeanne d'Arc (USA).iso" Jeanne_dArc_FR.xdelta "Jeanne d'Arc (FR).iso"`
-4. Vérifiez le résultat — MD5 de l'ISO français : `07e3eb80933460287934d1e6203f37aa` (version actuelle).
+4. Vérifiez le résultat — MD5 de l'ISO français : `e469e75248d5448e8d5c7d2d6d89989a` (version actuelle).
 
 Compatible **PPSSPP** et **PSP avec custom firmware** (l'exécutable est fourni déchiffré).
 
@@ -90,7 +90,7 @@ tools/
   jda_fixed.py         chaînes en champs de taille fixe
   iso_patch.py         réécriture de l'ISO + table FILEINFO.DAT du jeu
   gim.py               lecture/écriture des textures GIM de la PSP
-  gimtext.py, gimbanner.py, build_images.py   rendu du texte français dans les textures
+  gimtext.py, gimbanner.py, gimwm.py, build_images.py   rendu du texte français dans les textures
   speakers.py          attribution des répliques aux personnages (lecture du bytecode)
   extract_*.py         extraction des textes depuis l'ISO
 ```

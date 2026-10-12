@@ -982,13 +982,291 @@
     112,
     64
    ],
-   "fr": "O",
-   "font": "helv",
-   "cap": 7,
-   "base": 63,
-   "shadow": false,
-   "ext_up": 0,
-   "ext_down": 0
+   "draw": "ring"
   }
- ]
+ ],
+ "_wmap": {
+  "WMAP.SPF#12": {
+   "left": [
+    [
+     1,
+     [
+      "Nancy"
+     ]
+    ],
+    [
+     2,
+     [
+      "Forêt de",
+      "Fraude"
+     ]
+    ],
+    [
+     2,
+     [
+      "Chapelle",
+      "des bois"
+     ]
+    ],
+    [
+     1,
+     [
+      "Bois d'Alrond"
+     ]
+    ],
+    [
+     1,
+     [
+      "Raillemont"
+     ]
+    ],
+    [
+     1,
+     [
+      "Colisée"
+     ]
+    ],
+    [
+     1,
+     [
+      "Vaucouleurs"
+     ]
+    ],
+    [
+     1,
+     [
+      "Domrémy"
+     ]
+    ],
+    [
+     1,
+     [
+      "Neufchâteau"
+     ]
+    ],
+    [
+     1,
+     [
+      "Mines de Gwygone"
+     ]
+    ],
+    [
+     1,
+     [
+      "Reims"
+     ]
+    ]
+   ],
+   "right": [
+    [
+     2,
+     [
+      "Marais de",
+      "Vermonde"
+     ]
+    ],
+    [
+     1,
+     [
+      "Châlons"
+     ]
+    ],
+    [
+     1,
+     [
+      "Troyes"
+     ]
+    ],
+    [
+     1,
+     [
+      "Tunnel de Langles"
+     ]
+    ],
+    [
+     1,
+     [
+      "La Charité"
+     ]
+    ],
+    [
+     1,
+     [
+      "Vallée de Soir"
+     ]
+    ],
+    [
+     2,
+     [
+      "Ruines de",
+      "Cents-Abris"
+     ]
+    ],
+    [
+     2,
+     [
+      "Château de",
+      "Bourgogne"
+     ]
+    ],
+    [
+     1,
+     [
+      "Cimetière"
+     ]
+    ],
+    [
+     1,
+     [
+      "Château de Vilneaux"
+     ]
+    ],
+    [
+     1,
+     [
+      "Patay"
+     ]
+    ]
+   ]
+  },
+  "WMAP.SPF#13": {
+   "left": [
+    [
+     2,
+     [
+      "Bastille",
+      "Saint-Loup"
+     ]
+    ],
+    [
+     1,
+     [
+      "Colline éolienne"
+     ]
+    ],
+    [
+     2,
+     [
+      "Château de",
+      "Richemont"
+     ]
+    ],
+    [
+     1,
+     [
+      "Clairoix"
+     ]
+    ],
+    [
+     2,
+     [
+      "Remparts",
+      "de Paris"
+     ]
+    ],
+    [
+     1,
+     [
+      "Canyon de Vantoix"
+     ]
+    ],
+    [
+     1,
+     [
+      "Les Tourelles"
+     ]
+    ],
+    [
+     2,
+     [
+      "Bastille des",
+      "Augustins"
+     ]
+    ],
+    [
+     1,
+     [
+      "Orléans"
+     ]
+    ],
+    [
+     1,
+     [
+      "Chinon"
+     ]
+    ],
+    [
+     1,
+     [
+      "Col de Grandgris"
+     ]
+    ]
+   ],
+   "right": [
+    [
+     1,
+     [
+      "Avant-poste Soldat"
+     ]
+    ],
+    [
+     1,
+     [
+      "Souterrains de Paris"
+     ]
+    ],
+    [
+     1,
+     [
+      "Canal de Guillorey"
+     ]
+    ],
+    [
+     1,
+     [
+      "Prairie d'Altois"
+     ]
+    ],
+    [
+     2,
+     [
+      "Tour",
+      "d'Alsace"
+     ]
+    ],
+    [
+     1,
+     [
+      "Temple de Voldor"
+     ]
+    ],
+    [
+     1,
+     [
+      "Rouen"
+     ]
+    ],
+    [
+     1,
+     [
+      "Château de Paris"
+     ]
+    ],
+    [
+     2,
+     [
+      "St-Pierre-",
+      "le-Moûtier"
+     ]
+    ],
+    [
+     2,
+     [
+      "Landes de",
+      "Reine-Couronne"
+     ]
+    ]
+   ]
+  }
+ }
 }
