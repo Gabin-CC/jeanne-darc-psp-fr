@@ -973,5 +973,22 @@
    "kind": "caption",
    "fr": "Prison de Rouen"
   }
- }
+ },
+ "GUI/MENU05.GIM": [
+  {
+   "box": [
+    102,
+    55,
+    112,
+    64
+   ],
+   "fr": "O",
+   "font": "helv",
+   "cap": 7,
+   "base": 63,
+   "shadow": false,
+   "ext_up": 0,
+   "ext_down": 0
+  }
+ ]
 }

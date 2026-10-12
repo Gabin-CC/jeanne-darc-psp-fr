@@ -35,7 +35,7 @@ Le glossaire complet est dans [`trad/glossaire.md`](trad/glossaire.md).
    - en ligne, sans installation : [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) ;
    - Windows : *xdelta UI* ou *Delta Patcher* ;
    - ligne de commande : `xdelta3 -d -s "Jeanne d'Arc (USA).iso" Jeanne_dArc_FR.xdelta "Jeanne d'Arc (FR).iso"`
-4. Vérifiez le résultat — MD5 de l'ISO français : `ca2f852daee3eecc6fdff0c8badcf2f3` (version actuelle).
+4. Vérifiez le résultat — MD5 de l'ISO français : `07e3eb80933460287934d1e6203f37aa` (version actuelle).
 
 Compatible **PPSSPP** et **PSP avec custom firmware** (l'exécutable est fourni déchiffré).
 

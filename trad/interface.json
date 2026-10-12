@@ -219,19 +219,19 @@
   "ctx": "GUISHT 0xe630",
   "max": 16,
   "en": "Units",
-  "fr": "Unités"
+  "fr": "Héros"
  },
  {
   "ctx": "GUISHT 0xe680",
   "max": 16,
   "en": "You can place ",
-  "fr": "Encore "
+  "fr": "Placez encore "
  },
  {
   "ctx": "GUISHT 0xe720",
   "max": 16,
   "en": " more!",
-  "fr": " à placer !"
+  "fr": " !"
  },
  {
   "ctx": "GUISHT 0xeb80",
@@ -249,7 +249,7 @@
   "ctx": "GUISHT 0xee00",
   "max": 16,
   "en": "Place",
-  "fr": "Placer"
+  "fr": "Poser"
  },
  {
   "ctx": "GUISHT 0xf030",
