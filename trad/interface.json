@@ -225,13 +225,13 @@
   "ctx": "GUISHT 0xe680",
   "max": 16,
   "en": "You can place ",
-  "fr": "À placer : "
+  "fr": "Places libres "
  },
  {
   "ctx": "GUISHT 0xe720",
   "max": 16,
   "en": " more!",
-  "fr": " !"
+  "fr": " "
  },
  {
   "ctx": "GUISHT 0xeb80",

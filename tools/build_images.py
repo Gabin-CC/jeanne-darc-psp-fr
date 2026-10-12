@@ -43,14 +43,18 @@ def _ring(im, box):
     dark = ref[0][:3] if ref else (20, 20, 20)
     light = ref[-len(ref) // 4][:3] if ref else (200, 200, 200)
     im.paste(Image.new('RGBA', (x1 - x0, y1 - y0), (0, 0, 0, 0)), (x0, y0))
+    # lettre O : ovale vertical, plus étroit que haut, centré dans la case
+    ow = max(5, round((y1 - y0) * 0.8))
+    x0 = x0 + ((x1 - x0) - ow) // 2
+    x1 = x0 + ow
     S = 8
     w, h = (x1 - x0) * S, (y1 - y0) * S
     big = Image.new('RGBA', (w, h), (0, 0, 0, 0))
     d = ImageDraw.Draw(big)
-    d.ellipse((0, 0, w - 1, h - 1), fill=dark + (255,))
-    d.ellipse((S, S, w - 1 - S, h - 1 - S), fill=light + (255,))
-    d.ellipse((3 * S, 3 * S, w - 1 - 3 * S, h - 1 - 3 * S), fill=dark + (255,))
-    d.ellipse((4 * S, 4 * S, w - 1 - 4 * S, h - 1 - 4 * S), fill=(0, 0, 0, 0))
+    for inset, col in ((0, dark + (255,)), (S, light + (255,)), (S * 5 // 2, dark + (255,)),
+                       (S * 3, (0, 0, 0, 0))):
+        if w - 1 - 2 * inset > 0 and h - 1 - 2 * inset > 0:
+            d.ellipse((inset, inset, w - 1 - inset, h - 1 - inset), fill=col)
     im.alpha_composite(big.resize((x1 - x0, y1 - y0), Image.LANCZOS), (x0, y0))
 
 
