@@ -44,7 +44,7 @@ def _ring(im, box):
     light = ref[-len(ref) // 4][:3] if ref else (200, 200, 200)
     im.paste(Image.new('RGBA', (x1 - x0, y1 - y0), (0, 0, 0, 0)), (x0, y0))
     # lettre O : ovale vertical, plus étroit que haut, centré dans la case
-    ow = max(5, round((y1 - y0) * 0.8))
+    ow = min(x1 - x0, max(5, round((y1 - y0) * 0.95)))
     x0 = x0 + ((x1 - x0) - ow) // 2
     x1 = x0 + ow
     S = 8
