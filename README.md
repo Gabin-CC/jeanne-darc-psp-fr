@@ -38,6 +38,10 @@ Le glossaire complet est dans [`trad/glossaire.md`](trad/glossaire.md).
 
 ## Aperçu
 
+| Préparation de la bataille | Menu de combat |
+|---|---|
+| ![Placement des unités en français](docs/capture_placement.png) | ![Menu de combat en français](docs/capture_combat.png) |
+
 Les textures elles aussi sont traduites — exemple avec une page d'aide (en haut l'original, en bas la version française) :
 
 <p align="center"><img src="docs/aide_avant_apres.png" alt="Page d'aide avant / après traduction" width="640"></p>
