@@ -1,4 +1,14 @@
+<p align="center"><img src="docs/banniere.png" alt="Jeanne d'Arc PSP — Traduction française" width="720"></p>
+
+<p align="center">
+  <a href="https://github.com/Gabin-CC/jeanne-darc-psp-fr/releases/latest"><img src="https://img.shields.io/github/v/release/Gabin-CC/jeanne-darc-psp-fr?label=t%C3%A9l%C3%A9charger&color=b8860b" alt="Dernière version"></a>
+  <a href="https://github.com/Gabin-CC/jeanne-darc-psp-fr/releases"><img src="https://img.shields.io/github/downloads/Gabin-CC/jeanne-darc-psp-fr/total?label=t%C3%A9l%C3%A9chargements" alt="Téléchargements"></a>
+  <img src="https://img.shields.io/badge/PPSSPP-compatible-2e7d32" alt="Compatible PPSSPP">
+</p>
+
 # Jeanne d'Arc (PSP) — Traduction française
+
+**👉 [Télécharger le patch](https://github.com/Gabin-CC/jeanne-darc-psp-fr/releases/latest)** — instructions d'installation [plus bas](#installer-le-patch-joueurs).
 
 Traduction amateur intégrale en français de **Jeanne d'Arc** (Level-5, PSP, 2007), à partir de la
 version américaine. Le jeu n'est jamais sorti officiellement en français (la réédition PS4/PS5 de
@@ -25,6 +35,12 @@ Partis pris de traduction :
 - les tics de langage des personnages sont conservés (La Hire roule les r, Rufus remplace ses consonnes par des R, les nains zozotent…).
 
 Le glossaire complet est dans [`trad/glossaire.md`](trad/glossaire.md).
+
+## Aperçu
+
+Les textures elles aussi sont traduites — exemple avec une page d'aide (en haut l'original, en bas la version française) :
+
+<p align="center"><img src="docs/aide_avant_apres.png" alt="Page d'aide avant / après traduction" width="640"></p>
 
 ## Installer le patch (joueurs)
 
