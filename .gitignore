@@ -13,3 +13,4 @@ __pycache__/
 venv/
 .DS_Store
 release/
+a_valider/

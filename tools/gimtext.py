@@ -13,6 +13,7 @@ FONTS = {
     'sans': ('/System/Library/Fonts/Optima.ttc', 1),  # Optima Bold
     'helv': ('/System/Library/Fonts/Helvetica.ttc', 1),  # Helvetica Bold
     'optima': ('/System/Library/Fonts/Optima.ttc', 0),  # Optima Regular
+    'sans_it': ('/System/Library/Fonts/Optima.ttc', 3),  # Optima Bold Italic
 }
 
 
@@ -106,21 +107,32 @@ def _style(im, box):
 
 def render_word(im, box, text, font='sans', cap=None, base=None, outline_px=1, shadow=True,
                 align='center', plain=False, min_condense=0.62, color=None, bg=None,
-                fill_color=None, outline_color=None):
+                fill_color=None, outline_color=None, fill_sat=False, glow=0, src=None):
     """Remplace le contenu de `box` par `text`.
 
     cap  : hauteur des majuscules en pixels ; base : ordonnée de la ligne de base.
     plain : texte d'une seule couleur, sans contour ni ombre (couleur prise sur l'original).
     """
     x0, y0, x1, y1 = box
-    fill_rows, outline = _style(im, box)
+    src = src or im  # image où prélever les couleurs (avant tout effacement)
+    fill_rows, outline = _style(src, box)
+    if fill_sat:  # dégradé pris sur les pixels saturés (le halo clair est ignoré)
+        crop = src.crop(box)
+        cp = crop.load()
+        sat = lambda c: max(c[:3]) - min(c[:3])
+        rows = []
+        for y in range(crop.height):
+            cs = [cp[x, y] for x in range(crop.width) if cp[x, y][3] > 200 and sat(cp[x, y]) > 60]
+            rows.append(tuple(sum(c[i] for c in cs) // len(cs) for i in range(3)) if cs else None)
+        known = [i for i, c in enumerate(rows) if c]
+        fill_rows = [rows[i] or rows[min(known, key=lambda k: abs(k - i))] for i in range(len(rows))] if known else fill_rows
     if fill_color:
         fill_rows = [tuple(fill_color)] * (y1 - y0)
     if outline_color:
         outline = tuple(outline_color)
     if plain:
         outline_px, shadow = 0, False
-        crop = im.crop(box)  # (couleur estimée avant effacement)
+        crop = src.crop(box)  # (couleur estimée avant effacement)
         ops = [c for c in crop.getdata() if c[3] > 200]
         col = tuple(color) if color else (tuple(sum(c[i] for c in ops) // len(ops) for i in range(3)) if ops else (15, 14, 13))
     w, h = x1 - x0, y1 - y0
@@ -187,6 +199,9 @@ def render_word(im, box, text, font='sans', cap=None, base=None, outline_px=1, s
         if shadow:
             shm = ImageChops.offset(layer_mask.filter(ImageFilter.MaxFilter(3)), 1, 1)
             out.paste(Image.new('RGBA', (w, h), outline + (170,)), (0, 0), shm)
+        if glow:
+            gl = layer_mask.filter(ImageFilter.MaxFilter(2 * outline_px + 3)).filter(ImageFilter.GaussianBlur(glow))
+            out.paste(Image.new('RGBA', (w, h), outline + (200,)), (0, 0), gl)
         if outline_px:
             ol = layer_mask.filter(ImageFilter.MaxFilter(2 * outline_px + 1))
             out.paste(Image.new('RGBA', (w, h), outline + (255,)), (0, 0), ol)
@@ -199,4 +214,51 @@ def render_word(im, box, text, font='sans', cap=None, base=None, outline_px=1, s
                 fp[x, y] = c + (255,)
         out.paste(fill, (0, 0), layer_mask)
     im.alpha_composite(out, (x0, y0))
+    return im
+
+
+def render_curve_letters(im, centers, text, font='times', cap=11, radius=8, src=None):
+    """Remplace des lettres espacées le long d'une courbe (inscription de carte) :
+    efface les lettres d'origine (inpainting OpenCV) puis répartit `text` sur la même courbe."""
+    import numpy as np
+    import cv2
+    src = src or im
+    arr = np.array(src.convert('RGBA'))
+    rgb = arr[:, :, :3].copy()
+    lum = rgb.astype(int).sum(axis=2)
+    mask = np.zeros(lum.shape, np.uint8)
+    ink = []
+    for cx, cy in centers:
+        y0, y1 = max(0, cy - radius), min(lum.shape[0], cy + radius + 1)
+        x0, x1 = max(0, cx - radius), min(lum.shape[1], cx + radius + 1)
+        patch = lum[y0:y1, x0:x1]
+        thr = np.percentile(patch, 70) - 60
+        sel = patch < thr
+        mask[y0:y1, x0:x1][sel] = 255
+        ink.append(rgb[y0:y1, x0:x1][sel])
+    mask = cv2.dilate(mask, np.ones((3, 3), np.uint8))
+    rgb = cv2.inpaint(np.ascontiguousarray(rgb), mask, 3, cv2.INPAINT_TELEA)
+    allink = np.concatenate(ink) if ink else np.array([[80, 50, 20]])
+    dark = allink[allink.astype(int).sum(axis=1) <= np.percentile(allink.astype(int).sum(axis=1), 25)]
+    color = tuple(int(v) for v in np.median(dark if len(dark) else allink, axis=0))
+    # courbe : polyligne par les centres d'origine, rééchantillonnée pour len(text) lettres
+    pts = np.array(centers, float)
+    seg = np.r_[0, np.cumsum(np.hypot(*np.diff(pts, axis=0).T))]
+    tgt = np.linspace(0, seg[-1], len(text))
+    xs, ys = np.interp(tgt, seg, pts[:, 0]), np.interp(tgt, seg, pts[:, 1])
+    base = Image.fromarray(np.dstack([rgb, arr[:, :, 3]]), 'RGBA')
+    S = 4
+    f = _font(font, cap * S * 2)
+    hb = f.getbbox('H')
+    f = _font(font, max(6, int(cap * S * 2 * cap * S / (hb[3] - hb[1]))))
+    layer = Image.new('L', (im.width * S, im.height * S), 0)
+    d = ImageDraw.Draw(layer)
+    for ch, x, y in zip(text, xs, ys):
+        bb = f.getbbox(ch)
+        d.text((x * S - (bb[0] + bb[2]) / 2, y * S - (bb[1] + bb[3]) / 2), ch, font=f, fill=255,
+               stroke_width=S // 2, stroke_fill=255)
+    layer = layer.resize(im.size, Image.LANCZOS).filter(ImageFilter.GaussianBlur(0.4))
+    ink_img = Image.new('RGBA', im.size, color + (255,))
+    base.paste(ink_img, (0, 0), layer)
+    im.paste(base, (0, 0))
     return im

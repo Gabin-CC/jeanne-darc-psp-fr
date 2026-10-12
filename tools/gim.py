@@ -109,8 +109,38 @@ class Gim:
     def info(self):
         return self._hdr(self.img)
 
+    def _to_image_dxt(self, hd):
+        """DXT1/3/5, variante PSP : dans chaque bloc les indices précèdent les couleurs."""
+        w, h = hd['w'], hd['h']
+        bw, bh = (w + 3) // 4, (h + 3) // 4
+        bsize = 8 if hd['fmt'] == 8 else 16
+        d = self.data
+        base = hd['ps']
+        im = Image.new('RGBA', (bw * 4, bh * 4))
+        px = im.load()
+        c565 = lambda v: ((v & 31) * 255 // 31, (v >> 5 & 63) * 255 // 63, (v >> 11) * 255 // 31)
+        for by in range(bh):
+            for bx in range(bw):
+                o = base + (by * bw + bx) * bsize
+                if o + bsize > len(d):
+                    continue
+                co = o if bsize == 8 else o + 8  # en DXT3/5 la partie alpha suit la couleur
+                idx, c0, c1 = struct.unpack_from('<IHH', d, co)
+                a0, a1 = c565(c0), c565(c1)
+                if c0 > c1 or bsize == 16:
+                    pal = [a0 + (255,), a1 + (255,),
+                           tuple((2 * a0[i] + a1[i]) // 3 for i in range(3)) + (255,),
+                           tuple((a0[i] + 2 * a1[i]) // 3 for i in range(3)) + (255,)]
+                else:
+                    pal = [a0 + (255,), a1 + (255,), tuple((a0[i] + a1[i]) // 2 for i in range(3)) + (255,), (0, 0, 0, 0)]
+                for i in range(16):
+                    px[bx * 4 + i % 4, by * 4 + i // 4] = pal[(idx >> (2 * i)) & 3]
+        return im.crop((0, 0, w, h))
+
     def to_image(self) -> Image.Image:
         hd = self._hdr(self.img)
+        if hd['fmt'] in (8, 9, 10):
+            return self._to_image_dxt(hd)
         bpp, wbytes, h = self._geometry(hd)
         raw = bytes(self.data[hd['ps']:hd['ps'] + wbytes * h])
         if hd['order'] == 1:

@@ -120,6 +120,15 @@ def build(preview_dir=None):
         im = g.to_image()
         orig = im.copy()
         for it in items:
+            if it.get('draw') == 'clear':
+                x0, y0, x1, y1 = it['box']
+                im.paste(Image.new('RGBA', (x1 - x0, y1 - y0), (0, 0, 0, 0)), (x0, y0))
+                continue
+            if it.get('draw') == 'curve':
+                from gimtext import render_curve_letters
+                render_curve_letters(im, [tuple(c) for c in it['centers']], it['fr'], src=orig,
+                                     cap=it.get('cap', 11), radius=it.get('radius', 8))
+                continue
             if it.get('draw') == 'ring':
                 _ring(im, tuple(it['box']))
                 continue
@@ -130,7 +139,7 @@ def build(preview_dir=None):
             opts = {k: v for k, v in it.items() if k not in ('box', 'fr', 'outline')}
             if 'outline' in it:
                 opts['outline_px'] = it['outline']
-            render_word(im, tuple(it['box']), it['fr'], **opts)
+            render_word(im, tuple(it['box']), it['fr'], src=orig, **opts)
         out[rel] = g.from_image(im)
         _preview(im, rel, preview_dir, 3)
     for rel, data in patch_archives(out, archives).items():
