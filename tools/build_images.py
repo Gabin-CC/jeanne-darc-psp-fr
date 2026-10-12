@@ -104,6 +104,13 @@ def build(preview_dir=None):
         assert len(new) == b - a
         data[a:b] = new
         _preview(im, rel + idx, preview_dir, 2)
+    import helppage
+    for rel, ops in spec.pop('_help', {}).items():
+        g = Gim(open(os.path.join(DATA, rel), 'rb').read())
+        im = g.to_image()
+        helppage.render_page(im, ops)
+        out[rel] = g.from_image(im)
+        _preview(im, rel, preview_dir, 2)
     for rel, it in spec.pop('_banners', {}).items():
         g = Gim(open(os.path.join(DATA, rel), 'rb').read())
         im = g.to_image()

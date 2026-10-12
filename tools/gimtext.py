@@ -14,6 +14,7 @@ FONTS = {
     'helv': ('/System/Library/Fonts/Helvetica.ttc', 1),  # Helvetica Bold
     'optima': ('/System/Library/Fonts/Optima.ttc', 0),  # Optima Regular
     'sans_it': ('/System/Library/Fonts/Optima.ttc', 3),  # Optima Bold Italic
+    'black': ('/System/Library/Fonts/Optima.ttc', 4),  # Optima ExtraBlack
 }
 
 

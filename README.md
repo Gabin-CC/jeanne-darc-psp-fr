@@ -16,7 +16,7 @@ version américaine. Le jeu n'est jamais sorti officiellement en français (la r
 | Menus, sauvegarde, options, aide textuelle | ✅ |
 | Titres de chapitres, objectifs, noms de lieux, carte du monde | ✅ |
 | Textures : écran titre, interface de combat, menus, carte du monde, bandeaux de lieux, cartons de chapitre | ✅ |
-| Pages d'aide illustrées (`HELP/*.GIM`) | ❌ en anglais pour l'instant |
+| Pages d'aide illustrées (`HELP/*.GIM`) | ⚠️ page « Combat » traduite, les autres en anglais |
 | Vidéos | (pas de texte à traduire) |
 
 Partis pris de traduction :
@@ -35,7 +35,7 @@ Le glossaire complet est dans [`trad/glossaire.md`](trad/glossaire.md).
    - en ligne, sans installation : [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) ;
    - Windows : *xdelta UI* ou *Delta Patcher* ;
    - ligne de commande : `xdelta3 -d -s "Jeanne d'Arc (USA).iso" Jeanne_dArc_FR.xdelta "Jeanne d'Arc (FR).iso"`
-4. Vérifiez le résultat — MD5 de l'ISO français : `876af93c1e40df01a4bcad9fb238d24a` (version actuelle).
+4. Vérifiez le résultat — MD5 de l'ISO français : `28938f6b1a9e99818225ed75c2f7eef9` (v1.0).
 
 Compatible **PPSSPP** et **PSP avec custom firmware** (l'exécutable est fourni déchiffré).
 
@@ -50,7 +50,7 @@ Compatible **PPSSPP** et **PSP avec custom firmware** (l'exécutable est fourni 
   ne correspond au même motif de lettres. « GAME OVER » est conservé (usage courant en français).
 - La police système de la PSP n'a pas de tiret court : les traits d'union utilisent le caractère
   U+2012, le plus fin disponible.
-- Les pages d'aide illustrées ne sont pas encore traduites.
+- Seule la première page d'aide illustrée (« Combat ») est traduite ; les 34 autres restent en anglais.
 
 ## Reconstruire le patch depuis les sources
 
@@ -91,7 +91,7 @@ tools/
   jda_fixed.py         chaînes en champs de taille fixe
   iso_patch.py         réécriture de l'ISO + table FILEINFO.DAT du jeu
   gim.py               lecture/écriture des textures GIM de la PSP
-  gimtext.py, gimbanner.py, gimwm.py, build_images.py   rendu du texte français dans les textures
+  gimtext.py, gimbanner.py, gimwm.py, helppage.py, build_images.py   rendu du texte français dans les textures
   speakers.py          attribution des répliques aux personnages (lecture du bytecode)
   extract_*.py         extraction des textes depuis l'ISO
 ```
