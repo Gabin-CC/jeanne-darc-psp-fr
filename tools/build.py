@@ -77,7 +77,7 @@ def load_fixed(name):
     p = os.path.join(ROOT, 'trad', name)
     if not os.path.exists(p):
         return {}
-    return {e['en']: e['fr'] for e in json.load(open(p, encoding='utf-8')) if e['fr'].strip()}
+    return {e['en']: e['fr'] for e in json.load(open(p, encoding='utf-8')) if e['fr'] != ''}
 
 
 def build_fixed(path, fields, mem, by_name, repl, targets=None):

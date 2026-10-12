@@ -18,7 +18,7 @@ CODES = re.compile(r'%[0-9.]*[dsxf]|\\u[0-9a-fA-F]{4}')
 def check_entry(e, fixed):
     err = []
     en, fr = e['en'], e['fr']
-    if not fr.strip():
+    if fr == '':
         return err
     if en.startswith('&') != fr.startswith('&'):
         err.append('préfixe & incohérent')
@@ -62,7 +62,7 @@ def check_file(path):
             print(f'{path}: entrée mal formée {e}')
             n_err += 1
             continue
-        done += bool(e['fr'].strip())
+        done += e['fr'] != ''
         for msg in check_entry(e, fixed):
             print(f'{path}: [{e["en"][:40]!r}] {msg}')
             n_err += 1
