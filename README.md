@@ -35,7 +35,7 @@ Le glossaire complet est dans [`trad/glossaire.md`](trad/glossaire.md).
    - en ligne, sans installation : [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) ;
    - Windows : *xdelta UI* ou *Delta Patcher* ;
    - ligne de commande : `xdelta3 -d -s "Jeanne d'Arc (USA).iso" Jeanne_dArc_FR.xdelta "Jeanne d'Arc (FR).iso"`
-4. Vérifiez le résultat — MD5 de l'ISO français : `de5ce49bb33b21ab222294f089c12aa9` (version actuelle).
+4. Vérifiez le résultat — MD5 de l'ISO français : `b6b102af77820282ad7402da6a433d77` (version actuelle).
 
 Compatible **PPSSPP** et **PSP avec custom firmware** (l'exécutable est fourni déchiffré).
 
@@ -45,7 +45,7 @@ Compatible **PPSSPP** et **PSP avec custom firmware** (l'exécutable est fourni 
 
 ## Limites connues
 
-- « LEVEL UP! », « Miss », « STAGE CLEARED » et les bannières de compétences « Burning Aura » /
+- « LEVEL UP! », « STAGE CLEARED » et les bannières de compétences « Burning Aura » /
   « Unified Guard » restent en anglais : le jeu les compose lettre par lettre et aucun mot français
   ne correspond au même motif de lettres. « GAME OVER » est conservé (usage courant en français).
 - La police système de la PSP n'a pas de tiret court : les traits d'union utilisent le caractère

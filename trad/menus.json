@@ -988,5 +988,11 @@
   "max": 31,
   "en": "\nMale\nFemale\nUnknown\nN/A\nMale?\n",
   "fr": "\nHomme\nFemme\nInconnu\n-\nHomme?\n"
+ },
+ {
+  "ctx": "BOOT",
+  "max": 19,
+  "en": "%s has become LV%d!",
+  "fr": "%s passe au Nv %d !"
  }
 ]

@@ -662,6 +662,45 @@
    "ext_down": 3,
    "shadow": false,
    "min_condense": 0.3
+  },
+  {
+   "box": [
+    197,
+    134,
+    215,
+    151
+   ],
+   "fr": "Rat",
+   "cap": 16,
+   "base": 150,
+   "ext_up": 0,
+   "ext_down": 0,
+   "shadow": false,
+   "min_condense": 0.4
+  },
+  {
+   "box": [
+    223,
+    134,
+    229,
+    151
+   ],
+   "fr": "é",
+   "cap": 16,
+   "base": 150,
+   "ext_up": 0,
+   "ext_down": 0,
+   "shadow": false,
+   "min_condense": 0.3
+  },
+  {
+   "draw": "clear",
+   "box": [
+    240,
+    136,
+    253,
+    152
+   ]
   }
  ],
  "GUI/LOADING.GIM": [

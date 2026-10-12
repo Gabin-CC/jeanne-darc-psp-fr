@@ -47,7 +47,7 @@ TECH = re.compile(r'(rror|0x%|%s|%f|%\.\d|::|\.(c|h|cpp|BIN|SPF|GIM|gim|DAT|PMF|
 
 
 # Chaînes affichées au joueur malgré un %s (exclues à tort par TECH)
-BOOT_ALLOW = {'Stage %d  %s ', 'Stage  %s ', '%s, \na free stage, appeared!', '\nMale\nFemale\nUnknown\nN/A\nMale?\n'}
+BOOT_ALLOW = {'Stage %d  %s ', 'Stage  %s ', '%s, \na free stage, appeared!', '\nMale\nFemale\nUnknown\nN/A\nMale?\n', '%s has become LV%d!'}
 
 
 def boot_fields():
