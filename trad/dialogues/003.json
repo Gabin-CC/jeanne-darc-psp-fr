@@ -1,0 +1,1752 @@
+[
+ {
+  "ctx": "ST1040AB",
+  "max": 34,
+  "who": "French Soldier",
+  "en": "Now then, we'd best be off to \nthe castle in Nancy.",
+  "fr": "Bien, nous ferions mieux de partir\npour le château de Nancy."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "",
+  "en": "First, we must cross Soir Valley to get to Chinon.",
+  "fr": "Traversez la vallée de Soir\njusqu'à Chinon."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "French Soldier",
+  "en": "The duke is ill.",
+  "fr": "Le duc est souffrant."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "French Soldier",
+  "en": "Please take care while you and \nhe have your talk.",
+  "fr": "Je vous prie de le ménager\npendant votre entretien."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "You?!",
+  "fr": "Vous ?!"
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Nobleman",
+  "en": "Duke, I must be on my way.",
+  "fr": "Monseigneur, je dois prendre congé."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Wait!",
+  "fr": "Attendez !"
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Why are you here?",
+  "fr": "Que faites-vous ici ?"
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "",
+  "en": "&Gilles",
+  "fr": "&Gilles"
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Gilles",
+  "en": "...My name is Gilles de Rais.",
+  "fr": "...Je me nomme Gilles de Rais."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Gilles",
+  "en": "Might I ask yours?",
+  "fr": "Puis-je connaître votre nom ?"
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "...It's Jeanne.",
+  "fr": "...Jeanne."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Gilles",
+  "en": "Well, Jeanne...don't worry.\nI know how to find you.",
+  "fr": "Eh bien, Jeanne... rassurez-vous.\nJe saurai vous retrouver."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Jeanne, Liane",
+  "en": "Huh?",
+  "fr": "Hein ?"
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "French Soldier",
+  "en": "Pucelle, step forward.",
+  "fr": "Pucelle, approchez."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "",
+  "en": "&Duke of Lorraine",
+  "fr": "&Duc de Lorraine"
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Lorraine",
+  "en": "Our savior...",
+  "fr": "Notre salvatrice..."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Lorraine",
+  "en": "Here she is, come clad in a \nholy armlet.",
+  "fr": "La voici, parée d'un\nBracelet sacré."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Lorraine",
+  "en": "Let me see it.",
+  "fr": "Montrez-le-moi."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "...Your Grace.",
+  "fr": "...Votre Grâce."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Lorraine",
+  "en": "...It's real.",
+  "fr": "...Il est authentique."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Lorraine",
+  "en": "Yours is a legendary armlet \nreputed to have saved the world.",
+  "fr": "C'est un Bracelet légendaire qui,\ndit-on, a sauvé le monde."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Lorraine",
+  "en": "It represents an oath,\fthat France's future never go \nundefended.",
+  "fr": "Il incarne un serment :\fque l'avenir de la France ne soit\njamais sans défenseur."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Lorraine",
+  "en": "This armlet chose you, Jeanne.",
+  "fr": "Ce Bracelet vous a choisie, Jeanne."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Then I am to save France?",
+  "fr": "Je dois donc sauver la France ?"
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Lorraine",
+  "en": "To be frank, I called you here \nout of hope...",
+  "fr": "À vrai dire, je vous ai fait venir\ndans l'espoir..."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Lorraine",
+  "en": "that you might use the armlet's \npower to chase the sickness \nfrom my body.",
+  "fr": "que le pouvoir du Bracelet chasse\nla maladie de mon corps."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Your Grace, that's\\u2014",
+  "fr": "Votre Grâce, c'est\\u2014"
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Lorraine",
+  "en": "Impossible. I know.",
+  "fr": "Impossible. Je sais."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Lorraine",
+  "en": "A few extra years tacked on to \none decrepit old man's life...",
+  "fr": "Quelques années de plus pour\nun vieillard décrépit..."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Lorraine",
+  "en": "would hardly change the course \nof French history.",
+  "fr": "ne changeraient guère le cours\nde l'histoire de France."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Lorraine",
+  "en": "Gilles, that man who was here \nbefore, told me as much.",
+  "fr": "Gilles, l'homme qui était ici,\nme l'a dit lui-même."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "He said that?",
+  "fr": "Il a dit ça ?"
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Lorraine",
+  "en": "My time is passed;\fnow that I've looked upon you, \nI find I can accept that.",
+  "fr": "Mon temps est passé ;\fmaintenant que je vous ai vue,\nje peux l'accepter."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Lorraine",
+  "en": "But just once before I die, \nI want to see France at peace.",
+  "fr": "Mais avant de mourir, je voudrais\nvoir la France en paix, une fois."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Lorraine",
+  "en": "I want to drift off, \nconscience clear, \nto the sound of birds...",
+  "fr": "Je voudrais m'endormir,\nla conscience tranquille,\nau chant des oiseaux..."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Bedford, Jeanne",
+  "en": "Your Grace...",
+  "fr": "Votre Grâce..."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Cuisses, Duke of Lorraine, Roger",
+  "en": "Jeanne.",
+  "fr": "Jeanne."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Lorraine",
+  "en": "Save France. Do it for me.",
+  "fr": "Sauvez la France. Pour moi."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Lorraine",
+  "en": "And do it for all the people \nof France.",
+  "fr": "Et pour tout le peuple de France."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Lorraine",
+  "en": "Goad the dauphin out of that \ncastle cocoon of his in Chinon,",
+  "fr": "Tirez le Dauphin de ce cocon\nqu'est son château de Chinon,"
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Lorraine",
+  "en": "and reclaim the lands of France \nfrom the clutches of the English.",
+  "fr": "et arrachez les terres de France\naux griffes des Anglais."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "...You needn't even ask.",
+  "fr": "...Vous n'avez même pas à le\ndemander."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "",
+  "en": "...SAVE FRANCE...",
+  "fr": "...SAUVE LA FRANCE..."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Lorraine",
+  "en": "...Is something the matter?",
+  "fr": "...Quelque chose ne va pas ?"
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "No...nothing.",
+  "fr": "Non... rien."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Lorraine",
+  "en": "You'll do as I ask, won't you, \nJeanne?",
+  "fr": "Vous ferez ce que je vous demande,\nn'est-ce pas, Jeanne ?"
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "Ahh...!",
+  "fr": "Ah... !"
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "Just a dream...",
+  "fr": "Ce n'était qu'un rêve..."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Cuisses",
+  "en": "Zzzzzz...\nCoa-wa-wa-wa-wah...",
+  "fr": "Zzzzzz... Croa-oua-oua-oua-ouah..."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "...What are you doing up, Roger?",
+  "fr": "...Qu'est-ce que tu fais debout,\nRoger ?"
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Are you all right? I heard you \ncry out.",
+  "fr": "Ça va ? Je t'ai entendue crier."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "I had a dream. An awful one...",
+  "fr": "J'ai fait un rêve. Un rêve affreux."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "Jeanne...what about you?\nAre you all right?",
+  "fr": "Jeanne... et toi, alors ?\nTu tiens le coup ?"
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "You look terrible. Like you \nhaven't slept for days.",
+  "fr": "Tu as une mine affreuse. On dirait\nque tu n'as pas dormi de la semaine."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "...I haven't. How could I sleep? \nThere's so much on my mind.",
+  "fr": "...C'est le cas. Comment dormir ?\nJ'ai tant de choses en tête."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "Listen, Jeanne...",
+  "fr": "Écoute, Jeanne..."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "Why don't we go home?\nI know even Liane\\u2014",
+  "fr": "Et si on rentrait à la maison ?\nMême Liane, je sais\\u2014"
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Gilles",
+  "en": "It's Gilles. Sorry to disturb \nyou at this ungodly hour.",
+  "fr": "C'est Gilles. Pardonnez-moi de vous\ndéranger à une heure si indue."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Gilles",
+  "en": "I'll be departing soon for Chinon.",
+  "fr": "Je pars bientôt pour Chinon."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Gilles",
+  "en": "Are you coming, Jeanne?",
+  "fr": "Venez-vous, Jeanne ?"
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Jeanne, Roger, Gilles",
+  "en": "...What?",
+  "fr": "...Quoi ?"
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Gilles",
+  "en": "Surely the duke told you?",
+  "fr": "Le duc vous l'a sûrement dit ?"
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Gilles",
+  "en": "...Don't you plan to meet with \nthe dauphin?",
+  "fr": "...Ne comptez-vous pas rencontrer\nle Dauphin ?"
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "I... I just...",
+  "fr": "Je... C'est que..."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "I'm so angry at the English.",
+  "fr": "J'en veux tellement aux Anglais."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "All I want is to protect everyone.",
+  "fr": "Tout ce que je veux, c'est protéger\ntout le monde."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "I can't think of anything else...",
+  "fr": "Je ne pense à rien d'autre..."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "let alone dream of saving France.",
+  "fr": "alors rêver de sauver la France..."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Gilles",
+  "en": "So long as you wear that armlet, \nyou have a duty\\u2014",
+  "fr": "Tant que vous portez ce Bracelet,\nvous avez un devoir\\u2014"
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Gilles",
+  "en": "the same duty as the heroes of \nold.",
+  "fr": "le même devoir que les héros\nd'antan."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Gilles",
+  "en": "France is counting on you.",
+  "fr": "La France compte sur vous."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Gilles",
+  "en": "Besides, saving France MEANS \nprotecting everyone.",
+  "fr": "D'ailleurs, sauver la France, c'EST\nprotéger tout le monde."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "I can't do it... Not me.",
+  "fr": "Je ne peux pas... Pas moi."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "I don't even know how to use \nthe armlet right.",
+  "fr": "Je ne sais même pas bien me servir\ndu Bracelet."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "I couldn't protect my village \nor the townsmen or anything!",
+  "fr": "Je n'ai pu protéger ni mon village,\nni les habitants, ni rien !"
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Gilles",
+  "en": "...But you can save France.",
+  "fr": "...Mais vous, vous le pouvez."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Gilles",
+  "en": "Somehow I just know it.",
+  "fr": "Je le sais, sans savoir comment."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Gilles",
+  "en": "And you did protect something.\nYou saved my life.",
+  "fr": "Et vous avez protégé quelque chose.\nVous m'avez sauvé la vie."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Gilles",
+  "en": "I'll be waiting in Chinon.",
+  "fr": "Je vous attendrai à Chinon."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Gilles",
+  "en": "I, at least, am ready to lay \ndown my life for Mother France.",
+  "fr": "Pour ma part, je suis prêt à donner\nma vie pour notre mère la France."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "I'll go wherever you go.\nNo matter what you decide...",
+  "fr": "J'irai où tu iras.\nQuoi que tu décides..."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "I'll protect you, I swear it.",
+  "fr": "Je te protégerai, je le jure."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Jeanne, Liane, unité#31",
+  "en": "Roger...",
+  "fr": "Roger..."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Liane",
+  "en": "Jeanne! I'm sorry...",
+  "fr": "Jeanne ! Pardon..."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Jeanne, Roger",
+  "en": "Liane?",
+  "fr": "Liane ?"
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Liane",
+  "en": "I won't cry or complain anymore.\fI'll stick with the two of you as \nlong as it takes!",
+  "fr": "Je ne pleurerai plus, je ne me\nplaindrai plus.\fJe resterai avec vous deux aussi\nlongtemps qu'il le faudra !"
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Liane... I-I'm sorry.",
+  "fr": "Liane... P-pardon."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Lorraine",
+  "en": "The road to Chinon is long \nand severe.",
+  "fr": "La route de Chinon est longue\net rude."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Lorraine",
+  "en": "In time of danger, I trust these \ntwo will serve you well.",
+  "fr": "En cas de danger, ces deux-là vous\nserviront bien, j'en suis sûr."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Lorraine",
+  "en": "Go on, introduce yourselves.",
+  "fr": "Allez, présentez-vous."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Colet",
+  "en": "Salut.",
+  "fr": "Salut."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Marcel",
+  "en": "Nice to meetcha!",
+  "fr": "Ravi de te connaître !"
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Lorraine",
+  "en": "You've made a difficult choice,\nJeanne...",
+  "fr": "Vous avez fait un choix difficile,\nJeanne..."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "Duke of Lorraine",
+  "en": "and the right one. \nGod be with you.",
+  "fr": "et le bon. Que Dieu vous garde."
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "",
+  "en": "Colet joins your ranks!",
+  "fr": "Colet rejoint vos rangs !"
+ },
+ {
+  "ctx": "ST1041BM",
+  "max": 34,
+  "who": "",
+  "en": "Marcel joins your ranks!",
+  "fr": "Marcel rejoint vos rangs !"
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Colet",
+  "en": "I swear, ze old duke must have\nfinally gone gaga.",
+  "fr": "Ma parole, le vieux duc est\nenfin devenu gaga, sacrebleu."
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Colet",
+  "en": "Such a woman haz no business\nmeeting weez ze dauphin.",
+  "fr": "Une femme pareille n'a rien à\nfaire chez le Dauphin. Scandaleux !"
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Colet",
+  "en": "Et mon dieu! He sent a leetle\nboy to be her bodyguard.",
+  "fr": "Et mon Dieu ! Il lui a donné un\npetit garçon comme garde du corps."
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Marcel",
+  "en": "Ooh, look, Colette! The flowers\nhere are so peculiar.",
+  "fr": "Oh, regarde, Colette ! Les fleurs\nsont si bizarres, ici."
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Colet",
+  "en": "Zat's \"Co-lay,\" not \"Co-lette\"!\fDo I look like a woman? Do I\nhave ze pigtails? Non!",
+  "fr": "C'est « Colet », pas « Colette » !\fJ'ai l'air d'une femme ? J'ai des\ncouettes, peut-être ? Non !"
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Colet",
+  "en": "And leave ze peculiar objects\nalone before you catch somezing!",
+  "fr": "Et ne touche pas aux trucs bizarres\navant d'attraper une saleté !"
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Colet",
+  "en": "Heh! Talk about ze wilderness.\nZere eez nary a soul een sight!",
+  "fr": "Heh ! Quel trou perdu, mon ami.\nPas une âme en vue !"
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Colet",
+  "en": "No wonder zey call zees place ze\n\"land of ze lost.\"",
+  "fr": "Pas étonnant qu'on appelle ce\nlieu le « pays des égarés »."
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Colet",
+  "en": "Perfect for a fwightened\npwinceling to hide out, non?",
+  "fr": "Parfait pour qu'un petit prince\npeureux s'y cache, non ?"
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Colet",
+  "en": "I hear you are quite ze lucky\nlady, \"Pucelle\"...",
+  "fr": "Il paraît que vous êtes une dame\nbien chanceuse, « Pucelle »..."
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Colet",
+  "en": "but just take care your luck\ndoes not run out here.",
+  "fr": "mais prenez garde que votre\nchance ne tourne pas ici."
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Colet",
+  "en": "Otherwize you weel end up like\nzees country:",
+  "fr": "Sinon, vous finirez comme\nce pays :"
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Colet",
+  "en": "An appalling fart zat eez falling\napart, ho-hoh!",
+  "fr": "Une farce lamentable qui tombe\nen ruine, ho-hoh !"
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "...Don't you have any love for\nFrance?",
+  "fr": "...Vous n'avez donc aucun amour\npour la France ?"
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Colet",
+  "en": "Quoi? \"Love\"?",
+  "fr": "Quoi ? « L'amour » ?"
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Colet",
+  "en": "\"Love,\" she sez. Ho-hoh, do not\nmake me laugh!\f\"Love\"! Har, har!",
+  "fr": "« L'amour », dit-elle. Ho-hoh, ne\nme faites pas rire !\f« L'amour » ! Har, har !"
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Marcel",
+  "en": "Ooh, Colette! Look! I found this\ninsect in my field guide.",
+  "fr": "Oh, Colette ! Regarde ! J'ai trouvé\ncet insecte dans mon herbier."
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Marcel",
+  "en": "I bet the dauphin would be\nthrilled if he could see it!",
+  "fr": "Je parie que le Dauphin serait\nravi de le voir !"
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Colet",
+  "en": "What een God's name would he\ndo weez a bug, beetle bwain?",
+  "fr": "Que diable ferait-il d'un\ninsecte, cervelle de hanneton ?"
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Colet",
+  "en": "Stop with ze foolishness and go\npolish your bow. Go on!",
+  "fr": "Arrête tes bêtises et va\nastiquer ton arc. Allez, file !"
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Marcel",
+  "en": "Meh...",
+  "fr": "Pfff..."
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "If those two are soldiers, then\nit's no wonder France is losing.",
+  "fr": "Si ces deux-là sont des soldats, pas\nétonnant que la France perde."
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Colet",
+  "en": "Exqueez? What was zat you said?\nSay zat to my face!",
+  "fr": "Pardon ? Qu'avez-vous dit ?\nRépétez-le-moi en face !"
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "...Forget it.\nJust be quiet. Please.",
+  "fr": "...Laissez tomber.\nTaisez-vous, je vous en prie."
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Colet",
+  "en": "Hawumph! I cannot work under\nzeese conditions!",
+  "fr": "Hmpf ! Impossible de travailler\ndans ces conditions !"
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Marcel",
+  "en": "Oh! Hey, wait. Colette!",
+  "fr": "Oh ! Hé, attends. Colette !"
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "What an awful thing to say...",
+  "fr": "Quelle horreur de dire ça..."
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "How could anyone have knighted\na man like him?",
+  "fr": "Comment a-t-on pu adouber\nun homme pareil ?"
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Marcel",
+  "en": "Aieeeeee!",
+  "fr": "Kyaaaaah !"
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "What was that?!",
+  "fr": "Qu'est-ce que c'était ?!"
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Colet",
+  "en": "Zut alors!\nWhere deed you come fwom?",
+  "fr": "Zut alors ! D'où sortez-vous ?"
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Marcel",
+  "en": "Waaaaaah! Save me, Colette!",
+  "fr": "Ouiiiin ! Sauve-moi, Colette !"
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "",
+  "en": "&Talbot",
+  "fr": "&Talbot"
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Talbot",
+  "en": "...Stand down.",
+  "fr": "...Halte."
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Talbot",
+  "en": "Forgive me. I had no idea a\nwoman was in your company.",
+  "fr": "Pardonnez-moi. J'ignorais qu'oune\nfemme vous accompagnait."
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Talbot",
+  "en": "Let alone a woman of such high\nstation!",
+  "fr": "Et encore moins une femme de\nsi haut rang !"
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Talbot",
+  "en": "The Pucelle...\nFrance's savior, or so I'm told.",
+  "fr": "La Pucelle...\nLa salvatrice de la France, dit-on."
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "You're English!\nWhat do you want?!",
+  "fr": "Vous êtes anglais !\nQue voulez-vous ?!"
+ },
+ {
+  "ctx": "ST1050BM",
+  "max": 34,
+  "who": "Talbot",
+  "en": "What do you think? I want that\narmlet off your wrist.",
+  "fr": "À ton avis ? Je veux ce Bracelet\nque tu portes au poignet, my dear."
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Waaaaaah!",
+  "fr": "Ouiiiin !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel, Beatrix, Jeanne",
+  "en": "Ack!",
+  "fr": "Aïe !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel, Jeanne",
+  "en": "It can't be...",
+  "fr": "Impossible..."
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Waaah! Don't\nleave me here!",
+  "fr": "Ouiiin ! Me\nlaissez pas ici !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "La vache!\nEet cannot be!",
+  "fr": "La vache !\nImpossible !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Ay, must I do\neveryzing?",
+  "fr": "Ay, je dois tout\nfaire, moi ?"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Zut alors!",
+  "fr": "Zut alors !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Grand dieu!\nWhat eez next?",
+  "fr": "Grand Dieu !\nEt quoi encore ?"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Good! Onward!",
+  "fr": "Bien ! En avant !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Liane, unité#31",
+  "en": "I'll do my part!",
+  "fr": "Je ferai ma part !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Yay!",
+  "fr": "Youpi !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Meanie!",
+  "fr": "Méchant !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel, unité#140",
+  "en": "Yahoo!",
+  "fr": "Youhou !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "See that?",
+  "fr": "T'as vu ça ?"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Pfft!\nReediculous.",
+  "fr": "Pfft ! Ridicule."
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Adieu...",
+  "fr": "Adieu..."
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Voilà!",
+  "fr": "Et voilà !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Hawumph!\nToo eezy.",
+  "fr": "Hmpf !\nTrop facile."
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Jeanne, La Hire, Cuisses",
+  "en": "Hurry!",
+  "fr": "Vite !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Cut your way\nthrough!",
+  "fr": "Frayez-vous\nun chemin !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "I...I can do this!",
+  "fr": "Je... je peux\ny arriver !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Don't leave\nme behind!",
+  "fr": "Ne me laissez\npas derrière !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "We mustn't get\nseparated!",
+  "fr": "Il ne faut pas\nse séparer !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Gilles, Roger",
+  "en": "Keep up!",
+  "fr": "Ne traînez pas !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "Will we make it?",
+  "fr": "Ça va aller ?"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "We should avoid\nneedless battle!",
+  "fr": "Évitons les\ncombats inutiles !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "Press onward!",
+  "fr": "Avançons !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "Now, how ought\nwe proceed...",
+  "fr": "Voyons, comment\nprocéder..."
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Bertrand",
+  "en": "Clear the road!",
+  "fr": "Dégagez la\nroute !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Bertrand",
+  "en": "You's about to\nget stomped!",
+  "fr": "Tu vas t'faire\npiétiner !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Bertrand",
+  "en": "Get the @#%$\noutta my way!",
+  "fr": "Dégage de mon\n@#%$ de chemin !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "You'll never\nstop me!",
+  "fr": "Tu ne m'arrêteras\njamais !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "We have to\nhurry!",
+  "fr": "On doit se\ndépêcher !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Hey!\nWait for meee!",
+  "fr": "Hé !\nAttendez-moiii !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Which way\ndo we go?",
+  "fr": "C'est par où ?"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Run...eef you\nwant to leeve!",
+  "fr": "Fuyez... si vous\ntenez à la vie !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Move ze\nderrieres!",
+  "fr": "Bougez vos\nderrières !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Why don't you\njust geeve up?",
+  "fr": "Pourquoi ne pas\nabandonner ?"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Out of ze way!",
+  "fr": "Poussez-vous !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Liane, Jeanne",
+  "en": "We're winning!",
+  "fr": "On gagne !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Am I...dying?",
+  "fr": "Est-ce que...\nje meurs ?"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel, Rose",
+  "en": "Unnnh...",
+  "fr": "Unnnh..."
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Owww...",
+  "fr": "Ouïïïe..."
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Colette,\nsave meeeee!",
+  "fr": "Colette,\nsauve-moiiii !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Let's pick this\none off!",
+  "fr": "Éliminons\ncelui-là !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "End of the\nroad, meanie!",
+  "fr": "Fin du voyage,\nle méchant !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Neener, neener!",
+  "fr": "Nananère !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Gotcha now.",
+  "fr": "Je te tiens."
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Wuh-oh!",
+  "fr": "Oh oh !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Rats...",
+  "fr": "Zut..."
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Uh...heh heh...",
+  "fr": "Euh... hé hé..."
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Somebody!",
+  "fr": "Au secours !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "What do we\nDOOOOOOOO?",
+  "fr": "On fait\nquoiiiiii ?"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "We're in hot\nwater now...",
+  "fr": "On est dans\nde beaux draps..."
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Um, anybody\nhave a plan?",
+  "fr": "Euh, quelqu'un\na un plan ?"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel, Liane",
+  "en": "Hurray!",
+  "fr": "Hourra !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel, Claire, Jeanne",
+  "en": "Alright!",
+  "fr": "Super !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "It's almost over!",
+  "fr": "C'est presque\nfini !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Nothing can\nstop us now!",
+  "fr": "Rien ne peut plus\nnous arrêter !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Ack! Get help!",
+  "fr": "Aïe ! À l'aide !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Hurry! Heal!",
+  "fr": "Vite ! Des soins !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "...Doesn't\nthat hurt?",
+  "fr": "...Ça ne fait\npas mal ?"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Run for it!",
+  "fr": "Sauve qui peut !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Get the\nweak one!",
+  "fr": "Vise le\nplus faible !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Just one\nmore shot!",
+  "fr": "Encore un tir !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Let me do it!",
+  "fr": "Laissez-moi\nfaire !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Whew, saved!",
+  "fr": "Ouf, sauvé !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Cuisses, Marcel",
+  "en": "I needed that!",
+  "fr": "Il était temps !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Now you're\nasking for it!",
+  "fr": "Là, tu l'as\ncherché !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Ahh!\nHow MEAN!",
+  "fr": "Ah !\nT'es MÉCHANT !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "...Stop that!",
+  "fr": "...Arrête ça !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Watch me go!",
+  "fr": "Regardez-moi !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Zing!",
+  "fr": "Zing !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "See if you\nlike this!",
+  "fr": "Voyons si ça\nte plaît !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Ready to get\nfeathered?",
+  "fr": "Prêt à finir\nen pelote ?"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Eez zees ze\nend of Colet?",
+  "fr": "Est-ce la fin\nde Colet ?"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Foiled again?",
+  "fr": "Encore raté ?"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Merde.",
+  "fr": "Merde."
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "You weel pay...",
+  "fr": "Vous allez\npayer..."
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Hawumph!",
+  "fr": "Hmpf !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "You are een\ntwouble, fwend!",
+  "fr": "Tu es dans le\npétrin, mon ami !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Better watch\nyour back.",
+  "fr": "Surveille\ntes arrières."
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Sacré bleu...",
+  "fr": "Sacrebleu..."
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "...L'oops.",
+  "fr": "...Oups, pardon."
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Pweeze!\nOne at a time!",
+  "fr": "Pitié !\nUn à la fois !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Colet eez not\na sandweech!",
+  "fr": "Colet n'est pas\nun sandwich !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "What a\ndeesaster...",
+  "fr": "Quel désastre..."
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Good gweef...",
+  "fr": "Bonté divine..."
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Fight back,\nyou babies!",
+  "fr": "Ripostez, bande\nde bébés !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Finish ze job!",
+  "fr": "Finissez le\ntravail !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Ho-hoh!",
+  "fr": "Ho-hoh !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Clear ze way!",
+  "fr": "Dégagez le\npassage !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "What are we\nwaiting for?",
+  "fr": "Qu'est-ce qu'on\nattend ?"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Fight back,\nyou beeg baby!",
+  "fr": "Riposte, gros\nbébé !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Stop twying\nto be a hero!",
+  "fr": "Arrête de jouer\nles héros !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Geet down!",
+  "fr": "À terre !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "You are ze\nhopeless!",
+  "fr": "Vous êtes\nirrécupérables !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Do eet!",
+  "fr": "Allez, vas-y !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Now, ze\ncoup de grace!",
+  "fr": "Et maintenant,\nle coup de grâce !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Keel! Keel!",
+  "fr": "À mort ! À mort !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Merci!",
+  "fr": "Merci !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Many zanks!",
+  "fr": "Mille mercis !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Oui oui!",
+  "fr": "Oui, oui !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Apologies!",
+  "fr": "Pardon !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Bwargh!",
+  "fr": "Bwargh !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Yarrrf?!",
+  "fr": "Yarrrf ?!"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Au revoir!",
+  "fr": "Au revoir !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Hold steel!",
+  "fr": "Pas un geste !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Ho-hoh, regard!",
+  "fr": "Ho-hoh, regardez !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "unité#175, unité#174, unité#77",
+  "en": "You're good...",
+  "fr": "Pas mal..."
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "unité#171",
+  "en": "Weaker than I\nheard...",
+  "fr": "Plus faible que\nprévu..."
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "unité#172, unité#171",
+  "en": "You aren't\ngetting away!",
+  "fr": "Tu n'iras\nnulle part !"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "unité#171",
+  "en": "Hmph...That it?",
+  "fr": "Hmph... C'est\ntout ?"
+ },
+ {
+  "ctx": "ST1050BT",
+  "max": 16,
+  "who": "unité#171",
+  "en": "Shall we fight,\nPucelle?",
+  "fr": "Croisons le fer,\nPucelle ?"
+ }
+]

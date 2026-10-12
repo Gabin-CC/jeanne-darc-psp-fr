@@ -1,0 +1,1752 @@
+[
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Claire",
+  "en": "Blarf!",
+  "fr": "Blarf !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Claire",
+  "en": "That HURTS!",
+  "fr": "Ça fait MAL !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Claire",
+  "en": "Here it comes!",
+  "fr": "Ça vient !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Claire",
+  "en": "Take...THIS!",
+  "fr": "Prends... ÇA !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Claire",
+  "en": "Feast your eyes\non THIS!",
+  "fr": "Régale-toi\nde ÇA !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Claire",
+  "en": "I am not to be\ntoyed with!",
+  "fr": "On ne joue pas\navec moi !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Don't count me\nout...yet...",
+  "fr": "Ne m'enterrez pas\ntrop vite..."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "So careless...",
+  "fr": "Quelle\nimprudence..."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "The smallfolk...\nneed their Rose!",
+  "fr": "Le petit peuple...\na besoin de Rose !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "No escape, love!",
+  "fr": "Pas d'issue,\nmon chéri !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "You're all mine.",
+  "fr": "Tu es à moi."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Now what do\nwe have here?",
+  "fr": "Tiens, tiens,\nqu'avons-nous là ?"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Oops.",
+  "fr": "Oups."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Bugger...",
+  "fr": "Flûte..."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Ah, rats.",
+  "fr": "Ah, zut."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Now this is\na pickle...",
+  "fr": "Nous voilà dans\nde beaux draps..."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Are we in\ntrouble, loves?",
+  "fr": "On a des ennuis,\nmes chéris ?"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "I don't like\nthe look of this.",
+  "fr": "Ça ne me dit\nrien qui vaille."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Got any\nbright ideas?",
+  "fr": "Une idée de\ngénie ?"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Whattaya say we\nflee this scene?",
+  "fr": "Si on filait\nen douce ?"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Everything's\ncoming up Rose!",
+  "fr": "Tout sourit\nà Rose !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Let's finish\nthis job!",
+  "fr": "Finissons\nle travail !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "So can we count\nour chickens?",
+  "fr": "On peut vendre la\npeau de l'ours ?"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Nice fightin',\nloves!",
+  "fr": "Joli combat,\nmes chéris !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Trouble!",
+  "fr": "Des ennuis !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Leave the rest\nto Rose, love!",
+  "fr": "Laissez le reste\nà Rose, chéri !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Spare the rod,\nspoil the foe!",
+  "fr": "Qui aime bien\nchâtie bien !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Ready or not!",
+  "fr": "Prêt ou pas,\nj'arrive !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Sorry, but could\nyou die now?",
+  "fr": "Désolée, mais tu\npourrais mourir ?"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Let's finish\nwhat we started.",
+  "fr": "Finissons ce\nqu'on a commencé."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Why, thank you!",
+  "fr": "Oh, merci !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Muah!",
+  "fr": "Mouah !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "I'll make it up\nto you later!",
+  "fr": "Je te revaudrai\nça !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Yeowch!",
+  "fr": "Aïe !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Hey!",
+  "fr": "Hé !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "How dare you!",
+  "fr": "Comment oses-tu !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "My complexion!",
+  "fr": "Mon teint !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose, Liane",
+  "en": "Here goes!",
+  "fr": "C'est parti !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Beware the\nRose!",
+  "fr": "Gare à la Rose !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "I'm gonna clean\nyour clock!",
+  "fr": "Je vais te\nfaire ta fête !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Go on...take\na good look!",
+  "fr": "Vas-y... regarde\nbien !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "unité#122, unité#80, unité#81",
+  "en": "You put up quite\na resistance...",
+  "fr": "Tu résistes\nplutôt bien..."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "unité#80, unité#81",
+  "en": "What's wrong,\nPucelle?",
+  "fr": "Qu'y a-t-il,\nPucelle ?"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "unité#80, unité#81",
+  "en": "I won't let any\nof you live!",
+  "fr": "Aucun de vous\nne survivra !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "unité#80, unité#81",
+  "en": "Keep it up! No\nmercy!",
+  "fr": "Continuez !\nPas de pitié !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "unité#80, unité#81",
+  "en": "Is that all\nyou got?",
+  "fr": "C'est tout ce\nque tu as ?"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "unité#122, unité#80, unité#81",
+  "en": "Get them, you!",
+  "fr": "Attaque-les,\ntoi !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "unité#80",
+  "en": "Pucelle? Don't\nmake me laugh.",
+  "fr": "La Pucelle ? Ne me\nfais pas rire."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "You won't\nget away!",
+  "fr": "Tu ne\nt'enfuiras pas !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Dropped your\nguard, did you?",
+  "fr": "On baisse sa\ngarde, hein ?"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Too late now!",
+  "fr": "Trop tard !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Impossible...!\nThat girl...!",
+  "fr": "Impossible... !\nCette fille... !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Am I...fated to\nlose?",
+  "fr": "Suis-je... vouée\nà perdre ?"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Grgh...this\nisn't over yet!",
+  "fr": "Grgh... ce n'est\npas fini !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "What is it...\nPucelle?!",
+  "fr": "Qu'y a-t-il...\nPucelle ?!"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "All bark and no\nbite, I see...",
+  "fr": "Beaucoup de bruit\npour rien, hein..."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Where's the hero\nfrom before?",
+  "fr": "Où est passée\nl'héroïne ?"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Stop dragging\nme down!",
+  "fr": "Arrête de me\nralentir !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "What's wrong\nwith you?!",
+  "fr": "Qu'est-ce qui\nte prend ?!"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Fight back,\nalready!",
+  "fr": "Défends-toi,\nà la fin !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Ooh, that must\nhurt...",
+  "fr": "Ooh, ça doit\nfaire mal..."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Go on! Strike\nthe final blow!",
+  "fr": "Vas-y ! Porte\nle coup de grâce !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Hey, thanks...",
+  "fr": "Hé, merci..."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Whew...that\nfeels nice.",
+  "fr": "Ouf... ça fait\ndu bien."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "You little...",
+  "fr": "Espèce de..."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Oh, we're on\nnow!",
+  "fr": "Oh, là on\ns'amuse !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "You'll pay for\nthat...",
+  "fr": "Tu vas me\nle payer..."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Prepare to face\nmy claws!",
+  "fr": "Goûte à\nmes griffes !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Now then...\nShall we begin?",
+  "fr": "Bien... On\ncommence ?"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Krahh!!",
+  "fr": "Krahh !!"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Keh keh..",
+  "fr": "Keh keh.."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Krrr...",
+  "fr": "Krrr..."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Kaahh!!",
+  "fr": "Kaahh !!"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Krkrkr...",
+  "fr": "Krkrkr..."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Eeeeee!",
+  "fr": "Hiiiii !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Eeee!!",
+  "fr": "Hiii !!"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Kraahhhh!!",
+  "fr": "Kraahhhh !!"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Ha ha...you're\nso silly!",
+  "fr": "Ha ha... t'es\ntrop bête !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Well...ready to\ndie, then?",
+  "fr": "Bon... prête\nà mourir ?"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Ah...!",
+  "fr": "Ah... !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Don't let 'em do\nthis to us!",
+  "fr": "Ne les laissez\npas faire !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Heh heh...you're\nmine now.",
+  "fr": "Hé hé... tu es\nà moi, maintenant."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Is that it?",
+  "fr": "C'est tout ?"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "I'm ending\nthis, now!",
+  "fr": "J'en finis,\nmaintenant !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Why don't you\ngive up already?",
+  "fr": "Pourquoi tu\nn'abandonnes pas ?"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "unité#164",
+  "en": "Do not falter!",
+  "fr": "Ne faiblissez\npas !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "unité#164",
+  "en": "This wasn't what\nI expected...",
+  "fr": "Je ne m'attendais\npas à ça..."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Heh heh heh...\nJust a bit more.",
+  "fr": "Hé hé hé...\nEncore un peu."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "Well, here\ngoes!",
+  "fr": "Bon, allons-y !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "unité#164",
+  "en": "Finish 'em off!",
+  "fr": "Achevez-les !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "",
+  "en": "How d'you\nlike this?!",
+  "fr": "Ça te plaît,\nça ?!"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "No...\nI don't want to lose...!",
+  "fr": "Non... Je ne\nveux pas perdre !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "Ungh! Jeanne...I'm sorry...\nI couldn't protect Liane...",
+  "fr": "Ungh ! Jeanne... pardon... Je\nn'ai pas su protéger Liane..."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Mawra",
+  "en": "Hmm?\nNow ain't that odd...",
+  "fr": "Hmm ?\nC'est bizarre, ça..."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Mawra",
+  "en": "Somethin' about that girl-pup\nsmells a little off...",
+  "fr": "Elle sent pas\nnet, la gamine..."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Mawra",
+  "en": "I know her usual high-an'-holy\nstink, an' it ain't stinkin'!\fShe must not be herself today\nor someth\\u2014",
+  "fr": "Son odeur de sainte-nitouche,\fj'la connais, et\nlà, c'est pas ça !\fElle est pas elle-même\\u2014"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Mawra",
+  "en": "...Ahaaaaaa.",
+  "fr": "...Ahaaaaaa."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Mawra",
+  "en": "So that's their game.",
+  "fr": "Alors c'est ça,\nleur petit jeu."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Mawra",
+  "en": "Now ain't we quite the little\nchameleon?",
+  "fr": "Un vrai petit\ncaméléon, hein ?"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Mawra",
+  "en": "Bloody impostor!",
+  "fr": "Sale imposteur !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Mawra",
+  "en": "I'm goin' to scoop out yer lyin'\ninsides!",
+  "fr": "J'vais t'vider les tripes, p'tite\nmenteuse !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Liane, raise the armlet!\nFight back!",
+  "fr": "Liane, lève le Bracelet !\nDéfends-toi !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Grr... You're right.\nI am not\\u2014",
+  "fr": "Grr... Tu as raison.\nJe ne suis pas\\u2014"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "I am not like Jeanne!\nI won't hesitate.",
+  "fr": "Je ne suis pas comme\nJeanne ! Je n'hésiterai\fpas."
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "You are my enemy!",
+  "fr": "Tu es mon\nennemie !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "...And now, you will die!",
+  "fr": "...Et maintenant,\ntu vas mourir !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Everyone! Follow me!",
+  "fr": "Tous ! Suivez-moi !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "Liane!",
+  "fr": "Liane !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Mawra",
+  "en": "No... NOOO!",
+  "fr": "Non... NOOON !"
+ },
+ {
+  "ctx": "ST2090BT",
+  "max": 16,
+  "who": "Mawra",
+  "en": "How could I lose...\nTo a sham, no less! Ungh...",
+  "fr": "Comment j'ai pu perdre...\nContre une copie, en plus !\fUngh..."
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "",
+  "en": "We've finally arrived at Reims!",
+  "fr": "Nous voici enfin à Reims !"
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "La Hire",
+  "en": "Go to her, frrriend.",
+  "fr": "Va la rrrejoindre, l'ami."
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "Liane, are you holding up all\nright?",
+  "fr": "Liane, ça va, tu tiens le coup ?"
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "You did wonderfully today. \nEverybody's been talking about it.",
+  "fr": "Tu as été formidable aujourd'hui.\nTout le monde ne parle que de ça."
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "I...I was so scared.",
+  "fr": "J'ai... j'ai eu si peur."
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "So...so, so scared...",
+  "fr": "Si... si, si peur..."
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "Liane.",
+  "fr": "Liane."
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "I...I'm sorry.",
+  "fr": "Je... je suis désolée."
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "Don't be.",
+  "fr": "Il ne faut pas."
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "You really came through for us.",
+  "fr": "Tu as été à la hauteur."
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "...You were amazing.",
+  "fr": "...Tu as été incroyable."
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "Thanks, Roger...",
+  "fr": "Merci, Roger..."
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "I won't let you down.",
+  "fr": "Je ne te décevrai pas."
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "...Not again!",
+  "fr": "...Plus jamais !"
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "Roger, are you awake?",
+  "fr": "Roger, tu es réveillé ?"
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "You were crying out in your\nsleep again.",
+  "fr": "Tu criais encore dans ton sommeil."
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "Is the dream that scary?",
+  "fr": "Ce rêve est si effrayant ?"
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "...Sorry to intrude.",
+  "fr": "...Pardon de vous déranger."
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "I...I, um...",
+  "fr": "Je... je, euh..."
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "I have to go!",
+  "fr": "Je dois y aller !"
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "Getting awfully intimate, aren't\nwe?",
+  "fr": "Vous voilà fort intimes,\ndites-moi."
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "Had a change of heart?",
+  "fr": "Votre coeur aurait-il changé ?"
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "I still think of Jeanne.",
+  "fr": "Je pense toujours à Jeanne."
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "But...Jeanne is gone.",
+  "fr": "Mais... Jeanne n'est plus là."
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "The best I can do for her now \nis...see her dream through,",
+  "fr": "Tout ce que je peux faire pour elle,\nc'est... mener son rêve à bien,"
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "by helping Liane find the courage\nto crown the dauphin.",
+  "fr": "en aidant Liane à trouver le courage\nde faire sacrer le Dauphin."
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "It sounds almost thoughtful when\nyou put it like that.",
+  "fr": "Dit ainsi, cela paraîtrait presque\nattentionné."
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "What did you say...",
+  "fr": "Qu'est-ce que vous dites..."
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "Never mind.",
+  "fr": "Peu importe."
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "How you behave off the battlefield\nis none of my concern.",
+  "fr": "Votre conduite hors du champ de\nbataille ne me regarde pas."
+ },
+ {
+  "ctx": "ST2090AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "Just make sure you look after\nLiane.",
+  "fr": "Veillez seulement sur Liane."
+ },
+ {
+  "ctx": "ST2100BM",
+  "max": 34,
+  "who": "Richemont",
+  "en": "At last,\nthe coronation is at hand.\fCome, Dauphin. We must get you\nto the cathedral\\u2014",
+  "fr": "Enfin, le sacre est proche.\fVenez, Altesse. Nous devons vous\nconduire à la cathédrale\\u2014"
+ },
+ {
+  "ctx": "ST2100BM",
+  "max": 34,
+  "who": "Woman's Voice",
+  "en": "Oh, no you don't.",
+  "fr": "Oh que non."
+ },
+ {
+  "ctx": "ST2100BM",
+  "max": 34,
+  "who": "Mawra",
+  "en": "You gave me quite the thrashin'\nlast time.",
+  "fr": "Tu m'as sacrément rossée\nla dernière fois."
+ },
+ {
+  "ctx": "ST2100BM",
+  "max": 34,
+  "who": "Mawra",
+  "en": "Got a bit of sauce to ya \nunderneath that pretty face,\nhmm?",
+  "fr": "T'as du répondant sous ton joli\nminois, hein ?"
+ },
+ {
+  "ctx": "ST2100BM",
+  "max": 34,
+  "who": "Mawra",
+  "en": "Well, we're all done with the\npretty faces.",
+  "fr": "Eh ben, fini les jolis minois."
+ },
+ {
+  "ctx": "ST2100BM",
+  "max": 34,
+  "who": "Mawra",
+  "en": "The dauphin's life is mine!",
+  "fr": "La vie du Dauphin est à moi !"
+ },
+ {
+  "ctx": "ST2100BM",
+  "max": 34,
+  "who": "Richemont",
+  "en": "She doesn't know when to quit.",
+  "fr": "Elle ne renonce jamais, celle-là."
+ },
+ {
+  "ctx": "ST2100BM",
+  "max": 34,
+  "who": "Richemont",
+  "en": "Listen, Jeanne: we must ensure\nthe dauphin reaches the\ncathedral.",
+  "fr": "Écoutez, Jeanne : nous devons\nveiller à ce que le Dauphin\natteigne la cathédrale."
+ },
+ {
+  "ctx": "ST2100BM",
+  "max": 34,
+  "who": "Charles VII",
+  "en": "Jeanne, I am counting on you.",
+  "fr": "Jeanne, je compte sur vous."
+ },
+ {
+  "ctx": "ST2100BM",
+  "max": 34,
+  "who": "Liane",
+  "en": "Don't worry.\nI swear to you, Dauphin:",
+  "fr": "Ne vous inquiétez pas.\nJe vous le jure, Altesse :"
+ },
+ {
+  "ctx": "ST2100BM",
+  "max": 34,
+  "who": "Liane",
+  "en": "no harm shall come to you as\nlong as I stand!",
+  "fr": "tant que je serai debout, il ne\nvous arrivera rien !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Keep the\ndauphin safe!",
+  "fr": "Protégez le\nDauphin !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Good!\nKeep fighting!",
+  "fr": "Bien !\nContinuez !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Protect the\ndauphin!",
+  "fr": "Défendez le\nDauphin !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Watch around\nyou!",
+  "fr": "Surveillez les\nalentours !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Is the\ndauphin safe?",
+  "fr": "Le Dauphin\nest-il sauf ?"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Don't take your\neyes off him!",
+  "fr": "Ne le quittez\npas des yeux !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Gilles",
+  "en": "Stay near\nthe dauphin!",
+  "fr": "Restez près\ndu Dauphin !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Gilles",
+  "en": "Keep your eyes\non the dauphin!",
+  "fr": "Gardez l'oeil\nsur le Dauphin !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "La Hire",
+  "en": "La Hire will\nprotect you!",
+  "fr": "La Hirrre te\nprotégerrra !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "We must guard\nthe dauphin!",
+  "fr": "Gardons le\nDauphin !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Encircle\nthe dauphin!",
+  "fr": "Encerclez\nle Dauphin !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Almost there!",
+  "fr": "On y est presque !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Defend him to\nthe very end!",
+  "fr": "Défendez-le\njusqu'au bout !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "Oooooh...",
+  "fr": "Ooooh..."
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "Coaaagh.",
+  "fr": "Croaaargh."
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "H...help.",
+  "fr": "À... l'aide."
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "C-coa!!!",
+  "fr": "C-croa !!!"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "Coa coa coa!",
+  "fr": "Croa croa croa !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "What do I do?",
+  "fr": "Que faire ?"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "Coa? Coa...",
+  "fr": "Croa ? Croa..."
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "Does this mean\nwe're losing?",
+  "fr": "Ça veut dire\nqu'on perd, non ?"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "Stay strong!",
+  "fr": "Tenez bon !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "Coa! Coa coa!",
+  "fr": "Croa ! Croa croa !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "Every toad must\nmake his stand!",
+  "fr": "Tout crapaud doit\nfaire front !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "We're just a hop\nfrom victory!",
+  "fr": "La victoire est\nà un bond !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Cuisses, Gilles",
+  "en": "Stay alert!",
+  "fr": "Restez sur vos\ngardes !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "Coa, ha, ha!",
+  "fr": "Croa, ha, ha !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "Coa coa!",
+  "fr": "Croa croa !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "Coa!!!",
+  "fr": "Croa !!!"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "Coa.",
+  "fr": "Croa."
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "Coa coa?",
+  "fr": "Croa croa ?"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "Coahhhh.",
+  "fr": "Croahhhh."
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "Ouch!",
+  "fr": "Ouch !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "Coa?!",
+  "fr": "Croa ?!"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "Watch this!",
+  "fr": "Regardez ça !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "I can fight\ntoo, you know!",
+  "fr": "Moi aussi, je sais\nme battre !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "Coa coa, COA!",
+  "fr": "Croa croa, CROA !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "Coa! Coa!",
+  "fr": "Croa ! Croa !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "unité#81",
+  "en": "Henry is our\ntrue king!",
+  "fr": "Henri est notre\nvrai roi !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "",
+  "en": "Hah!\nSurrounded!",
+  "fr": "Ha ! Encerclés !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "",
+  "en": "You made a\nfatal error!",
+  "fr": "Erreur fatale !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "",
+  "en": "Huh...?!",
+  "fr": "Hein... ?!"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "",
+  "en": "You aren't\ngetting away...",
+  "fr": "Pas question\nde fuir..."
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "",
+  "en": "Thought you\ncould beat me?",
+  "fr": "Tu croyais me\nbattre ?"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "",
+  "en": "Henry is the\nking of France!",
+  "fr": "Henri est le\nroi de France !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "",
+  "en": "Keep your\nguard up!",
+  "fr": "Restez sur\nvos gardes !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "",
+  "en": "Strike the\nfinal blow!",
+  "fr": "Portez le coup\nde grâce !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "",
+  "en": "Gahh...!",
+  "fr": "Gahh... !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "",
+  "en": "Feel the force\nof my spear!",
+  "fr": "Goûte à ma\nlance !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "",
+  "en": "Waaaaaagh!!",
+  "fr": "Waaaaaargh !!"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "I have to make sure the dauphin \nreaches the cathedral.",
+  "fr": "Je dois mener le Dauphin jusqu'à\nla cathédrale."
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Charles VII",
+  "en": "Here at last! Now I shall become\nFrance's true king!",
+  "fr": "Enfin ! Je vais devenir le vrai\nroi de France !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Oh, no... Dauphin!",
+  "fr": "Oh, non...\nAltesse !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Gilles, Richard",
+  "en": "Ah!\nWhat have they done!",
+  "fr": "Ah !\nQu'ont-ils fait !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "La Hire, Bertrand",
+  "en": "Dauphin!\nWhat have they done...",
+  "fr": "Altesse !\nQu'ont-ils fait..."
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "Oh, no! Dauphin!",
+  "fr": "Oh non ! Altesse !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "La vache!\nZat was not part of ze plan...",
+  "fr": "La vache ! Ça ne faisait pas\npartie du plan..."
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Waaaaaah!\nThey killed the dauphin!",
+  "fr": "Ouiiin ! Ils ont tué le\nDauphin !"
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Bartolomeo",
+  "en": "Fie, fool of a man! To his doom\nhe hath blindly wander'd.",
+  "fr": "Fi, quel sot ! Il courut à sa\nperte aveuglément."
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "Oh, dread! The dastards have\ndone in the dauphin...",
+  "fr": "Désastre ! Ces démons ont\ndéfait le Dauphin..."
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Rufus",
+  "en": "Rauphin? Rauphin? RAUPHIN!\nAwooo...",
+  "fr": "Rauphin ? Rauphin ? RAUPHIN\n! Ahouuu..."
+ },
+ {
+  "ctx": "ST2100BT",
+  "max": 16,
+  "who": "Mawra",
+  "en": "Urrrg...I won't...let...you do it...",
+  "fr": "Urrrg... je ne... te laisserai pas\nfaire..."
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Mawra",
+  "en": "Hold it!\nOver my dead body!",
+  "fr": "Halte !\nIl faudra me passer sur le corps !"
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Blaze",
+  "en": "Let it go, Mawra.",
+  "fr": "Laisse tomber, Mawra."
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Blaze",
+  "en": "There is nothing you can do now.",
+  "fr": "Tu ne peux plus rien faire."
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Mawra",
+  "en": "Who asked for your opinion? This\nis my chance to get that prig.",
+  "fr": "Qui t'a demandé ton avis ? C'est\nma chance d'avoir ce prétentieux."
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Mawra",
+  "en": "I'll bite his royal head off while\nthey're all mindin' their manners!",
+  "fr": "J'vais lui arracher sa tête royale\npendant qu'ils font des manières !"
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Blaze",
+  "en": "Mawra!\nLook what you are turning into!",
+  "fr": "Mawra !\nRegarde ce que tu deviens !"
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Blaze",
+  "en": "You used to despise war.\nDon't you rrremember?",
+  "fr": "Avant, tu détestais la guerrre.\nTu ne t'en souviens pas ?"
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Blaze",
+  "en": "Or don't you have time for the\npast anymore?",
+  "fr": "Ou tu n'as plus de temps\npour le passé ?"
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Mawra",
+  "en": "...You've got some cheek, bringin'\nthat up now.",
+  "fr": "...T'as du culot d'remettre ça\nsur l'tapis maintenant."
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Blaze",
+  "en": "It's over, Mawra. You failed.\nLet's report back to the master.",
+  "fr": "C'est fini, Mawra. Tu as échoué.\nRentrons au rapport chez le maître."
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "Now what took you so long,\nbeasties? I've been waiting!",
+  "fr": "Well, pourquoi tant de retard, mes\nbestioles ? Nous vous attendions !"
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "Gracious!",
+  "fr": "Gracious !"
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "You two just don't know how to\nkeep a promise, do you?",
+  "fr": "Vous deux, vous ne savez vraiment\npas tenir une promesse, hein ?"
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Slinker",
+  "en": "Ni-yaaagggh!",
+  "fr": "Ni-yaaarggh !"
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "Your friend tried to escape,\nyou see.",
+  "fr": "Votre ami a tenté de s'enfuir,\nyou see."
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "Not very nice of him to sneak\noff like that, now was it?",
+  "fr": "Pas très gentil de filer en douce\ncomme ça, n'est-ce pas ?"
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Slinker",
+  "en": "Ni-gahhh!",
+  "fr": "Ni-gahhh !"
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "You're next, foxy.\nHmm, what was your name again?",
+  "fr": "À toi, la renarde.\nHmm, comment t'appelles-tu, déjà ?"
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Mawra",
+  "en": "I..I, uh..ahh...",
+  "fr": "Je... je, euh... ahh..."
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "Oh, whatever. Might as well have\nasked what my carpet's named.",
+  "fr": "Oh, peu importe. Autant demander\nle nom de notre tapis."
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "I gave you lots of chances to\nsquash that worm,\fand you blew them all.",
+  "fr": "Nous t'avons donné tant de chances\nd'écraser ce vermisseau,\fet tu les as toutes gâchées."
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Mawra",
+  "en": "Ah-ahh!",
+  "fr": "Ah-ahh !"
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Blaze, La Hire",
+  "en": "Mawra!",
+  "fr": "Mawra !"
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "So much for that one.\nTime for a new pawn!",
+  "fr": "Et d'une de moins.\nPlace à un nouveau pion !"
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "",
+  "en": "&Raven",
+  "fr": "&Corbeau"
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Raven",
+  "en": "Caw!",
+  "fr": "Croâ !"
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "Now run this to Chinon. And\ndon't you go getting shot down!",
+  "fr": "Porte ceci à Chinon. Et ne\nte fais pas abattre en route !"
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "Well, Jeanne...\nYour dream has come true.",
+  "fr": "Eh bien, Jeanne...\nTon rêve s'est réalisé."
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "Ha ha! We did it!\nWe really did it, Roger!",
+  "fr": "Ha ha ! On a réussi !\nOn a vraiment réussi, Roger !"
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "Did you hear what the dauphin\nand the others said about me!",
+  "fr": "Tu as entendu ce que le Dauphin\net les autres ont dit de moi ?!"
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "And I owe it all to you, my\nguardian angel! Oh, Roger...",
+  "fr": "Et c'est grâce à toi, mon ange\ngardien ! Oh, Roger..."
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "Ha ha!",
+  "fr": "Ha ha !"
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "We finally crowned the dauphin.\nYou and me...together!",
+  "fr": "Le Dauphin est enfin sacré.\nToi et moi... ensemble !"
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "Congratulations, Liane.\nYou really were amazing.",
+  "fr": "Félicitations, Liane.\nTu as vraiment été incroyable."
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "Thank you, Roger!\nSo were you.",
+  "fr": "Merci, Roger ! Toi aussi."
+ },
+ {
+  "ctx": "ST2100AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "No, I just...I just followed\neveryone else. Followed Jeanne...",
+  "fr": "Non, moi, j'ai... j'ai juste suivi\nles autres. Suivi Jeanne..."
+ }
+]

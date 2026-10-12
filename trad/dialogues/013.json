@@ -1,0 +1,1752 @@
+[
+ {
+  "ctx": "ST3020BT",
+  "max": 16,
+  "who": "",
+  "en": "Death to the\ninvaders!",
+  "fr": "Mort aux\nenvahisseurs !"
+ },
+ {
+  "ctx": "ST3020BT",
+  "max": 16,
+  "who": "",
+  "en": "You won't\nescape!",
+  "fr": "Vous n'irez\nnulle part !"
+ },
+ {
+  "ctx": "ST3020BT",
+  "max": 16,
+  "who": "",
+  "en": "Ka ha ha...",
+  "fr": "Ka ha ha..."
+ },
+ {
+  "ctx": "ST3020BT",
+  "max": 16,
+  "who": "",
+  "en": "Surrounded...",
+  "fr": "Cerné de toutes\nparts..."
+ },
+ {
+  "ctx": "ST3020BT",
+  "max": 16,
+  "who": "",
+  "en": "Death...\nto them.",
+  "fr": "Mort... à eux."
+ },
+ {
+  "ctx": "ST3020BT",
+  "max": 16,
+  "who": "",
+  "en": "Death...to\nall...",
+  "fr": "Mort... à\ntous..."
+ },
+ {
+  "ctx": "ST3020BT",
+  "max": 16,
+  "who": "",
+  "en": "One final\nblow...",
+  "fr": "Un dernier\ncoup..."
+ },
+ {
+  "ctx": "ST3020BT",
+  "max": 16,
+  "who": "unité#0, unité#149, unité#169",
+  "en": "Go...",
+  "fr": "Va..."
+ },
+ {
+  "ctx": "ST3020BT",
+  "max": 16,
+  "who": "",
+  "en": "My power...\nBehold...",
+  "fr": "Mon pouvoir...\nContemplez..."
+ },
+ {
+  "ctx": "ST3020BT",
+  "max": 16,
+  "who": "",
+  "en": "The power...of\ndarkness...",
+  "fr": "Le pouvoir...\ndes ténèbres..."
+ },
+ {
+  "ctx": "ST3020BT",
+  "max": 16,
+  "who": "",
+  "en": "Blow...",
+  "fr": "Frappe..."
+ },
+ {
+  "ctx": "ST3020BT",
+  "max": 16,
+  "who": "",
+  "en": "What on...",
+  "fr": "Qu'est-ce..."
+ },
+ {
+  "ctx": "ST3020BT",
+  "max": 16,
+  "who": "",
+  "en": "Don't take me\nlightly, now!",
+  "fr": "Ne me prenez pas\nà la légère !"
+ },
+ {
+  "ctx": "ST3020BT",
+  "max": 16,
+  "who": "",
+  "en": "No going back\nfor you now...",
+  "fr": "Plus de retour\nen arrière..."
+ },
+ {
+  "ctx": "ST3020BT",
+  "max": 16,
+  "who": "",
+  "en": "Sorry 'bout\nthat.",
+  "fr": "Pardon pour\nle coup."
+ },
+ {
+  "ctx": "ST3020BT",
+  "max": 16,
+  "who": "Lady Bandit",
+  "en": "The walkways can get to be a\nbit complicated here.\fWe'll just have to build us some\nbridges!",
+  "fr": "Ici, les passages\nsont compliqués.\fIl va falloir bâtir des ponts !"
+ },
+ {
+  "ctx": "ST3020BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Do not forget about moi!\nBweedges are my forté, ho-hoh!",
+  "fr": "Ne m'oubliez pas, moi !\nLes ponts ? Mon rayon, ho-hoh !"
+ },
+ {
+  "ctx": "ST3020BT",
+  "max": 16,
+  "who": "",
+  "en": "&Rebel Leader",
+  "fr": "&Chef rebelle"
+ },
+ {
+  "ctx": "ST3020BT",
+  "max": 16,
+  "who": "Rebel Leader",
+  "en": "How'd a pack o' thieves...like\nyou...get to be so...strong...",
+  "fr": "Comment une bande de voleurs...\ncomme vous... est si... forte..."
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "",
+  "en": "Rose",
+  "fr": "Rose"
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "",
+  "en": "Head north. Onward to Clairoix.",
+  "fr": "Cap au nord. En route pour Clairoix."
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "You all right?",
+  "fr": "Ça va ?"
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Lady Bandit",
+  "en": "Never been better. Have a gander\nat this haul!",
+  "fr": "Jamais été mieux. Visez-moi\nun peu ce butin !"
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "You stole all that from the\nrebels?",
+  "fr": "Vous avez volé tout ça aux\nrebelles ?"
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Lady Bandit",
+  "en": "They don't call me \"Red-Handed\nRose\" for nothing. I'm famous!",
+  "fr": "On m'appelle pas « Rose la\nMain Rouge » pour rien.\fJe suis célèbre, moi !"
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Lady Bandit",
+  "en": "See, I fence what I filch and\nthen give the money to poor folk.",
+  "fr": "Je revends ce que je chaparde\net je donne l'argent aux pauvres."
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "We did it! We won! We won!",
+  "fr": "Victoire ! On a gagné ! On a gagné !"
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "God hasn't forgotten about me\nafter all.",
+  "fr": "Dieu ne m'a pas oubliée,\nfinalement."
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "Paris must have just been a\nwarning, or...or something.",
+  "fr": "Paris n'était qu'un avertissement,\nou... quelque chose comme ça."
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "It's an empty victory.",
+  "fr": "C'est une victoire creuse."
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "Roger?\nWhat's wrong?",
+  "fr": "Roger ? Qu'est-ce qui ne va pas ?"
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "I'm so sick of this! You're not\nthe same person anymore.",
+  "fr": "J'en ai assez ! Tu n'es plus\nla même."
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "If you want to be a target for\narrows that badly...\fleave me out of it.",
+  "fr": "Si tu tiens tant à servir de\ncible aux flèches...\fne compte pas sur moi."
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "Goodbye, Liane.",
+  "fr": "Adieu, Liane."
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "...What? No!",
+  "fr": "...Quoi ? Non !"
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Lady Bandit",
+  "en": "Aw, now there's a shame.\nThat bloke had promise.",
+  "fr": "Oh, quel dommage.\nCe gars-là avait de l'avenir."
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Lady Bandit",
+  "en": "Oh, never you mind, love.",
+  "fr": "Oh, t'en fais pas, ma chérie."
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Lady Bandit",
+  "en": "There are plenty of fish in the\nsea;\fyou can afford to let the fresh\nones go\\u2014if you get my meaning.",
+  "fr": "Un de perdu, dix de retrouvés ;\fon peut se permettre de laisser\nfiler les jeunots\\u2014tu me suis ?"
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Rose",
+  "en": "Anyway, I'm Rose!",
+  "fr": "Bref, moi c'est Rose !"
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Rose",
+  "en": "Whattaya say we partner up?\nI could use tough types like you.",
+  "fr": "Et si on s'associait ? Des durs\nà cuire comme vous, ça me plaît."
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "Roger leaves your ranks.",
+  "fr": "Roger quitte vos rangs."
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "",
+  "en": "Rose joins your ranks!",
+  "fr": "Rose rejoint vos rangs !"
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Georges",
+  "en": "Hee hee hee!\nPfft ha ha ha haaahhh!",
+  "fr": "Hi hi hi ! Pfft ha ha ha haaahhh !"
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Georges",
+  "en": "Oh...joy.",
+  "fr": "Oh... quelle joie."
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Georges",
+  "en": "The fool thought he could haff a\nchuckle at my expenth...",
+  "fr": "Cet imbézile croyait pouvoir\nze moquer de moi..."
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Georges",
+  "en": "Thtupid Richemont!\nWho'th the laffingthtock now?",
+  "fr": "Ztupide Richemont !\nQui est la rizée, maintenant ?"
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Georges",
+  "en": "Now the wench'th end ith near!\nTime for the finishing toucheth...",
+  "fr": "La gueuze zera bientôt finie !\nMettons-y la dernière main..."
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Georges",
+  "en": "...to theal her fate.",
+  "fr": "...pour zeller zon zort."
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Richard",
+  "en": "I have our next mission.\nWe depart tomorrow, Liane.",
+  "fr": "J'ai notre prochaine mission.\nNous partons demain, Liane."
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "La Hire",
+  "en": "What must La Hire do now?",
+  "fr": "Que doit faire La Hire, à présent ?"
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "La Hire",
+  "en": "One more fool's errand and you\nwill be kicked to kingdom come.",
+  "fr": "Encore un coup d'éclat inutile, et\nvous serez chassée pour de bon."
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Richard",
+  "en": "We are going to Clairoix\\u2014\nto fight the Burgundians.",
+  "fr": "Nous allons à Clairoix\\u2014\ncombattre les Bourguignons."
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Richard",
+  "en": "Try to temper your grief before\nthen.",
+  "fr": "Tâchez d'apaiser votre chagrin\nd'ici là."
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "Clairoix...is a long ways from\nhere, isn't it...",
+  "fr": "Clairoix... c'est loin d'ici,\nn'est-ce pas..."
+ },
+ {
+  "ctx": "ST3020AB",
+  "max": 34,
+  "who": "La Hire",
+  "en": "Rrr...",
+  "fr": "Rrr..."
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Colet",
+  "en": "Eez eet just me, or eez zis town,\nhow do you say...stwange?",
+  "fr": "Est-ce moi, ou cette ville est...\ncomment dire... étrange ?"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "La Hire",
+  "en": "La Hire will be at the tavern if\nyou need him.",
+  "fr": "La Hire sera à la taverne si\nvous avez besoin de lui."
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Marcel",
+  "en": "I have to wee.",
+  "fr": "J'ai une envie pressante."
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Liane",
+  "en": "Listen to you all! We have to get\nrid of those brigands first.",
+  "fr": "Écoutez-vous ! Il faut d'abord\nnous débarrasser de ces brigands."
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Liane",
+  "en": "We have to, or I'll...\nWe just have to!",
+  "fr": "Il le faut, sinon je...\nIl le faut, c'est tout !"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Man's Voice",
+  "en": "What'd you say?!",
+  "fr": "Qu'est-ce que tu dis ?!"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "",
+  "en": "&Mayor",
+  "fr": "&Maire"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Mayor",
+  "en": "Uhh...",
+  "fr": "Euh..."
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "",
+  "en": "&Brigand Sellsword",
+  "fr": "&Mercenaire brigand"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Brigand Sellsword",
+  "en": "Don't play dumb wit' us!\fA gaudy town like this 'as gotta\nbe brimmin' wit' treasure!",
+  "fr": "Fais pas l'idiot avec nous !\fUne ville tape-à-l'oeil comme ça,\nça doit regorger de trésors !"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "",
+  "en": "&Brigand Archer",
+  "fr": "&Archer brigand"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Brigand Archer",
+  "en": "So go an' get it!\fAnd be quick about it. The decor\n'ere gives me the willies.",
+  "fr": "Alors va le chercher !\fEt grouille. Le décor d'ici me\nfiche la chair de poule."
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "",
+  "en": "&Magician Girl",
+  "fr": "&Petite magicienne"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Magician Girl",
+  "en": "As if ragamuffins like you would\nknow diddlyspit about decor!",
+  "fr": "Comme si des va-nu-pieds y\nentravaient que pouic en décor !"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Magician Girl",
+  "en": "...Pffah!",
+  "fr": "...Pfah !"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "",
+  "en": "&Brigands",
+  "fr": "&Brigands"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Brigands",
+  "en": "NGYAAAAAAAAAH!!!",
+  "fr": "NGYAAAAAAAAAH !!!"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Claire",
+  "en": "You tykes ran fresh out of luck\nthe minute you decided to\nplunder the home of Claire de\nLoon!",
+  "fr": "Votre chance a tourné, marmots,\nà la minute où vous avez décidé\nde piller la demeure de Claire\nde Lune !"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Claire",
+  "en": "...Perhaps you've heard of me?",
+  "fr": "...Vous avez peut-être entendu\nparler de moi ?"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Brigand Sellsword",
+  "en": "Wh-wh-what?!",
+  "fr": "Qu-qu-quoi ?!"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Brigand Archer",
+  "en": "You're THE Claire de Loon?!",
+  "fr": "T'es LA Claire de Lune ?!"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Brigand Sellsword",
+  "en": "No way! The Loon's s'posed to a'\ndied centuries ago!\fShe'd 'ave to be some ol' crone,\nif she was alive!",
+  "fr": "Impossible ! La Lune, elle est\ncensée être morte y a des siècles !\fElle serait une vieille bique,\nsi elle était encore en vie !"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Claire",
+  "en": "...Shwah!",
+  "fr": "...Shwah !"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Brigand Sellsword",
+  "en": "ERGWAAAAAAAAAH!!!",
+  "fr": "ERGWAAAAAAAAAH !!!"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Claire",
+  "en": "Gya ha ha! I am invincible!\nNot vincible in the slightest!",
+  "fr": "Gya ha ha ! Je suis invincible !\nPas vincible pour deux sous !"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Claire",
+  "en": "I'd like to see some upstart even\nTRY to vince me!",
+  "fr": "J'aimerais bien voir un blanc-bec\nESSAYER de me vincre !"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Liane",
+  "en": "Those must be the sellswords that\nwent brigand!",
+  "fr": "Ce sont sûrement les mercenaires\ndevenus brigands !"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Claire",
+  "en": "Eh? Reinforcements?",
+  "fr": "Hein ? Des renforts ?"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Claire",
+  "en": "Oh, give up. You rascals are out\nof your league!",
+  "fr": "Oh, laissez tomber. Vous n'êtes\npas de taille, garnements !"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Claire",
+  "en": "Go on, call your army. I'll give\nyou a head start, hah.",
+  "fr": "Allez, appelez votre armée. Je vous\nlaisse de l'avance, hah."
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "Um, actually\\u2014",
+  "fr": "Euh, en fait\\u2014"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Claire",
+  "en": "Just so you know, kiddos:",
+  "fr": "Pour votre gouverne, les mioches :"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Claire",
+  "en": "you lay one paw on the town\ncrystals and I'll learn you good!",
+  "fr": "posez une patte sur les cristaux\nde la ville et vous allez voir !"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Brigand Sellsword",
+  "en": "What? Crystal?!",
+  "fr": "Quoi ? Des cristaux ?!"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Claire",
+  "en": "That's right. Crystal's a source\nof life for us magical types.",
+  "fr": "Exactement. Le cristal est une\nsource de vie pour nous, magiciens."
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Claire",
+  "en": "So you whippersnappers can just\nkeep your mangy mittens to\\u2014",
+  "fr": "Alors vous, les morveux, gardez\nvos pattes galeuses loin de\\u2014"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Brigand Sellsword",
+  "en": "Hey, you 'ear that?",
+  "fr": "Hé, t'as entendu ça ?"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Brigand Sellsword",
+  "en": "What a treasure that's gotta be!",
+  "fr": "Ça doit valoir une fortune !"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Claire",
+  "en": "Aaagh! Cripes!\nMe and my big blabby mouth!",
+  "fr": "Aaargh ! Saperlipopette !\nMoi et ma grande bouche !"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Brigand Archer",
+  "en": "After 'em crystals! We can break\n'em down an' make a fortune!",
+  "fr": "Sus aux cristaux ! On les casse en\nmorceaux et on fait fortune !"
+ },
+ {
+  "ctx": "ST3021BM",
+  "max": 34,
+  "who": "Liane",
+  "en": "Come on!\nWe have to stop them!",
+  "fr": "Allez ! Il faut les arrêter !"
+ },
+ {
+  "ctx": "ST3021BT",
+  "max": 16,
+  "who": "",
+  "en": "I'll tear you\nlimb from limb!",
+  "fr": "Je vais te mettre\nen pièces !"
+ },
+ {
+  "ctx": "ST3021BT",
+  "max": 16,
+  "who": "",
+  "en": "What a windfall\nthis will be!",
+  "fr": "Quelle aubaine,\nça va être !"
+ },
+ {
+  "ctx": "ST3021BT",
+  "max": 16,
+  "who": "",
+  "en": "Don't leave any\nof them alive!",
+  "fr": "N'en laissez pas\nun seul en vie !"
+ },
+ {
+  "ctx": "ST3021BT",
+  "max": 16,
+  "who": "",
+  "en": "How pathetic.",
+  "fr": "Pitoyable."
+ },
+ {
+  "ctx": "ST3021BT",
+  "max": 16,
+  "who": "",
+  "en": "Don't get in\nmy way...",
+  "fr": "Hors de mon\nchemin..."
+ },
+ {
+  "ctx": "ST3021BT",
+  "max": 16,
+  "who": "",
+  "en": "The crystals\nare mine!",
+  "fr": "Les cristaux\nsont à moi !"
+ },
+ {
+  "ctx": "ST3021BT",
+  "max": 16,
+  "who": "",
+  "en": "It's all mine!",
+  "fr": "Tout est à moi !"
+ },
+ {
+  "ctx": "ST3021BT",
+  "max": 16,
+  "who": "",
+  "en": "OK, let's sweep\n'em all up!",
+  "fr": "Allez, on rafle\ntout !"
+ },
+ {
+  "ctx": "ST3021BT",
+  "max": 16,
+  "who": "",
+  "en": "Who is...",
+  "fr": "Qui est..."
+ },
+ {
+  "ctx": "ST3021BT",
+  "max": 16,
+  "who": "",
+  "en": "Sss!",
+  "fr": "Sss !"
+ },
+ {
+  "ctx": "ST3021BT",
+  "max": 16,
+  "who": "Claire",
+  "en": "Ugh! Not good!",
+  "fr": "Ugh ! Ça sent\nmauvais !"
+ },
+ {
+  "ctx": "ST3021BT",
+  "max": 16,
+  "who": "Claire",
+  "en": "If they break even one of the \ncrystals around town...",
+  "fr": "S'ils brisent un seul des\ncristaux de la ville..."
+ },
+ {
+  "ctx": "ST3021BT",
+  "max": 16,
+  "who": "Brigand Sellsword",
+  "en": "Did you 'ear that, you louts?\nLet's nab us 'em crystals!",
+  "fr": "Vous avez entendu, bande de\nrustres ? On va rafler ces\fcristaux !"
+ },
+ {
+  "ctx": "ST3021BT",
+  "max": 16,
+  "who": "Claire",
+  "en": "Aaaaaagh! That's it.\nLess talky, more fighty!",
+  "fr": "Aaaargh ! Assez ! Moins de\nblabla, plus de bagarre !"
+ },
+ {
+  "ctx": "ST3021BT",
+  "max": 16,
+  "who": "Liane, Roger, Jean",
+  "en": "Oh, no... The crystal!",
+  "fr": "Oh non... Le cristal !"
+ },
+ {
+  "ctx": "ST3021BT",
+  "max": 16,
+  "who": "Claire",
+  "en": "Ugh, those runts...\nThey've doomed us all...",
+  "fr": "Ugh, ces nabots... Ils\nnous ont tous condamnés..."
+ },
+ {
+  "ctx": "ST3021BT",
+  "max": 16,
+  "who": "La Hire",
+  "en": "Currrses!\nLa Hire has failed!",
+  "fr": "Sacrrrebleu !\nLa Hire a échoué !"
+ },
+ {
+  "ctx": "ST3021BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "No... The crystal!",
+  "fr": "Non...\nLe cristal !"
+ },
+ {
+  "ctx": "ST3021BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Oh, non!\nWe are feenished!",
+  "fr": "Oh non !\nNous voilà fichus !"
+ },
+ {
+  "ctx": "ST3021BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Oh, no!\nThey smashed it!",
+  "fr": "Oh non !\nIls l'ont brisé !"
+ },
+ {
+  "ctx": "ST3021BT",
+  "max": 16,
+  "who": "Rufus",
+  "en": "Ruh-oh!\nRey broke the sparkly!",
+  "fr": "Rouh-oh ! Ils ont\nrassé le rillant !"
+ },
+ {
+  "ctx": "ST3021BT",
+  "max": 16,
+  "who": "Bartolomeo",
+  "en": "Alas...\nAll hopes are lost...",
+  "fr": "Las... Tout espoir\nest perdu..."
+ },
+ {
+  "ctx": "ST3021BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "The crystal has cracked!",
+  "fr": "Le cristal est fêlé !"
+ },
+ {
+  "ctx": "ST3021BT",
+  "max": 16,
+  "who": "Bertrand",
+  "en": "Yuh-oh! It's all over now.",
+  "fr": "Ouh là ! Tout est\nfichu, maintenant."
+ },
+ {
+  "ctx": "ST3021AB",
+  "max": 34,
+  "who": "Claire",
+  "en": "(That girl... She's that witch\neveryone's talking about!)",
+  "fr": "(Cette fille... C'est la sorcière\ndont tout le monde parle !)"
+ },
+ {
+  "ctx": "ST3021AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "And you didn't even win it by\nyourself, you know.",
+  "fr": "Et tu n'as même pas gagné toute\nseule, tu sais."
+ },
+ {
+  "ctx": "ST3021AB",
+  "max": 34,
+  "who": "Claire",
+  "en": "Hey! Puss-in-Greaves!\nAren't you Jeanne?",
+  "fr": "Hé ! Minette en jambières !\nT'es pas Jeanne, toi ?"
+ },
+ {
+  "ctx": "ST3021AB",
+  "max": 34,
+  "who": "Claire",
+  "en": "You've got the armor... You must\nbe her! I CHALLENGE YOU!",
+  "fr": "T'as l'armure... Ça doit être toi !\nJE TE DÉFIE !"
+ },
+ {
+  "ctx": "ST3021AB",
+  "max": 34,
+  "who": "Claire",
+  "en": "...Ooga booga!",
+  "fr": "...Abracadabrouille !"
+ },
+ {
+  "ctx": "ST3021AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "Wait, what? No, I'm not\\u2014",
+  "fr": "Attends, quoi ?\nNon, je ne suis pas\\u2014"
+ },
+ {
+  "ctx": "ST3021AB",
+  "max": 34,
+  "who": "Brigands",
+  "en": "BLAAAAAAAAARGH!",
+  "fr": "BLAAAAAAAAARGH !"
+ },
+ {
+  "ctx": "ST3021AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "The armlet...",
+  "fr": "Le Bracelet..."
+ },
+ {
+  "ctx": "ST3021AB",
+  "max": 34,
+  "who": "Claire",
+  "en": "What WHAAAT?! I missed?",
+  "fr": "Quoi QUOOOI ?! Raté ?"
+ },
+ {
+  "ctx": "ST3021AB",
+  "max": 34,
+  "who": "Claire",
+  "en": "Ugh! How'd my magic bounce off\na scrawny brat like you?",
+  "fr": "Ugh ! Comment ma magie a-t-elle\npu rebondir sur une gringalette ?"
+ },
+ {
+  "ctx": "ST3021AB",
+  "max": 34,
+  "who": "Claire",
+  "en": "All right, you win.",
+  "fr": "Bon, d'accord, t'as gagné."
+ },
+ {
+  "ctx": "ST3021AB",
+  "max": 34,
+  "who": "Claire",
+  "en": "But just you wait, missy!\nI'm going to FOLLOW you.",
+  "fr": "Mais tu vas voir, ma petite !\nJe vais te SUIVRE."
+ },
+ {
+  "ctx": "ST3021AB",
+  "max": 34,
+  "who": "Claire",
+  "en": "And we'll just see who the real \nmiracle worker is, WON'T WE?",
+  "fr": "Et on verra bien qui fait les\nvrais miracles, PAS VRAI ?"
+ },
+ {
+  "ctx": "ST3021AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "...Uh-huh.",
+  "fr": "...Mmh-mmh."
+ },
+ {
+  "ctx": "ST3021AB",
+  "max": 34,
+  "who": "",
+  "en": "Claire joins your ranks!",
+  "fr": "Claire rejoint vos rangs !"
+ },
+ {
+  "ctx": "ST3021AB",
+  "max": 34,
+  "who": "Georges",
+  "en": "The fool thought he could haff\na chuckle at my expenth...",
+  "fr": "Cet imbézile croyait pouvoir\nze moquer de moi..."
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "",
+  "en": "&Sellsword",
+  "fr": "&Mercenaire"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Sellsword",
+  "en": "Hey, if it ain't Aldric!",
+  "fr": "Hé, mais c'est Aldric !"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Sellsword",
+  "en": "How long's it been?",
+  "fr": "Ça fait combien de temps ?"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Sellsword",
+  "en": "You had me worried sick, coz!\nTakin' off the way you did.",
+  "fr": "Tu m'as fichu une de ces frousses,\nvieux ! À filer comme ça."
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Sellsword",
+  "en": "Let's you and me go have a pint,\nfor old times' sake!",
+  "fr": "Viens, on va boire une chope,\ncomme au bon vieux temps !"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "Huh? Sorry, I think you have the\nwrong man.",
+  "fr": "Hein ? Désolé, je crois que vous\nvous trompez de personne."
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Sellsword",
+  "en": "None of that, Aldric.\nYou grab yourself a stein.",
+  "fr": "Pas de ça, Aldric.\nPrends-toi une chope."
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "I'm telling you!\nI don't know any Ald\\u2014",
+  "fr": "Je vous dis que non !\nJe ne connais pas d'Ald\\u2014"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Sellsword",
+  "en": "I think I would know my best ol'\nwar buddy, now wouldn't I?",
+  "fr": "Je reconnaîtrais quand même mon\nvieux frère d'armes, non ?"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Sellsword",
+  "en": "Now let's celebrate!",
+  "fr": "Allez, on fête ça !"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Sellsword",
+  "en": "Hey, get this man a round, on\nme!",
+  "fr": "Hé, une tournée pour lui, c'est\nma pomme qui régale !"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Sellsword",
+  "en": "So you say this Georges\nfellow\\u2014",
+  "fr": "Alors comme ça, ce Georges\\u2014"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Sellsword",
+  "en": "Hey. Aldric, you listening?",
+  "fr": "Hé. Aldric, tu m'écoutes ?"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "I'm...not...Aldric...",
+  "fr": "Je suis... pas... Aldric..."
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "I'm Roger, an' I sherve in the...\nthe dauphin'shh...",
+  "fr": "Je shuis Roger, et je shers dans...\nl'armée du dauphin..."
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Sellsword",
+  "en": "All right, \"Roger,\" I hear you.",
+  "fr": "D'accord, « Roger », je t'entends."
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Sellsword",
+  "en": "Forget what I call you\\u2014are\nyou in on that job I talked about?",
+  "fr": "Peu importe ton nom\\u2014t'en es,\nde l'affaire dont je t'ai parlé ?"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "Thass right...I'm ROGER...",
+  "fr": "C'est ça... je shuis ROGER..."
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "Always by Jeanne's shide...",
+  "fr": "Touchours aux côtés de Jeanne..."
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Sellsword",
+  "en": "There, see?\nYou got the bulk of it.",
+  "fr": "Tu vois ?\nT'as compris l'essentiel."
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Sellsword",
+  "en": "That's my boy!",
+  "fr": "C'est bien, mon gars !"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Sellsword",
+  "en": "Jeanne's troops are gonna\nrendezvous at Clairoix.",
+  "fr": "Les troupes de Jeanne vont se\nrassembler à Clairoix."
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Sellsword",
+  "en": "Hoo, we are gonna be filthy,\nstinkin' rich!",
+  "fr": "Hou, on va être riches à\nmillions, mon vieux !"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "Huuuhhh?",
+  "fr": "Hmmmh ?"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Sellsword",
+  "en": "Don't you go forgettin' on me\nlater, neither!",
+  "fr": "Et va pas oublier tout ça\nplus tard, hein !"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Sellsword",
+  "en": "You stick by that \"savior\" dame\nand make us some gold!",
+  "fr": "Reste collé à cette « Salvatrice »\net rapporte-nous de l'or !"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Sellsword",
+  "en": "All right, my brother?",
+  "fr": "Ça marche, frangin ?"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "Wait, you forgot to pay!",
+  "fr": "Hé, tu as oublié de payer !"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "...\"Jeanne's troops\"?",
+  "fr": "...« Les troupes de Jeanne » ?"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Richard",
+  "en": "Our goal here...",
+  "fr": "Notre objectif ici..."
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Richard",
+  "en": "is to defend the town of Clairoix\nfrom enemy attack.",
+  "fr": "est de défendre la ville de Clairoix\ncontre l'attaque ennemie."
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Richard",
+  "en": "The king has vouchsafed us a\nnumber of soldiers.",
+  "fr": "Le roi a daigné nous confier\nquelques soldats."
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Richard",
+  "en": "We must be wise in how we use\nthem.",
+  "fr": "Nous devons les employer avec\nsagesse."
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Liane",
+  "en": "...I understand.",
+  "fr": "...Je comprends."
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "La Hire",
+  "en": "Cheer up, girl-child.",
+  "fr": "Courrrage, fillette."
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "La Hire",
+  "en": "You do not need Gilles or Roger\nwhen La Hire is on the prrrowl!",
+  "fr": "Pas besoin de Gilles ni de Roger\nquand La Hire rrrôde dans le coin !"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Liane",
+  "en": "You don't understand...",
+  "fr": "Tu ne comprends pas..."
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Liane",
+  "en": "Without Roger, I'm...I'm...",
+  "fr": "Sans Roger, je... je..."
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Richard",
+  "en": "...Are all our troops accounted\nfor?",
+  "fr": "...Toutes nos troupes sont-elles\nlà ?"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Sellsword",
+  "en": "Hey, Aldric!",
+  "fr": "Hé, Aldric !"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Sellsword",
+  "en": "Over here! HEEEY!",
+  "fr": "Par ici ! OHÉÉÉ !"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "Shh! Be QUIET!",
+  "fr": "Chut ! Tais-TOI !"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "La Hire",
+  "en": "...Roger?!",
+  "fr": "...Roger ?!"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Sellsword",
+  "en": "Sorry, I'm sorry...\nForgot you went by \"Roger.\"",
+  "fr": "Pardon, pardon... J'oubliais que\ntu te faisais appeler « Roger »."
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Sellsword",
+  "en": "Is that like your \"warrior\" name?\n\"Roger the Rogue\"? Heh!",
+  "fr": "C'est ton nom de « guerrier » ?\n« Roger le Roublard » ? Hé !"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "I'd prefer Aldric right now.\nCall me Aldric...please!",
+  "fr": "Je préfère Aldric pour l'instant.\nAppelle-moi Aldric... je t'en prie !"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Sellsword",
+  "en": "I'll call you Baldric if you rather,\n\fbut you sure you know the plan?",
+  "fr": "Je t'appellerai Baldric si tu veux,\n\fmais t'es sûr de connaître le plan ?"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Sellsword",
+  "en": "Soon as our pals make a run for\nthe town,\fthat's our signal to shut you-\nknow-who out.",
+  "fr": "Dès que nos potes foncent sur\nla ville,\fc'est le signal : on ferme les\nportes à tu-sais-qui."
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Sellsword",
+  "en": "Cheer up, coz! Once it's done,\nI'll buy you a round.",
+  "fr": "Courage, vieux ! Une fois que\nc'est fait, je te paie une tournée."
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Richard",
+  "en": "Enemy troops!",
+  "fr": "Des troupes ennemies !"
+ },
+ {
+  "ctx": "ST3030BM",
+  "max": 34,
+  "who": "Richard",
+  "en": "We must join our might and\ndefend the town!",
+  "fr": "Unissons nos forces pour\ndéfendre la ville !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Victory!",
+  "fr": "Victoire !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Bartolomeo",
+  "en": "Have at you!",
+  "fr": "En garde !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Bartolomeo",
+  "en": "Thou shalt\nrue this day!",
+  "fr": "Tu maudiras\nce jour !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Bartolomeo",
+  "en": "March,\nor mourn!",
+  "fr": "Marche,\nou péris !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "All is part of\nGod's plan.",
+  "fr": "Tout fait partie\ndu dessein divin."
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Armlet,\nfail me not...",
+  "fr": "Bracelet, ne me\nfais pas défaut..."
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Heaven is with\nus! Fear not!",
+  "fr": "Le Ciel est avec\nnous ! Courage !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Lord, show us\nthe right path.",
+  "fr": "Seigneur, montrez-\nnous le chemin."
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Claire",
+  "en": "You all had\nbetter keep up!",
+  "fr": "Tâchez de suivre,\nvous autres !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Think there's\nany treasure?",
+  "fr": "Y aurait pas un\npetit trésor ?"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Right! Here\ncomes Rose!",
+  "fr": "Allez ! Place\nà Rose !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Time to make\nsome money!",
+  "fr": "À nous les\nécus !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "I can't lose...!",
+  "fr": "Je ne peux pas\nperdre... !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "unité#164",
+  "en": "Imbecile...",
+  "fr": "Imbécile..."
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "unité#164",
+  "en": "Keep it up.",
+  "fr": "Continuez comme\nça."
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "unité#164",
+  "en": "How silly...",
+  "fr": "Que c'est bête..."
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "unité#164",
+  "en": "This town is\nmine!",
+  "fr": "Cette ville est\nà moi !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "unité#164",
+  "en": "Hah...Pitiful.",
+  "fr": "Hah... Pitoyable."
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "unité#164",
+  "en": "Head for the\ntown entrance!",
+  "fr": "Vers l'entrée de\nla ville !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "unité#164",
+  "en": "Invade the town!",
+  "fr": "Envahissez la\nville !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "unité#164",
+  "en": "You're in my\nway...",
+  "fr": "Tu me gênes..."
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "",
+  "en": "Gah...!",
+  "fr": "Gah... !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "",
+  "en": "We're still in\nthis! Forward!",
+  "fr": "Rien n'est perdu !\nEn avant !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "",
+  "en": "Heh heh...It's\nmine now.",
+  "fr": "Hé hé... C'est à\nmoi, maintenant."
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "",
+  "en": "That's not about\nto stop me!",
+  "fr": "Ça ne m'arrêtera\npas !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "",
+  "en": "All right,\nlet's go!",
+  "fr": "Allez, on y va !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "",
+  "en": "Now! Plow in\nthere!",
+  "fr": "Maintenant !\nFoncez dedans !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "",
+  "en": "Ergh!",
+  "fr": "Ergh !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Stay vigilant! We can't let the\nenemy inside town!",
+  "fr": "Restez vigilants ! L'ennemi ne\ndoit pas entrer !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Sellsword",
+  "en": "Right! Now's our chance!\nMake a run for the town!",
+  "fr": "Bon ! C'est notre chance !\nCourez vers la ville !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "What are you doing?\nI-I'm JEANNE!",
+  "fr": "Mais que faites- vous\n? J-je suis JEANNE !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Rufus",
+  "en": "Awooo!\nRy'm not a rad guy!",
+  "fr": "Ahouuu ! Ruis pas\nun réchant !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "La Hire",
+  "en": "Rrrar, what are you doing?!\nYou will tell La Hire!",
+  "fr": "Grrr, que faites- vous ?! La\nHire exige une explication !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Bartolomeo",
+  "en": "Ngaaah! What treachery dost thou\npractice?",
+  "fr": "Ngaaah ! Félon !\nQu'oses-tu donc ?"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "Ungh! Wh-what on earth...\nWhat are you doing?!",
+  "fr": "Ungh ! Qu-quoi...\nQue faites-vous ?!"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Bertrand",
+  "en": "Draaagh!\nWhat the hell are you doin'?!",
+  "fr": "Draaagh ! Qu'est-\nce que tu fous ?!"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Waaah!\nI thought we were friends!",
+  "fr": "Waaah ! Je croyais\nqu'on était amis !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "Ack!\nYou are attacking an ally!",
+  "fr": "Aïe ! Vous frappez\nun allié !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Ungh! You wretches...plotted\nagainst us?",
+  "fr": "Ungh ! Vauriens...\nUn complot ?"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Oof! What eez ze beeg idea?!\nDo I look like ze bad guy? NON!",
+  "fr": "Ouf ! C'est quoi, cette idée ?!\nJ'ai l'air d'un méchant ? NON !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Claire",
+  "en": "What?! How dare you!\nDon't you know who I am?! Ugh!",
+  "fr": "Quoi ?! Comment osez-vous ! Vous\nignorez qui je suis ?! Ugh !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Hey...what're you playin' at,\nyou backstabbers?!",
+  "fr": "Hé... vous jouez à quoi, là,\nbande de félons ?!"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Oh, no!\nThey're inside the town walls!",
+  "fr": "Oh non ! Ils sont\ndans la ville !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Rufus",
+  "en": "Awooo!\nRut do we roo?",
+  "fr": "Ahouuu !\nRue raire ?"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "La Hire",
+  "en": "Rrrar, no!\nThey have eluded La Hire!",
+  "fr": "Grrr, non ! Ils ont échappé\nà La Hire !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Bartolomeo",
+  "en": "Alack... Our foes have already\nthe town walls breach'd...",
+  "fr": "Las... Nos ennemis ont déjà\nforcé les remparts..."
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "Grr...\nThey've broken through!",
+  "fr": "Grr... Ils ont percé !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Bertrand",
+  "en": "Damn it!\nThey're inside the walls!",
+  "fr": "Bon sang !\nIls sont entrés !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Oh, no! The bad guys have\nreached the town!",
+  "fr": "Oh non ! Les\nméchants sont là !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "Oh, terror!\nThey're targeting the town!",
+  "fr": "Ô terreur ! Ils\nvisent la ville !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Grr...\nWe were outmanned...",
+  "fr": "Grr...\nTrop nombreux..."
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Claire",
+  "en": "They're inside the town!\nUGH!",
+  "fr": "Ils sont entrés ! UGH !"
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Non!\nWe are all feenished...",
+  "fr": "Non ! Nous sommes\ntous fichus..."
+ },
+ {
+  "ctx": "ST3030BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Bugger!\nThey're inside the town!",
+  "fr": "Mince !\nIls sont entrés !"
+ },
+ {
+  "ctx": "ST3030AB",
+  "max": 34,
+  "who": "La Hire",
+  "en": "Wh-what is happening here?!",
+  "fr": "Qu-que se passe-t-il ?!"
+ },
+ {
+  "ctx": "ST3030AB",
+  "max": 34,
+  "who": "Richard",
+  "en": "We've been played for fools.",
+  "fr": "On nous a bernés."
+ },
+ {
+  "ctx": "ST3030AB",
+  "max": 34,
+  "who": "Richard",
+  "en": "Blast!\nIf we don't do something...",
+  "fr": "Diantre ! Si on ne fait rien..."
+ },
+ {
+  "ctx": "ST3030AB",
+  "max": 34,
+  "who": "Richard",
+  "en": "Quickly, friends!\nTake shelter in the town!",
+  "fr": "Vite, mes amis !\nAbritez-vous dans la ville !"
+ },
+ {
+  "ctx": "ST3030AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "Hurry, everyone!\nThere's no time to lose!",
+  "fr": "Dépêchez-vous, tous !\nIl n'y a pas de temps à perdre !"
+ },
+ {
+  "ctx": "ST3030AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "Wait, why are you raising\nthe\\u2014",
+  "fr": "Attendez, pourquoi relevez-vous\nle\\u2014"
+ },
+ {
+  "ctx": "ST3030AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "It's me, JEANNE!\nLower the drawbridge!",
+  "fr": "C'est moi, JEANNE !\nAbaissez le pont-levis !"
+ },
+ {
+  "ctx": "ST3030AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "Please, let me in\\u2014",
+  "fr": "Je vous en prie, ouvrez-moi\\u2014"
+ },
+ {
+  "ctx": "ST3030AB",
+  "max": 34,
+  "who": "Jeanne, Liane",
+  "en": "La Hire!",
+  "fr": "La Hire !"
+ }
+]

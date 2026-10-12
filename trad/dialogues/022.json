@@ -1,0 +1,1752 @@
+[
+ {
+  "ctx": "ST4080BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "Why, uncle?",
+  "fr": "Pourquoi, mon\noncle ?"
+ },
+ {
+  "ctx": "ST4080BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "For now,\nI must fight...",
+  "fr": "Pour l'heure, nous\ndevons combattre."
+ },
+ {
+  "ctx": "ST4080BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "Coa, coa coa!",
+  "fr": "Coa, coa coa !"
+ },
+ {
+  "ctx": "ST4080BT",
+  "max": 16,
+  "who": "unité#0, unité#169",
+  "en": "You're all\nworthless...",
+  "fr": "Vous ne valez\nrien..."
+ },
+ {
+  "ctx": "ST4080BT",
+  "max": 16,
+  "who": "unité#0, unité#144, unité#169",
+  "en": "Is that all...?",
+  "fr": "C'est tout... ?"
+ },
+ {
+  "ctx": "ST4080BT",
+  "max": 16,
+  "who": "unité#0, unité#169",
+  "en": "Well...? I'm\nwaiting...!",
+  "fr": "Alors... ?\nJ'attends... !"
+ },
+ {
+  "ctx": "ST4080BT",
+  "max": 16,
+  "who": "unité#0, unité#169",
+  "en": "This won't be\neasy for you...",
+  "fr": "Ce ne sera pas\nsi facile..."
+ },
+ {
+  "ctx": "ST4080BT",
+  "max": 16,
+  "who": "",
+  "en": "This power...I\nhad no idea...",
+  "fr": "Ce pouvoir... je\nne soupçonnais pas"
+ },
+ {
+  "ctx": "ST4080BT",
+  "max": 16,
+  "who": "",
+  "en": "You won't defeat\nme that easily!",
+  "fr": "Tu ne me vaincras\npas si aisément !"
+ },
+ {
+  "ctx": "ST4080BT",
+  "max": 16,
+  "who": "",
+  "en": "Having trouble,\no armlet hero?",
+  "fr": "Des ennuis, ô\nélu du Bracelet ?"
+ },
+ {
+  "ctx": "ST4080BT",
+  "max": 16,
+  "who": "",
+  "en": "Playtime is\nover!",
+  "fr": "Fini de jouer !"
+ },
+ {
+  "ctx": "ST4080BT",
+  "max": 16,
+  "who": "",
+  "en": "You can't get\npast me...",
+  "fr": "Tu ne passeras\npas..."
+ },
+ {
+  "ctx": "ST4080BT",
+  "max": 16,
+  "who": "",
+  "en": "Fill me with\nyour power...",
+  "fr": "Emplis-moi de\nta puissance..."
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "",
+  "en": "The Gem of Portent fused with Roger's armlet!",
+  "fr": "La Gemme du présage fusionne avec\nle Bracelet de Roger !"
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "I am finished...",
+  "fr": "C'en est fini de moi..."
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "Cuisses",
+  "en": "Why, why did you let it go this\nfar?",
+  "fr": "Pourquoi, pourquoi être allé\naussi loin ?"
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "To save England...\nTo save you...",
+  "fr": "Pour sauver l'Angleterre...\nPour vous sauver..."
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Wrong, Bedford! The reapers have\nplayed you false!",
+  "fr": "Vous vous trompez, Bedford ! Les\nFaucheurs vous ont dupé !"
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "You are the one...who is wrong.\nI did this of my own free will.",
+  "fr": "C'est toi... qui te trompes.\nJ'ai agi de mon plein gré."
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "No reaper possesses the man\nbefore you...",
+  "fr": "Nul Faucheur ne possède l'homme\nqui se tient devant toi..."
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Then why would you do something\nso stupid?",
+  "fr": "Alors pourquoi avoir commis une\ntelle folie ?"
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "You put a demon inside your own\nnephew! To PROTECT him?!",
+  "fr": "Vous avez mis un démon dans votre\npropre neveu ! Pour le PROTÉGER ?!"
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "You understand nothing!",
+  "fr": "Tu ne comprends rien !"
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "The late king Henry V's sudden\npassing...",
+  "fr": "La mort soudaine du défunt roi\nHenri V..."
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "made his son Henry VI the\nrightful king in his first year.",
+  "fr": "a fait de son fils Henri VI le roi\nlégitime, dès sa première année."
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "With war raging all about us, our\nkingdom was ready to fall apart.",
+  "fr": "Avec la guerre qui faisait rage,\nle royaume menaçait de s'effondrer."
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "They were going to assassinate\nthe boy...",
+  "fr": "Ils allaient assassiner\nl'enfant..."
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "I had to do what I did, to defend\nthe king's honor and keep my\ncountry from collapsing!",
+  "fr": "Je devais agir ainsi pour défendre\nl'honneur du roi et empêcher mon\npays de sombrer !"
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "Greedy nobles...bastards born of\nthe ugly conflicts of the past...",
+  "fr": "Nobles cupides... bâtards nés des\nlaids conflits du passé..."
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "I had to protect my country from\nthem. My king...",
+  "fr": "Je devais protéger mon pays\nd'eux. Mon roi..."
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "Cuisses",
+  "en": "Oh, Uncle...",
+  "fr": "Oh, mon oncle..."
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "Sire, please forgive me.",
+  "fr": "Sire, pardonnez-moi."
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "I should have taken matters...more\nslowly...",
+  "fr": "J'aurais dû agir... avec plus de\nmesure..."
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "Cuisses",
+  "en": "*Sniff* *Sob...*",
+  "fr": "*Snif* *Sanglot...*"
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "You... Witch girl.\nTake care...of Henry...",
+  "fr": "Toi... Petite sorcière.\nVeille... sur Henri..."
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "Cuisses",
+  "en": "No, no! Open your eyes!\nUNCLE!!!",
+  "fr": "Non, non ! Ouvrez les yeux !\nUNCLE !!!"
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "Richard",
+  "en": "The armlet has made its choice.",
+  "fr": "Le Bracelet a fait son choix."
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "Richard",
+  "en": "Another hero is born.",
+  "fr": "Un nouveau héros est né."
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "Talbot",
+  "en": "Har...",
+  "fr": "Ha..."
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "Talbot",
+  "en": "She must be at the throne room\nby now. Godspeed, lass.",
+  "fr": "Elle doit être dans la salle du\ntrône, à l'heure qu'il est.\fGodspeed, petite."
+ },
+ {
+  "ctx": "ST4080AB",
+  "max": 34,
+  "who": "",
+  "en": "The Gem of Portent fuses to \nRoger's armlet!",
+  "fr": "La Gemme du présage fusionne avec\nle Bracelet de Roger !"
+ },
+ {
+  "ctx": "ST4090BM",
+  "max": 34,
+  "who": "",
+  "en": "&Gilvaroth",
+  "fr": "&Gilvaroth"
+ },
+ {
+  "ctx": "ST4090BM",
+  "max": 34,
+  "who": "Gilvaroth",
+  "en": "Ahh...\nThen you have killed the human.",
+  "fr": "Ahh... Tu as donc tué l'humain."
+ },
+ {
+  "ctx": "ST4090BM",
+  "max": 34,
+  "who": "Gilvaroth",
+  "en": "Hmm, whatever was going through\nthat creature's head?",
+  "fr": "Hmm, qu'avait donc cette créature\nen tête ?"
+ },
+ {
+  "ctx": "ST4090BM",
+  "max": 34,
+  "who": "Gilvaroth",
+  "en": "He held his world out to me on\na silver platter. The fool!",
+  "fr": "Il m'a offert son monde sur un\nplateau d'argent. Le sot !"
+ },
+ {
+  "ctx": "ST4090BM",
+  "max": 34,
+  "who": "Gilvaroth",
+  "en": "Feh...\nIt has been an eternity.",
+  "fr": "Peuh... Cela faisait une éternité."
+ },
+ {
+  "ctx": "ST4090BM",
+  "max": 34,
+  "who": "Gilvaroth",
+  "en": "Trapped inside a gem, in a world\nof nothing...",
+  "fr": "Prisonnier d'une gemme, dans un\nmonde de néant..."
+ },
+ {
+  "ctx": "ST4090BM",
+  "max": 34,
+  "who": "Gilvaroth",
+  "en": "passing dull days with nary a\nshriek nor scream to comfort me.",
+  "fr": "à passer des jours mornes sans un\ncri ni une plainte pour me consoler."
+ },
+ {
+  "ctx": "ST4090BM",
+  "max": 34,
+  "who": "Gilvaroth",
+  "en": "I shall never forget the pleasure\nof escaping that foul prison.",
+  "fr": "Jamais je n'oublierai le plaisir\nde m'être évadé de cette geôle."
+ },
+ {
+  "ctx": "ST4090BM",
+  "max": 34,
+  "who": "Gilvaroth",
+  "en": "Now, to drape this world in\ndarkness!",
+  "fr": "À présent, drapons ce monde de\nténèbres !"
+ },
+ {
+  "ctx": "ST4090BM",
+  "max": 34,
+  "who": "Gilvaroth",
+  "en": "Hear how the earth, the skies,\neverything quivers?",
+  "fr": "Entendez-vous la terre, le ciel,\ntout ce qui frémit ?"
+ },
+ {
+  "ctx": "ST4090BM",
+  "max": 34,
+  "who": "Gilvaroth",
+  "en": "All is waiting to be conquered\nby my darkness!",
+  "fr": "Tout attend d'être conquis par\nmes ténèbres !"
+ },
+ {
+  "ctx": "ST4090BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Never!",
+  "fr": "Jamais !"
+ },
+ {
+  "ctx": "ST4090BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Die, monster! You don't belong\nin this world!",
+  "fr": "Meurs, monstre ! Tu n'as pas ta\nplace en ce monde !"
+ },
+ {
+  "ctx": "ST4090BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Go back to the darkness!",
+  "fr": "Retourne dans les ténèbres !"
+ },
+ {
+  "ctx": "ST4090BM",
+  "max": 34,
+  "who": "Gilvaroth",
+  "en": "Oh, my dear armlet wielder.\nDon't say such cruel things.",
+  "fr": "Oh, ma chère porteuse de Bracelet.\nNe dis pas des choses si cruelles."
+ },
+ {
+  "ctx": "ST4090BM",
+  "max": 34,
+  "who": "Gilvaroth",
+  "en": "The lot of you will appreciate\nthe darkness more...\fonce you have tasted it!",
+  "fr": "Vous apprécierez tous davantage\nles ténèbres...\fune fois que vous y aurez goûté !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "unité#144",
+  "en": "That's not good\nenough...",
+  "fr": "Ce n'est pas\nsuffisant..."
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "unité#144",
+  "en": "What a pathetic\nrabble...",
+  "fr": "Quelle piteuse\ncohue..."
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "unité#144",
+  "en": "Well...let's\nhave some fun.",
+  "fr": "Bien... amusons-\nnous un peu."
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "unité#144",
+  "en": "Humans are all\npowerless!",
+  "fr": "Les humains sont\nsi impuissants !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "unité#144",
+  "en": "Give your bodies\nto me...",
+  "fr": "Offrez-moi\nvos corps..."
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "unité#144",
+  "en": "Heh heh...stupid\ncreatures...",
+  "fr": "Hé hé... stupides\ncréatures..."
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "unité#144",
+  "en": "Everything is\nin my hands!",
+  "fr": "Tout est entre\nmes mains !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "",
+  "en": "My human body...\ncan't take this!",
+  "fr": "Mon corps humain\nne tiendra pas !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "",
+  "en": "I'll never\nforgive you...!",
+  "fr": "Je ne vous le\npardonnerai pas !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "",
+  "en": "Mere humans...\nGoing so far...!",
+  "fr": "De simples\nhumains... !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "",
+  "en": "You'll regret\nmessing with me!",
+  "fr": "Vous regretterez\nde m'avoir défié !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "",
+  "en": "You horrid horde\nof humans!!",
+  "fr": "Horde humaine\nhorrible !!"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "",
+  "en": "I'll bury all\nof you at once!",
+  "fr": "Je vous enterre\ntous d'un coup !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "",
+  "en": "Damn you...and\nthose armlets!",
+  "fr": "Maudits soyez-\nvous, et vos\fBracelets !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "",
+  "en": "Out of my way,\nyou...!",
+  "fr": "Hors de mon\nchemin... !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "",
+  "en": "Daahh! You'll\npay for that!",
+  "fr": "Daahh ! Tu vas\nme le payer !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "",
+  "en": "Grrrrgh!!",
+  "fr": "Grrrrgh !!"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "",
+  "en": "You will kneel\nbefore me!",
+  "fr": "À genoux devant\nmoi !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "",
+  "en": "Your despair is\nmy fuel...",
+  "fr": "Ton désespoir\nme nourrit..."
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "",
+  "en": "Prepare for even\nmore despair!",
+  "fr": "Voici encore plus\nde désespoir !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "",
+  "en": "Well...time to\nfinish this...",
+  "fr": "Bien... il est\ntemps d'en finir"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "",
+  "en": "Ah, that look on\nyour face! Hah!",
+  "fr": "Ah, cette tête\nque tu fais ! Ha !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "",
+  "en": "More pain lies\nahead for you...",
+  "fr": "D'autres maux\nt'attendent..."
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "",
+  "en": "Heh heh...Oh, I\ncan't take it...",
+  "fr": "Hé hé... Oh, je\nn'en peux plus..."
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "",
+  "en": "Struggle all\nyou want...",
+  "fr": "Débats-toi\ntant que tu veux"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "",
+  "en": "Hah...",
+  "fr": "Hah..."
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "",
+  "en": "You'll pay...!",
+  "fr": "Tu vas payer... !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "",
+  "en": "You insolent\nlittle...!",
+  "fr": "Petite\ninsolente... !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "",
+  "en": "I'll banish you\nto darkness!",
+  "fr": "Je te bannis\naux ténèbres !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "",
+  "en": "Your death will\nbe slow...",
+  "fr": "Ta mort sera\nlente..."
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "",
+  "en": "Let me hear your\nscreams!",
+  "fr": "Fais-moi entendre\ntes cris !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "",
+  "en": "Scream! Sob!\nCry in pain!",
+  "fr": "Hurle ! Sanglote !\nGémis de douleur !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "It's no use...",
+  "fr": "C'est inutile..."
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "Nothing's hurting him!",
+  "fr": "Aucun effet !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "Which means we use this!",
+  "fr": "Alors, servons-\nnous de ceci !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "Gilvaroth",
+  "en": "What...what do you plan to do\nwith that toy?",
+  "fr": "Que... que veux-tu faire avec\nce jouet ?"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "This!",
+  "fr": "Ceci !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "Gilvaroth",
+  "en": "Gwahhh?",
+  "fr": "Gwahhh ?"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "Gilvaroth",
+  "en": "Gwaaaaaaaaahhh!!!",
+  "fr": "Gwaaaaaaaahhh !!!"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "Gilvaroth",
+  "en": "Urrrrrrggg...",
+  "fr": "Urrrrrrggg..."
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Hurry! Stop him before he can\nmake it back to Henry's body!",
+  "fr": "Vite ! Arrêtez-le avant qu'il\nne retourne dans le corps\fd'Henri !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "Superbia",
+  "en": "hRRRrrrAAAH!",
+  "fr": "hRRRrrrAAAH !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "Avaritia",
+  "en": "aAAAaaaAAACK!",
+  "fr": "aAAAaaaAAACK !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "Luxuria",
+  "en": "yAAAaaaAAARG!",
+  "fr": "yAAAaaaAAARG !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "Ira",
+  "en": "gRRRaaaAAAGH!",
+  "fr": "gRRRaaaAAAGH !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "There, we did it!\nYou're ours now, Gilvaroth!",
+  "fr": "Ça y est ! À nous deux,\nGilvaroth !"
+ },
+ {
+  "ctx": "ST4090BT",
+  "max": 16,
+  "who": "Gilvaroth",
+  "en": "HUMAAAAAANS!!!",
+  "fr": "HUMAAAAAAINS !!!"
+ },
+ {
+  "ctx": "ST4090AB",
+  "max": 34,
+  "who": "Gilvaroth",
+  "en": "Urgaaagh...",
+  "fr": "Urgaaargh..."
+ },
+ {
+  "ctx": "ST4090AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "Now! Lock him in the gem!",
+  "fr": "Maintenant ! Enfermez-le dans la\ngemme !"
+ },
+ {
+  "ctx": "ST4090AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Roger!\nThe transfer device!",
+  "fr": "Roger ! L'appareil de transfert !"
+ },
+ {
+  "ctx": "ST4090AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "Got it!",
+  "fr": "Compris !"
+ },
+ {
+  "ctx": "ST4090AB",
+  "max": 34,
+  "who": "Gilvaroth",
+  "en": "Ergwaaaaaah!!!",
+  "fr": "Ergwaaaaaah !!!"
+ },
+ {
+  "ctx": "ST4090AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Did we...did we do it?",
+  "fr": "On a... on a réussi ?"
+ },
+ {
+  "ctx": "ST4090AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "Finally.",
+  "fr": "Enfin."
+ },
+ {
+  "ctx": "ST4090AB",
+  "max": 34,
+  "who": "Cuisses",
+  "en": "Gilvaroth is gone for g\\u2014\nAgh!!!",
+  "fr": "Gilvaroth a disparu pour de b\\u2014\nAargh !!!"
+ },
+ {
+  "ctx": "ST4090AB",
+  "max": 34,
+  "who": "Cuisses",
+  "en": "Ribbit!",
+  "fr": "Croâ !"
+ },
+ {
+  "ctx": "ST4090AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "\"Ribbit\"?\nWait, that's not right...",
+  "fr": "« Croâ » ?\nAttendez, ce n'est pas normal..."
+ },
+ {
+  "ctx": "ST4090AB",
+  "max": 34,
+  "who": "Cuisses",
+  "en": "Ribbit, ribbit!",
+  "fr": "Croâ, croâ !"
+ },
+ {
+  "ctx": "ST4090AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Wait\\u2014",
+  "fr": "Attendez\\u2014"
+ },
+ {
+  "ctx": "ST4090AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "You're free!",
+  "fr": "Vous êtes libre !"
+ },
+ {
+  "ctx": "ST4090AB",
+  "max": 34,
+  "who": "",
+  "en": "&Henry",
+  "fr": "&Henri"
+ },
+ {
+  "ctx": "ST4090AB",
+  "max": 34,
+  "who": "Henry",
+  "en": "*Yawn*",
+  "fr": "*Bâillement*"
+ },
+ {
+  "ctx": "ST4090AB",
+  "max": 34,
+  "who": "La Hire",
+  "en": "The boy king is back to normal?",
+  "fr": "Le jeune roi est redevenu normal ?"
+ },
+ {
+  "ctx": "ST4090AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Seems that way...",
+  "fr": "On dirait bien..."
+ },
+ {
+  "ctx": "ST4090AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "Yes. Look at his face... The face\nof a sweet child.",
+  "fr": "Oui. Regardez son visage... Le\nvisage d'un doux enfant."
+ },
+ {
+  "ctx": "ST4090AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "It's over. Really over.",
+  "fr": "C'est fini. Vraiment fini."
+ },
+ {
+  "ctx": "ST4090AB",
+  "max": 34,
+  "who": "Richard",
+  "en": "Hard to believe, isn't it?",
+  "fr": "Dur à croire, hein ?"
+ },
+ {
+  "ctx": "ST4090AB",
+  "max": 34,
+  "who": "La Hire",
+  "en": "La Hire has done it! Rrrar!",
+  "fr": "La Hire a rrréussi ! Grrrah !"
+ },
+ {
+  "ctx": "ST4090AB",
+  "max": 34,
+  "who": "Colet",
+  "en": "Hawumph!\nEet eez about time, non?",
+  "fr": "Hmpf ! Il était temps, non ?"
+ },
+ {
+  "ctx": "ST4090AB",
+  "max": 34,
+  "who": "",
+  "en": "*Thump*",
+  "fr": "*Boum*"
+ },
+ {
+  "ctx": "ST4090AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "What's going on?",
+  "fr": "Que se passe-t-il ?"
+ },
+ {
+  "ctx": "ST4090AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "The gem!",
+  "fr": "La gemme !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "This is it...\nTo arms!",
+  "fr": "Nous y voilà...\nAux armes !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Gilles",
+  "en": "Demon!\nYou will fall!",
+  "fr": "Démon !\nTu vas tomber !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Rufus",
+  "en": "R-rowsers...\nRet's get him!",
+  "fr": "Ouaf... R-rallons\nle rattraper !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "La Hire",
+  "en": "Hoo-ah!\nChaaarge!",
+  "fr": "Hourra !\nÀ l'assaaaut !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Bartolomeo",
+  "en": "Beatrix...we will\nweather this!",
+  "fr": "Beatrix... nous\nbraverons ceci !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "We won't lose\nto you!",
+  "fr": "Nous ne perdrons\npas contre toi !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Bertrand",
+  "en": "Get ready for\na stompin'!",
+  "fr": "Prépare-toi à\nprendre une raclée"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "We'll all make\nit through this!",
+  "fr": "Nous nous en\nsortirons tous !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "Our final fight!",
+  "fr": "Notre ultime\ncombat !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Begone, Fiend...\nfor all eternity!",
+  "fr": "Disparais, Malin,\npour l'éternité !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Claire",
+  "en": "I rule the world,\nnot you!",
+  "fr": "Le monde est à\nmoi, pas à toi !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "You, as ruler?\nI zeenk not!",
+  "fr": "Toi, régner ?\nSûrement pas !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "We don't need\nthe likes of you!",
+  "fr": "On n'a pas besoin\nde toi !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Give him all\nyou've got!",
+  "fr": "Donnez tout\nce que vous avez !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Gilvaroth must\nbe stopped!",
+  "fr": "Il faut arrêter\nGilvaroth !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "We have\nto do this!",
+  "fr": "Nous devons\ny arriver !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Gilles",
+  "en": "Do whatever\nit takes!",
+  "fr": "Coûte que\ncoûte !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Gilles",
+  "en": "End him!",
+  "fr": "Achevons-le !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Rufus",
+  "en": "I ron't lose!",
+  "fr": "Je ne rerdrai\nras !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Rufus",
+  "en": "We raff to\nmake it home!",
+  "fr": "Il raut qu'on\nrentre à la raison"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Bartolomeo",
+  "en": "Stop the Fiend!",
+  "fr": "Arrêtons le\nMalin !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Bartolomeo",
+  "en": "We will weather\nthis together!",
+  "fr": "Nous braverons\nceci ensemble !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "Is this what\nHell is?",
+  "fr": "Est-ce donc\ncela, l'Enfer ?"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "Go back home...\nso we can, too!",
+  "fr": "Rentre chez toi,\net nous aussi !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "Only one road\nleft to us!",
+  "fr": "Il ne nous reste\nqu'une voie !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Bertrand",
+  "en": "I ain't pullin'\nany punches!",
+  "fr": "J'vais pas y aller\nde main morte !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "This arrow has\nyour name on it!",
+  "fr": "Cette flèche\nest pour toi !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "A fiend in name\nAND nature...",
+  "fr": "Malin de nom\nET de nature..."
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "We will\nnot waver!",
+  "fr": "Nous ne\nfaiblirons pas !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "Full force!",
+  "fr": "Toutes nos\nforces !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Together, we\nwill triumph!",
+  "fr": "Ensemble, nous\ntriompherons !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Believe in\nyour strength!",
+  "fr": "Crois en ta\nforce !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Claire",
+  "en": "Want some\nmore?",
+  "fr": "T'en veux\nencore ?"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "I deed not sign\nup for zees...",
+  "fr": "Ce n'était pas\nprévu, ça..."
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "You asked\nfor eet!",
+  "fr": "Tu l'as cherché !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Can we ween?",
+  "fr": "Peut-on gagner ?"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "The world needs\nme more 'n you!",
+  "fr": "Le monde a plus\nbesoin d'moi !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "No giving up!",
+  "fr": "On ne lâche rien !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "C...coa...",
+  "fr": "C... coa..."
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "Cooaaa...",
+  "fr": "Cooaaa..."
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "Coa coa.",
+  "fr": "Coa coa."
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "Coa coa!!!",
+  "fr": "Coa coa !!!"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "unité#143",
+  "en": "See...how power-\nless you are!",
+  "fr": "Vois comme\ntu es impuissant !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "unité#143",
+  "en": "Pathetic, all\nof you...",
+  "fr": "Pitoyables,\ntous autant..."
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "unité#143",
+  "en": "Intruders...this\nis our land!",
+  "fr": "Intrus... ce\nsont nos terres !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "unité#143",
+  "en": "Give your body\nto me...",
+  "fr": "Offre-moi\nton corps..."
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "unité#143",
+  "en": "It's useless,\nhuman...",
+  "fr": "C'est inutile,\nhumain..."
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "unité#143",
+  "en": "All is ruled by\ndarkness...",
+  "fr": "Tout appartient\naux ténèbres..."
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "",
+  "en": "No...how could I\nallow this...!!",
+  "fr": "Non... comment\nai-je pu permettre\fcela... !!"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "",
+  "en": "You...you'll\npay...!",
+  "fr": "Tu... tu vas\npayer... !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "",
+  "en": "I am eternal...\nWith the world.",
+  "fr": "Je suis éternel...\nComme le monde."
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "",
+  "en": "I will be reborn\nover and over!",
+  "fr": "Je renaîtrai\nencore et encore !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "",
+  "en": "You annoying\nflies!!",
+  "fr": "Mouches\nagaçantes !!"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "",
+  "en": "It's useless,\nyou little ones!",
+  "fr": "C'est inutile,\nmes petits !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "",
+  "en": "Think you can\ntake me, human?",
+  "fr": "Tu crois me\nvaincre, humain ?"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "",
+  "en": "Such pathetic\ncreatures...",
+  "fr": "Pitoyables\ncréatures..."
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "",
+  "en": "Heh heh...now,\nit's all mine...",
+  "fr": "Hé hé... tout\nm'appartient..."
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "",
+  "en": "I will wipe out\neverything!",
+  "fr": "J'anéantirai\ntout !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "",
+  "en": "Afraid of death,\nmy heroes?",
+  "fr": "La mort vous fait\npeur, mes héros ?"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "",
+  "en": "It's pointless.\nCan't you see?",
+  "fr": "C'est vain.\nNe vois-tu pas ?"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "",
+  "en": "All shall return\nto darkness...",
+  "fr": "Tout retournera\naux ténèbres..."
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "",
+  "en": "What a waste...",
+  "fr": "Quel gâchis..."
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "",
+  "en": "You...you can't\ndo this...",
+  "fr": "Tu... tu ne peux\npas faire ça..."
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "",
+  "en": "Do you know no\nfear...?!",
+  "fr": "Ne connais-tu\npas la peur ?!"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "",
+  "en": "Eternal dark-\nness is near!",
+  "fr": "Les ténèbres\néternelles\fapprochent !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "",
+  "en": "Deep...deep into\nthe darkness...",
+  "fr": "Au plus profond...\ndes ténèbres..."
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "",
+  "en": "I will shatter\nyour very souls!",
+  "fr": "Je briserai\nvos âmes !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "",
+  "en": "The hatred flows\nthrough me...!",
+  "fr": "La haine coule\nen moi... !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "I swore I'd protect everyone!\nI can't let it end. Not like this...!",
+  "fr": "J'ai juré de protéger tout le monde !\nÇa ne peut pas finir ainsi... !"
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "Why! When I've made it this far...\nJeanne, forgive me...",
+  "fr": "Pourquoi ! Si près du but... Jeanne,\npardonne-moi..."
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "Jeanne...the rest is in your hands.",
+  "fr": "Jeanne... le reste t'appartient..."
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "La Hire",
+  "en": "Grrrar! La Hire was so close!\nYou must...forrrgive him...",
+  "fr": "Grrrah ! La Hire touchait au\nbut ! Pardonne-lui,\fGénérrral..."
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Argh! Mortal means...have proven\ninadequate...",
+  "fr": "Argh ! Les moyens mortels... ont\néchoué..."
+ },
+ {
+  "ctx": "ST4100BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "Coa? Coa coa coa? Coaaa...",
+  "fr": "Coa ? Coa coa ? Coaaa..."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Gilvaroth",
+  "en": "Ungaaaaaaaaargh!",
+  "fr": "Ungaaaaaaaaargh !"
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "Jeanne! Now!",
+  "fr": "Jeanne ! Maintenant !"
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "GILVAROTH!",
+  "fr": "GILVAROTH !"
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "...Oof.",
+  "fr": "...Ouf."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "...We're back.",
+  "fr": "...Nous sommes revenus."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Is everyone all right?",
+  "fr": "Tout le monde va bien ?"
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "La Hire",
+  "en": "La Hire's friends all seem to be\nin one piece.",
+  "fr": "Les amis de La Hire ont l'airrr\nd'êtrrre tous entiers."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Wait, the gem!\nWhere's Gilvaroth?!",
+  "fr": "Attendez, la gemme !\nOù est Gilvaroth ?!"
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "Jeanne...it's all right.",
+  "fr": "Jeanne... tout va bien."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "This time he was imprisoned for\ngood.",
+  "fr": "Cette fois, il est emprisonné pour\nde bon."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "What do you mean?",
+  "fr": "Que veux-tu dire ?"
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "We stripped away all his power.",
+  "fr": "Nous lui avons ôté tout son\npouvoir."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "He can't break free of the gem\nanymore.",
+  "fr": "Il ne peut plus s'échapper de la\ngemme."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "...Not ALL his power.",
+  "fr": "...Pas TOUT son pouvoir."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "And he may not break free today,\nor tomorrow...",
+  "fr": "Il ne s'en échappera peut-être pas\naujourd'hui, ni demain..."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "but it only takes one person to\nset him loose.",
+  "fr": "mais il suffit d'une seule\npersonne pour le libérer."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Then...this will all happen again?",
+  "fr": "Alors... tout cela va recommencer ?"
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Richard",
+  "en": "...There is a way to stop it.",
+  "fr": "...Il existe un moyen d'empêcher\ncela."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "What?! Tell me, Richard...",
+  "fr": "Quoi ?! Dites-moi, Richard..."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Richard",
+  "en": "We can seal the gem inside a\nhuman soul.",
+  "fr": "Nous pouvons sceller la gemme à\nl'intérieur d'une âme humaine."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Richard",
+  "en": "...In his weakened state,",
+  "fr": "...Affaibli comme il l'est,"
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Richard",
+  "en": "the Fiend could be contained by a\nman with a strong enough heart.",
+  "fr": "le Malin pourrait être contenu par\nun homme au cœur assez fort."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Richard",
+  "en": "Perhaps the right heart could\neven purge the fiend altogether.",
+  "fr": "Peut-être même qu'un cœur digne\npourrait purger le Malin à jamais."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "But...how...",
+  "fr": "Mais... comment..."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "Richard, I'll do it.",
+  "fr": "Richard, je vais le faire."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "Put the Fiend inside my soul.",
+  "fr": "Mettez le Malin dans mon âme."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Roger! What are you saying?!",
+  "fr": "Roger ! Qu'est-ce que tu dis ?!"
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "I already bested one of the\nreapers. I'm our best chance.",
+  "fr": "J'ai déjà vaincu un des Faucheurs.\nC'est moi, notre meilleure chance."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "But...we finally set you free.",
+  "fr": "Mais... on vient enfin de te\nlibérer."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "And now you want to carry that\nburden all over again?",
+  "fr": "Et tu veux de nouveau porter ce\nfardeau ?"
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "Jeanne, I know how much you\ncare. But I'll be all right.",
+  "fr": "Jeanne, je sais combien tu tiens\nà moi. Mais tout ira bien."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "I promise I'll destroy Gilvaroth\nfor good.",
+  "fr": "Je te promets de détruire\nGilvaroth pour de bon."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "Hear me, gem!",
+  "fr": "Écoute-moi, gemme !"
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "No! Don't!",
+  "fr": "Non ! Arrête !"
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "Jeanne... Step aside.",
+  "fr": "Jeanne... Écarte-toi."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "I need to do this...to atone.",
+  "fr": "Je dois le faire... pour expier."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "For killing innocent people.\nFor not saving Liane...",
+  "fr": "Pour avoir tué des innocents.\nPour n'avoir pas sauvé Liane..."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "I need to make up for all of it.",
+  "fr": "Je dois racheter tout ça."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "That's ridiculous!\nNone of that was your fault!",
+  "fr": "C'est absurde !\nRien de tout ça n'était ta faute !"
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Liane wouldn't want you to do\nthis!",
+  "fr": "Liane ne voudrait pas que tu\nfasses ça !"
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "I'm sorry, Jeanne.",
+  "fr": "Je suis désolé, Jeanne."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "ROGER!!!",
+  "fr": "ROGER !!!"
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "Gilles... Why?\nYou should have let me do it.",
+  "fr": "Gilles... Pourquoi ?\nVous auriez dû me laisser faire."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "...You've suffered enough for\none lifetime, my friend.",
+  "fr": "...Vous avez assez souffert pour\nune vie entière, mon ami."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "Enough for two.",
+  "fr": "Assez pour deux."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "Be free...Roger.\nDo it for me...",
+  "fr": "Soyez libre... Roger.\nFaites-le pour moi..."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "And do it for Jeanne...",
+  "fr": "Et faites-le pour Jeanne..."
+ }
+]

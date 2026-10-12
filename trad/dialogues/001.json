@@ -1,0 +1,1752 @@
+[
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Ahh! Why is\nthis happening?",
+  "fr": "Ah ! Pourquoi\ntout ça ?!"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "You'll pay\nfor that!",
+  "fr": "Vous allez\nme le payer !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "God, please!",
+  "fr": "Mon Dieu, pitié !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Noooo!",
+  "fr": "Noooon !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Noooo! Why?!",
+  "fr": "Noooon !\nPourquoi ?!"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "I can do this...\nI can fight!",
+  "fr": "J'y arriverai...\nJe me battrai !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Serves you\nright!",
+  "fr": "Bien fait\npour toi !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "That's for\nwhat you did!",
+  "fr": "Voilà pour ce\nque tu as fait !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Who's next!",
+  "fr": "Au suivant !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Give me back\nmy home!",
+  "fr": "Rendez-moi\nmon village !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Papa...\nMother...",
+  "fr": "Papa... Maman..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "No...\nThe village...",
+  "fr": "Non...\nLe village..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "They need\nmy help...",
+  "fr": "Ils ont besoin\nde moi..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Jean, Roger, Richard",
+  "en": "Run!",
+  "fr": "Fuyez !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Are you alright?",
+  "fr": "Tout va bien ?"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "I won't forgive\nyou for this!",
+  "fr": "Je ne vous le\npardonnerai pas !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "What do you\nwant? Tell me!",
+  "fr": "Que voulez-vous ?\nRépondez !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Ahh...I...\nI'll kill you!",
+  "fr": "Ah... Je...\nJe vais te tuer !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Wh-why have\nyou done this?",
+  "fr": "P-pourquoi\navoir fait ça ?"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "No! Please,\njust stop!",
+  "fr": "Non ! Je vous en\nprie, arrêtez !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "You've crossed\nthe line!",
+  "fr": "Là, c'en est\ntrop !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Ahhh...\nYou'll pay!",
+  "fr": "Ahhh...\nTu vas payer !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Richard, Marcel, Beatrix",
+  "en": "Agh...",
+  "fr": "Argh..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "I won't lose...\nthat easily...!",
+  "fr": "Je ne perdrai\npas... si vite !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Just a little\nfurther!",
+  "fr": "Encore un\npetit effort !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Hold on just\na little longer!",
+  "fr": "Tiens bon,\nencore un peu !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "We'll make it!",
+  "fr": "On va y arriver !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Stay alive!",
+  "fr": "Reste en vie !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Don't stick\nyour neck out!",
+  "fr": "Ne prends pas\nde risques !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Rose, Jeanne, Colet",
+  "en": "Whew...",
+  "fr": "Ouf..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Help...\nI can't go on...",
+  "fr": "À l'aide...\nJe suis à bout..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Jeanne, Roger...\nHelp me...",
+  "fr": "Jeanne, Roger...\nAidez-moi..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Liane, Gilles, Richard",
+  "en": "Attack!",
+  "fr": "À l'attaque !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "D-don't try\nto run...",
+  "fr": "N-n'essaie pas\nde fuir..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "You're staying\nright there.",
+  "fr": "Tu ne bouges\npas d'ici."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "I...I have to\ndo something...",
+  "fr": "Je... je dois\nagir..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "This might\njust work out.",
+  "fr": "Ça pourrait\nbien marcher."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "We can make it!",
+  "fr": "On peut gagner !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Liane, Marcel",
+  "en": "Are we winning?",
+  "fr": "On a le dessus ?"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Almost there...",
+  "fr": "On y est\npresque..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Liane, unité#31",
+  "en": "Are you\nalright?!",
+  "fr": "Tu n'as rien ?!"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Rose, Liane, unité#31",
+  "en": "I have to help!",
+  "fr": "Je dois aider !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Liane, unité#31",
+  "en": "No...\nBe careful!",
+  "fr": "Non...\nFais attention !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Liane, unité#31",
+  "en": "Sorry to\nworry you.",
+  "fr": "Pardon pour\nl'inquiétude."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Aaaaaagh!",
+  "fr": "Aaaaaargh !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Unnngh...",
+  "fr": "Unnngh..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "Agh... I've\nlost my touch.",
+  "fr": "Argh... J'ai\nperdu la main."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "Damn...\nI'm through...",
+  "fr": "Bon sang...\nC'est fini..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "unité#150, unité#166, unité#168",
+  "en": "Rank amateurs...",
+  "fr": "Quels amateurs..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "unité#150, unité#113, unité#166",
+  "en": "What are you\ndoing?!",
+  "fr": "Mais qu'est-ce\nque tu fais ?!"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "unité#150, unité#175, unité#174",
+  "en": "Useless peon...",
+  "fr": "Larbin inutile..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "unité#150, unité#175, unité#113",
+  "en": "Dammit...",
+  "fr": "Malédiction..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "unité#150, unité#113, unité#164",
+  "en": "Good.",
+  "fr": "Bien."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "unité#150, unité#166, unité#168",
+  "en": "Kill 'em all!",
+  "fr": "Tuez-les tous !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "unité#150, unité#113, unité#166",
+  "en": "There's still\nsome left!",
+  "fr": "Il en reste\nencore !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "unité#166, unité#77, unité#76",
+  "en": "Excellent...",
+  "fr": "Excellent..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "unité#150, unité#166, unité#168",
+  "en": "Don't let them\nescape alive!",
+  "fr": "Qu'aucun n'en\nréchappe !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "unité#150, unité#166, English Officer",
+  "en": "Kill them!",
+  "fr": "Tuez-les !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "unité#166",
+  "en": "What folly.",
+  "fr": "Quelle folie."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "unité#166, unité#167",
+  "en": "Still here, eh?",
+  "fr": "Encore là, hein ?"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "unité#171, unité#166, unité#172",
+  "en": "Don't let them\nescape!",
+  "fr": "Ne les laissez\npas fuir !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "",
+  "en": "You bastard...",
+  "fr": "Misérable..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "",
+  "en": "Village swine...!",
+  "fr": "Bloody pourceaux\nde villageois... !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "",
+  "en": "No...\nNot like this...",
+  "fr": "Non...\nPas comme ça..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "",
+  "en": "You will pay...\nMark my words...",
+  "fr": "Tu le paieras...\nCrois-moi..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "",
+  "en": "You can't\nescape!",
+  "fr": "Tu ne peux pas\nt'échapper !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "",
+  "en": "Imbeciles!",
+  "fr": "Imbéciles !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "unité#113, unité#139",
+  "en": "What...!",
+  "fr": "Quoi... !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "",
+  "en": "Impossible...",
+  "fr": "Impossible..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "",
+  "en": "This can't be...",
+  "fr": "Ce n'est pas\npossible..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "",
+  "en": "You're fools to\ndefy us!",
+  "fr": "Folie que de\nnous défier !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "",
+  "en": "You and your\nhovels can burn!",
+  "fr": "Toi et tes\ntaudis, brûlez !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "",
+  "en": "Useless worm!",
+  "fr": "Vermine inutile !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "",
+  "en": "I'll make the\npain go away...",
+  "fr": "Je vais abréger\ntes souffrances..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "",
+  "en": "You idiot!",
+  "fr": "Imbécile !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "unité#0, unité#149, unité#169",
+  "en": "Very well...",
+  "fr": "Très bien..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "",
+  "en": "You...!",
+  "fr": "Toi... !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Bertrand",
+  "en": "Eat this!",
+  "fr": "Prends ça !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "unité#0, unité#175, unité#122",
+  "en": "Gah...",
+  "fr": "Gah..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "",
+  "en": "Surrounded.",
+  "fr": "Pris en tenaille."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "",
+  "en": "Uh oh...",
+  "fr": "Oh oh..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "",
+  "en": "I'd like this\nover with.",
+  "fr": "Qu'on en finisse."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "",
+  "en": "Oh, dear, what\na bother.",
+  "fr": "Oh là, quelle\ncorvée."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "",
+  "en": "Does it hurt,\nI wonder?",
+  "fr": "Ça fait mal,\ndis-moi ?"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "",
+  "en": "Healed.",
+  "fr": "C'est guéri."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Gilles, Richard, Claire",
+  "en": "Ugh...",
+  "fr": "Pouah..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "",
+  "en": "Behold my power!",
+  "fr": "Voyez ma\npuissance !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "I swore I'd protect everyone...\nI have to keep...my promise...!",
+  "fr": "J'ai juré de tous les protéger...\nJe dois tenir... ma promesse... !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Jeanne... Roger...\nSave me...",
+  "fr": "Jeanne... Roger...\nSauvez-moi..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "Ungh! Jeanne...\nI won't let them...hurt you...",
+  "fr": "Argh ! Jeanne... Ils ne te\nferont pas... de mal..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Jeanne, Roger, Elder",
+  "en": "What?",
+  "fr": "Quoi ?"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "The armlet?!",
+  "fr": "Le Bracelet ?!"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "",
+  "en": "FOR YOUR FRIENDS' SAKE... \nSET ITS POWER FREE......",
+  "fr": "POUR TES AMIS... LIBÈRE SA\nPUISSANCE......"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Orc",
+  "en": "Grrrawooo!",
+  "fr": "Grrraouuuh !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Help me protect my friends! \nLiane, Roger... Everyone!",
+  "fr": "Aide-moi à sauver mes amis !\nLiane, Roger... Tout le monde\f!"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "What happened...?",
+  "fr": "Que s'est-il\npassé... ?"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "That armor...",
+  "fr": "Cette armure..."
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "English Officer",
+  "en": "...?! \nThat girl... She couldn't have!",
+  "fr": "... ?! Cette fille... Ce n'est\npas possible ! Damn it !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "This...power? \nWhere is it all coming from?",
+  "fr": "Cette... force ? D'où\nvient-elle donc ?"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "I can do this! \nI'm ready!",
+  "fr": "Je peux le faire !\nJe suis prête !"
+ },
+ {
+  "ctx": "ST1020BT",
+  "max": 16,
+  "who": "English Officer",
+  "en": "How... \nIt was right within my grasp...",
+  "fr": "Comment... Je le tenais\npresque, bloody hell..."
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "",
+  "en": "French garrison, head for Vaucouleurs!",
+  "fr": "Cap sur la garnison de Vaucouleurs !"
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "",
+  "en": "&Henry VI",
+  "fr": "&Henri VI"
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "Ha ha! Kitty-witty! \nHa ha ha ha!",
+  "fr": "Ha ha ! Minou-minou !\nHa ha ha ha !"
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "",
+  "en": "&Duke of Bedford",
+  "fr": "&Duc de Bedford"
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "Your Grace, I have dreadful \nnews.",
+  "fr": "Votre Grâce, j'ai de terribles\nnouvelles, I'm afraid."
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "I already know. They failed! \nEverything's out of sorts!",
+  "fr": "Nous le savons, of course. Ils ont\néchoué ! Tout va de travers !"
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "It grieves me to say, Sire\\u2014",
+  "fr": "Je suis navré de le dire, Sire\\u2014"
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "Save the excuses, Uncle.",
+  "fr": "Épargne-nous tes excuses, Uncle."
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "It's my fault anyway, for sending \nthose imbeciles to do the job.",
+  "fr": "C'est notre faute, de toute façon,\nd'avoir envoyé ces imbéciles."
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "Weak little maggots like them \nought to just shrivel up and die!",
+  "fr": "Des petits asticots comme ça\nn'ont qu'à se ratatiner et mourir !"
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "Don't you think?",
+  "fr": "Tu ne trouves pas, non ?"
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "...I imagine even the weak have \na role to play, Your Grace.",
+  "fr": "...Même les faibles ont oun rôle\nà jouer, j'imagine, Votre Grâce."
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "Perhaps wishing painful deaths \nupon them might be a bit hasty.",
+  "fr": "Leur souhaiter une mort atroce\nest peut-être un peu hâtif."
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "Tsk...",
+  "fr": "Tss..."
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "Fine, see if I care!",
+  "fr": "Well, soit ! Nous nous en fichons !"
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "I'm sick of talking about bygones.\n\fTell me more juicy details about \nmy future, hee hee.",
+  "fr": "Nous en avons assez du passé.\fRaconte-nous des détails juteux\nsur notre avenir, hi hi !"
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "Remember, you said you'd take \ncare of everything!",
+  "fr": "N'oublie pas, tu as dit que tu\nt'occuperais de tout, Uncle !"
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "...And I have, Sire.",
+  "fr": "...Et je m'en occupe, Sire. Indeed."
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "Why, the next step of your \nbrilliant plan is nigh underway.",
+  "fr": "La prochaine étape de votre\nbrillant plan est déjà en marche."
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "If that doesn't give you sweet \ndreams, I don't know what will.",
+  "fr": "Si cela ne vous donne pas de doux\nrêves, je ne sais ce qui le fera."
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "Ooh! I'm too excited to sleep!",
+  "fr": "Oh ! Nous sommes trop excité pour\ndormir !"
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "This is wonderful, \nkitty-witty! Wonderful! \nUwee hee hee! Ha ha haaa!",
+  "fr": "C'est merveilleux, minou-minou !\nMerveilleux !\nHi hi hi ! Ha ha haaa !"
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "These ought to serve.",
+  "fr": "Ça devrait faire l'affaire."
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "They're rusty, \nbut still sturdy enough.",
+  "fr": "Elles sont rouillées,\nmais encore solides."
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "You obtain 2 Steel Swords!",
+  "fr": "Vous obtenez 2 Épées d'acier !"
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "You obtain 2 Bucklers!",
+  "fr": "Vous obtenez 2 Bocles !"
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "You obtain 2 sets of\nLeather Clothing!",
+  "fr": "Vous obtenez 2 Habits de cuir !"
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Beatrix, Jean, Richard",
+  "en": "Thank you.",
+  "fr": "Merci."
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "Do you want to come along with \nus? Is that it?",
+  "fr": "Tu veux venir avec nous ?\nC'est ça ?"
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "",
+  "en": "&Toad",
+  "fr": "&Crapaud"
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Toad",
+  "en": "Coa, coa!",
+  "fr": "Croa, croa !"
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "...Do you think the three of us \nwill be all right?",
+  "fr": "...Tu crois qu'on s'en sortira,\ntous les trois ?"
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "Vaucouleurs is so far away!",
+  "fr": "Vaucouleurs, c'est si loin !"
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "What if we're attacked by the \nEnglish before we get there?",
+  "fr": "Et si les Anglais nous attaquent\navant qu'on y arrive ?"
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "There's no point in being scared.",
+  "fr": "Ça ne sert à rien d'avoir peur."
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Unless you're trying to prove \nwe're not cut out for the army.",
+  "fr": "À moins que tu veuilles prouver\nqu'on n'est pas faits pour l'armée."
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "Jeanne. \nWould you please rethink this?",
+  "fr": "Jeanne.\nTu veux bien y réfléchir encore ?"
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "It's hopeless! \nThey'll never let you enlist!",
+  "fr": "C'est sans espoir !\nJamais ils ne t'enrôleront !"
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "Liane. What about you? You're \nwilling to go through with this?",
+  "fr": "Liane. Et toi ? Tu es prête\nà aller jusqu'au bout ?"
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "......\nI'll go wherever Jeanne goes.",
+  "fr": "......\nJ'irai partout où ira Jeanne."
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Liane",
+  "en": "I...I've got nothing else left. \nNone of us do.",
+  "fr": "Je... je n'ai plus rien d'autre.\nAucun de nous n'a plus rien."
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Roger, if the thought doesn't \nappeal to you, then don't come.",
+  "fr": "Roger, si l'idée ne te plaît pas,\nne viens pas."
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "You're not from Domrémy anyway.",
+  "fr": "De toute façon, tu n'es pas\nde Domrémy."
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "...Just go wherever you want.",
+  "fr": "...Va où bon te semble."
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Roger, Liane, Jean",
+  "en": "Jeanne...",
+  "fr": "Jeanne..."
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "I'm going with you.",
+  "fr": "Je viens avec vous."
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "I have no relatives, no memories \nprior to coming here...",
+  "fr": "Je n'ai ni famille, ni souvenirs\nd'avant mon arrivée ici..."
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "Besides, \nI can't just leave you two.",
+  "fr": "Et puis, je ne peux pas vous\nabandonner, toutes les deux."
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "You know that.",
+  "fr": "Tu le sais bien."
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "I can take care of everyone, \nif I have to. I have the armlet.",
+  "fr": "Je peux protéger tout le monde,\ns'il le faut. J'ai le Bracelet."
+ },
+ {
+  "ctx": "ST1020AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "I just hope the English give me \nan excuse. I dare them!",
+  "fr": "J'espère juste que les Anglais me\ndonneront une excuse. Qu'ils osent !"
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "",
+  "en": "The village is under attack! Hurry to Neufch\\u00e2teau!",
+  "fr": "Le village est attaqué !\nVite, à Neufch\\u00e2teau !"
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "",
+  "en": "&Captain Robert",
+  "fr": "&Capitaine Robert"
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "unité#0, unité#149, Gilles",
+  "en": "Hmm...",
+  "fr": "Hum..."
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Captain Robert",
+  "en": "You say a voice from heaven \ninspired you to defeat the \nEnglish?",
+  "fr": "Vous dites qu'une voix du Ciel\nvous pousse à vaincre les\nAnglais ?"
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Captain Robert",
+  "en": "...What concern is that of mine?",
+  "fr": "...Et en quoi cela me\nconcerne-t-il ?"
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Sir, I told you!",
+  "fr": "Messire, je vous l'ai dit !"
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "I want to do all I can to help \nmy countrymen!",
+  "fr": "Je veux tout faire pour aider\nmes compatriotes !"
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "I want to see the English pay!",
+  "fr": "Je veux que les Anglais paient !"
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Captain Robert",
+  "en": "But young lady...",
+  "fr": "Mais, jeune demoiselle..."
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Captain Robert",
+  "en": "I hope you'll pardon my saying \nthis, but a rustic like you...\fin the army?\nPeople will think it a joke.",
+  "fr": "Pardonnez-moi de vous le dire,\nmais une paysanne comme vous...\fdans l'armée ?\nOn croira à une farce."
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "I know what I heard!",
+  "fr": "Je sais ce que j'ai entendu !"
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "The very voice of the King of \nHeaven!\fHe told me the English are to \nbe punished!",
+  "fr": "La voix même du Roi des Cieux !\fIl m'a dit que les Anglais\ndoivent être châtiés !"
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "",
+  "en": "&Garrison Soldier",
+  "fr": "&Soldat de la garnison"
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Garrison Soldier",
+  "en": "Cap'n, a message for you.",
+  "fr": "Mon capitaine, un message pour vous."
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Captain Robert",
+  "en": "What? From the dauphin?",
+  "fr": "Quoi ? Du Dauphin ?"
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Garrison Soldier",
+  "en": "No, sir. A plea from the \ncommoners.",
+  "fr": "Non, capitaine. Une supplique\ndu peuple."
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Garrison Soldier",
+  "en": "It's Neufchâteau;",
+  "fr": "Il s'agit de Neufchâteau :"
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Garrison Soldier",
+  "en": "The English army and its demons \nhave fallen upon the village.",
+  "fr": "L'armée anglaise et ses démons\nse sont abattus sur le village."
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Captain Robert",
+  "en": "Have we troops to spare?",
+  "fr": "Avons-nous des troupes\ndisponibles ?"
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Garrison Soldier",
+  "en": "No, sir... You see...",
+  "fr": "Non, capitaine... Voyez-vous..."
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Garrison Soldier",
+  "en": "In preparation for the dauphin's \nnext assault\\u2014",
+  "fr": "En préparation du prochain\nassaut du Dauphin\\u2014"
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Captain Robert",
+  "en": "All the garrison have been \ndeployed, that's right. Damn!",
+  "fr": "Toute la garnison a été déployée,\nc'est vrai. Diable !"
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Captain Robert",
+  "en": "...I'm sorry, but you and your \nvoice will have to wait.",
+  "fr": "...Désolé, mais vous et votre\nvoix devrez attendre."
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "Jeanne! Wait, where are you\\u2014",
+  "fr": "Jeanne ! Attends, où est-ce\nque tu\\u2014"
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "I don't have time to haggle with \nmen like him!",
+  "fr": "Je n'ai pas de temps à perdre à\nmarchander avec des gens comme lui !"
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Liane",
+  "en": "Wait for me! Jeanne!!!",
+  "fr": "Attends-moi ! Jeanne !!!"
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Garrison Soldier",
+  "en": "By your leave, sir.",
+  "fr": "Avec votre permission, capitaine."
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Captain Robert",
+  "en": "Hold.",
+  "fr": "Un instant."
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Captain Robert",
+  "en": "Send orders to Jean and Bertrand\nto march on Neufchâteau.",
+  "fr": "Faites dire à Jean et à Bertrand\nde marcher sur Neufchâteau."
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Captain Robert",
+  "en": "They're most likely resting; \nfeel free to kick them awake.",
+  "fr": "Ils se reposent sans doute ;\nréveillez-les à coups de botte."
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Captain Robert",
+  "en": "The voice of God...",
+  "fr": "La voix de Dieu..."
+ },
+ {
+  "ctx": "ST1021BM",
+  "max": 34,
+  "who": "Captain Robert",
+  "en": "Hah, what rubbish.",
+  "fr": "Ha, quelles balivernes."
+ },
+ {
+  "ctx": "ST1030BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "How dare they...",
+  "fr": "Comment osent-ils..."
+ },
+ {
+  "ctx": "ST1030BM",
+  "max": 34,
+  "who": "",
+  "en": "&Woman's Voice",
+  "fr": "&Voix de femme"
+ },
+ {
+  "ctx": "ST1030BM",
+  "max": 34,
+  "who": "Woman's Voice",
+  "en": "No! Chéri!",
+  "fr": "Non ! Chéri !"
+ },
+ {
+  "ctx": "ST1030BM",
+  "max": 34,
+  "who": "",
+  "en": "&Man's Voice",
+  "fr": "&Voix d'homme"
+ },
+ {
+  "ctx": "ST1030BM",
+  "max": 34,
+  "who": "Man's Voice",
+  "en": "Help.\nSomeone, please...help!",
+  "fr": "À l'aide. Quelqu'un... à l'aide !"
+ },
+ {
+  "ctx": "ST1030BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Up there!",
+  "fr": "Là-haut !"
+ },
+ {
+  "ctx": "ST1030BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Hold on! I'm on my way!",
+  "fr": "Tenez bon ! J'arrive !"
+ },
+ {
+  "ctx": "ST1030BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "The armor...disappeared?",
+  "fr": "L'armure... a disparu ?"
+ },
+ {
+  "ctx": "ST1030BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "No! I have to try again.",
+  "fr": "Non ! Je dois réessayer."
+ },
+ {
+  "ctx": "ST1030BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "...Haaaaaah!",
+  "fr": "...Haaaaaah !"
+ },
+ {
+  "ctx": "ST1030BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Why isn't it working?!",
+  "fr": "Pourquoi ça ne marche pas ?!"
+ },
+ {
+  "ctx": "ST1030BM",
+  "max": 34,
+  "who": "Jeanne, Roger, Duke of Bedford",
+  "en": "Ungh...",
+  "fr": "Unnh..."
+ },
+ {
+  "ctx": "ST1030BM",
+  "max": 34,
+  "who": "Gilles, Roger, Liane",
+  "en": "Jeanne!",
+  "fr": "Jeanne !"
+ },
+ {
+  "ctx": "ST1030BM",
+  "max": 34,
+  "who": "Bertrand",
+  "en": "Meh heh!\nNo needs for thanks.",
+  "fr": "Mé hé ! Pas la peine de remercier."
+ },
+ {
+  "ctx": "ST1030BM",
+  "max": 34,
+  "who": "Jean",
+  "en": "A thousand thanks are no match \nfor one smile from you, my sweet.",
+  "fr": "Mille mercis ne valent pas\nun seul de vos sourires, ma belle."
+ },
+ {
+  "ctx": "ST1030BM",
+  "max": 34,
+  "who": "",
+  "en": "Jean joins your ranks!",
+  "fr": "Jean rejoint vos rangs !"
+ },
+ {
+  "ctx": "ST1030BM",
+  "max": 34,
+  "who": "",
+  "en": "Bertrand joins your ranks!",
+  "fr": "Bertrand rejoint vos rangs !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "If I were\nonly stronger!",
+  "fr": "Ah, si j'avais\nplus de force !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "I should have\nbeen there...",
+  "fr": "J'aurais dû\nêtre là..."
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Liane, unité#31",
+  "en": "Say it's\nnot true...",
+  "fr": "Dis-moi que\nc'est faux..."
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Liane, unité#31",
+  "en": "Noooo!!!",
+  "fr": "Noooon !!!"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Liane, unité#31",
+  "en": "Oh please,\nGod, no!",
+  "fr": "Mon Dieu, non,\npitié !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "Your sacrifice\nwon't be in vain!",
+  "fr": "Ton sacrifice ne\nsera pas vain !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "...No!",
+  "fr": "...Non !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "Dear me...",
+  "fr": "Diantre..."
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "We can't lose\nanyone else!",
+  "fr": "On ne peut plus\nperdre personne !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Bertrand",
+  "en": "Yipes.",
+  "fr": "Ouille."
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Bertrand",
+  "en": "Hey, now...",
+  "fr": "Hé, voyons..."
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Bertrand",
+  "en": "I'll kick an extra\narse for ya!",
+  "fr": "J'en botterai un\nde plus pour toi !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Good, we're\ndoing it!",
+  "fr": "Bien, on y\narrive !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "That's the way!",
+  "fr": "C'est comme ça !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Keep it up!\nWe can do this!",
+  "fr": "Continuez !\nOn va y arriver !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "So sorry.",
+  "fr": "Toutes mes\nexcuses."
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Marcel, Cuisses, Liane",
+  "en": "Ohhh...",
+  "fr": "Ohhh..."
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "Alright, next!",
+  "fr": "Bien, au suivant !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "That's it!",
+  "fr": "C'est ça !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "Nicely played.",
+  "fr": "Bien joué."
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "Not bad, friend!",
+  "fr": "Pas mal, l'ami !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "Humph!",
+  "fr": "Hmph !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "A splendid\nstrike!",
+  "fr": "Un coup\nsplendide !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Bertrand",
+  "en": "Hoo-ah!",
+  "fr": "Hou-ha !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Bertrand, Liane",
+  "en": "I can fight, too!",
+  "fr": "Moi aussi, je sais\nme battre !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Bertrand",
+  "en": "Why stop there,\nmeh heh!",
+  "fr": "Pourquoi s'arrêter\nlà, mé hé !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Bertrand",
+  "en": "Chew on that!",
+  "fr": "Mâche-moi ça !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Alright,\nfollow me!",
+  "fr": "Bien,\nsuivez-moi !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "You know\nwhat to do!",
+  "fr": "Vous savez quoi\nfaire !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "We HAVE to\nsave him!",
+  "fr": "Il FAUT le\nsauver !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Hurry, there's\nno time!",
+  "fr": "Vite, il n'y a\npas de temps !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Please, no one\nget hurt...",
+  "fr": "Pitié, que nul\nne soit blessé..."
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "I'm frightened...\nbut I won't run!",
+  "fr": "J'ai peur... mais\nje ne fuirai pas !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "So many\nmonsters...",
+  "fr": "Tant de\nmonstres..."
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Jean, Roger, Beatrix",
+  "en": "Quickly!",
+  "fr": "Vite !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "Look alive!",
+  "fr": "Du nerf !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Roger, Liane",
+  "en": "Careful,\neveryone!",
+  "fr": "Prudence,\ntout le monde !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "Help is on\nthe way!",
+  "fr": "Les secours\narrivent !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "Quickly...\nThere's no time!",
+  "fr": "Vite...\nLe temps presse !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "We're coming!",
+  "fr": "On arrive !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Bertrand",
+  "en": "Leave this one\nto me!",
+  "fr": "Laissez-moi\ncelui-là !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Bertrand",
+  "en": "Hang on!\nI'm comin'!",
+  "fr": "Tiens bon !\nJ'arrive !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Bertrand",
+  "en": "Now you're\nin for it!",
+  "fr": "Là, tu vas\ndéguster !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Everyone\nalright?",
+  "fr": "Tout le monde\nva bien ?"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Help him!",
+  "fr": "Aidez-le !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Jeanne, Roger",
+  "en": "Move!",
+  "fr": "Bougez !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Be strong!",
+  "fr": "Courage !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "My friends\nare my strength!",
+  "fr": "Mes amis sont\nma force !"
+ },
+ {
+  "ctx": "ST1030BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Careful!\nIt's dangerous...",
+  "fr": "Attention !\nC'est dangereux..."
+ }
+]

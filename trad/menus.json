@@ -1,0 +1,992 @@
+[
+ {
+  "ctx": "0x110044",
+  "max": 27,
+  "en": "Sony Computer Entertainment",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1112b8",
+  "max": 23,
+  "en": "UserSbrk",
+  "fr": ""
+ },
+ {
+  "ctx": "0x111370",
+  "max": 11,
+  "en": "Infinity",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1113e8",
+  "max": 19,
+  "en": "0123456789abcdef",
+  "fr": ""
+ },
+ {
+  "ctx": "0x111404",
+  "max": 7,
+  "en": "(null)",
+  "fr": ""
+ },
+ {
+  "ctx": "0x111420",
+  "max": 27,
+  "en": "bug in vfprintf: bad base",
+  "fr": ""
+ },
+ {
+  "ctx": "0x111538",
+  "max": 19,
+  "en": "ÿÿÿÿexit call back\n",
+  "fr": ""
+ },
+ {
+  "ctx": "0x111570",
+  "max": 11,
+  "en": "exit game\n",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1115f4",
+  "max": 11,
+  "en": "exit movie\n",
+  "fr": ""
+ },
+ {
+  "ctx": "0x111600",
+  "max": 15,
+  "en": "exit utility\n",
+  "fr": ""
+ },
+ {
+  "ctx": "0x111610",
+  "max": 11,
+  "en": "exit sound\n",
+  "fr": ""
+ },
+ {
+  "ctx": "0x11161c",
+  "max": 11,
+  "en": "exit font\n",
+  "fr": ""
+ },
+ {
+  "ctx": "0x111628",
+  "max": 11,
+  "en": "exit model\n",
+  "fr": ""
+ },
+ {
+  "ctx": "0x111634",
+  "max": 11,
+  "en": "exit loop\n",
+  "fr": ""
+ },
+ {
+  "ctx": "0x111640",
+  "max": 11,
+  "en": "No Memory\n",
+  "fr": ""
+ },
+ {
+  "ctx": "0x11164c",
+  "max": 15,
+  "en": "Illegal Attr\n",
+  "fr": ""
+ },
+ {
+  "ctx": "0x111670",
+  "max": 19,
+  "en": "Illegal Context\n",
+  "fr": ""
+ },
+ {
+  "ctx": "0x111684",
+  "max": 19,
+  "en": "Illegal Priority\n",
+  "fr": ""
+ },
+ {
+  "ctx": "0x111698",
+  "max": 15,
+  "en": "Illegal Entry\n",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1116d4",
+  "max": 15,
+  "en": "Not Dormant\n",
+  "fr": ""
+ },
+ {
+  "ctx": "0x11195c",
+  "max": 11,
+  "en": "File Sema",
+  "fr": ""
+ },
+ {
+  "ctx": "0x111cd4",
+  "max": 15,
+  "en": "Movie File Sema",
+  "fr": ""
+ },
+ {
+  "ctx": "0x111ed8",
+  "max": 27,
+  "en": "movie audio size %d, %d\n",
+  "fr": ""
+ },
+ {
+  "ctx": "0x111ef4",
+  "max": 11,
+  "en": "Audio Sema",
+  "fr": ""
+ },
+ {
+  "ctx": "0x111f00",
+  "max": 11,
+  "en": "Audio Event",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1120d8",
+  "max": 35,
+  "en": "ERROR sprite over member %d, %d\n",
+  "fr": ""
+ },
+ {
+  "ctx": "0x112130",
+  "max": 35,
+  "en": "\nCheck Remain Texture ============\n",
+  "fr": ""
+ },
+ {
+  "ctx": "0x112164",
+  "max": 47,
+  "en": "Total %d ========================\n",
+  "fr": ""
+ },
+ {
+  "ctx": "0x112400",
+  "max": 11,
+  "en": "Font Event",
+  "fr": ""
+ },
+ {
+  "ctx": "0x112430",
+  "max": 15,
+  "en": "uni = %02X%02X\n",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1128ac",
+  "max": 11,
+  "en": "menu.skn",
+  "fr": ""
+ },
+ {
+  "ctx": "0x112914",
+  "max": 11,
+  "en": "subwnd.skn",
+  "fr": ""
+ },
+ {
+  "ctx": "0x112920",
+  "max": 11,
+  "en": "revlist.skn",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1129fc",
+  "max": 11,
+  "en": "jeanne.def",
+  "fr": ""
+ },
+ {
+  "ctx": "0x112a38",
+  "max": 7,
+  "en": "FPSLock",
+  "fr": ""
+ },
+ {
+  "ctx": "0x112d00",
+  "max": 71,
+  "en": "End Turn\nTroops\nReport\nQuicksave\nLoad\nOptions\n(Clear)\n(Debug)\nEnd Game\n",
+  "fr": "Fin tour\nTroupes\nRapport\nSauv. rapide\nCharger\nOptions\n(C)\n(D)\nQuitter\n"
+ },
+ {
+  "ctx": "0x112d54",
+  "max": 143,
+  "en": "End your turn?\nQuicksave and end the game?\n(Warning: The quicksave will be deleted\nwhen you resume the game later.)\nQuicksave and end the game?",
+  "fr": "Terminer le tour ?\nSauv. rapide et quitter ?\n(Attention : elle sera effacée\nà la reprise de la partie.)\nSauv. rapide et quitter ?"
+ },
+ {
+  "ctx": "0x1132cc",
+  "max": 31,
+  "en": "Skill slot was increased by %d!",
+  "fr": "Empl. de compétence +%d !"
+ },
+ {
+  "ctx": "0x11330c",
+  "max": 31,
+  "en": "The treasure was discovered.",
+  "fr": "Vous avez trouvé un trésor."
+ },
+ {
+  "ctx": "0x11332c",
+  "max": 23,
+  "en": "The treasure was empty.",
+  "fr": "Le coffre était vide."
+ },
+ {
+  "ctx": "0x1133f8",
+  "max": 11,
+  "en": "eqitem.skn",
+  "fr": ""
+ },
+ {
+  "ctx": "0x113404",
+  "max": 11,
+  "en": "eqskill.skn",
+  "fr": ""
+ },
+ {
+  "ctx": "0x113448",
+  "max": 15,
+  "en": "eqitlist.skn",
+  "fr": ""
+ },
+ {
+  "ctx": "0x113458",
+  "max": 15,
+  "en": "eqsklist.skn",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1134b4",
+  "max": 11,
+  "en": "(Remove)\n",
+  "fr": "(Retirer)\n"
+ },
+ {
+  "ctx": "0x1134c0",
+  "max": 19,
+  "en": "Bind\nView Formulas",
+  "fr": "Lier\nVoir formules"
+ },
+ {
+  "ctx": "0x1134d4",
+  "max": 11,
+  "en": "submenu.skn",
+  "fr": ""
+ },
+ {
+  "ctx": "0x113610",
+  "max": 27,
+  "en": "Binding is not available",
+  "fr": "Liaison impossible"
+ },
+ {
+  "ctx": "0x113710",
+  "max": 15,
+  "en": "Purchased\nSold",
+  "fr": "Acheté\nVendu"
+ },
+ {
+  "ctx": "0x113720",
+  "max": 11,
+  "en": "Buy\nSell",
+  "fr": "Achat\nVente"
+ },
+ {
+  "ctx": "0x113748",
+  "max": 15,
+  "en": "shoplist.skn",
+  "fr": ""
+ },
+ {
+  "ctx": "0x11385c",
+  "max": 83,
+  "en": "Equip\nShop\nBind Skills\nDone\nBattlefield\nSave\nLoad\nOptions\n(Title)\n(Debug)\n(Battle)\n",
+  "fr": "Équiper\nBoutique\nLier compét.\nTerminer\nCombat\nSauver\nCharger\nOptions\n(T)\n(D)\n(B)\n"
+ },
+ {
+  "ctx": "0x1138bc",
+  "max": 35,
+  "en": "Weapons & Armor\nSkills\nItem List\n",
+  "fr": "Armes & armures\nCompétences\nObjets\n"
+ },
+ {
+  "ctx": "0x11396c",
+  "max": 15,
+  "en": "itemlist.skn",
+  "fr": ""
+ },
+ {
+  "ctx": "0x113c0c",
+  "max": 11,
+  "en": "frmap.tga",
+  "fr": ""
+ },
+ {
+  "ctx": "0x113c28",
+  "max": 23,
+  "en": "Load\nResume Quicksave",
+  "fr": "Charger\nSauv. rapide"
+ },
+ {
+  "ctx": "0x113c4c",
+  "max": 179,
+  "en": "Resume the game from mid-battle save data?\nWarning: the data will be deleted after the game\nhas resumed. Do not remove the Memory Stick\nDuo\\u2122 until the game finishes loading.",
+  "fr": "Reprendre la partie depuis la sauvegarde rapide ?\nAttention : elle sera effacée après la reprise.\nNe retirez pas le Memory Stick Duo\\u2122\navant la fin du chargement."
+ },
+ {
+  "ctx": "0x113d10",
+  "max": 55,
+  "en": "No mid-battle save data found on Memory Stick\\u2122.\n",
+  "fr": "Aucune sauvegarde rapide sur le Memory Stick\\u2122.\n"
+ },
+ {
+  "ctx": "0x113d98",
+  "max": 39,
+  "en": "Restore all settings to their defaults?",
+  "fr": "Rétablir les paramètres par défaut ?"
+ },
+ {
+  "ctx": "0x113dd4",
+  "max": 47,
+  "en": "Use this message to decide on the right speed.",
+  "fr": "Utilisez ce message pour régler la vitesse."
+ },
+ {
+  "ctx": "0x113e50",
+  "max": 23,
+  "en": "Quicksave\nDelete Data",
+  "fr": "Sauv. rapide\nSupprimer"
+ },
+ {
+  "ctx": "0x113e68",
+  "max": 19,
+  "en": "Save\nDelete Data",
+  "fr": "Sauver\nSupprimer"
+ },
+ {
+  "ctx": "0x113e88",
+  "max": 143,
+  "en": "At least 576 KB of free space is necessary \nto save JEANNE D'ARC mid-battle save data. \nSelect and delete from among save data \nto make space.",
+  "fr": "Il faut au moins 576 Ko d'espace libre\npour la sauvegarde rapide de JEANNE D'ARC.\nSupprimez des sauvegardes\npour libérer de l'espace."
+ },
+ {
+  "ctx": "0x113f18",
+  "max": 127,
+  "en": "At least 576 KB of free space is necessary \nto save JEANNE D'ARC data. \nSelect and delete from among save data \nto make space.",
+  "fr": "Il faut au moins 576 Ko d'espace libre\npour sauvegarder JEANNE D'ARC.\nSupprimez des sauvegardes\npour libérer de l'espace."
+ },
+ {
+  "ctx": "0x113fb4",
+  "max": 115,
+  "en": "You will not be able to return to the\nworld map until you complete this stage.\nConsider saving to a separate file.\n",
+  "fr": "Impossible de revenir à la carte du monde\navant la fin de cette étape.\nSauvegardez plutôt sur un autre fichier.\n"
+ },
+ {
+  "ctx": "0x114064",
+  "max": 15,
+  "en": "helplist.skn",
+  "fr": ""
+ },
+ {
+  "ctx": "0x114080",
+  "max": 11,
+  "en": "pause.sht",
+  "fr": ""
+ },
+ {
+  "ctx": "0x11408c",
+  "max": 31,
+  "en": "Preferences\nHelp\nAnime Theatre",
+  "fr": "Préférences\nAide\nThéâtre animé"
+ },
+ {
+  "ctx": "0x114110",
+  "max": 11,
+  "en": "stage name",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1141e8",
+  "max": 111,
+  "en": "Map Model\nChar Model\nEffect\nSound Test\nMovie Test\nSheet Check\nSkin Check\nStage Check\nBattle Map\nWorld Map\nExit\n",
+  "fr": ""
+ },
+ {
+  "ctx": "0x114370",
+  "max": 11,
+  "en": "Bone Num %d",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1145e0",
+  "max": 19,
+  "en": "Alpha Reference %d",
+  "fr": ""
+ },
+ {
+  "ctx": "0x11461c",
+  "max": 19,
+  "en": "Patch Divide    %d",
+  "fr": ""
+ },
+ {
+  "ctx": "0x11468c",
+  "max": 19,
+  "en": "Back Color R    %d",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1146a0",
+  "max": 19,
+  "en": "Back Color G    %d",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1146b4",
+  "max": 19,
+  "en": "Back Color B    %d",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1146c8",
+  "max": 19,
+  "en": "Fog Color R    %d",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1146dc",
+  "max": 19,
+  "en": "Fog Color G    %d",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1146f0",
+  "max": 19,
+  "en": "Fog Color B    %d",
+  "fr": ""
+ },
+ {
+  "ctx": "0x114704",
+  "max": 19,
+  "en": "Fog Start      %d",
+  "fr": ""
+ },
+ {
+  "ctx": "0x11472c",
+  "max": 23,
+  "en": "Camera Pers    %5.2f",
+  "fr": ""
+ },
+ {
+  "ctx": "0x114744",
+  "max": 15,
+  "en": "Motion Num %d",
+  "fr": ""
+ },
+ {
+  "ctx": "0x11475c",
+  "max": 7,
+  "en": "Default",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1147fc",
+  "max": 27,
+  "en": "Please select model file",
+  "fr": ""
+ },
+ {
+  "ctx": "0x114818",
+  "max": 7,
+  "en": "Camera",
+  "fr": ""
+ },
+ {
+  "ctx": "0x114820",
+  "max": 11,
+  "en": "Information",
+  "fr": ""
+ },
+ {
+  "ctx": "0x11482c",
+  "max": 11,
+  "en": "Material",
+  "fr": ""
+ },
+ {
+  "ctx": "0x114838",
+  "max": 15,
+  "en": "Draw Function",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1148ac",
+  "max": 15,
+  "en": "Select control",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1148bc",
+  "max": 7,
+  "en": "Motion",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1148c4",
+  "max": 11,
+  "en": "ExMotion",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1148d0",
+  "max": 7,
+  "en": "Weapon",
+  "fr": ""
+ },
+ {
+  "ctx": "0x114964",
+  "max": 7,
+  "en": "weaponR",
+  "fr": ""
+ },
+ {
+  "ctx": "0x11496c",
+  "max": 7,
+  "en": "weaponL",
+  "fr": ""
+ },
+ {
+  "ctx": "0x11497c",
+  "max": 27,
+  "en": "Please select effect file",
+  "fr": ""
+ },
+ {
+  "ctx": "0x114a1c",
+  "max": 23,
+  "en": "Please select midi file",
+  "fr": ""
+ },
+ {
+  "ctx": "0x114b14",
+  "max": 15,
+  "en": "Remove exMotion",
+  "fr": ""
+ },
+ {
+  "ctx": "0x114b24",
+  "max": 15,
+  "en": "Remove Weapon",
+  "fr": ""
+ },
+ {
+  "ctx": "0x114b34",
+  "max": 15,
+  "en": "Default Weapon",
+  "fr": ""
+ },
+ {
+  "ctx": "0x114c84",
+  "max": 23,
+  "en": "MemoryStick Data Mode",
+  "fr": ""
+ },
+ {
+  "ctx": "0x114c9c",
+  "max": 15,
+  "en": "UMD Data Mode",
+  "fr": ""
+ },
+ {
+  "ctx": "0x114cd0",
+  "max": 87,
+  "en": "Fly Mov. \nWrap Mov. \nFloat Mov. \nWalk Mov. \nWalk Mov. \nWalk Mov. \nWalk Mov. \nWalk Mov. ",
+  "fr": "Vol \nTéléport \nLévitation \nMarche \nMarche \nMarche \nMarche \nMarche "
+ },
+ {
+  "ctx": "0x114d2c",
+  "max": 31,
+  "en": "Caution! reentry List Tex %d\n",
+  "fr": ""
+ },
+ {
+  "ctx": "0x11504c",
+  "max": 7,
+  "en": "arrow.",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1150c0",
+  "max": 43,
+  "en": "Do you wish to return to the OUTFITTING?\n",
+  "fr": "Voulez-vous revenir à la PRÉPARATION ?\n"
+ },
+ {
+  "ctx": "0x1150ec",
+  "max": 23,
+  "en": "Commence the battle?\n",
+  "fr": "Lancer le combat ?\n"
+ },
+ {
+  "ctx": "0x115104",
+  "max": 23,
+  "en": "Can't place any more.\n",
+  "fr": "Plus aucune place.\n"
+ },
+ {
+  "ctx": "0x11511c",
+  "max": 31,
+  "en": "Unit has not been positioned.\n",
+  "fr": "Unité non positionnée.\n"
+ },
+ {
+  "ctx": "0x11513c",
+  "max": 39,
+  "en": "One or more of your units is unarmed.\n",
+  "fr": "Certaines unités n'ont pas d'arme.\n"
+ },
+ {
+  "ctx": "0x115164",
+  "max": 47,
+  "en": "Their offensive capabilities will be limited.\n",
+  "fr": "Leurs capacités offensives seront limitées.\n"
+ },
+ {
+  "ctx": "0x115194",
+  "max": 31,
+  "en": "Commence the battle anyway?\n",
+  "fr": "Lancer le combat malgré tout ?\n"
+ },
+ {
+  "ctx": "0x115250",
+  "max": 35,
+  "en": "You can still place %d more unit.",
+  "fr": "Encore %d unité à placer."
+ },
+ {
+  "ctx": "0x115274",
+  "max": 35,
+  "en": "You can still place %d more units.",
+  "fr": "Encore %d unités à placer."
+ },
+ {
+  "ctx": "0x115334",
+  "max": 23,
+  "en": "Proceed to this stage?",
+  "fr": "Aller à cette étape ?"
+ },
+ {
+  "ctx": "0x1153fc",
+  "max": 7,
+  "en": ".sht",
+  "fr": ""
+ },
+ {
+  "ctx": "0x115404",
+  "max": 8,
+  "en": ".skn",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1156a8",
+  "max": 39,
+  "en": "Cannot load during the load process.",
+  "fr": "Chargement déjà en cours."
+ },
+ {
+  "ctx": "0x1156d0",
+  "max": 43,
+  "en": "Failed to free up memory to enable loading.",
+  "fr": "Mémoire insuffisante pour le chargement."
+ },
+ {
+  "ctx": "0x1156fc",
+  "max": 27,
+  "en": "The save data is corrupted.",
+  "fr": "Sauvegarde corrompue."
+ },
+ {
+  "ctx": "0x115718",
+  "max": 27,
+  "en": "Failed to load system data.",
+  "fr": "Données système illisibles."
+ },
+ {
+  "ctx": "0x115734",
+  "max": 47,
+  "en": "Consistency check of the loaded data failed.",
+  "fr": "Échec du contrôle de cohérence des données."
+ },
+ {
+  "ctx": "0x115764",
+  "max": 39,
+  "en": "Loaded data has incorrect data version.",
+  "fr": "Version des données incorrecte."
+ },
+ {
+  "ctx": "0x11578c",
+  "max": 91,
+  "en": "The Memory Stick\\u2122 is in the locked position.\nFailed to delete mid-battle save data.",
+  "fr": "Le Memory Stick\\u2122 est verrouillé.\nImpossible de supprimer la sauvegarde rapide."
+ },
+ {
+  "ctx": "0x1157e8",
+  "max": 39,
+  "en": "Failed to delete mid-battle save data.",
+  "fr": "Échec suppression sauvegarde rapide."
+ },
+ {
+  "ctx": "0x115810",
+  "max": 55,
+  "en": "The load process has been cancelled due to sleep mode.",
+  "fr": "Chargement annulé (mise en veille)."
+ },
+ {
+  "ctx": "0x1159d8",
+  "max": 15,
+  "en": "Introduction",
+  "fr": "Introduction"
+ },
+ {
+  "ctx": "0x1159e8",
+  "max": 11,
+  "en": "Chapter %d",
+  "fr": "Chapitre %d"
+ },
+ {
+  "ctx": "0x115a20",
+  "max": 7,
+  "en": "Liane",
+  "fr": "Liane"
+ },
+ {
+  "ctx": "0x115a28",
+  "max": 7,
+  "en": "Jeanne",
+  "fr": "Jeanne"
+ },
+ {
+  "ctx": "0x115a30",
+  "max": 35,
+  "en": "Cannot save during a save process.",
+  "fr": "Sauvegarde déjà en cours."
+ },
+ {
+  "ctx": "0x115a54",
+  "max": 43,
+  "en": "Failed to free up memory to enable saving.",
+  "fr": "Mémoire insuffisante pour la sauvegarde."
+ },
+ {
+  "ctx": "0x115a80",
+  "max": 27,
+  "en": "Failed to create save data.",
+  "fr": "Échec de la sauvegarde."
+ },
+ {
+  "ctx": "0x115a9c",
+  "max": 55,
+  "en": "Save data delete process interrupted due to sleep mode.",
+  "fr": "Suppression interrompue (mise en veille)."
+ },
+ {
+  "ctx": "0x115b10",
+  "max": 43,
+  "en": "Save process interrupted due to sleep mode.",
+  "fr": "Sauvegarde interrompue (mise en veille)."
+ },
+ {
+  "ctx": "0x115bd4",
+  "max": 75,
+  "en": "Sword\nSpear\nAxe\nBow\nStaff\nKnife\nWhip\nIron ball\nHammer\nClub\nClaw\nBare hand",
+  "fr": "Épée\nLance\nHache\nArc\nBâton\nDague\nFouet\nBoulet\nMarteau\nMassue\nGriffe\nPoings"
+ },
+ {
+  "ctx": "0x115c40",
+  "max": 23,
+  "en": "\nPoison\n\nStun\n\n\nMarked\n",
+  "fr": "\nPoison\n\nSonné\n\n\nCiblé\n"
+ },
+ {
+  "ctx": "0x115c84",
+  "max": 15,
+  "en": "statlist.skn",
+  "fr": ""
+ },
+ {
+  "ctx": "0x115cd0",
+  "max": 15,
+  "en": "New Save Data",
+  "fr": "Nouvelle sauv."
+ },
+ {
+  "ctx": "0x11603c",
+  "max": 15,
+  "en": "MFree Destroy",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1160b4",
+  "max": 407,
+  "en": " ??? \nCombat\nTurns & Phases\nGaining the Advantage\nRestoring HP\nThe Armlets' Power I\nBurning Auras\nUnified Guard\nOutfitting Your Troops\nShops\nEquipping Weapons & Armor\nEquipping Skill Stones\nBinding Skill Stones\nPlacing Comrades on the Battlefield\nThe Armlets' Power II\nFallen Heroes?!\nMerits of the Lance\nSpirit Affinities\nMerits of the Bow\nPave a Path to Victory!\nMerits of the Whip\nTurn Limits\nMP Charge\n",
+  "fr": " ??? \nCombat\nTours et phases\nPrendre l'avantage\nRestaurer les PV\nPouvoir du Bracelet I\nAuras ardentes\nGarde unifiée\nPréparer ses troupes\nBoutiques\nÉquiper armes et armures\nÉquiper les pierres\nLier les pierres\nPlacer ses compagnons\nPouvoir du Bracelet II\nHéros tombés ?!\nAtouts de la lance\nAffinités spirituelles\nAtouts de l'arc\nOuvrir la voie de la victoire !\nAtouts du fouet\nLimite de tours\nCharge de PM\n"
+ },
+ {
+  "ctx": "0x1162e4",
+  "max": 23,
+  "en": "Would you like to save?",
+  "fr": "Sauvegarder ?"
+ },
+ {
+  "ctx": "0x1162fc",
+  "max": 19,
+  "en": "Save\nDo not save",
+  "fr": "Oui\nNon"
+ },
+ {
+  "ctx": "0x116398",
+  "max": 15,
+  "en": " You obtain:\n",
+  "fr": " Obtenu :\n"
+ },
+ {
+  "ctx": "0x1163ac",
+  "max": 19,
+  "en": " You obtain:\n%d G\n",
+  "fr": " Obtenu :\n%d G\n"
+ },
+ {
+  "ctx": "0x11640c",
+  "max": 15,
+  "en": "pface:nametex",
+  "fr": ""
+ },
+ {
+  "ctx": "0x117995",
+  "max": 9,
+  "en": ".shstrtab",
+  "fr": ""
+ },
+ {
+  "ctx": "0x11799f",
+  "max": 5,
+  "en": ".text",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1179a5",
+  "max": 9,
+  "en": ".rel.text",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1179cf",
+  "max": 12,
+  "en": ".lib.ent.top",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1179dc",
+  "max": 8,
+  "en": ".lib.ent",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1179e5",
+  "max": 12,
+  "en": ".rel.lib.ent",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1179f2",
+  "max": 12,
+  "en": ".lib.ent.btm",
+  "fr": ""
+ },
+ {
+  "ctx": "0x1179ff",
+  "max": 13,
+  "en": ".lib.stub.top",
+  "fr": ""
+ },
+ {
+  "ctx": "0x117a0d",
+  "max": 9,
+  "en": ".lib.stub",
+  "fr": ""
+ },
+ {
+  "ctx": "0x117a17",
+  "max": 13,
+  "en": ".rel.lib.stub",
+  "fr": ""
+ },
+ {
+  "ctx": "0x117a25",
+  "max": 13,
+  "en": ".lib.stub.btm",
+  "fr": ""
+ },
+ {
+  "ctx": "0x117aaf",
+  "max": 5,
+  "en": ".data",
+  "fr": ""
+ },
+ {
+  "ctx": "0x117ab5",
+  "max": 9,
+  "en": ".rel.data",
+  "fr": ""
+ },
+ {
+  "ctx": "0x117abf",
+  "max": 4,
+  "en": ".bss",
+  "fr": ""
+ },
+ {
+  "ctx": "0x117ac4",
+  "max": 11,
+  "en": ".comment",
+  "fr": ""
+ },
+ {
+  "ctx": "0x117ad0",
+  "max": 29,
+  "en": "MW MIPS C Compiler (2.4.1.01)",
+  "fr": ""
+ },
+ {
+  "ctx": "BOOT",
+  "max": 15,
+  "en": "Stage %d  %s ",
+  "fr": "Étape %d  %s "
+ },
+ {
+  "ctx": "BOOT",
+  "max": 11,
+  "en": "Stage  %s ",
+  "fr": "Étape  %s "
+ },
+ {
+  "ctx": "BOOT",
+  "max": 31,
+  "en": "%s, \na free stage, appeared!",
+  "fr": "%s, \nétape libre disponible !"
+ },
+ {
+  "ctx": "BOOT",
+  "max": 31,
+  "en": "\nMale\nFemale\nUnknown\nN/A\nMale?\n",
+  "fr": "\nHomme\nFemme\nInconnu\n-\nHomme?\n"
+ }
+]

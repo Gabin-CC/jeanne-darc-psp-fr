@@ -1,0 +1,1752 @@
+[
+ {
+  "ctx": "ST4040AB",
+  "max": 34,
+  "who": "Elder",
+  "en": "of how stubborn their subject's\nsoul would be.",
+  "fr": "sur la solidité de l'âme\nde leur sujet."
+ },
+ {
+  "ctx": "ST4040AB",
+  "max": 34,
+  "who": "Elder",
+  "en": "But even Roger's resilience will\nreach the end of its rope. ",
+  "fr": "Mais même la résistance de Roger\nfinira par se rompre."
+ },
+ {
+  "ctx": "ST4040AB",
+  "max": 34,
+  "who": "Elder",
+  "en": "You must seek him out...ere his\nsoul succumbs to the sinister.",
+  "fr": "Vous devez le trouver... avant que\nson âme ne succombe au sinistre."
+ },
+ {
+  "ctx": "ST4041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Traps?",
+  "fr": "Des pièges ?"
+ },
+ {
+  "ctx": "ST4041BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "The last of them, I'd guess.\nSneaky little dwarf bastards.",
+  "fr": "Les derniers, à mon avis.\nSaletés de nains sournois."
+ },
+ {
+  "ctx": "ST4041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Roger...\nWhy did you just save me?",
+  "fr": "Roger... Pourquoi m'as-tu sauvée ?"
+ },
+ {
+  "ctx": "ST4041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "This wasn't the first time.",
+  "fr": "Ce n'est pas la première fois."
+ },
+ {
+  "ctx": "ST4041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "You saved my life at Henry's\ncoronation, too.",
+  "fr": "Tu m'as déjà sauvé la vie\nau sacre d'Henri."
+ },
+ {
+  "ctx": "ST4041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Roger...\nAre you really a reaper?",
+  "fr": "Roger...\nEs-tu vraiment un Faucheur ?"
+ },
+ {
+  "ctx": "ST4041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Deep down, you're still human.\nAm I wrong?",
+  "fr": "Au fond de toi, tu es encore\nhumain. Je me trompe ?"
+ },
+ {
+  "ctx": "ST4041BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "...Heh.",
+  "fr": "...Hmpf."
+ },
+ {
+  "ctx": "ST4041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Why are you even after the gem?",
+  "fr": "Pourquoi cherches-tu la gemme ?"
+ },
+ {
+  "ctx": "ST4041BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "I thought you wanted to kill me!",
+  "fr": "Je croyais que tu voulais me tuer !"
+ },
+ {
+  "ctx": "ST4041BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "I'm here to get my hands on the\nultimate power.",
+  "fr": "Je suis là pour m'emparer du\npouvoir ultime."
+ },
+ {
+  "ctx": "ST4041BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "Which means...",
+  "fr": "Ce qui veut dire..."
+ },
+ {
+  "ctx": "ST4041BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "you can't have the gem!",
+  "fr": "que la gemme, tu ne l'auras pas !"
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "",
+  "en": "...No...",
+  "fr": "...Non..."
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "",
+  "en": "...Give it up...",
+  "fr": "...Laisse tomber."
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "",
+  "en": "This is it!",
+  "fr": "C'est ici !"
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "He used that to disappear...but\nwhat is it?\fSome sort of transportation\ndevice?",
+  "fr": "Il a disparu grâce\nà ça. Mais quoi ?\fUn genre de portail magique ?"
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "...Nothing.",
+  "fr": "...Rien."
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Maybe there's a switch someplace\nelse.",
+  "fr": "Il doit y avoir un\nlevier ailleurs."
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "Gilles, Jean, Beatrix",
+  "en": "...No response.",
+  "fr": "...Aucun effet."
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "Gilles",
+  "en": "Is the switch somewhere else?",
+  "fr": "Le levier est-il ailleurs ?"
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "...It's not working.",
+  "fr": "...Ça marche pas."
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Perhaps a switch someplace else\nwill do the trick.",
+  "fr": "Cherchons donc un\nlevier ailleurs."
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "La Hire",
+  "en": "...It is broken!",
+  "fr": "...C'est cassé !"
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "La Hire",
+  "en": "Hmm, perhaps a switch\nsomewhere else must be\nprrressed.",
+  "fr": "La Hire crrroit qu'un\nlevier est ailleurrrs."
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "...Huh? Nothing happened.",
+  "fr": "...Hein ? Rien ne\ns'est passé."
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Is there a switch for this\nsomeplace else?",
+  "fr": "Y a-t-il un levier\nailleurs ?"
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "...Quoi?\nEet eez not working!",
+  "fr": "...Quoi ?\nÇa ne marche pas !"
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Perhaps ze sweetch eez\nsomeplace else...",
+  "fr": "Le levier est\nsûrement ailleurs..."
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "Think we need to press a switch\nelsewhere?",
+  "fr": "Faut actionner un\nlevier ailleurs ?"
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "Rufus",
+  "en": "Arf?\nRuthing rappened!",
+  "fr": "Ouaf ? R-rien ne\ns'est rassé !"
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "Rufus",
+  "en": "Raybe the pushy-thingy is\nrumplace else!",
+  "fr": "Le truc-à-rousser\nest railleurs !"
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "Perhaps we must push in the\nproper place prior to proceeding.",
+  "fr": "Peut-être faut-il presser la pièce\npropice pour poursuivre."
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "Bartolomeo",
+  "en": "...Harrumph. No effect.",
+  "fr": "...Hum. Hélas,\nrien n'y fait."
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "Bartolomeo",
+  "en": "Mayhap a switch must be push'd\nto work this contrivance.",
+  "fr": "Sans doute faut-il quelque\nlevier pour mouvoir cet engin."
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "Bertrand",
+  "en": "...Hey, nothin's happenin'!",
+  "fr": "...Hé, y s'passe rien !"
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "Bertrand",
+  "en": "Think we gots to use a switch\nsomeplace else?",
+  "fr": "Faut trouver un\nlevier ailleurs ?"
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "...Coa? Nothing happened.",
+  "fr": "...Coa ? Il ne se\npasse rien."
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "Cuisses",
+  "en": "The switch that activates this\nmust be somewhere else.",
+  "fr": "Il s'active sans\ndoute d'ailleurs."
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "...No response, hmm?",
+  "fr": "...Rien du tout,\nhmm ?"
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "We'll just have to find ourselves\na switch, loves.",
+  "fr": "Un levier, vite, mes chéris."
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "Claire",
+  "en": "...What? Ugh!\nNothing happened!",
+  "fr": "...Quoi ? Pff !\nRien ne se passe !"
+ },
+ {
+  "ctx": "ST4041BT",
+  "max": 16,
+  "who": "Claire",
+  "en": "The switch must be somewhere\nelse. I command you all to find it!",
+  "fr": "Le levier est ailleurs. Trouvez-le,\nje vous l'ordonne !"
+ },
+ {
+  "ctx": "ST4041AB",
+  "max": 34,
+  "who": "Village Dwarf",
+  "en": "Woh, my! Dey made short work of\nda twaps, didn't dey?",
+  "fr": "Ça awows ! Iws ont fait twès vite\navec nos pièges, pas vwai ?"
+ },
+ {
+  "ctx": "ST4041AB",
+  "max": 34,
+  "who": "Dwarf Doyen",
+  "en": "...D-da gem! It's gone!",
+  "fr": "...W-wa gemme ! Ewwe a dispawu !"
+ },
+ {
+  "ctx": "ST4041AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "I'm sorry.\nThe man from before stole it.",
+  "fr": "Je suis désolée.\nL'homme de tout à l'heure l'a volée."
+ },
+ {
+  "ctx": "ST4041AB",
+  "max": 34,
+  "who": "Dwarf Doyen",
+  "en": "Wuhhh-WHAT?! ...ACHOO!",
+  "fr": "Quuuoi ?! ...ATCHOUM !"
+ },
+ {
+  "ctx": "ST4041AB",
+  "max": 34,
+  "who": "Village Dwarf",
+  "en": "Woh, no, Doyen!\nYer awwergies!",
+  "fr": "Oh non, Doyen ! Vos awwewgies !"
+ },
+ {
+  "ctx": "ST4041AB",
+  "max": 34,
+  "who": "Dwarf Doyen",
+  "en": "Dat waddie in da cape took it?\nDa test subject?",
+  "fr": "C'est we gaiwwawd à wa cape qui\nw'a pwise ? We sujet d'expéwience ?"
+ },
+ {
+  "ctx": "ST4041AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "The what?",
+  "fr": "Le quoi ?"
+ },
+ {
+  "ctx": "ST4041AB",
+  "max": 34,
+  "who": "Dwarf Doyen",
+  "en": "Ye have to wecover da gem!\nQuickwy, while dere's still time!\fIf his weaper comes back to wife,\nwie's all doomed! ",
+  "fr": "Vous devez wécupéwer wa gemme !\nVite, tant qu'iw est encowe temps !\fSi son Faucheuw wevient à wa vie,\non est tous fichus !"
+ },
+ {
+  "ctx": "ST4041AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Roger was a test subject?",
+  "fr": "Roger était un sujet d'expérience ?"
+ },
+ {
+  "ctx": "ST4041AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "So you're saying Roger was a\nsellsword at this outpost...\fcalled \"Soldat\"?",
+  "fr": "Vous voulez dire que Roger était\nmercenaire dans cet avant-poste...\fnommé « Soldat » ?"
+ },
+ {
+  "ctx": "ST4041AB",
+  "max": 34,
+  "who": "Dwarf Doyen",
+  "en": "Aye, dat's what dey told him he\nwas. Twuth be told, though,\fde Engwish onwy wanted him for\ndeir vile expewiments.",
+  "fr": "Oui, c'est ce qu'on wui a waconté.\nMais à vwai diwe,\fwes Angwais we vouwaient juste\npouw weuws expéwiences ignobwes."
+ },
+ {
+  "ctx": "ST4041AB",
+  "max": 34,
+  "who": "Dwarf Doyen",
+  "en": "Dey killed thousands o' soldiers\ntwyin' to bwing back da weapers. ",
+  "fr": "Iws ont tué des miwwiews de soldats\nen vouwant wamenew wes Faucheuws."
+ },
+ {
+  "ctx": "ST4041AB",
+  "max": 34,
+  "who": "Dwarf Doyen",
+  "en": "And dey made us help. Not wery\npweasant times for us dwarfs...",
+  "fr": "Et iws nous ont fowcés à aider.\nPas twès dwôwe pouw nous, wes nains."
+ },
+ {
+  "ctx": "ST4041AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Why would the English do that?",
+  "fr": "Mais pourquoi les Anglais\nfont-ils une chose pareille ?"
+ },
+ {
+  "ctx": "ST4041AB",
+  "max": 34,
+  "who": "Dwarf Doyen",
+  "en": "Da wesearchers demselves were\npossessed by weapers, dat's why.",
+  "fr": "Wes chewcheuws eux-mêmes étaient\npossédés paw des Faucheuws, voiwà !"
+ },
+ {
+  "ctx": "ST4041AB",
+  "max": 34,
+  "who": "Dwarf Doyen",
+  "en": "Most o' da soldiers dey pwayed\nGod with wejected the weapers,\fand 'fore wong, Soldat was full\nto da bwim with human\nvegetables.",
+  "fr": "Wa pwupawt des soudawds qu'iws ont\nmanipuwés wejetaient wes Faucheuws,\fet bientôt, Sowdat débowdait\nde pauvwes âmes wéduites\nà w'état de wégumes."
+ },
+ {
+  "ctx": "ST4041AB",
+  "max": 34,
+  "who": "Dwarf Doyen",
+  "en": "But den, finawwy, a weaper's\nsoul took to one o' da soldiers.",
+  "fr": "Mais un jouw, enfin, w'âme d'un\nFaucheuw a pwis chez un soudawd."
+ },
+ {
+  "ctx": "ST4041AB",
+  "max": 34,
+  "who": "Dwarf Doyen",
+  "en": "Sad to say, even dat ended badwy.",
+  "fr": "Héwas, même ça a maw towné."
+ },
+ {
+  "ctx": "ST4041AB",
+  "max": 34,
+  "who": "Dwarf Doyen",
+  "en": "Da subject fwed da facility with\nda weaper still inside him.",
+  "fr": "We sujet s'est enfui avec we\nFaucheuw toujouws en wui."
+ },
+ {
+  "ctx": "ST4041AB",
+  "max": 34,
+  "who": "Dwarf Doyen",
+  "en": "And dat soldier is yer fwiend in\nda cape.",
+  "fr": "Et ce soudawd, c'est votwe ami\nà wa cape."
+ },
+ {
+  "ctx": "ST4041AB",
+  "max": 34,
+  "who": "Dwarf Doyen",
+  "en": "Wight now his good heart is\nkeepin' da weaper at bay, but...",
+  "fr": "Pouw w'instant, son bon cœuw tient\nwe Faucheuw en wespect, mais..."
+ },
+ {
+  "ctx": "ST4041AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "I never knew...\nPoor Roger.",
+  "fr": "Je ne savais pas... Pauvre Roger."
+ },
+ {
+  "ctx": "ST4041AB",
+  "max": 34,
+  "who": "Dwarf Doyen",
+  "en": "The waddie's soul is bweakin'.\nHe'll be finished before wong.",
+  "fr": "W'âme du gaiwwawd se bwise.\nIw sewa bientôt fini."
+ },
+ {
+  "ctx": "ST4041AB",
+  "max": 34,
+  "who": "Dwarf Doyen",
+  "en": "Ye've wery widdle time weft.\nIf ye want to save him,\fye'll have to chase him down and\nstop da weaper fwom wevivin'.",
+  "fr": "Iw vous weste twès peu de temps.\nSi vous vouwez we sauver,\fiw faudwa we wattwaper et empêcher\nwe Faucheuw de wenaîtwe."
+ },
+ {
+  "ctx": "ST4050BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "Give it up!\nYou'll never have the gem!",
+  "fr": "Renonce !\nTu n'auras jamais la gemme !"
+ },
+ {
+  "ctx": "ST4050BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "You have to return it.\nRoger, it's for your own good!",
+  "fr": "Tu dois la rendre.\nRoger, c'est pour ton bien !"
+ },
+ {
+  "ctx": "ST4050BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "If you don't stop now,",
+  "fr": "Si tu ne t'arrêtes pas maintenant,"
+ },
+ {
+  "ctx": "ST4050BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Gilvaroth will absorb you, just\nlike the others!",
+  "fr": "Gilvaroth t'absorbera, comme\nles autres !"
+ },
+ {
+  "ctx": "ST4050BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "That's my problem!\nNo one asked you for help!",
+  "fr": "Ça, c'est mon problème !\nJe t'ai rien demandé !"
+ },
+ {
+  "ctx": "ST4050BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "Why can't you let go of the\nghosts of the past?",
+  "fr": "Pourquoi tu ne lâches pas les\nfantômes du passé ?"
+ },
+ {
+  "ctx": "ST4050BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Grr... I'm not letting go of\nanything! Snap out of it, Roger!",
+  "fr": "Grr... Je ne lâcherai rien du tout !\nReprends-toi, Roger !"
+ },
+ {
+  "ctx": "ST4050BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "Roger is gone! Dead!\nYou understand?",
+  "fr": "Roger n'existe plus ! Il est mort !\nTu comprends ?"
+ },
+ {
+  "ctx": "ST4050BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "...Ngahhh!",
+  "fr": "...Nghaaah !"
+ },
+ {
+  "ctx": "ST4050BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "...The gem!",
+  "fr": "...La gemme !"
+ },
+ {
+  "ctx": "ST4050BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Why do they have magic armor?\nThey're not wearing armlets.",
+  "fr": "Pourquoi ont-ils une armure\nmagique ? Ils n'ont pas de Bracelet."
+ },
+ {
+  "ctx": "ST4050BM",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "Surprised, little heroine?",
+  "fr": "Surprise, petite héroïne ?"
+ },
+ {
+  "ctx": "ST4050BM",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "After all our years of research,\fresults like this were\nexceedingly simple to achieve.",
+  "fr": "Après toutes nos années de\nrecherche,\fobtenir un tel résultat fut\nd'une simplicité enfantine."
+ },
+ {
+  "ctx": "ST4050BM",
+  "max": 34,
+  "who": "Cuisses",
+  "en": "Uncle...",
+  "fr": "Mon oncle..."
+ },
+ {
+  "ctx": "ST4050BM",
+  "max": 34,
+  "who": "Cuisses",
+  "en": "Uncle, please stop!",
+  "fr": "Uncle, je vous en prie, cessez !"
+ },
+ {
+  "ctx": "ST4050BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "\"Uncle\"? What?!\nYOU'RE the Duke of Bedford?",
+  "fr": "« Mon oncle » ? Quoi ?!\nC'est VOUS, le duc de Bedford ?"
+ },
+ {
+  "ctx": "ST4050BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "...Un-gah-gah-gah\\u2014",
+  "fr": "...Gnah-gah-gah\\u2014"
+ },
+ {
+  "ctx": "ST4050BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Hey, hold on! A reaper like you\ncan't die!",
+  "fr": "Hé, attends ! Un Faucheur comme\ntoi ne peut pas mourir !"
+ },
+ {
+  "ctx": "ST4050BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "Huff, huff...\nYou are all going to PAY!",
+  "fr": "Pff, pff...\nVous allez tous me le PAYER !"
+ },
+ {
+  "ctx": "ST4050BM",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "Hmm?\nWell, this is disheartening.",
+  "fr": "Hmm ?\nWell, voilà qui est fort décevant."
+ },
+ {
+  "ctx": "ST4050BM",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "I was hoping for a chance to put\nthe new armor through some\ntests.",
+  "fr": "J'espérais avoir l'occasion de\nmettre la nouvelle armure à\nl'épreuve."
+ },
+ {
+  "ctx": "ST4050BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "Bedford! How dare a human like\nyou try to attack me!",
+  "fr": "Bedford ! Comment un humain tel que\ntoi ose-t-il m'attaquer ?!"
+ },
+ {
+  "ctx": "ST4050BM",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "Humph, you're naught but a\nfailed experiment.",
+  "fr": "Hmpf, tu n'es qu'une expérience\nratée."
+ },
+ {
+  "ctx": "ST4050BM",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "Soldiers! Destroy Jeanne and her\nband of fools!",
+  "fr": "Soldats ! Détruisez Jeanne et sa\nbande d'imbéciles !"
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "unité#0, unité#149",
+  "en": "Is that all\nyou have...?",
+  "fr": "C'est tout ce\nque tu as... ?"
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "unité#0, unité#149, unité#169",
+  "en": "A mediocre\nperformance...",
+  "fr": "Une prestation\nbien médiocre..."
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "unité#0, unité#149",
+  "en": "Show me your\npowers...",
+  "fr": "Montre-moi tes\npouvoirs..."
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "unité#0, unité#149, unité#169",
+  "en": "I will offer\nno mercy...",
+  "fr": "Je n'aurai\naucune pitié..."
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "unité#0, unité#149, unité#169",
+  "en": "Come to me...",
+  "fr": "Viens à moi..."
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "Ugh, get out of\nmy sight...",
+  "fr": "Ugh, hors de\nma vue..."
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "Is this how it\nwill end...?",
+  "fr": "Est-ce ainsi\nque ça finit... ?"
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "Sigh...so it is.",
+  "fr": "Hélas... soit."
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "I see...the test\nis almost over.",
+  "fr": "Je vois... le test\ntouche à sa fin."
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "Hmph...all talk,\nwere you...?",
+  "fr": "Hmpf... rien que\ndes paroles... ?"
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "This test ends\nin our victory!",
+  "fr": "Victoire ! Le test\nest concluant !"
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "Stand up...you\ncan do this...",
+  "fr": "Debout... tu peux\ny arriver..."
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "At least go\ndown fighting!",
+  "fr": "Tombe au moins\nen combattant !"
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "Give it up!",
+  "fr": "Abandonne !"
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "Useless...",
+  "fr": "Inutile..."
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "You fools...\nBow before me!",
+  "fr": "Imbéciles...\nInclinez-vous !"
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "Let me show you\nmy full power...",
+  "fr": "Voici toute\nma puissance..."
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "Ah, ahh...",
+  "fr": "Ah, ahh..."
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "No escape...",
+  "fr": "Pas d'issue..."
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "Ahh, what a\nblunder!",
+  "fr": "Ahh, quelle\nbévue !"
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "We...we cannot\nlose!",
+  "fr": "Nous... nous ne\npouvons perdre !"
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "No...even with\nall our power?!",
+  "fr": "Non... malgré\ntout ce pouvoir ?!"
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "Ergh...I refuse\nto surrender!",
+  "fr": "Argh... je refuse\nde me rendre !"
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "This power...\nAmazing!",
+  "fr": "Ce pouvoir...\nIncroyable !"
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "Sweep up the\nrest of them!",
+  "fr": "Balayez donc\nles derniers !"
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "Ancient armlets?\nPah! Trinkets!",
+  "fr": "Des Bracelets ?\nPeuh ! Babioles !"
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "What...? Done\nalready?!",
+  "fr": "Quoi... ? Déjà\nterminé ?!"
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "You can't let\nyour guard down!",
+  "fr": "Ne baissez pas\nvotre garde !"
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "Strike! Now!",
+  "fr": "Frappez ! Vite !"
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "Thank you for\nthe honor...",
+  "fr": "Merci pour\ncet honneur..."
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "I'm...still in\nthis...!",
+  "fr": "Je... ne suis pas\nencore fini... !"
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "Ahhh...this\npower!",
+  "fr": "Ahhh... cette\npuissance !"
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "Youuuu!",
+  "fr": "Toiiii !"
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "Grahh!",
+  "fr": "Grahh !"
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "Gahh!",
+  "fr": "Gahh !"
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "Behold...my\nskill!",
+  "fr": "Admirez... mon\nadresse !"
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "Can you stand\nup to this?",
+  "fr": "Tiendras-tu\nface à ceci ?"
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "",
+  "en": "Cower at our\nvast strength!",
+  "fr": "Tremblez devant\nnotre puissance !"
+ },
+ {
+  "ctx": "ST4050BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "Jeanne!\nI'll kill you later!",
+  "fr": "Jeanne ! Je te\ntuerai plus tard !"
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "",
+  "en": "Head to Paris and destroy the Soldat Outpost!",
+  "fr": "Allez à Paris détruire l'avant-poste\nde Soldat !"
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "The gem. Now we're finally ready\nto face Gilvaroth.",
+  "fr": "La gemme. Nous voilà enfin prêts\nà affronter Gilvaroth."
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "...Humph, take the trinket, if\nyou like.",
+  "fr": "...Hmpf, prenez donc cette babiole,\nsi vous y tenez."
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "Consider it a reward for helping\nme test the armor.",
+  "fr": "Considérez-la comme le prix de\nvotre aide pour tester l'armure."
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "Come, men!",
+  "fr": "Come, soldats !"
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Why did you sell our world away\nto the reapers?!",
+  "fr": "Pourquoi avoir vendu notre monde\naux Faucheurs ?!"
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Thousands have died, and you\nstole your own nephew's body!",
+  "fr": "Des milliers de morts, et vous avez\nvolé le corps de votre neveu !"
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "He never asked for any of that.",
+  "fr": "Lui n'avait rien demandé de tout ça."
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "Your passionate pleas are wasted.\nIt's too late.",
+  "fr": "Vos suppliques passionnées sont\nvaines. Il est trop tard."
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "We no longer need either the\ngem or the test subject.",
+  "fr": "Nous n'avons plus besoin ni de la\ngemme, ni du sujet d'expérience."
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "Should I refine our armor's\npower, your holy armlet...",
+  "fr": "Une fois notre armure perfectionnée,\nvotre saint Bracelet..."
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "will seem no more than a dated\ntrinket in comparison.",
+  "fr": "ne sera plus qu'une babiole désuète\nen comparaison."
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Cuisses",
+  "en": "Uncle!",
+  "fr": "Uncle !"
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Cuisses",
+  "en": "Why? Uncle... Why did you...\n*Sniff* With Gilvaroth?!",
+  "fr": "Pourquoi ? Mon oncle... Pourquoi...\n*Snif* Avec Gilvaroth ?!"
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "We're leaving.",
+  "fr": "Nous partons."
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "Bedford...!",
+  "fr": "Bedford... !"
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "No one gets away with mocking\nme...",
+  "fr": "Personne ne se moque de moi\nimpunément..."
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "You keep the gem.",
+  "fr": "Garde la gemme."
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "Just don't forget I'll be taking\nit back...",
+  "fr": "Mais n'oublie pas que je viendrai\nla reprendre..."
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "after I kill every last one of\nthose bastards dead.",
+  "fr": "après avoir saigné jusqu'au dernier\nde ces salauds."
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "",
+  "en": "You obtain the Gem of Guidance!",
+  "fr": "Vous obtenez la Gemme de la Voie !"
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Richard",
+  "en": "I never imagined such armor\ncould be forged by human hands.",
+  "fr": "Jamais je n'aurais cru des mains\nhumaines capables de forger cela."
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Richard",
+  "en": "Fighting those soldiers was\nlike fighting my own reflection.",
+  "fr": "Combattre ces soldats, c'était\ncomme affronter mon propre reflet."
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "Even with a powerful gem in our\npossession,",
+  "fr": "Même avec une gemme aussi\npuissante en notre possession,"
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "should they find a way to temper\nthat armor, or mass produce it...",
+  "fr": "s'ils améliorent cette armure, ou\nla fabriquent en grand nombre..."
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Richard",
+  "en": "Hmm... We would be utterly\npowerless to stand against them.",
+  "fr": "Hmm... Nous serions totalement\nimpuissants face à eux."
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "...We should march on the test\nfacility in Paris.",
+  "fr": "...Nous devrions marcher sur le\ncentre d'expériences de Paris."
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "You mean march to our deaths?",
+  "fr": "Autant dire marcher à la mort ?"
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "First we'll rendezvous with\nRichemont and his forces.",
+  "fr": "D'abord, nous rejoindrons Richemont\net ses troupes."
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Then we'll invade the facility\nand get rid of our problem.",
+  "fr": "Ensuite, nous investirons le centre\npour régler notre problème."
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "You mean the armor?",
+  "fr": "L'armure, c'est ça ?"
+ },
+ {
+  "ctx": "ST4050AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "No...I mean the whole facility.",
+  "fr": "Non... le centre tout entier."
+ },
+ {
+  "ctx": "ST4060BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "Where is he?!",
+  "fr": "Où est-il ?!"
+ },
+ {
+  "ctx": "ST4060BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "I know this place...",
+  "fr": "Je connais cet endroit..."
+ },
+ {
+  "ctx": "ST4060BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "Down this way...",
+  "fr": "Par ici..."
+ },
+ {
+  "ctx": "ST4060BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "This is where they conduct their\nresearch?",
+  "fr": "C'est ici qu'ils mènent leurs\nrecherches ?"
+ },
+ {
+  "ctx": "ST4060BM",
+  "max": 34,
+  "who": "Richard",
+  "en": "It would certainly seem that way.\nBut the place is deserted.",
+  "fr": "On le dirait bien.\nMais l'endroit est désert."
+ },
+ {
+  "ctx": "ST4060BM",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "Not quite.",
+  "fr": "Pas tout à fait."
+ },
+ {
+  "ctx": "ST4060BM",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "What fools, to come strolling\nright to the slaughter!",
+  "fr": "Quels imbéciles, venir d'eux-mêmes\nse jeter à l'abattoir !"
+ },
+ {
+  "ctx": "ST4060BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Bedford, you snake!",
+  "fr": "Bedford, espèce de serpent !"
+ },
+ {
+  "ctx": "ST4060BM",
+  "max": 34,
+  "who": "Gilles",
+  "en": "We've been had.",
+  "fr": "On s'est fait avoir."
+ },
+ {
+  "ctx": "ST4060BM",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "Welcome...to the Bedford Inn...",
+  "fr": "Welcome... à l'auberge Bedford..."
+ },
+ {
+  "ctx": "ST4060BM",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "where the knives are sharp, and\nthe sleep...eternal.",
+  "fr": "où les couteaux sont affûtés, et\nle sommeil... éternel."
+ },
+ {
+  "ctx": "ST4060BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "What's...going on...",
+  "fr": "Qu'est-ce qui... se passe..."
+ },
+ {
+  "ctx": "ST4060BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "I...I can't transform!",
+  "fr": "Je... Impossible de me transformer !"
+ },
+ {
+  "ctx": "ST4060BM",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "Oh, my. I must have forgotten to\nmention that.",
+  "fr": "Oh, my. J'ai dû oublier de\nvous le préciser."
+ },
+ {
+  "ctx": "ST4060BM",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "This room surpresses all skills,\nauras, and transformations.",
+  "fr": "Cette salle neutralise compétences,\nauras et transformations."
+ },
+ {
+  "ctx": "ST4060BM",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "Best of luck to you.",
+  "fr": "Bonne chance à vous."
+ },
+ {
+  "ctx": "ST4060BT",
+  "max": 16,
+  "who": "unité#139",
+  "en": "This will be\nyour graveyard!",
+  "fr": "Ce sera votre\ntombeau !"
+ },
+ {
+  "ctx": "ST4060BT",
+  "max": 16,
+  "who": "unité#139",
+  "en": "I won't let you\ngo any further!",
+  "fr": "Vous n'irez pas\nplus loin !"
+ },
+ {
+  "ctx": "ST4060BT",
+  "max": 16,
+  "who": "",
+  "en": "All this, and we\nstill can't win?",
+  "fr": "Tout ça, et on ne\npeut pas gagner ?"
+ },
+ {
+  "ctx": "ST4060BT",
+  "max": 16,
+  "who": "",
+  "en": "Ergh...I won't\ngive up!",
+  "fr": "Argh... je ne\nlâcherai pas !"
+ },
+ {
+  "ctx": "ST4060BT",
+  "max": 16,
+  "who": "",
+  "en": "Don't give up!\nFull forward!",
+  "fr": "Ne flanchez pas !\nFor England !"
+ },
+ {
+  "ctx": "ST4060BT",
+  "max": 16,
+  "who": "",
+  "en": "Well? What's the\nproblem?!",
+  "fr": "Alors ? Qu'est-ce\nqui ne va pas ?!"
+ },
+ {
+  "ctx": "ST4060BT",
+  "max": 16,
+  "who": "",
+  "en": "Charge! Forward!",
+  "fr": "Chargez !\nEn avant !"
+ },
+ {
+  "ctx": "ST4060BT",
+  "max": 16,
+  "who": "",
+  "en": "Slash 'em to\nribbons!",
+  "fr": "Taillez-les en\npièces !"
+ },
+ {
+  "ctx": "ST4060BT",
+  "max": 16,
+  "who": "",
+  "en": "Say your\nprayers!",
+  "fr": "Faites vos\nprières !"
+ },
+ {
+  "ctx": "ST4060BT",
+  "max": 16,
+  "who": "",
+  "en": "I'll fight 'til\nthe bitter end!",
+  "fr": "Je me battrai\njusqu'au bout !"
+ },
+ {
+  "ctx": "ST4060BT",
+  "max": 16,
+  "who": "",
+  "en": "The room is supressing Burning Auras!",
+  "fr": "Les Auras ardentes sont bloquées !"
+ },
+ {
+  "ctx": "ST4060BT",
+  "max": 16,
+  "who": "",
+  "en": "The room is supressing your skills!",
+  "fr": "Les compétences sont bloquées !"
+ },
+ {
+  "ctx": "ST4060BT",
+  "max": 16,
+  "who": "",
+  "en": "The room is supressing\ntransformations!",
+  "fr": "Impossible de se\ntransformer !"
+ },
+ {
+  "ctx": "ST4060BT",
+  "max": 16,
+  "who": "",
+  "en": "You can use Burning Auras again!",
+  "fr": "Les Auras ardentes\nsont rétablies !"
+ },
+ {
+  "ctx": "ST4060BT",
+  "max": 16,
+  "who": "",
+  "en": "You can use skills again!",
+  "fr": "Les compétences\nsont rétablies !"
+ },
+ {
+  "ctx": "ST4060BT",
+  "max": 16,
+  "who": "",
+  "en": "You can transform again!",
+  "fr": "La transformation\nest rétablie !"
+ },
+ {
+  "ctx": "ST4060AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "Why can't I defeat you!",
+  "fr": "Pourquoi je n'arrive pas\nà te vaincre ?!"
+ },
+ {
+  "ctx": "ST4060AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "As if I could be felled by a half-\nboiled reaper...",
+  "fr": "Comme si je pouvais tomber face à\nun Faucheur à demi éclos..."
+ },
+ {
+  "ctx": "ST4060AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "so weak that a human heart\nalone can keep it chained!",
+  "fr": "si faible qu'un simple cœur humain\nsuffit à le tenir enchaîné !"
+ },
+ {
+  "ctx": "ST4060AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "Graaah!",
+  "fr": "Graaah !"
+ },
+ {
+  "ctx": "ST4060AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "Enough of this charade.",
+  "fr": "Assez de cette comédie."
+ },
+ {
+  "ctx": "ST4060AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Roger... Roger!",
+  "fr": "Roger... Roger !"
+ },
+ {
+  "ctx": "ST4060AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "He's unconscious, but still\nbreathing.",
+  "fr": "Il est inconscient, mais il\nrespire encore."
+ },
+ {
+  "ctx": "ST4060AB",
+  "max": 34,
+  "who": "",
+  "en": "&Ira",
+  "fr": "&Ira"
+ },
+ {
+  "ctx": "ST4060AB",
+  "max": 34,
+  "who": "Ira",
+  "en": "gRAAAAaaaHHHHHH!",
+  "fr": "gRAAAAaaaHHHHHH !"
+ },
+ {
+  "ctx": "ST4060AB",
+  "max": 34,
+  "who": "Ira",
+  "en": "yAAAHHHhhhRRRG!",
+  "fr": "yAAAHHHhhhRRRG !"
+ },
+ {
+  "ctx": "ST4060AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "M-my God, that's...",
+  "fr": "M-mon Dieu, c'est..."
+ },
+ {
+  "ctx": "ST4060AB",
+  "max": 34,
+  "who": "Richard",
+  "en": "Blast! Has the reaper finally\nwon out?",
+  "fr": "Diable ! Le Faucheur a-t-il fini\npar l'emporter ?"
+ },
+ {
+  "ctx": "ST4060AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "There has to be a way to save\nhim!",
+  "fr": "Il doit y avoir un moyen de le\nsauver !"
+ },
+ {
+  "ctx": "ST4060AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "My armlet!",
+  "fr": "Mon Bracelet !"
+ },
+ {
+  "ctx": "ST4070BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Where am I?",
+  "fr": "Où suis-je ?"
+ },
+ {
+  "ctx": "ST4070BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "What...what on earth?",
+  "fr": "Qu'est-ce que... Que se passe-t-il ?"
+ },
+ {
+  "ctx": "ST4070BM",
+  "max": 34,
+  "who": "",
+  "en": "WHAM!",
+  "fr": "BAM !"
+ },
+ {
+  "ctx": "ST4070BM",
+  "max": 34,
+  "who": "",
+  "en": "&Girl's Voice",
+  "fr": "&Voix de fille"
+ },
+ {
+  "ctx": "ST4070BM",
+  "max": 34,
+  "who": "Girl's Voice",
+  "en": "Tee hee...\nYou're hopeless, Roger.",
+  "fr": "Hi hi...\nTu es un cas désespéré, Roger."
+ },
+ {
+  "ctx": "ST4070BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Roger?\nAnd...and Liane!",
+  "fr": "Roger ? Et... et Liane !"
+ },
+ {
+  "ctx": "ST4070BM",
+  "max": 34,
+  "who": "Liane",
+  "en": "You'd make a terrible shepherd,\nRoger.",
+  "fr": "Tu ferais un piètre berger, Roger."
+ },
+ {
+  "ctx": "ST4070BM",
+  "max": 34,
+  "who": "Man's Voice",
+  "en": "I'll say!",
+  "fr": "Ça, tu l'as dit !"
+ },
+ {
+  "ctx": "ST4070BM",
+  "max": 34,
+  "who": "Jacques",
+  "en": "You've got a long way to go if\nyou want to lead the village\nsomeday.",
+  "fr": "Tu as encore du chemin à faire si\ntu veux un jour diriger le\nvillage."
+ },
+ {
+  "ctx": "ST4070BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Papa?",
+  "fr": "Papa ?"
+ },
+ {
+  "ctx": "ST4070BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "This is Domrémy...",
+  "fr": "C'est Domrémy..."
+ },
+ {
+  "ctx": "ST4070BM",
+  "max": 34,
+  "who": "Jacques",
+  "en": "Hmm? Now where on earth did\nJeanne run off to?",
+  "fr": "Hmm ? Mais où donc Jeanne\nest-elle encore partie ?"
+ },
+ {
+  "ctx": "ST4070BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Papa, I'm\\u2014",
+  "fr": "Papa, je suis\\u2014"
+ },
+ {
+  "ctx": "ST4070BM",
+  "max": 34,
+  "who": "Liane",
+  "en": "Can you believe Roger? The\nsheep outsmarted him AGAIN!",
+  "fr": "Non mais, ce Roger ! Les moutons\nl'ont ENCORE roulé !"
+ },
+ {
+  "ctx": "ST4070BM",
+  "max": 34,
+  "who": "Jacques",
+  "en": "Ha ha ha, young people these\ndays.",
+  "fr": "Ha ha ha, ah, la jeunesse\nd'aujourd'hui."
+ },
+ {
+  "ctx": "ST4070BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Do I have to do everything?\nHere\\u2014",
+  "fr": "Faut-il que je fasse tout moi-même ?\nTiens\\u2014"
+ },
+ {
+  "ctx": "ST4070BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Gilles. Richard.",
+  "fr": "Gilles. Richard."
+ },
+ {
+  "ctx": "ST4070BM",
+  "max": 34,
+  "who": "Gilles",
+  "en": "My armlet began to shine, and\nwhen I came to, I was here.",
+  "fr": "Mon Bracelet s'est mis à briller,\fet quand j'ai repris mes esprits,\nj'étais ici."
+ },
+ {
+  "ctx": "ST4070BM",
+  "max": 34,
+  "who": "Richard",
+  "en": "Where...where did the rest of\nyou go to?",
+  "fr": "Où... où étiez-vous tous passés ?"
+ },
+ {
+  "ctx": "ST4070BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Until a moment ago, I was in\nDomrémy...",
+  "fr": "Il y a un instant encore, j'étais\nà Domrémy..."
+ },
+ {
+  "ctx": "ST4070BM",
+  "max": 34,
+  "who": "",
+  "en": "&Phantom Orc",
+  "fr": "&Orque fantôme"
+ },
+ {
+  "ctx": "ST4070BM",
+  "max": 34,
+  "who": "Phantom Orc",
+  "en": "Grrarrr!",
+  "fr": "Grrarrr !"
+ },
+ {
+  "ctx": "ST4070BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Grr...\nWhat do THEY want?",
+  "fr": "Grr...\nQu'est-ce qu'ILS veulent, eux ?"
+ },
+ {
+  "ctx": "ST4070BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Where did they\ncome from?",
+  "fr": "D'où sortent-ils ?"
+ },
+ {
+  "ctx": "ST4070BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Is it...dead?",
+  "fr": "Est-il... mort ?"
+ },
+ {
+  "ctx": "ST4070BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Phantoms?",
+  "fr": "Des fantômes ?"
+ },
+ {
+  "ctx": "ST4070BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "What a strange\nsensation...",
+  "fr": "Quelle étrange\nsensation..."
+ },
+ {
+  "ctx": "ST4070BT",
+  "max": 16,
+  "who": "Gilles",
+  "en": "What is\nthis place?",
+  "fr": "Quel est donc\ncet endroit ?"
+ },
+ {
+  "ctx": "ST4070BT",
+  "max": 16,
+  "who": "Gilles",
+  "en": "Creepy.",
+  "fr": "Sinistre."
+ },
+ {
+  "ctx": "ST4070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Evil creature!\nBegone!",
+  "fr": "Créature du mal !\nArrière !"
+ },
+ {
+  "ctx": "ST4070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "What is going\non here?",
+  "fr": "Que se passe-t-il\nici ?"
+ },
+ {
+  "ctx": "ST4070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "The foul air\nhere oppresses.",
+  "fr": "L'air vicié d'ici\nm'oppresse."
+ },
+ {
+  "ctx": "ST4070BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "What...what\nis going on?",
+  "fr": "Que... que se\npasse-t-il ?"
+ },
+ {
+  "ctx": "ST4070BT",
+  "max": 16,
+  "who": "Gilles",
+  "en": "We'll have\nto fight...",
+  "fr": "Il va falloir\nse battre..."
+ },
+ {
+  "ctx": "ST4070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "They're coming.\nGet ready!",
+  "fr": "Ils arrivent.\nPréparez-vous !"
+ },
+ {
+  "ctx": "ST4070BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Where are we?",
+  "fr": "Où sommes-nous ?"
+ },
+ {
+  "ctx": "ST4070BT",
+  "max": 16,
+  "who": "Gilles",
+  "en": "How are we\nto get out?",
+  "fr": "Comment sortir\nd'ici ?"
+ },
+ {
+  "ctx": "ST4070BT",
+  "max": 16,
+  "who": "Gilles",
+  "en": "Is this the\narmlets' will?",
+  "fr": "Est-ce la volonté\ndes Bracelets ?"
+ },
+ {
+  "ctx": "ST4070BT",
+  "max": 16,
+  "who": "Gilles",
+  "en": "This is\nindescribable...",
+  "fr": "C'est\nindescriptible..."
+ }
+]

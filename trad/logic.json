@@ -1,0 +1,5294 @@
+[
+ {
+  "ctx": "0x80",
+  "max": 32,
+  "en": "Jeanne",
+  "fr": "Jeanne"
+ },
+ {
+  "ctx": "0x100",
+  "max": 32,
+  "en": "Liane",
+  "fr": "Liane"
+ },
+ {
+  "ctx": "0x180",
+  "max": 32,
+  "en": "Roger",
+  "fr": "Roger"
+ },
+ {
+  "ctx": "0x200",
+  "max": 32,
+  "en": "Gilles",
+  "fr": "Gilles"
+ },
+ {
+  "ctx": "0x280",
+  "max": 32,
+  "en": "Rufus",
+  "fr": "Rufus"
+ },
+ {
+  "ctx": "0x300",
+  "max": 32,
+  "en": "La Hire",
+  "fr": "La Hire"
+ },
+ {
+  "ctx": "0x380",
+  "max": 32,
+  "en": "Bartolomeo",
+  "fr": "Bartolomeo"
+ },
+ {
+  "ctx": "0x400",
+  "max": 32,
+  "en": "Jean",
+  "fr": "Jean"
+ },
+ {
+  "ctx": "0x480",
+  "max": 32,
+  "en": "Bertrand",
+  "fr": "Bertrand"
+ },
+ {
+  "ctx": "0x500",
+  "max": 32,
+  "en": "Marcel",
+  "fr": "Marcel"
+ },
+ {
+  "ctx": "0x580",
+  "max": 32,
+  "en": "Beatrix",
+  "fr": "Beatrix"
+ },
+ {
+  "ctx": "0x600",
+  "max": 32,
+  "en": "Richard",
+  "fr": "Richard"
+ },
+ {
+  "ctx": "0x680",
+  "max": 32,
+  "en": "Claire",
+  "fr": "Claire"
+ },
+ {
+  "ctx": "0x700",
+  "max": 32,
+  "en": "Colet",
+  "fr": "Colet"
+ },
+ {
+  "ctx": "0x780",
+  "max": 32,
+  "en": "Rose",
+  "fr": "Rose"
+ },
+ {
+  "ctx": "0x800",
+  "max": 32,
+  "en": "Cuisses",
+  "fr": "Cuisses"
+ },
+ {
+  "ctx": "0x3200",
+  "max": 32,
+  "en": "Orc",
+  "fr": "Orque"
+ },
+ {
+  "ctx": "0x3280",
+  "max": 32,
+  "en": "Orc Knight",
+  "fr": "Chevalier orque"
+ },
+ {
+  "ctx": "0x3600",
+  "max": 32,
+  "en": "Dark Elf",
+  "fr": "Elfe noir"
+ },
+ {
+  "ctx": "0x3b80",
+  "max": 32,
+  "en": "Qrow",
+  "fr": "Qrow"
+ },
+ {
+  "ctx": "0x4280",
+  "max": 32,
+  "en": "Necromancer",
+  "fr": "Nécromancien"
+ },
+ {
+  "ctx": "0x4400",
+  "max": 32,
+  "en": "Mage",
+  "fr": "Mage"
+ },
+ {
+  "ctx": "0x4680",
+  "max": 32,
+  "en": "Gazelliath",
+  "fr": "Gazelliath"
+ },
+ {
+  "ctx": "0x5300",
+  "max": 32,
+  "en": "English Officer",
+  "fr": "Officier anglais"
+ },
+ {
+  "ctx": "0x7d20",
+  "max": 15,
+  "en": "Move",
+  "fr": "Déplacer"
+ },
+ {
+  "ctx": "0x7d40",
+  "max": 15,
+  "en": "Attack",
+  "fr": "Attaque"
+ },
+ {
+  "ctx": "0x7d60",
+  "max": 15,
+  "en": "Items",
+  "fr": "Objets"
+ },
+ {
+  "ctx": "0x7d80",
+  "max": 15,
+  "en": "Skills",
+  "fr": "Compét."
+ },
+ {
+  "ctx": "0x7da0",
+  "max": 15,
+  "en": "Wait",
+  "fr": "Attendre"
+ },
+ {
+  "ctx": "0x7de0",
+  "max": 15,
+  "en": "Transform",
+  "fr": "Transfo."
+ },
+ {
+  "ctx": "0x7e00",
+  "max": 15,
+  "en": "Revert",
+  "fr": "Retour"
+ },
+ {
+  "ctx": "0x7f80",
+  "max": 15,
+  "en": "Status",
+  "fr": "Statut"
+ },
+ {
+  "ctx": "0x8b80",
+  "max": 25,
+  "en": "Steel Sword",
+  "fr": "Épée d'acier"
+ },
+ {
+  "ctx": "0x8bd2",
+  "max": 151,
+  "en": "A common steel sword issued to\narmy conscripts and militiamen.\nAttack +3",
+  "fr": "Épée d'acier ordinaire fournie aux\nconscrits et aux miliciens.\nAttaque +3"
+ },
+ {
+  "ctx": "0x8ca0",
+  "max": 25,
+  "en": "Rapier",
+  "fr": "Rapière"
+ },
+ {
+  "ctx": "0x8cf2",
+  "max": 151,
+  "en": "A slender, ornamented sword light\nenough for weaker combatants to\nwield.\nAttack +6  Accuracy +10",
+  "fr": "Épée fine et ornée, assez légère\npour les combattants les plus\nfaibles.\nAttaque +6  Précision +10"
+ },
+ {
+  "ctx": "0x8dc0",
+  "max": 25,
+  "en": "Assault Blade",
+  "fr": "Lame d'assaut"
+ },
+ {
+  "ctx": "0x8e12",
+  "max": 151,
+  "en": "A short, single-edged sword with\ngood balance. Optimal for indoor\ncombat.\nAttack +14",
+  "fr": "Épée courte à un seul tranchant,\nbien équilibrée. Idéale pour le\ncombat en intérieur.\nAttaque +14"
+ },
+ {
+  "ctx": "0x8ee0",
+  "max": 25,
+  "en": "Champion's Sword",
+  "fr": "Épée du champion"
+ },
+ {
+  "ctx": "0x8f32",
+  "max": 151,
+  "en": "A longsword as beautiful as it is\npractical. Fit for a knight to hold.\nAttack +26",
+  "fr": "Épée longue aussi belle que\npratique. Digne d'un chevalier.\nAttaque +26"
+ },
+ {
+  "ctx": "0x9000",
+  "max": 25,
+  "en": "Mithril Sword",
+  "fr": "Épée de mithril"
+ },
+ {
+  "ctx": "0x9052",
+  "max": 151,
+  "en": "A longsword made of the precious\nmetal mithril. Its stunning, lucent\nblade evinces an uncanny quality.\nAttack +39",
+  "fr": "Épée longue en mithril, un métal\nprécieux. Sa lame éclatante et\nlumineuse a quelque chose d'étrange.\nAttaque +39"
+ },
+ {
+  "ctx": "0x9120",
+  "max": 25,
+  "en": "Dragon Saber",
+  "fr": "Sabre du dragon"
+ },
+ {
+  "ctx": "0x9172",
+  "max": 151,
+  "en": "An enormous sword with a wide\nblade said to be sharp enough to\nshear a dragon's scaly hide.\nAttack +48",
+  "fr": "Énorme épée à lame large, dit-on\nassez tranchante pour fendre les\nécailles d'un dragon.\nAttaque +48"
+ },
+ {
+  "ctx": "0x9240",
+  "max": 25,
+  "en": "Purgatoire",
+  "fr": "Purgatoire"
+ },
+ {
+  "ctx": "0x9292",
+  "max": 151,
+  "en": "A great sword imbued with the\nfires of Hell. Shields its bearer\nwith powerful magic.  Attack +42\nMagic Def. +20  MP +20",
+  "fr": "Grande épée imprégnée des feux de\nl'Enfer. Une puissante magie protège\nson porteur.  Attaque +42\nDéfense mag. +20  PM +20"
+ },
+ {
+  "ctx": "0x9360",
+  "max": 25,
+  "en": "Paladin's Sword",
+  "fr": "Épée du paladin"
+ },
+ {
+  "ctx": "0x93b2",
+  "max": 151,
+  "en": "A splendid great sword only a holy\nknight can touch. Its silver blade\nparries fast and strikes hard.\nAttack +50  Evade +10",
+  "fr": "Splendide grande épée que seul un\nchevalier saint peut toucher. Sa\nlame d'argent pare et frappe fort.\nAttaque +50  Esquive +10"
+ },
+ {
+  "ctx": "0x9480",
+  "max": 25,
+  "en": "Deathbringer",
+  "fr": "Porte-Mort"
+ },
+ {
+  "ctx": "0x94d2",
+  "max": 151,
+  "en": "A legendary sword of ruin that sips\nthe blood of the fallen. Its baleful\nblade is the kiss of Death...\nAttack +110",
+  "fr": "Épée légendaire de ruine qui boit le\nsang des morts. Sa lame funeste\nest le baiser de la Mort...\nAttaque +110"
+ },
+ {
+  "ctx": "0x95a0",
+  "max": 25,
+  "en": "Durendal",
+  "fr": "Durandal"
+ },
+ {
+  "ctx": "0x95f2",
+  "max": 151,
+  "en": "A magical sword with a mystic blue\nluster and a terrible power. Deals\na critical blow with every swing.\nAttack +50  Critical +95",
+  "fr": "Épée magique à l'éclat bleu mystique\net au terrible pouvoir. Chaque coup\nporté est un coup critique.\nAttaque +50  Critique +95"
+ },
+ {
+  "ctx": "0x96c0",
+  "max": 25,
+  "en": "Cheap Sword",
+  "fr": "Épée de pacotille"
+ },
+ {
+  "ctx": "0x9712",
+  "max": 151,
+  "en": "A poorly made sword. Its blade is\nwarped, its hilt unwieldy...",
+  "fr": "Une épée mal forgée. Sa lame est\ntordue, sa poignée malcommode..."
+ },
+ {
+  "ctx": "0x97e0",
+  "max": 25,
+  "en": "Warrior's Blade",
+  "fr": "Lame du guerrier"
+ },
+ {
+  "ctx": "0x9832",
+  "max": 151,
+  "en": "A large, double-edged sword of\nsolid design with an air of valor.",
+  "fr": "Grande épée à double tranchant,\nrobuste et d'allure valeureuse."
+ },
+ {
+  "ctx": "0x9900",
+  "max": 25,
+  "en": "Stick",
+  "fr": "Bout de bois"
+ },
+ {
+  "ctx": "0x9952",
+  "max": 151,
+  "en": "A thick tree branch rescued from\nthe ground for use as a weapon.\nAttack +1",
+  "fr": "Une grosse branche ramassée par\nterre pour servir d'arme.\nAttaque +1"
+ },
+ {
+  "ctx": "0x9a20",
+  "max": 25,
+  "en": "Chevalier's Sword",
+  "fr": "Épée d'aspirant"
+ },
+ {
+  "ctx": "0x9a72",
+  "max": 151,
+  "en": "The sword of a would-be knight\nwho met an untimely death. A fine\nsword, but its blade is quite worn.\nAttack +2",
+  "fr": "L'épée d'un aspirant chevalier mort\navant l'heure. Une belle épée, mais\nsa lame est très usée.\nAttaque +2"
+ },
+ {
+  "ctx": "0x9b40",
+  "max": 25,
+  "en": "Fuligin Heart",
+  "fr": "Coeur de suie"
+ },
+ {
+  "ctx": "0x9b92",
+  "max": 151,
+  "en": "A jet-black great sword in which all\nthe inexorable malice of a heart\nheld captive is made manifest.",
+  "fr": "Grande épée noire de jais où se\nmanifeste toute la malveillance\nimplacable d'un coeur captif."
+ },
+ {
+  "ctx": "0x9c60",
+  "max": 25,
+  "en": "White Lion",
+  "fr": "Lion blanc"
+ },
+ {
+  "ctx": "0x9cb2",
+  "max": 151,
+  "en": "The great sword Luther swung in\nhis hero days. When its enormous\nblade caught the sun, they say the\nloyal stirred from van to rear.",
+  "fr": "La grande épée que Luther maniait\nau temps de sa gloire. Quand sa lame\ncaptait le soleil, dit-on, toute\nl'armée frémissait d'ardeur."
+ },
+ {
+  "ctx": "0xa200",
+  "max": 25,
+  "en": "Soldier's Lance",
+  "fr": "Lance du soldat"
+ },
+ {
+  "ctx": "0xa252",
+  "max": 149,
+  "en": "A standard-issue lance with a\ndistinct single-edged spearhead.\nEasy to maintain.\nAttack +2",
+  "fr": "Lance réglementaire à pointe\nsimple et tranchante.\nFacile à entretenir.\nAttaque +2"
+ },
+ {
+  "ctx": "0xa320",
+  "max": 25,
+  "en": "Iron Lance",
+  "fr": "Lance de fer"
+ },
+ {
+  "ctx": "0xa372",
+  "max": 149,
+  "en": "A versatile iron lance with blades\njutting from both sides of the head.\nAttack +5  Evade +2",
+  "fr": "Lance de fer polyvalente, dont la\npointe porte des lames latérales.\nAttaque +5  Esquive +2"
+ },
+ {
+  "ctx": "0xa440",
+  "max": 25,
+  "en": "Vanspear",
+  "fr": "Pique d'avant-garde"
+ },
+ {
+  "ctx": "0xa492",
+  "max": 149,
+  "en": "A long pike with a sharp and sturdy\ntip, suited for organized charges.\nAttack +12  Evade +4",
+  "fr": "Longue pique à la pointe acérée et\nsolide, faite pour les charges.\nAttaque +12  Esquive +4"
+ },
+ {
+  "ctx": "0xa560",
+  "max": 25,
+  "en": "Trident",
+  "fr": "Trident"
+ },
+ {
+  "ctx": "0xa5b2",
+  "max": 149,
+  "en": "A three-pronged spear fashioned\nafter that of a sea god. Ideal for\nthrusting attacks.\nAttack +24  Evade +5",
+  "fr": "Lance à trois pointes inspirée de\ncelle d'un dieu des mers. Idéale\npour les attaques d'estoc.\nAttaque +24  Esquive +5"
+ },
+ {
+  "ctx": "0xa680",
+  "max": 25,
+  "en": "Twin Enga",
+  "fr": "Double Enga"
+ },
+ {
+  "ctx": "0xa6d2",
+  "max": 149,
+  "en": "An unusually-shaped lance weapon\nfrom the East. As hot as any blaze.\nAttack +37  Evade +7",
+  "fr": "Lance à la forme insolite venue\nd'Orient. Ardente comme un brasier.\nAttaque +37  Esquive +7"
+ },
+ {
+  "ctx": "0xa7a0",
+  "max": 25,
+  "en": "Knight's Lance",
+  "fr": "Lance du chevalier"
+ },
+ {
+  "ctx": "0xa7f2",
+  "max": 149,
+  "en": "A golden spear entrusted to an\nexceptional knight. Its blade must\nbe kept as untarnished as his\nhonor.  Attack +47  Evade +8",
+  "fr": "Lance dorée confiée à un chevalier\nd'exception. Sa lame doit rester\naussi immaculée que son honneur.\nAttaque +47  Esquive +8"
+ },
+ {
+  "ctx": "0xa8c0",
+  "max": 25,
+  "en": "Dragonfang",
+  "fr": "Croc de dragon"
+ },
+ {
+  "ctx": "0xa912",
+  "max": 149,
+  "en": "A magic lance named for the beast\nfrom which its point was honed.\nAttack +45  Magic Atk. +20\nMagic Def. +20  Evade +8  MP +10",
+  "fr": "Lance magique nommée d'après la\nbête dont on a tiré sa pointe.\nAttaque +45  Attaque mag. +20\nDéfense mag. +20  Esquive +8  PM +10"
+ },
+ {
+  "ctx": "0xa9e0",
+  "max": 25,
+  "en": "Demongriffe",
+  "fr": "Griffe de démon"
+ },
+ {
+  "ctx": "0xaa32",
+  "max": 149,
+  "en": "A terrible weapon fashioned from a\ndemon's claw.  Attack +55\nMagic Atk. +10  Evade +8\nCritical +20  HP +10",
+  "fr": "Arme terrible façonnée dans une\ngriffe de démon.  Attaque +55\nAttaque mag. +10  Esquive +8\nCritique +20  PV +10"
+ },
+ {
+  "ctx": "0xab00",
+  "max": 25,
+  "en": "Rune Spear",
+  "fr": "Lance runique"
+ },
+ {
+  "ctx": "0xab52",
+  "max": 149,
+  "en": "A lance from which no foe can run.\nIts blade is inscribed with ancient\nincantations.  Attack +50\nAccuracy +20  Evade +8",
+  "fr": "Lance à laquelle nul ne peut fuir.\nSa lame porte d'antiques formules.\nAttaque +50\nPrécision +20  Esquive +8"
+ },
+ {
+  "ctx": "0xac20",
+  "max": 25,
+  "en": "Gae Bulg",
+  "fr": "Gae Bulg"
+ },
+ {
+  "ctx": "0xac72",
+  "max": 149,
+  "en": "A lance possessed of ultimate\npower. Its sharp, blue blade shreds\nand skewers anything in its path.\nAttack +100  Evade +10",
+  "fr": "Lance d'une puissance absolue. Sa\nlame bleue et acérée déchire et\nembroche tout sur son passage.\nAttaque +100  Esquive +10"
+ },
+ {
+  "ctx": "0xad40",
+  "max": 25,
+  "en": "Serpent Langue",
+  "fr": "Langue de serpent"
+ },
+ {
+  "ctx": "0xad92",
+  "max": 149,
+  "en": "A lance with an eerily twisted\nspearhead akin to a snake's\ntongue. Its polished blade glows.",
+  "fr": "Lance à la pointe étrangement\ntorsadée, telle une langue de\nserpent. Sa lame polie luit."
+ },
+ {
+  "ctx": "0xae60",
+  "max": 25,
+  "en": "Naga Langue",
+  "fr": "Langue de naga"
+ },
+ {
+  "ctx": "0xaeb2",
+  "max": 149,
+  "en": "A lance with an eerily twisted\nspearhead akin to a snake's\ntongue. Its bewitching luster\nmakes it appear as if drenched.",
+  "fr": "Lance à la pointe étrangement\ntorsadée, telle une langue de\nserpent. Son éclat envoûtant la\nfait paraître ruisselante."
+ },
+ {
+  "ctx": "0xaf80",
+  "max": 25,
+  "en": "Dreadspear",
+  "fr": "Lance d'effroi"
+ },
+ {
+  "ctx": "0xafd2",
+  "max": 149,
+  "en": "A lance borne by knights who lost\ntheir lives but kept their oaths.\nIts once shining point now reflects\nonly utter darkness.",
+  "fr": "Lance des chevaliers morts fidèles\nà leur serment. Sa pointe jadis\nbrillante ne reflète plus que les\nténèbres les plus profondes."
+ },
+ {
+  "ctx": "0xb880",
+  "max": 25,
+  "en": "Iron Axe",
+  "fr": "Hache de fer"
+ },
+ {
+  "ctx": "0xb8d2",
+  "max": 151,
+  "en": "A large, iron axe that is also used\nin everyday labors.\nAttack +5",
+  "fr": "Grande hache de fer, qui sert aussi\naux travaux de tous les jours.\nAttaque +5"
+ },
+ {
+  "ctx": "0xb9a0",
+  "max": 25,
+  "en": "Battleaxe",
+  "fr": "Hache de guerre"
+ },
+ {
+  "ctx": "0xb9f2",
+  "max": 151,
+  "en": "An axe made for combat. Upon its\nhead is engraved the image of a\nferocious warrior.\nAttack +10",
+  "fr": "Hache faite pour le combat. Sa tête\nest gravée de l'image d'un\nguerrier féroce.\nAttaque +10"
+ },
+ {
+  "ctx": "0xbac0",
+  "max": 25,
+  "en": "Clansman's Axe",
+  "fr": "Hache clanique"
+ },
+ {
+  "ctx": "0xbb12",
+  "max": 151,
+  "en": "A peculiarly-shaped broadaxe\nwhose head is marred with an\nexaggeration of savage hexes.\nAttack +16",
+  "fr": "Hache large à la forme singulière,\ndont le fer est couvert de\nmaléfices sauvages et outranciers.\nAttaque +16"
+ },
+ {
+  "ctx": "0xbbe0",
+  "max": 25,
+  "en": "Shatteraxe",
+  "fr": "Hache broyeuse"
+ },
+ {
+  "ctx": "0xbc32",
+  "max": 151,
+  "en": "A unique axe designed to smash,\nnot hack. Just one swing can\npulverize stone.\nAttack +32",
+  "fr": "Hache unique conçue pour broyer,\nnon pour trancher. Un seul coup\npeut pulvériser la pierre.\nAttaque +32"
+ },
+ {
+  "ctx": "0xbd00",
+  "max": 25,
+  "en": "Sorcerite Axe",
+  "fr": "Hache de sorcérite"
+ },
+ {
+  "ctx": "0xbd52",
+  "max": 151,
+  "en": "An axe made from polished\nsorcerite, a magic mineral. Its\nuncanny glow is enchanting.\nAttack +48",
+  "fr": "Hache en sorcérite polie, un\nminerai magique. Son étrange\nlueur est envoûtante.\nAttaque +48"
+ },
+ {
+  "ctx": "0xbe20",
+  "max": 25,
+  "en": "Blistering Helve",
+  "fr": "Hache brûlante"
+ },
+ {
+  "ctx": "0xbe72",
+  "max": 151,
+  "en": "An axe whose forge-red blade\nwreaks all the horrific destruction\nof a mighty blaze.\nAttack +62",
+  "fr": "Hache à la lame rougie à la forge,\nqui sème toute la destruction\nd'un terrible brasier.\nAttaque +62"
+ },
+ {
+  "ctx": "0xbf40",
+  "max": 25,
+  "en": "Freezing Helve",
+  "fr": "Hache glaciale"
+ },
+ {
+  "ctx": "0xbf92",
+  "max": 151,
+  "en": "An axe whose chilly bite leaves a\npernicious wound. Even the bearer\nfeels its cold radiance to the bone.\nAttack +75  Accuracy -10",
+  "fr": "Sa morsure glacée laisse une plaie\npernicieuse. Même son porteur sent\nson froid jusqu'aux os.\nAttaque +75  Précision -10"
+ },
+ {
+  "ctx": "0xc060",
+  "max": 25,
+  "en": "Jinni's Wings",
+  "fr": "Ailes du djinn"
+ },
+ {
+  "ctx": "0xc0b2",
+  "max": 151,
+  "en": "An axe shaped after a jinni. Its\nbearer gains the jinni's power and\ntoughened physique.\nAttack +65  Defense +10",
+  "fr": "Hache à l'image d'un djinn. Son\nporteur reçoit la force et la\nrobustesse du djinn.\nAttaque +65  Défense +10"
+ },
+ {
+  "ctx": "0xc180",
+  "max": 25,
+  "en": "Spirits' Helve",
+  "fr": "Hache des esprits"
+ },
+ {
+  "ctx": "0xc1d2",
+  "max": 151,
+  "en": "A beautiful axe under the\nprotection of the spirits. Its\nblade rarely misses its mark.\nAttack +66  Accuracy +20",
+  "fr": "Belle hache protégée par les\nesprits. Sa lame manque rarement\nsa cible.\nAttaque +66  Précision +20"
+ },
+ {
+  "ctx": "0xc2a0",
+  "max": 25,
+  "en": "Lucifer",
+  "fr": "Lucifer"
+ },
+ {
+  "ctx": "0xc2f2",
+  "max": 151,
+  "en": "The ultimate axe whose magic and\nruin emerge from its starlit core.\nAttack +120  Magic Atk. +10\nMagic Def. +10  MP +20",
+  "fr": "Hache ultime dont la magie et la\nruine jaillissent d'un coeur étoilé.\nAttaque +120  Attaque mag. +10\nDéfense mag. +10  PM +20"
+ },
+ {
+  "ctx": "0xc3c0",
+  "max": 25,
+  "en": "Orc Flail",
+  "fr": "Fléau orque"
+ },
+ {
+  "ctx": "0xc412",
+  "max": 151,
+  "en": "An orc's most trusty weapon. A\nspiked ball hangs from its chain.",
+  "fr": "L'arme préférée des orques. Une\nboule hérissée pend à sa chaîne."
+ },
+ {
+  "ctx": "0xc4e0",
+  "max": 25,
+  "en": "Shatterflail",
+  "fr": "Fléau broyeur"
+ },
+ {
+  "ctx": "0xc532",
+  "max": 151,
+  "en": "A larger orc flail with sharp,\npolished spikes and a creepier\nclink to its chain.",
+  "fr": "Fléau orque plus grand, aux pointes\nacérées et polies, dont la chaîne\ncliquette plus sinistrement."
+ },
+ {
+  "ctx": "0xc600",
+  "max": 25,
+  "en": "Hammer",
+  "fr": "Marteau"
+ },
+ {
+  "ctx": "0xc652",
+  "max": 151,
+  "en": "A hammer no dwarf should go\nwithout. It serves in the forge,\non the battlefield, and just about\nanywhere else.",
+  "fr": "Le marteau dont aucun nain ne se\npasse. Il sert à la forge, au\ncombat et à peu près partout."
+ },
+ {
+  "ctx": "0xc720",
+  "max": 25,
+  "en": "Master's Hammer",
+  "fr": "Marteau du maître"
+ },
+ {
+  "ctx": "0xc772",
+  "max": 151,
+  "en": "A hammer forged by expert\ndwarfsmiths. It is far, far heavier\nthan it looks.",
+  "fr": "Marteau forgé par des maîtres\nforgerons nains. Il est bien,\nbien plus lourd qu'il n'en a l'air."
+ },
+ {
+  "ctx": "0xc840",
+  "max": 25,
+  "en": "Cudgel",
+  "fr": "Gourdin"
+ },
+ {
+  "ctx": "0xc892",
+  "max": 151,
+  "en": "A gargantuan club carved from a\ntree trunk and lined with iron\nspikes.",
+  "fr": "Gourdin gigantesque taillé dans\nun tronc d'arbre et garni de\npointes de fer."
+ },
+ {
+  "ctx": "0xc960",
+  "max": 25,
+  "en": "Bovimoth Axe",
+  "fr": "Hache de bovimoth"
+ },
+ {
+  "ctx": "0xc9b2",
+  "max": 151,
+  "en": "A heavy, single-bladed axe usually\nwielded by bovimoths. Just lifting\nthis is a task for anyone else.",
+  "fr": "Lourde hache à un tranchant, arme\ndes bovimoths. Pour tout autre,\nla soulever est déjà un exploit."
+ },
+ {
+  "ctx": "0xca80",
+  "max": 25,
+  "en": "Gazelliath Helve",
+  "fr": "Hache de gazelliath"
+ },
+ {
+  "ctx": "0xcad2",
+  "max": 151,
+  "en": "A broadaxe with a long shaft and a\ndouble blade. It is designed for\nversatility in battle.",
+  "fr": "Hache large à long manche et à\ndouble lame, conçue pour être\npolyvalente au combat."
+ },
+ {
+  "ctx": "0xcba0",
+  "max": 25,
+  "en": "Ceratoth Waraxe",
+  "fr": "Hache de cératoth"
+ },
+ {
+  "ctx": "0xcbf2",
+  "max": 151,
+  "en": "A large, destructive axe wielded\nby ceratoths, adorned with a\ntraditional therion crest of\nprotection.",
+  "fr": "Grande hache destructrice des\ncératoths, ornée d'un blason\nthérion traditionnel de\nprotection."
+ },
+ {
+  "ctx": "0xcf00",
+  "max": 25,
+  "en": "Shortbow",
+  "fr": "Arc court"
+ },
+ {
+  "ctx": "0xcf52",
+  "max": 153,
+  "en": "A small bow. What it lacks in power\nit makes up for in utility.\nAttack +7",
+  "fr": "Un petit arc peu puissant, mais\nfacile à manier.\nAttaque +7"
+ },
+ {
+  "ctx": "0xd020",
+  "max": 25,
+  "en": "Tribal Bow",
+  "fr": "Arc tribal"
+ },
+ {
+  "ctx": "0xd072",
+  "max": 153,
+  "en": "A wooden bow used by savages\nduring hunting and ceremonies,\nfashioned after a beast's horn.\nAttack +13",
+  "fr": "Arc de bois utilisé par les sauvages\npour la chasse et les cérémonies,\nen forme de corne de bête.\nAttaque +13"
+ },
+ {
+  "ctx": "0xd140",
+  "max": 25,
+  "en": "Bow of the Sun",
+  "fr": "Arc du soleil"
+ },
+ {
+  "ctx": "0xd192",
+  "max": 153,
+  "en": "A bow whose arrows someone\nprayed \"might reach the sun.\"\nIts power is as noteworthy as its\ndesign.  Attack +25",
+  "fr": "Arc dont un archer pria que les\nflèches « atteignent le soleil ».\nSa puissance égale sa beauté.\nAttaque +25"
+ },
+ {
+  "ctx": "0xd260",
+  "max": 25,
+  "en": "Demon's Wing",
+  "fr": "Aile du démon"
+ },
+ {
+  "ctx": "0xd2b2",
+  "max": 153,
+  "en": "An ominous bow reputedly made\nfrom a demon's wing. It sometimes\ndefies the archer and misses its\ntarget.  Attack +37  Accuracy -5",
+  "fr": "Arc sinistre, fait dit-on d'une aile\nde démon. Il lui arrive de défier\nl'archer et de manquer sa cible.\nAttaque +37  Précision -5"
+ },
+ {
+  "ctx": "0xd380",
+  "max": 25,
+  "en": "Angel Bow",
+  "fr": "Arc de l'ange"
+ },
+ {
+  "ctx": "0xd3d2",
+  "max": 153,
+  "en": "A magical bow resembling a pure-\nwhite wing. Its wielder's arrows fly\ntrue, as though guided by an angel.\nAttack +45  Accuracy +10",
+  "fr": "Arc magique semblable à une aile\nimmaculée. Ses flèches volent droit,\ncomme guidées par un ange.\nAttaque +45  Précision +10"
+ },
+ {
+  "ctx": "0xd4a0",
+  "max": 25,
+  "en": "Bow of Artemis",
+  "fr": "Arc d'Artémis"
+ },
+ {
+  "ctx": "0xd4f2",
+  "max": 153,
+  "en": "A bow with splendid goldwork,\nblessed by the goddess of the\nmoon. Its destructive force is\nunsurpassed.  Attack +80",
+  "fr": "Arc aux splendides dorures, béni\npar la déesse de la lune. Sa force\ndestructrice est inégalée.\nAttaque +80"
+ },
+ {
+  "ctx": "0xd5c0",
+  "max": 25,
+  "en": "Sniper's Bow",
+  "fr": "Arc d'élite"
+ },
+ {
+  "ctx": "0xd612",
+  "max": 153,
+  "en": "A bow made of a special yew that\nallows for longer-range attacks.",
+  "fr": "Arc taillé dans un if spécial qui\npermet d'attaquer de plus loin."
+ },
+ {
+  "ctx": "0xd6e0",
+  "max": 25,
+  "en": "Elven Bow",
+  "fr": "Arc elfique"
+ },
+ {
+  "ctx": "0xd732",
+  "max": 153,
+  "en": "A slender bow made from supple\nmaterial.",
+  "fr": "Arc élancé fait d'un matériau\nsouple."
+ },
+ {
+  "ctx": "0xda40",
+  "max": 25,
+  "en": "Dagger",
+  "fr": "Dague"
+ },
+ {
+  "ctx": "0xda92",
+  "max": 153,
+  "en": "A standard knife. Simple enough\nto use, but far from powerful.\nAttack +3  Critical +40",
+  "fr": "Un couteau ordinaire. Simple à\nmanier, mais loin d'être puissant.\nAttaque +3  Critique +40"
+ },
+ {
+  "ctx": "0xdb60",
+  "max": 25,
+  "en": "Silver Knife",
+  "fr": "Couteau d'argent"
+ },
+ {
+  "ctx": "0xdbb2",
+  "max": 153,
+  "en": "A beautiful dagger of shining silver\nused in exorcisms.\nAttack +7  Critical +30",
+  "fr": "Belle dague d'argent étincelant\nutilisée pour les exorcismes.\nAttaque +7  Critique +30"
+ },
+ {
+  "ctx": "0xdc80",
+  "max": 25,
+  "en": "Flame Edge",
+  "fr": "Lame flamboyante"
+ },
+ {
+  "ctx": "0xdcd2",
+  "max": 153,
+  "en": "An ornate, versatile dagger akin to\na flickering flame. It sacrifices\nstealth in favor of lethality.\nAttack +16  Critical +20",
+  "fr": "Dague ornée et polyvalente, telle\nune flamme vacillante. Elle sacrifie\nla discrétion à l'efficacité.\nAttaque +16  Critique +20"
+ },
+ {
+  "ctx": "0xdda0",
+  "max": 25,
+  "en": "Poison Ripper",
+  "fr": "Éventreur toxique"
+ },
+ {
+  "ctx": "0xddf2",
+  "max": 153,
+  "en": "A cursed knife that emits a\nvenomous light. Its sharp point\nnever misses its mark.  Attack +25\nAccuracy +10  Critical +30",
+  "fr": "Couteau maudit à la lueur\nvenimeuse. Sa pointe acérée ne\nrate jamais.  Attaque +25\nPrécision +10  Critique +30"
+ },
+ {
+  "ctx": "0xdec0",
+  "max": 25,
+  "en": "Assassin's Knife",
+  "fr": "Couteau d'assassin"
+ },
+ {
+  "ctx": "0xdf12",
+  "max": 153,
+  "en": "A coveted blade that lends its\nowner the speed of a trained killer.\nAttack +30  Accuracy +10\nMobility +1  Critical +50",
+  "fr": "Lame convoitée qui donne à son\nporteur la vitesse d'un tueur.\nAttaque +30  Précision +10\nDéplacement +1  Critique +50"
+ },
+ {
+  "ctx": "0xdfe0",
+  "max": 25,
+  "en": "Tsukikage",
+  "fr": "Tsukikage"
+ },
+ {
+  "ctx": "0xe032",
+  "max": 153,
+  "en": "A legendary dagger of incredible\npower. Its arresting, moon-like\nlight can cleave darkness itself.\nAttack +70  Critical +60",
+  "fr": "Dague légendaire d'une puissance\ninouïe. Sa saisissante lueur lunaire\npeut fendre les ténèbres.\nAttaque +70  Critique +60"
+ },
+ {
+  "ctx": "0xe580",
+  "max": 25,
+  "en": "Mage's Staff",
+  "fr": "Bâton de mage"
+ },
+ {
+  "ctx": "0xe5d2",
+  "max": 149,
+  "en": "A staff made by polishing a twisted\ntree branch possessed of magic\nsince days of yore.\nAttack +3  Magic Atk. +2",
+  "fr": "Bâton taillé dans une branche\ntordue, chargée de magie depuis\ndes temps immémoriaux.\nAttaque +3  Attaque mag. +2"
+ },
+ {
+  "ctx": "0xe6a0",
+  "max": 25,
+  "en": "Crystal Wand",
+  "fr": "Baguette de cristal"
+ },
+ {
+  "ctx": "0xe6f2",
+  "max": 149,
+  "en": "A staff of the same color as the\ndeepest lake. Assists in mental\nconcentration.\nAttack +8  Magic Atk. +4",
+  "fr": "Bâton de la couleur du lac le plus\nprofond. Aide à la concentration.\nAttaque +8  Attaque mag. +4"
+ },
+ {
+  "ctx": "0xe7c0",
+  "max": 25,
+  "en": "Heavy Mace",
+  "fr": "Masse lourde"
+ },
+ {
+  "ctx": "0xe812",
+  "max": 149,
+  "en": "A staff converted to a savage\nweapon by plating its head with\nheavy iron.\nAttack +19  Magic Atk. +7",
+  "fr": "Bâton changé en arme brutale par\nune tête plaquée de fer lourd.\nAttaque +19  Attaque mag. +7"
+ },
+ {
+  "ctx": "0xe8e0",
+  "max": 25,
+  "en": "Sage's Staff",
+  "fr": "Bâton du sage"
+ },
+ {
+  "ctx": "0xe932",
+  "max": 149,
+  "en": "A staff only a wise man may carry,\nset with a beautiful magic gem.\nAttack +25  Accuracy +5\nMagic Atk. +10",
+  "fr": "Bâton que seul un sage peut porter,\nserti d'une belle gemme magique.\nAttaque +25  Précision +5\nAttaque mag. +10"
+ },
+ {
+  "ctx": "0xea00",
+  "max": 25,
+  "en": "Lifegiver's Staff",
+  "fr": "Bâton de vie"
+ },
+ {
+  "ctx": "0xea52",
+  "max": 149,
+  "en": "A strange staff used in spellcraft.\nIt wakens dormant strength within\nthe body.  Attack +30\nMagic Atk. +15  HP +20",
+  "fr": "Étrange bâton utilisé en magie. Il\néveille la force qui dort dans le\ncorps.  Attaque +30\nAttaque mag. +15  PV +20"
+ },
+ {
+  "ctx": "0xeb20",
+  "max": 25,
+  "en": "Caduceus",
+  "fr": "Caducée"
+ },
+ {
+  "ctx": "0xeb72",
+  "max": 149,
+  "en": "A staff with sacred snakes\nentwined around it. Whoever holds\nit commands all magic.  Attack +60\nMagic Atk. +50  MP +50",
+  "fr": "Bâton où s'enlacent des serpents\nsacrés. Qui le tient commande toute\nmagie.  Attaque +60\nAttaque mag. +50  PM +50"
+ },
+ {
+  "ctx": "0xf0c0",
+  "max": 25,
+  "en": "Terror Touch",
+  "fr": "Toucher d'effroi"
+ },
+ {
+  "ctx": "0xf112",
+  "max": 153,
+  "en": "The hands of the dead, which are\nsaid to rob the living of vitality\nwith the slightest contact.",
+  "fr": "Les mains des morts, qui volent,\ndit-on, la vitalité des vivants au\nmoindre contact."
+ },
+ {
+  "ctx": "0xf1e0",
+  "max": 25,
+  "en": "Gougers",
+  "fr": "Écorcheuses"
+ },
+ {
+  "ctx": "0xf232",
+  "max": 153,
+  "en": "Gargoyle talons. Hard as rock and\ncoarse like sandpaper.",
+  "fr": "Serres de gargouille. Dures comme\nla roche et rêches comme la lime."
+ },
+ {
+  "ctx": "0xf300",
+  "max": 25,
+  "en": "Wyvern Talons",
+  "fr": "Serres de wyverne"
+ },
+ {
+  "ctx": "0xf352",
+  "max": 153,
+  "en": "The sharp clutches of a ruthless\nhunter.",
+  "fr": "Les griffes acérées d'un chasseur\nimpitoyable."
+ },
+ {
+  "ctx": "0xf420",
+  "max": 25,
+  "en": "Dragon Talons",
+  "fr": "Serres de dragon"
+ },
+ {
+  "ctx": "0xf472",
+  "max": 153,
+  "en": "The talons of an enormous drake\ncapable of rending steel to bits.",
+  "fr": "Les serres d'un énorme dragon,\ncapables de broyer l'acier."
+ },
+ {
+  "ctx": "0xf540",
+  "max": 25,
+  "en": "Bare Hands",
+  "fr": "Mains nues"
+ },
+ {
+  "ctx": "0xf592",
+  "max": 153,
+  "en": "An unarmed state. With naught\nelse to wield, one must wield\none's self!",
+  "fr": "Sans arme. Quand on n'a rien\nd'autre à manier, on se manie\nsoi-même !"
+ },
+ {
+  "ctx": "0xf660",
+  "max": 25,
+  "en": "Panther Claws",
+  "fr": "Griffes de panthère"
+ },
+ {
+  "ctx": "0xf6b2",
+  "max": 153,
+  "en": "Mawra's trusty claw weapon. Each\nslash is a thing of beauty...beneath\nwhich one can sense the cruelty of\na wildcat silencing its prey.",
+  "fr": "Les griffes fidèles de Mawra. Chaque\ncoup est d'une grande beauté... qui\ncache la cruauté d'un fauve\nachevant sa proie."
+ },
+ {
+  "ctx": "0xf780",
+  "max": 25,
+  "en": "Golem Arms",
+  "fr": "Bras de golem"
+ },
+ {
+  "ctx": "0xf7d2",
+  "max": 153,
+  "en": "Thick limbs covered to the last\ncentimeter with mysterious scrawl.",
+  "fr": "Membres épais couverts jusqu'au\nbout d'un étrange gribouillis."
+ },
+ {
+  "ctx": "0xf8a0",
+  "max": 25,
+  "en": "The Fiend's Grip",
+  "fr": "Poigne du Malin"
+ },
+ {
+  "ctx": "0xf8f2",
+  "max": 153,
+  "en": "The Fiend's whetted claws,\nbristling with magic. Black as sin,\ntheir tips tap out darkness itself...",
+  "fr": "Les griffes affûtées du Malin,\nchargées de magie. Noires comme le\npéché, elles suintent les ténèbres..."
+ },
+ {
+  "ctx": "0xfc00",
+  "max": 25,
+  "en": "Light Clothing",
+  "fr": "Habits légers"
+ },
+ {
+  "ctx": "0xfc52",
+  "max": 149,
+  "en": "Durable clothes made from a thick\nfabric that can withstand lengthy\njourneys and weaker attacks.\nDefense +1",
+  "fr": "Habits solides en tissu épais qui\nrésistent aux longs voyages et aux\nattaques faibles.\nDéfense +1"
+ },
+ {
+  "ctx": "0xfd20",
+  "max": 25,
+  "en": "Leather Clothing",
+  "fr": "Habits de cuir"
+ },
+ {
+  "ctx": "0xfd72",
+  "max": 149,
+  "en": "Clothes with leather reinforcement\nin vital regions, used as light\narmor for militiamen.\nDefense +6",
+  "fr": "Habits renforcés de cuir aux points\nvitaux, armure légère des miliciens.\nDéfense +6"
+ },
+ {
+  "ctx": "0xfe40",
+  "max": 25,
+  "en": "Leather Armor",
+  "fr": "Armure de cuir"
+ },
+ {
+  "ctx": "0xfe92",
+  "max": 149,
+  "en": "Hard armor made by gluing layers\nof leather together. Sturdy armor\nthat affords nimble movement.\nDefense +13  Evade -1",
+  "fr": "Armure rigide faite de couches de\ncuir collées. Solide, elle laisse\nune grande liberté de mouvement.\nDéfense +13  Esquive -1"
+ },
+ {
+  "ctx": "0xff60",
+  "max": 25,
+  "en": "Chainmail Armor",
+  "fr": "Cotte de mailles"
+ },
+ {
+  "ctx": "0xffb2",
+  "max": 149,
+  "en": "Armor made by linking metal rings\ntogether. It offers good protection\nwithout interfering with movement.\nDefense +23  Evade -3",
+  "fr": "Armure d'anneaux de métal\nentrelacés. Bonne protection sans\ngêner les mouvements.\nDéfense +23  Esquive -3"
+ },
+ {
+  "ctx": "0x10080",
+  "max": 25,
+  "en": "Plate Armor",
+  "fr": "Armure de plates"
+ },
+ {
+  "ctx": "0x100d2",
+  "max": 149,
+  "en": "Metal armor that covers the entire\nbody. Offers excellent protection,\nbut its weight hampers movement.\nDefense +34  Evade -3  Mobility -1",
+  "fr": "Armure de métal couvrant tout le\ncorps. Excellente protection, mais\nson poids gêne les mouvements.\nDéfense +34  Esquive -3  Dépl. -1"
+ },
+ {
+  "ctx": "0x101a0",
+  "max": 25,
+  "en": "Pelt Jacket",
+  "fr": "Veste de fourrure"
+ },
+ {
+  "ctx": "0x101f2",
+  "max": 149,
+  "en": "A vest made from animal skins that\nabsorbs the shock of attacks.\nDefense +9",
+  "fr": "Veste en peaux de bêtes qui amortit\nle choc des attaques.\nDéfense +9"
+ },
+ {
+  "ctx": "0x102c0",
+  "max": 25,
+  "en": "Silk Robe",
+  "fr": "Robe de soie"
+ },
+ {
+  "ctx": "0x10312",
+  "max": 149,
+  "en": "A robe tailored from silk with a\nliquid shimmer. Very durable.\nDefense +17",
+  "fr": "Robe taillée dans une soie aux\nreflets liquides. Très résistante.\nDéfense +17"
+ },
+ {
+  "ctx": "0x103e0",
+  "max": 25,
+  "en": "Dragon Leathers",
+  "fr": "Cuir de dragon"
+ },
+ {
+  "ctx": "0x10432",
+  "max": 149,
+  "en": "Clothes made from the leather of a\ndrake. The sturdy scales keep the\nwearer safe from harm.\nDefense +26",
+  "fr": "Habits en cuir de dragon. Ses\nécailles robustes protègent son\nporteur.\nDéfense +26"
+ },
+ {
+  "ctx": "0x10500",
+  "max": 25,
+  "en": "Sage's Frock",
+  "fr": "Robe du sage"
+ },
+ {
+  "ctx": "0x10552",
+  "max": 149,
+  "en": "A robe under magical protection,\ndonned by great men of wisdom.\nDefense +22  Magic Def. +20\nMP +10",
+  "fr": "Robe protégée par la magie, portée\npar les grands sages.\nDéfense +22  Défense mag. +20\nPM +10"
+ },
+ {
+  "ctx": "0x10620",
+  "max": 25,
+  "en": "Mithril Mail",
+  "fr": "Maille de mithril"
+ },
+ {
+  "ctx": "0x10672",
+  "max": 149,
+  "en": "Armor made with links of precious\nmithril. The metal's magic deflects\nhostile spells.\nDefense +42  Magic Def. +10",
+  "fr": "Armure de mailles de mithril\nprécieux. La magie du métal dévie\nles sorts hostiles.\nDéfense +42  Défense mag. +10"
+ },
+ {
+  "ctx": "0x10740",
+  "max": 25,
+  "en": "Firedrake Armor",
+  "fr": "Armure de dragon de feu"
+ },
+ {
+  "ctx": "0x10792",
+  "max": 149,
+  "en": "Armor crafted from a collection\nof firedrake scales. Wondrous\nprotection made from a wonder of\nnature.  Defense +55  Evade -2",
+  "fr": "Armure faite d'écailles de dragon\nde feu. Une protection merveilleuse\nissue d'une merveille de la nature.\nDéfense +55  Esquive -2"
+ },
+ {
+  "ctx": "0x10860",
+  "max": 25,
+  "en": "Faux-Gem Armor",
+  "fr": "Armure de fausses gemmes"
+ },
+ {
+  "ctx": "0x108b2",
+  "max": 149,
+  "en": "The gaudy suit of armor incarnated \nby Bedford's synthetic gems. \nIt leaves little doubt as to the \nman's taste...",
+  "fr": "L'armure tape-à-l'oeil incarnée\npar les gemmes de synthèse de\nBedford. Elle en dit long sur les\ngoûts de cet homme..."
+ },
+ {
+  "ctx": "0x10980",
+  "max": 25,
+  "en": "Magical Armor",
+  "fr": "Armure magique"
+ },
+ {
+  "ctx": "0x109d2",
+  "max": 149,
+  "en": "Armor with runic carvings beneath\nwhose artistry lies solid protection\nfrom magic.  Defense +28\nMagic Def. +25  Evade -2",
+  "fr": "Armure gravée de runes. Sous l'art\nse cache une solide protection\ncontre la magie.  Défense +28\nDéfense mag. +25  Esquive -2"
+ },
+ {
+  "ctx": "0x10aa0",
+  "max": 25,
+  "en": "Saint's Armor",
+  "fr": "Armure du saint"
+ },
+ {
+  "ctx": "0x10af2",
+  "max": 149,
+  "en": "Holy armor that has been\nanointed. It has good defense and\ncan ward off spells.  Defense +35\nMagic Def. +30  Evade -2",
+  "fr": "Armure sacrée qui a reçu l'onction.\nBonne défense, elle repousse aussi\nles sorts.  Défense +35\nDéfense mag. +30  Esquive -2"
+ },
+ {
+  "ctx": "0x10bc0",
+  "max": 25,
+  "en": "Angel's Frock",
+  "fr": "Robe de l'ange"
+ },
+ {
+  "ctx": "0x10c12",
+  "max": 149,
+  "en": "A splendid pure-white robe blessed\nwith seraphic protection.\nDefense +50  Magic Def. +35\nEvade +10  MP +20",
+  "fr": "Splendide robe immaculée bénie\nd'une protection séraphique.\nDéfense +50  Défense mag. +35\nEsquive +10  PM +20"
+ },
+ {
+  "ctx": "0x10ce0",
+  "max": 25,
+  "en": "Devil's Frock",
+  "fr": "Robe du diable"
+ },
+ {
+  "ctx": "0x10d32",
+  "max": 149,
+  "en": "A jet-black robe that gives the\nwearer diabolical power.\nDefense +40  Magic Def. +20\nAccuracy +20  MP +20",
+  "fr": "Robe noire de jais qui confère un\npouvoir diabolique.\nDéfense +40  Défense mag. +20\nPrécision +20  PM +20"
+ },
+ {
+  "ctx": "0x10e00",
+  "max": 25,
+  "en": "Suit of Blood",
+  "fr": "Armure de sang"
+ },
+ {
+  "ctx": "0x10e52",
+  "max": 149,
+  "en": "Howling armor stained in blackest\nblack. Greatly amplifies the\nwearer's abilities.",
+  "fr": "Armure hurlante, teinte du noir le\nplus noir. Accroît grandement les\ncapacités de son porteur."
+ },
+ {
+  "ctx": "0x11160",
+  "max": 25,
+  "en": "Charred Pendant",
+  "fr": "Pendentif calciné"
+ },
+ {
+  "ctx": "0x111b2",
+  "max": 149,
+  "en": "A ruby pendant once cherished by\na girl who met a tragic fate. It has\nbeen burned black. Would that we\ncould return it to its owner...",
+  "fr": "Pendentif en rubis, trésor d'une\nfille au destin tragique, noirci\npar le feu. Si seulement on pouvait\nle rendre à sa propriétaire..."
+ },
+ {
+  "ctx": "0x11280",
+  "max": 25,
+  "en": "Suit of Argent",
+  "fr": "Armure d'argent"
+ },
+ {
+  "ctx": "0x112d2",
+  "max": 149,
+  "en": "Holy armor with a silver gleam.\nGreatly amplifies the wearer's\nabilities.",
+  "fr": "Armure sacrée à l'éclat argenté.\nAccroît grandement les capacités\nde son porteur."
+ },
+ {
+  "ctx": "0x113a0",
+  "max": 25,
+  "en": "Suit of Gules",
+  "fr": "Armure de gueules"
+ },
+ {
+  "ctx": "0x113f2",
+  "max": 149,
+  "en": "Cold-blooded armor stained a vivid\nred. Draws out the wearer's rage.",
+  "fr": "Armure impitoyable, d'un rouge vif.\nLibère la rage de son porteur."
+ },
+ {
+  "ctx": "0x114c0",
+  "max": 25,
+  "en": "Suit of Azure",
+  "fr": "Armure d'azur"
+ },
+ {
+  "ctx": "0x11512",
+  "max": 149,
+  "en": "Armor that harbors madness\nwithin the calm. Looses the wearer\nlike a beast upon the battlefield.",
+  "fr": "Armure qui abrite la folie sous le\ncalme. Lâche son porteur comme une\nbête sur le champ de bataille."
+ },
+ {
+  "ctx": "0x11700",
+  "max": 25,
+  "en": "Suit of Light",
+  "fr": "Armure de lumière"
+ },
+ {
+  "ctx": "0x11752",
+  "max": 149,
+  "en": "Proud armor of divinely shining\ngold. Pushes the wearer's abilities\nto the limit.",
+  "fr": "Fière armure d'or divin et\nrayonnant. Pousse les capacités de\nson porteur à leurs limites."
+ },
+ {
+  "ctx": "0x11820",
+  "max": 25,
+  "en": "Suit of Life",
+  "fr": "Armure de vie"
+ },
+ {
+  "ctx": "0x11872",
+  "max": 149,
+  "en": "Benevolent armor imbued with life\nitself. Draws out the wearer's true\npower from within.",
+  "fr": "Armure bienveillante imprégnée de\nvie. Révèle la vraie puissance\nintérieure de son porteur."
+ },
+ {
+  "ctx": "0x11940",
+  "max": 25,
+  "en": "Suit of Guidance",
+  "fr": "Armure de la Voie"
+ },
+ {
+  "ctx": "0x11992",
+  "max": 149,
+  "en": "Unwavering armor ingrained with\nthe laws of Heaven. Grants the\nwearer the power of God's\nmessengers.",
+  "fr": "Armure inébranlable empreinte des\nlois du Ciel. Confère à son porteur\nle pouvoir des messagers de Dieu."
+ },
+ {
+  "ctx": "0x11a60",
+  "max": 25,
+  "en": "Suit of Sacrifice",
+  "fr": "Armure du sacrifice"
+ },
+ {
+  "ctx": "0x11ab2",
+  "max": 149,
+  "en": "Venerable armor with an iron\nheart that knows no fear of death.\nGives the wearer courage to\nshield others.",
+  "fr": "Armure vénérable au coeur de fer\nqui ne craint pas la mort. Donne le\ncourage de protéger les autres."
+ },
+ {
+  "ctx": "0x11b80",
+  "max": 25,
+  "en": "Suit of Miracles",
+  "fr": "Armure des miracles"
+ },
+ {
+  "ctx": "0x11bd2",
+  "max": 149,
+  "en": "Armor reborn as the result of a\nfuture secured. Grants the wearer\nsupreme power beyond any other.",
+  "fr": "Armure renée grâce à un avenir\npréservé. Confère à son porteur un\npouvoir suprême, sans égal."
+ },
+ {
+  "ctx": "0x11dc0",
+  "max": 25,
+  "en": "Suit of Reckoning",
+  "fr": "Armure du verdict"
+ },
+ {
+  "ctx": "0x11e12",
+  "max": 149,
+  "en": "Absolute armor that shines a\nnoble gold. Greatly amplifies\nthe wearer's abilities.",
+  "fr": "Armure absolue d'un or noble.\nAccroît grandement les capacités\nde son porteur."
+ },
+ {
+  "ctx": "0x11ee0",
+  "max": 25,
+  "en": "Suit of Retribution",
+  "fr": "Armure de rétribution"
+ },
+ {
+  "ctx": "0x11f32",
+  "max": 149,
+  "en": "Binding armor stained the color of\na weighty destiny. Draws out the\nwearer's rage.",
+  "fr": "Armure liée, teinte de la couleur\nd'un lourd destin. Libère la rage\nde son porteur."
+ },
+ {
+  "ctx": "0x12000",
+  "max": 25,
+  "en": "Suit of Eternity",
+  "fr": "Armure d'éternité"
+ },
+ {
+  "ctx": "0x12052",
+  "max": 149,
+  "en": "Transcendent armor in which a\nbright, perfect white can be seen.\nPushes the wearer's magic to\nthe limit.",
+  "fr": "Armure transcendante d'un blanc\néclatant et parfait. Pousse la\nmagie de son porteur à ses limites."
+ },
+ {
+  "ctx": "0x12240",
+  "max": 25,
+  "en": "Suit of Mistrals",
+  "fr": "Armure des mistrals"
+ },
+ {
+  "ctx": "0x12292",
+  "max": 149,
+  "en": "Boundless armor with a luster that\nreflects a beautiful sky. Greatly\namplifies the wearer's abilities.",
+  "fr": "Armure infinie aux reflets d'un\nciel splendide. Accroît grandement\nles capacités de son porteur."
+ },
+ {
+  "ctx": "0x12360",
+  "max": 25,
+  "en": "Suit of Levin",
+  "fr": "Armure de la foudre"
+ },
+ {
+  "ctx": "0x123b2",
+  "max": 149,
+  "en": "Resounding armor that reflects a\nnight sky beyond the clouds. Draws\nout the wearer's rage.",
+  "fr": "Armure retentissante qui reflète\nle ciel nocturne au-delà des nuages.\nLibère la rage de son porteur."
+ },
+ {
+  "ctx": "0x12480",
+  "max": 25,
+  "en": "Suit of the Welkin",
+  "fr": "Armure du firmament"
+ },
+ {
+  "ctx": "0x124d2",
+  "max": 149,
+  "en": "Distant armor that reflects an\nendless sea of stars. Pushes the\nwearer's magic to the limit.",
+  "fr": "Armure lointaine qui reflète une\nmer d'étoiles sans fin. Pousse la\nmagie de son porteur à ses limites."
+ },
+ {
+  "ctx": "0x127e0",
+  "max": 25,
+  "en": "Suit of Portent",
+  "fr": "Armure du présage"
+ },
+ {
+  "ctx": "0x12832",
+  "max": 149,
+  "en": "Inexorable armor polished with the\ngolden glare of false hope. Pushes\nthe wearer's magic to the limit.",
+  "fr": "Armure implacable, polie de l'éclat\ndoré d'un faux espoir. Pousse la\nmagie de son porteur à ses limites."
+ },
+ {
+  "ctx": "0x12900",
+  "max": 25,
+  "en": "Suit of Darkness",
+  "fr": "Armure des ténèbres"
+ },
+ {
+  "ctx": "0x12952",
+  "max": 149,
+  "en": "Apocalyptic armor stained in the\ncolor of hearts devoured. Draws\nout the wearer's rage.",
+  "fr": "Armure apocalyptique, teinte de la\ncouleur des coeurs dévorés. Libère\nla rage de son porteur."
+ },
+ {
+  "ctx": "0x12b40",
+  "max": 25,
+  "en": "Leather Skirt",
+  "fr": "Jupe de cuir"
+ },
+ {
+  "ctx": "0x12b92",
+  "max": 157,
+  "en": "A tough and lightweight skirt.\nFor women only.\nDefense +10",
+  "fr": "Jupe solide et légère.\nRéservée aux femmes.\nDéfense +10"
+ },
+ {
+  "ctx": "0x12c60",
+  "max": 25,
+  "en": "Magical Dress",
+  "fr": "Tenue magique"
+ },
+ {
+  "ctx": "0x12cb2",
+  "max": 157,
+  "en": "An elegant dress woven with\nmagical cloth that guards the\nwearer from spells. For women\nonly.  Defense +15  Magic Def. +10",
+  "fr": "Robe élégante en tissu magique qui\nprotège des sorts. Réservée aux\nfemmes.\nDéfense +15  Défense mag. +10"
+ },
+ {
+  "ctx": "0x12d80",
+  "max": 25,
+  "en": "Robe of Light",
+  "fr": "Robe de lumière"
+ },
+ {
+  "ctx": "0x12dd2",
+  "max": 157,
+  "en": "A robe with a strange luster that\nshimmers brightly with even the\nmost subtle motion. For women\nonly.  Defense +23  Magic Def. +15",
+  "fr": "Robe à l'étrange éclat, qui brille\nau moindre mouvement. Réservée\naux femmes.\nDéfense +23  Défense mag. +15"
+ },
+ {
+  "ctx": "0x12ea0",
+  "max": 25,
+  "en": "Black Bustier",
+  "fr": "Bustier noir"
+ },
+ {
+  "ctx": "0x12ef2",
+  "max": 157,
+  "en": "A shiny leather top that provides\nample protection...but oh so little\ncoverage. This will get some looks! \nFor women only.  Defense +30",
+  "fr": "Haut en cuir brillant qui protège\nbien... mais couvre si peu. Voilà\nqui va attirer les regards !\nFemmes seulement.  Défense +30"
+ },
+ {
+  "ctx": "0x12fc0",
+  "max": 25,
+  "en": "Goddess Armor",
+  "fr": "Armure de la déesse"
+ },
+ {
+  "ctx": "0x13012",
+  "max": 157,
+  "en": "Armor engraved with the goddess\nof war, who springs to life in the\nsoul of its wearer. For women only.\nDefense +60  Magic Def. +40",
+  "fr": "Armure gravée de la déesse de la\nguerre, qui s'éveille dans l'âme de\nqui la porte. Réservée aux femmes.\nDéfense +60  Défense mag. +40"
+ },
+ {
+  "ctx": "0x15600",
+  "max": 25,
+  "en": "Buckler",
+  "fr": "Bocle"
+ },
+ {
+  "ctx": "0x15652",
+  "max": 151,
+  "en": "A small, light shield with a pointy\nboss at its center. It frees up\nmovement while still deflecting.\nDefense +2  Evade +5",
+  "fr": "Petit bouclier léger à l'umbo\npointu. Il dévie les coups sans\nentraver les mouvements.\nDéfense +2  Esquive +5"
+ },
+ {
+  "ctx": "0x15720",
+  "max": 25,
+  "en": "Round Shield",
+  "fr": "Bouclier rond"
+ },
+ {
+  "ctx": "0x15772",
+  "max": 151,
+  "en": "A circular wooden shield rimmed\nwith iron. Lightweight, but still\nquite sturdy.\nDefense +6  Evade +8",
+  "fr": "Bouclier de bois rond cerclé de\nfer. Léger, mais très solide.\nDéfense +6  Esquive +8"
+ },
+ {
+  "ctx": "0x15840",
+  "max": 25,
+  "en": "Steel Shield",
+  "fr": "Bouclier d'acier"
+ },
+ {
+  "ctx": "0x15892",
+  "max": 151,
+  "en": "A thick, sturdy shield that has\nsaved many a soldier's life.\nDefense +9  Evade +12",
+  "fr": "Bouclier épais et robuste qui a\nsauvé la vie de bien des soldats.\nDéfense +9  Esquive +12"
+ },
+ {
+  "ctx": "0x15960",
+  "max": 25,
+  "en": "Kite Shield",
+  "fr": "Écu"
+ },
+ {
+  "ctx": "0x159b2",
+  "max": 151,
+  "en": "A solid shield carried by knights.\nA coat-of-arms is emblazoned on\nits front.\nDefense +16  Evade +16",
+  "fr": "Solide bouclier de chevalier, dont\nla face porte des armoiries.\nDéfense +16  Esquive +16"
+ },
+ {
+  "ctx": "0x15a80",
+  "max": 25,
+  "en": "Tower Shield",
+  "fr": "Pavois"
+ },
+ {
+  "ctx": "0x15ad2",
+  "max": 151,
+  "en": "A large shield with a curved\nrectangular plate. As tall as a man,\nit affords excellent protection.\nDefense +25  Evade +20",
+  "fr": "Grand bouclier à plaque courbe et\nrectangulaire. Haut comme un homme,\nil protège à merveille.\nDéfense +25  Esquive +20"
+ },
+ {
+  "ctx": "0x15ba0",
+  "max": 25,
+  "en": "Jinni Shield",
+  "fr": "Bouclier du djinn"
+ },
+ {
+  "ctx": "0x15bf2",
+  "max": 151,
+  "en": "A shield favored by the ancient\njinn that gives the bearer fighting\nstrength.  Defense +35\nEvade +17  Attack +10",
+  "fr": "Bouclier prisé des anciens djinns,\nqui donne force au combat.\nDéfense +35\nEsquive +17  Attaque +10"
+ },
+ {
+  "ctx": "0x15cc0",
+  "max": 25,
+  "en": "Sylph Shield",
+  "fr": "Bouclier sylphide"
+ },
+ {
+  "ctx": "0x15d12",
+  "max": 151,
+  "en": "A shield under faerie protection\nwith fine goldwork depicting the\nwind.  Defense +29  Magic Def. +10\nEvade +16",
+  "fr": "Bouclier protégé par les fées, aux\nfines dorures figurant le vent.\nDéfense +29  Défense mag. +10\nEsquive +16"
+ },
+ {
+  "ctx": "0x15de0",
+  "max": 25,
+  "en": "Holy Shield",
+  "fr": "Bouclier sacré"
+ },
+ {
+  "ctx": "0x15e32",
+  "max": 151,
+  "en": "The ultimate shield, surrounded\nby a divine light.  Defense +40\nMagic Def. +5  Evade +25\nMagic Atk. +10  MP +20",
+  "fr": "Le bouclier ultime, nimbé d'une\nlumière divine.  Défense +40\nDéfense mag. +5  Esquive +25\nAttaque mag. +10  PM +20"
+ },
+ {
+  "ctx": "0x15f00",
+  "max": 25,
+  "en": "Therion Shield",
+  "fr": "Bouclier thérion"
+ },
+ {
+  "ctx": "0x15f52",
+  "max": 151,
+  "en": "A large iron shield favored by the\ntherions. The sharp spikes about it\nlend it a frightening quality.",
+  "fr": "Grand bouclier de fer prisé des\nthérions. Ses pointes acérées lui\ndonnent un air effrayant."
+ },
+ {
+  "ctx": "0x16140",
+  "max": 25,
+  "en": "Snakeskin Lash",
+  "fr": "Fouet de serpent"
+ },
+ {
+  "ctx": "0x16192",
+  "max": 153,
+  "en": "A whip made of supple snakeskin.\nIts vivid colors are truly striking\nto behold.\nAttack +7",
+  "fr": "Fouet en souple peau de serpent.\nSes couleurs vives sont vraiment\nsaisissantes.\nAttaque +7"
+ },
+ {
+  "ctx": "0x16260",
+  "max": 25,
+  "en": "Metal Whip",
+  "fr": "Fouet de métal"
+ },
+ {
+  "ctx": "0x162b2",
+  "max": 153,
+  "en": "A steel-reinforced whip. Every lash\nleaves a splendid design in its\nwake.  Attack +20",
+  "fr": "Fouet renforcé d'acier. Chaque coup\nlaisse un splendide motif dans son\nsillage.  Attaque +20"
+ },
+ {
+  "ctx": "0x16380",
+  "max": 25,
+  "en": "Blade Whip",
+  "fr": "Fouet à lames"
+ },
+ {
+  "ctx": "0x163d2",
+  "max": 153,
+  "en": "A fearsome whip fitted with sharp\nblades. Those it catches are\ndoomed; their squirms are their\nown undoing.  Attack +28",
+  "fr": "Fouet redoutable garni de lames.\nSes proies sont perdues : plus\nelles se débattent, pire c'est.\nAttaque +28"
+ },
+ {
+  "ctx": "0x164a0",
+  "max": 25,
+  "en": "Torturer's Lash",
+  "fr": "Fouet du bourreau"
+ },
+ {
+  "ctx": "0x164f2",
+  "max": 153,
+  "en": "A whip with scarlet blades that\nsows cruelty in the wielder's heart.\nIts victims' cries are unbearable.\nAttack +37  Critical +20",
+  "fr": "Fouet aux lames écarlates qui sème\nla cruauté dans le coeur du porteur.\nSes victimes hurlent atrocement.\nAttaque +37  Critique +20"
+ },
+ {
+  "ctx": "0x165c0",
+  "max": 25,
+  "en": "Hammer Whip",
+  "fr": "Fouet-marteau"
+ },
+ {
+  "ctx": "0x16612",
+  "max": 153,
+  "en": "A bone-shattering whip made of\nhammer and chain. Its links can\nalso deflect attacks.  Attack +40\nDefense +10  Evade +20",
+  "fr": "Fouet broyeur d'os, fait d'un\nmarteau et d'une chaîne qui dévie\naussi les coups.  Attaque +40\nDéfense +10  Esquive +20"
+ },
+ {
+  "ctx": "0x166e0",
+  "max": 25,
+  "en": "Rose Whip",
+  "fr": "Fouet de rose"
+ },
+ {
+  "ctx": "0x16732",
+  "max": 153,
+  "en": "As pretty and delicate as a rose...\nbut far thornier. This beauty will\nbed any foe...for good.\nAttack +70  Accuracy +3",
+  "fr": "Joli et délicat comme une rose...\nmais bien plus épineux. Cette beauté\ncouchera tout ennemi... pour de bon.\nAttaque +70  Précision +3"
+ },
+ {
+  "ctx": "0x16d00",
+  "max": 25,
+  "en": "Healing Herb",
+  "fr": "Herbe médicinale"
+ },
+ {
+  "ctx": "0x16d52",
+  "max": 155,
+  "en": "An herb that has been used as a\nrestorative since long ago.\nRestores 60 HP to the target.",
+  "fr": "Herbe utilisée depuis longtemps\npour ses vertus curatives.\nRend 60 PV à la cible."
+ },
+ {
+  "ctx": "0x16ea0",
+  "max": 25,
+  "en": "Healing Seed",
+  "fr": "Graine médicinale"
+ },
+ {
+  "ctx": "0x16ef2",
+  "max": 155,
+  "en": "The seed of the healing herb,\nwithin which vitality is locked.\nRestores 120 HP to the target.",
+  "fr": "Graine d'herbe médicinale, qui\nrenferme une grande vitalité.\nRend 120 PV à la cible."
+ },
+ {
+  "ctx": "0x17040",
+  "max": 25,
+  "en": "Healing Fruit",
+  "fr": "Fruit médicinal"
+ },
+ {
+  "ctx": "0x17092",
+  "max": 155,
+  "en": "The fruit of the healing herb,\npacked with restorative nutrients.\nRestores 180 HP to the target.",
+  "fr": "Fruit d'herbe médicinale, gorgé\nde nutriments réparateurs.\nRend 180 PV à la cible."
+ },
+ {
+  "ctx": "0x171e0",
+  "max": 25,
+  "en": "Healing Extract",
+  "fr": "Extrait médicinal"
+ },
+ {
+  "ctx": "0x17232",
+  "max": 155,
+  "en": "A rich-tasting concentrate made by\nsqueezing the healing fruit.\nFully restores the target's HP.",
+  "fr": "Concentré au goût riche obtenu en\npressant le fruit médicinal.\nRend tous ses PV à la cible."
+ },
+ {
+  "ctx": "0x17380",
+  "max": 25,
+  "en": "Mana Shard",
+  "fr": "Éclat de mana"
+ },
+ {
+  "ctx": "0x173d2",
+  "max": 155,
+  "en": "A piece of rock containing magic\nthat gives off a faint light.\nRestores 30 MP to the target.",
+  "fr": "Fragment de roche chargé de magie\nqui émet une faible lueur.\nRend 30 PM à la cible."
+ },
+ {
+  "ctx": "0x17520",
+  "max": 25,
+  "en": "Mana Crystal",
+  "fr": "Cristal de mana"
+ },
+ {
+  "ctx": "0x17572",
+  "max": 155,
+  "en": "A crystal containing magic that\ngives off a hazy light.\nRestores 60 MP to the target.",
+  "fr": "Cristal chargé de magie qui émet\nune lueur diffuse.\nRend 60 PM à la cible."
+ },
+ {
+  "ctx": "0x176c0",
+  "max": 25,
+  "en": "Mana Jewel",
+  "fr": "Joyau de mana"
+ },
+ {
+  "ctx": "0x17712",
+  "max": 155,
+  "en": "A gemstone containing magic that\ngives off a stunning light.\nRestores 100 MP to the target.",
+  "fr": "Gemme chargée de magie qui émet\nune lueur éblouissante.\nRend 100 PM à la cible."
+ },
+ {
+  "ctx": "0x17860",
+  "max": 25,
+  "en": "Mana Light",
+  "fr": "Lumière de mana"
+ },
+ {
+  "ctx": "0x178b2",
+  "max": 155,
+  "en": "A pure source of magic that gives\noff a brilliant light.\nFully restores the target's MP.",
+  "fr": "Pure source de magie qui émet une\nlumière éclatante.\nRend tous ses PM à la cible."
+ },
+ {
+  "ctx": "0x17a00",
+  "max": 25,
+  "en": "Angel's Grace",
+  "fr": "Grâce de l'ange"
+ },
+ {
+  "ctx": "0x17a52",
+  "max": 155,
+  "en": "A warm light that bestows a\nseraphic blessing on the wounded.\nRestores 100 HP and MP to the\ntarget.",
+  "fr": "Douce lumière qui accorde aux\nblessés une bénédiction séraphique.\nRend 100 PV et 100 PM à la\ncible."
+ },
+ {
+  "ctx": "0x17ba0",
+  "max": 25,
+  "en": "God's Grace",
+  "fr": "Grâce divine"
+ },
+ {
+  "ctx": "0x17bf2",
+  "max": 155,
+  "en": "The brilliant light of God, worker\nof miracles. Fully restores the\ntarget's HP and MP.",
+  "fr": "L'éclatante lumière de Dieu, auteur\nde miracles. Rend tous ses PV et\ntous ses PM à la cible."
+ },
+ {
+  "ctx": "0x17d40",
+  "max": 25,
+  "en": "Healing Vapors",
+  "fr": "Vapeurs curatives"
+ },
+ {
+  "ctx": "0x17d92",
+  "max": 155,
+  "en": "A gentle, sublime breeze that\nmends wounds. Restores 80 HP\nto any allies within range.",
+  "fr": "Brise douce et sublime qui panse\nles plaies. Rend 80 PV à tous\nles alliés à portée."
+ },
+ {
+  "ctx": "0x18d80",
+  "max": 25,
+  "en": "Erpow Fruit",
+  "fr": "Fruit d'erpow"
+ },
+ {
+  "ctx": "0x18dd2",
+  "max": 155,
+  "en": "A precious fruit with extreme\nmuscle-building properties.\nPermanently raises Attack by 3.",
+  "fr": "Fruit précieux qui développe les\nmuscles. Augmente définitivement\nl'Attaque de 3."
+ },
+ {
+  "ctx": "0x18f20",
+  "max": 25,
+  "en": "Strength Tonic",
+  "fr": "Tonique de force"
+ },
+ {
+  "ctx": "0x18f72",
+  "max": 155,
+  "en": "A secret medicine that yields a\ntemporary ability boost. Raises\nAttack by 10 for 3 turns.",
+  "fr": "Remède secret qui renforce\ntemporairement. Augmente\nl'Attaque de 10 pendant 3 tours."
+ },
+ {
+  "ctx": "0x190c0",
+  "max": 25,
+  "en": "Rysecor Fruit",
+  "fr": "Fruit de rysecor"
+ },
+ {
+  "ctx": "0x19112",
+  "max": 155,
+  "en": "A precious fruit that heightens\nthe partaker's sympathy with\nmagic. Permanently raises Magic\nAttack by 3.",
+  "fr": "Fruit précieux qui renforce\nl'affinité avec la magie.\nAugmente définitivement l'Attaque\nmag. de 3."
+ },
+ {
+  "ctx": "0x19260",
+  "max": 25,
+  "en": "Magical Tonic",
+  "fr": "Tonique magique"
+ },
+ {
+  "ctx": "0x192b2",
+  "max": 155,
+  "en": "A secret medicine that yields a\ntemporary ability boost. Raises\nMagic Attack by 10 for 3 turns.",
+  "fr": "Remède secret qui renforce\ntemporairement. Augmente l'Attaque\nmag. de 10 pendant 3 tours."
+ },
+ {
+  "ctx": "0x19400",
+  "max": 25,
+  "en": "Eldish Fruit",
+  "fr": "Fruit d'eldish"
+ },
+ {
+  "ctx": "0x19452",
+  "max": 155,
+  "en": "A precious fruit that causes rapid\nphysical growth. Permanently\nraises Defense by 3.",
+  "fr": "Fruit précieux qui provoque une\ncroissance rapide. Augmente\ndéfinitivement la Défense de 3."
+ },
+ {
+  "ctx": "0x195a0",
+  "max": 25,
+  "en": "Defense Tonic",
+  "fr": "Tonique de défense"
+ },
+ {
+  "ctx": "0x195f2",
+  "max": 155,
+  "en": "A secret medicine that yields a\ntemporary ability boost. Raises\nDefense by 10 for 3 turns.",
+  "fr": "Remède secret qui renforce\ntemporairement. Augmente la\nDéfense de 10 pendant 3 tours."
+ },
+ {
+  "ctx": "0x19740",
+  "max": 25,
+  "en": "Xheno Fruit",
+  "fr": "Fruit de xheno"
+ },
+ {
+  "ctx": "0x19792",
+  "max": 155,
+  "en": "A precious fruit that fosters magic\nadaptation. Permanently raises\nMagic Defense by 3.",
+  "fr": "Fruit précieux qui favorise\nl'adaptation à la magie. Augmente\ndéfinitivement la Défense mag. de 3."
+ },
+ {
+  "ctx": "0x198e0",
+  "max": 25,
+  "en": "Warding Tonic",
+  "fr": "Tonique protecteur"
+ },
+ {
+  "ctx": "0x19932",
+  "max": 155,
+  "en": "A secret medicine that yields a\ntemporary ability boost. Raises\nMagic Defense by 10 for 3 turns.",
+  "fr": "Remède secret qui renforce\ntemporairement. Augmente la Défense\nmag. de 10 pendant 3 tours."
+ },
+ {
+  "ctx": "0x19a80",
+  "max": 25,
+  "en": "Sibull Fruit",
+  "fr": "Fruit de sibull"
+ },
+ {
+  "ctx": "0x19ad2",
+  "max": 155,
+  "en": "A precious fruit that facilitates\ncontinued concentration.\nPermanently raises Accuracy by 5.",
+  "fr": "Fruit précieux qui aide à rester\nconcentré. Augmente définitivement\nla Précision de 5."
+ },
+ {
+  "ctx": "0x19c20",
+  "max": 25,
+  "en": "Stability Tonic",
+  "fr": "Tonique de stabilité"
+ },
+ {
+  "ctx": "0x19c72",
+  "max": 155,
+  "en": "A secret medicine that yields a\ntemporary ability boost. Raises\nAccuracy by 20 for 3 turns.",
+  "fr": "Remède secret qui renforce\ntemporairement. Augmente la\nPrécision de 20 pendant 3 tours."
+ },
+ {
+  "ctx": "0x19dc0",
+  "max": 25,
+  "en": "Geddo Fruit",
+  "fr": "Fruit de geddo"
+ },
+ {
+  "ctx": "0x19e12",
+  "max": 155,
+  "en": "A precious fruit with reflex-\nenhancing properties. Permanently\nraises Evade by 5.",
+  "fr": "Fruit précieux qui aiguise les\nréflexes. Augmente définitivement\nl'Esquive de 5."
+ },
+ {
+  "ctx": "0x19f60",
+  "max": 25,
+  "en": "Reflex Tonic",
+  "fr": "Tonique réflexe"
+ },
+ {
+  "ctx": "0x19fb2",
+  "max": 155,
+  "en": "A secret medicine that yields a\ntemporary ability boost. Raises\nEvade by 20 for 3 turns.",
+  "fr": "Remède secret qui renforce\ntemporairement. Augmente\nl'Esquive de 20 pendant 3 tours."
+ },
+ {
+  "ctx": "0x1a100",
+  "max": 25,
+  "en": "Critical Tonic",
+  "fr": "Tonique critique"
+ },
+ {
+  "ctx": "0x1a152",
+  "max": 155,
+  "en": "A secret medicine that empowers\nwhoever drinks it. Improves the\nlikelihood of critical hits for\n3 turns.",
+  "fr": "Remède secret qui renforce qui le\nboit. Augmente les chances de\ncoup critique pendant 3 tours."
+ },
+ {
+  "ctx": "0x1a2a0",
+  "max": 25,
+  "en": "Nimble Tonic",
+  "fr": "Tonique d'agilité"
+ },
+ {
+  "ctx": "0x1a2f2",
+  "max": 155,
+  "en": "A secret medicine that allows\nwhoever drinks it to run faster.\nRaises Mobility by 1 for 3 turns.",
+  "fr": "Remède secret qui fait courir plus\nvite qui le boit. Augmente le\nDéplacement de 1 pendant 3 tours."
+ },
+ {
+  "ctx": "0x1a440",
+  "max": 25,
+  "en": "Deadeye Tonic",
+  "fr": "Tonique de visée"
+ },
+ {
+  "ctx": "0x1a492",
+  "max": 155,
+  "en": "A secret medicine that grants\nwhoever drinks it amazing\nconcentration. Raises Accuracy\nby 50 for 3 turns.",
+  "fr": "Remède secret qui donne une\nconcentration prodigieuse.\nAugmente la Précision de 50\npendant 3 tours."
+ },
+ {
+  "ctx": "0x1ae00",
+  "max": 25,
+  "en": "Solar Phial",
+  "fr": "Fiole solaire"
+ },
+ {
+  "ctx": "0x1ae52",
+  "max": 152,
+  "en": "Contains alchemically condensed\nand sealed spirit power. Deals sol\ndamage when broken upon a foe.",
+  "fr": "Contient un pouvoir spirituel\ncondensé par alchimie. Brisée sur\nun ennemi, inflige des dégâts sol."
+ },
+ {
+  "ctx": "0x1afa0",
+  "max": 25,
+  "en": "Searing Phial",
+  "fr": "Fiole brûlante"
+ },
+ {
+  "ctx": "0x1aff2",
+  "max": 152,
+  "en": "Contains a denser spirit power that\nincinerates enemies. Deals sol\ndamage to foes within range.",
+  "fr": "Pouvoir spirituel plus dense qui\nincinère l'ennemi. Inflige des\ndégâts sol aux ennemis à portée."
+ },
+ {
+  "ctx": "0x1b140",
+  "max": 25,
+  "en": "Lunar Phial",
+  "fr": "Fiole lunaire"
+ },
+ {
+  "ctx": "0x1b192",
+  "max": 152,
+  "en": "Contains alchemically condensed\nand sealed spirit power. Deals luna\ndamage when broken upon a foe.",
+  "fr": "Contient un pouvoir spirituel\ncondensé par alchimie. Brisée sur\nun ennemi, inflige des dégâts luna."
+ },
+ {
+  "ctx": "0x1b2e0",
+  "max": 25,
+  "en": "Moonglow Phial",
+  "fr": "Fiole clair-de-lune"
+ },
+ {
+  "ctx": "0x1b332",
+  "max": 152,
+  "en": "Contains a denser spirit power\nwhose light smashes evil. Deals\nluna damage to foes within range.",
+  "fr": "Pouvoir spirituel plus dense dont\nla lumière brise le mal. Inflige des\ndégâts luna aux ennemis à portée."
+ },
+ {
+  "ctx": "0x1b480",
+  "max": 25,
+  "en": "Astral Phial",
+  "fr": "Fiole astrale"
+ },
+ {
+  "ctx": "0x1b4d2",
+  "max": 152,
+  "en": "Contains alchemically condensed\nand sealed spirit power. Deals\nstella damage when broken upon\na foe.",
+  "fr": "Contient un pouvoir spirituel\ncondensé par alchimie. Brisée sur\nun ennemi, inflige des dégâts\nstella."
+ },
+ {
+  "ctx": "0x1b620",
+  "max": 25,
+  "en": "Galaxy Phial",
+  "fr": "Fiole galactique"
+ },
+ {
+  "ctx": "0x1b672",
+  "max": 152,
+  "en": "Contains a denser spirit power that\nswallows all in its dominion. Deals\nstella damage to foes within range.",
+  "fr": "Pouvoir spirituel plus dense qui\nengloutit tout. Inflige des dégâts\nstella aux ennemis à portée."
+ },
+ {
+  "ctx": "0x20f00",
+  "max": 25,
+  "en": "Gem of Argent",
+  "fr": "Gemme d'argent"
+ },
+ {
+  "ctx": "0x20f52",
+  "max": 150,
+  "en": "Don the Suit of Argent.\n\nStar-spangled light shines forth\nfrom within this sacred gem.",
+  "fr": "Revêt l'Armure d'argent.\n\nUne lumière étoilée émane de\ncette gemme sacrée."
+ },
+ {
+  "ctx": "0x21020",
+  "max": 25,
+  "en": "Gem of Gules",
+  "fr": "Gemme de gueules"
+ },
+ {
+  "ctx": "0x21072",
+  "max": 150,
+  "en": "Don the Suit of Gules.\n\nA cold light, merciless and red,\nshines from within this gem.",
+  "fr": "Revêt l'Armure de gueules.\n\nUne lumière froide, rouge et\nimpitoyable émane de cette gemme."
+ },
+ {
+  "ctx": "0x21140",
+  "max": 25,
+  "en": "Gem of Azure",
+  "fr": "Gemme d'azur"
+ },
+ {
+  "ctx": "0x21192",
+  "max": 150,
+  "en": "Don the Suit of Azure.\n\nThe night sky reflects a heart of\nmelancholy on this gem's surface.",
+  "fr": "Revêt l'Armure d'azur.\n\nLe ciel nocturne reflète un coeur\nmélancolique à sa surface."
+ },
+ {
+  "ctx": "0x21a40",
+  "max": 25,
+  "en": "Gem of Light",
+  "fr": "Gemme de lumière"
+ },
+ {
+  "ctx": "0x21a92",
+  "max": 150,
+  "en": "Don the Suit of Light.\n\nImmaculate beams of gold shine\nfrom within this solemn gem.",
+  "fr": "Revêt l'Armure de lumière.\n\nDes rayons d'or immaculés émanent\nde cette gemme solennelle."
+ },
+ {
+  "ctx": "0x21b60",
+  "max": 25,
+  "en": "Gem of Life",
+  "fr": "Gemme de vie"
+ },
+ {
+  "ctx": "0x21bb2",
+  "max": 150,
+  "en": "Don the Suit of Life.\n\nThe light of creation overflows\nfrom within this benevolent gem.",
+  "fr": "Revêt l'Armure de vie.\n\nLa lumière de la création déborde\nde cette gemme bienveillante."
+ },
+ {
+  "ctx": "0x21c80",
+  "max": 25,
+  "en": "Gem of Guidance",
+  "fr": "Gemme de la Voie"
+ },
+ {
+  "ctx": "0x21cd2",
+  "max": 150,
+  "en": "Don the Suit of Guidance.\n\nThe unwavering truth is revealed\nfrom within this steadfast gem.",
+  "fr": "Revêt l'Armure de la Voie.\n\nLa vérité inébranlable se révèle\nau coeur de cette gemme constante."
+ },
+ {
+  "ctx": "0x21da0",
+  "max": 25,
+  "en": "Gem of Sacrifice",
+  "fr": "Gemme du sacrifice"
+ },
+ {
+  "ctx": "0x21df2",
+  "max": 150,
+  "en": "Don the Suit of Sacrifice.\n\nThe lights of life and death shine\nequally from this venerable gem.",
+  "fr": "Revêt l'Armure du sacrifice.\n\nLumières de vie et de mort brillent\nautant dans cette gemme vénérable."
+ },
+ {
+  "ctx": "0x21ec0",
+  "max": 25,
+  "en": "Gem of Miracles",
+  "fr": "Gemme des miracles"
+ },
+ {
+  "ctx": "0x21f12",
+  "max": 150,
+  "en": "Don the Suit of Miracles.\n\nThe firmament within this gem is\nthe worktable of miracles.",
+  "fr": "Revêt l'Armure des miracles.\n\nLe firmament de cette gemme est\nl'atelier des miracles."
+ },
+ {
+  "ctx": "0x21fe0",
+  "max": 25,
+  "en": "[SKIP]",
+  "fr": ""
+ },
+ {
+  "ctx": "0x22580",
+  "max": 25,
+  "en": "Gem of Mistrals",
+  "fr": "Gemme des mistrals"
+ },
+ {
+  "ctx": "0x225d2",
+  "max": 150,
+  "en": "Don the Suit of Mistrals.\n\nWings of light flutter from within\nthis boundless gem, clear as air.",
+  "fr": "Revêt l'Armure des mistrals.\n\nDes ailes de lumière battent dans\ncette gemme infinie, claire et pure."
+ },
+ {
+  "ctx": "0x226a0",
+  "max": 25,
+  "en": "Gem of Levin",
+  "fr": "Gemme de la foudre"
+ },
+ {
+  "ctx": "0x226f2",
+  "max": 150,
+  "en": "Don the Suit of Levin.\n\nLightning tears across the void\nfrom within this resounding gem.",
+  "fr": "Revêt l'Armure de la foudre.\n\nLa foudre déchire le néant au\ncoeur de cette gemme retentissante."
+ },
+ {
+  "ctx": "0x227c0",
+  "max": 25,
+  "en": "Gem of the Welkin",
+  "fr": "Gemme du firmament"
+ },
+ {
+  "ctx": "0x22812",
+  "max": 150,
+  "en": "Don the Suit of the Welkin.\n\nGaze into this soaring gem and\nsense a wiser power staring back.",
+  "fr": "Revêt l'Armure du firmament.\n\nPlongez le regard dans cette gemme\net un pouvoir sage vous fixera."
+ },
+ {
+  "ctx": "0x230c0",
+  "max": 25,
+  "en": "Gem of Reckoning",
+  "fr": "Gemme du verdict"
+ },
+ {
+  "ctx": "0x23112",
+  "max": 150,
+  "en": "Don the Suit of Reckoning.\n\nThis cloudless gem is filled with\nan absolute, majestic light.",
+  "fr": "Revêt l'Armure du verdict.\n\nCette gemme sans nuage est emplie\nd'une lumière absolue et royale."
+ },
+ {
+  "ctx": "0x231e0",
+  "max": 25,
+  "en": "Gem of Retribution",
+  "fr": "Gemme de rétribution"
+ },
+ {
+  "ctx": "0x23232",
+  "max": 150,
+  "en": "Don the Suit of Retribution.\n\nA quiet anger is buried within the\nshining destiny of this gem.",
+  "fr": "Revêt l'Armure de rétribution.\n\nUne colère sourde dort dans le\ndestin éclatant de cette gemme."
+ },
+ {
+  "ctx": "0x23300",
+  "max": 25,
+  "en": "Gem of Eternity",
+  "fr": "Gemme d'éternité"
+ },
+ {
+  "ctx": "0x23352",
+  "max": 150,
+  "en": "Don the Suit of Eternity.\n\nA single, quiet truth resides within\nthis transcendent gem.",
+  "fr": "Revêt l'Armure d'éternité.\n\nUne vérité unique et paisible\nréside dans cette gemme sublime."
+ },
+ {
+  "ctx": "0x23c00",
+  "max": 25,
+  "en": "Gem of Blood",
+  "fr": "Gemme de sang"
+ },
+ {
+  "ctx": "0x23c52",
+  "max": 150,
+  "en": "Don the Suit of Blood.\n\nA crimson eye stares back from\nwithin this howling, vivid gem.",
+  "fr": "Revêt l'Armure de sang.\n\nUn oeil pourpre vous fixe du fond\nde cette gemme hurlante et vive."
+ },
+ {
+  "ctx": "0x23d20",
+  "max": 25,
+  "en": "Gem of Portent",
+  "fr": "Gemme du présage"
+ },
+ {
+  "ctx": "0x23d72",
+  "max": 150,
+  "en": "Don the Suit of Portent.\n\nA false future blinks by at the pit\nof this gem, full of emptiness.",
+  "fr": "Revêt l'Armure du présage.\n\nUn faux avenir passe au fond de\ncette gemme emplie de vide."
+ },
+ {
+  "ctx": "0x23e40",
+  "max": 25,
+  "en": "Gem of Darkness",
+  "fr": "Gemme des ténèbres"
+ },
+ {
+  "ctx": "0x23e92",
+  "max": 150,
+  "en": "Don the Suit of Darkness.\n\nLight that falls upon this gem is\nforever lost to its hopeless abyss.",
+  "fr": "Revêt l'Armure des ténèbres.\n\nLa lumière qui tombe sur cette gemme\nse perd à jamais dans son abîme."
+ },
+ {
+  "ctx": "0x24740",
+  "max": 25,
+  "en": "Fireball",
+  "fr": "Boule de feu"
+ },
+ {
+  "ctx": "0x24792",
+  "max": 149,
+  "en": "Offensive spell (sol).\nHurls a giant ball of flame at\nan enemy.",
+  "fr": "Sort offensif (sol).\nLance une énorme boule de feu sur\nun ennemi."
+ },
+ {
+  "ctx": "0x24860",
+  "max": 25,
+  "en": "Flame",
+  "fr": "Flammes"
+ },
+ {
+  "ctx": "0x248b2",
+  "max": 149,
+  "en": "Offensive spell (sol).\nScorches the area in a fierce\ntorrent of flame.",
+  "fr": "Sort offensif (sol).\nCalcine la zone sous un torrent\nde flammes déchaînées."
+ },
+ {
+  "ctx": "0x24980",
+  "max": 25,
+  "en": "Ice Bullet",
+  "fr": "Trait de glace"
+ },
+ {
+  "ctx": "0x249d2",
+  "max": 149,
+  "en": "Offensive spell (luna).\nFires an icy projectile at an enemy.",
+  "fr": "Sort offensif (luna).\nTire un trait glacé sur un ennemi."
+ },
+ {
+  "ctx": "0x24aa0",
+  "max": 25,
+  "en": "Blizzard",
+  "fr": "Blizzard"
+ },
+ {
+  "ctx": "0x24af2",
+  "max": 149,
+  "en": "Offensive spell (luna).\nTurns the area to ice with its cold,\nraging winds.",
+  "fr": "Sort offensif (luna).\nGlace la zone de ses vents froids\net déchaînés."
+ },
+ {
+  "ctx": "0x24bc0",
+  "max": 25,
+  "en": "Thunderbolt",
+  "fr": "Coup de tonnerre"
+ },
+ {
+  "ctx": "0x24c12",
+  "max": 149,
+  "en": "Offensive spell (stella). \nRains lightning down upon an\nenemy's head.",
+  "fr": "Sort offensif (stella).\nFait pleuvoir la foudre sur la\ntête d'un ennemi."
+ },
+ {
+  "ctx": "0x24ce0",
+  "max": 25,
+  "en": "Cyclone",
+  "fr": "Cyclone"
+ },
+ {
+  "ctx": "0x24d32",
+  "max": 149,
+  "en": "Offensive spell (stella).\nSwirls through an area and dices\nenemies in a violent whirlwind.",
+  "fr": "Sort offensif (stella).\nBalaie une zone et déchiquette les\nennemis dans un violent tourbillon."
+ },
+ {
+  "ctx": "0x24e00",
+  "max": 25,
+  "en": "Fireball II",
+  "fr": "Boule de feu II"
+ },
+ {
+  "ctx": "0x24e52",
+  "max": 149,
+  "en": "Offensive spell (sol).\nHurls an enormous fireball that\nchars to the bone.",
+  "fr": "Sort offensif (sol).\nLance une boule de feu colossale\nqui brûle jusqu'à l'os."
+ },
+ {
+  "ctx": "0x24f20",
+  "max": 25,
+  "en": "Flame II",
+  "fr": "Flammes II"
+ },
+ {
+  "ctx": "0x24f72",
+  "max": 149,
+  "en": "Offensive spell (sol). \nTurns the area to ash in a storm\nof blazing fire.",
+  "fr": "Sort offensif (sol).\nRéduit la zone en cendres sous une\ntempête de feu ardent."
+ },
+ {
+  "ctx": "0x25040",
+  "max": 25,
+  "en": "Ice Bullet II",
+  "fr": "Trait de glace II"
+ },
+ {
+  "ctx": "0x25092",
+  "max": 149,
+  "en": "Offensive spell (luna).\nMercilessly impales an enemy on\nmyriad lances of ice.",
+  "fr": "Sort offensif (luna).\nEmpale un ennemi sans pitié sur\nune myriade de lances de glace."
+ },
+ {
+  "ctx": "0x25160",
+  "max": 25,
+  "en": "Blizzard II",
+  "fr": "Blizzard II"
+ },
+ {
+  "ctx": "0x251b2",
+  "max": 149,
+  "en": "Offensive spell (luna).\nWhirls up an icy tempest that\nfreezes all in the area.",
+  "fr": "Sort offensif (luna).\nDéchaîne une tempête glacée qui\ngèle tout dans la zone."
+ },
+ {
+  "ctx": "0x25280",
+  "max": 25,
+  "en": "Thunderbolt II",
+  "fr": "Coup de tonnerre II"
+ },
+ {
+  "ctx": "0x252d2",
+  "max": 149,
+  "en": "Offensive spell (stella).\nSunders the heavens and strikes\nan enemy dead.",
+  "fr": "Sort offensif (stella).\nFend les cieux et foudroie un\nennemi."
+ },
+ {
+  "ctx": "0x253a0",
+  "max": 25,
+  "en": "Cyclone II",
+  "fr": "Cyclone II"
+ },
+ {
+  "ctx": "0x253f2",
+  "max": 149,
+  "en": "Offensive spell (stella).\nSwallows the enemy horde in a\nvortex that rips through the area.",
+  "fr": "Sort offensif (stella).\nEngloutit la horde ennemie dans un\nvortex qui ravage la zone."
+ },
+ {
+  "ctx": "0x254c0",
+  "max": 25,
+  "en": "Lightning",
+  "fr": "Éclair"
+ },
+ {
+  "ctx": "0x25512",
+  "max": 149,
+  "en": "High offensive spell (neutral).\nSets off a supercharged blast that\ndeals heavy damage to one enemy.",
+  "fr": "Sort offensif supérieur (neutre).\nDéclenche une décharge surpuissante\nqui blesse gravement un ennemi."
+ },
+ {
+  "ctx": "0x255e0",
+  "max": 25,
+  "en": "Meteor",
+  "fr": "Météore"
+ },
+ {
+  "ctx": "0x25632",
+  "max": 149,
+  "en": "High offensive spell. Causes a\nmeteor shower that deals random\ndamage to enemies in range.",
+  "fr": "Sort offensif supérieur. Provoque\nune pluie de météores aux dégâts\naléatoires sur les ennemis à portée."
+ },
+ {
+  "ctx": "0x25700",
+  "max": 25,
+  "en": "Heal",
+  "fr": "Soin"
+ },
+ {
+  "ctx": "0x25752",
+  "max": 149,
+  "en": "Recovery spell. Mends wounds with\nits pure light. Restores HP to\nthe target (normal).",
+  "fr": "Sort de soin. Panse les plaies de\nsa pure lumière. Rend des PV à la\ncible (normal)."
+ },
+ {
+  "ctx": "0x25820",
+  "max": 25,
+  "en": "Heal II",
+  "fr": "Soin II"
+ },
+ {
+  "ctx": "0x25872",
+  "max": 149,
+  "en": "Recovery spell. Mends dire wounds\nwith the light of God's mercy.\nRestores HP to the target (high).",
+  "fr": "Sort de soin. Panse les plaies\ngraves par la miséricorde divine.\nRend des PV à la cible (élevé)."
+ },
+ {
+  "ctx": "0x25940",
+  "max": 25,
+  "en": "Healing Wind",
+  "fr": "Vent curatif"
+ },
+ {
+  "ctx": "0x25992",
+  "max": 149,
+  "en": "Recovery spell. Its balmy winds\nbring comfort to all. Restores HP\nto all allies in an area (normal).",
+  "fr": "Sort de soin. Sa brise douce\nréconforte. Rend des PV aux alliés\ndans une zone (normal)."
+ },
+ {
+  "ctx": "0x25a60",
+  "max": 25,
+  "en": "Healing Wind II",
+  "fr": "Vent curatif II"
+ },
+ {
+  "ctx": "0x25ab2",
+  "max": 149,
+  "en": "Recovery spell. Its merciful light\nheals all that behold it. Restores\nHP to all allies in an area (high).",
+  "fr": "Sort de soin. Sa lumière soigne\ntous ceux qui la voient. Rend des\nPV aux alliés d'une zone (élevé)."
+ },
+ {
+  "ctx": "0x25b80",
+  "max": 25,
+  "en": "Cure",
+  "fr": "Remède"
+ },
+ {
+  "ctx": "0x25bd2",
+  "max": 149,
+  "en": "Recovery spell. Neutralizes the\nbody's afflictions. Cures status\nailments like poison and paralysis.",
+  "fr": "Sort de soin. Neutralise les maux\ndu corps. Soigne les altérations\ncomme le poison et la paralysie."
+ },
+ {
+  "ctx": "0x25ca0",
+  "max": 25,
+  "en": "Raise Force",
+  "fr": "Vigueur"
+ },
+ {
+  "ctx": "0x25cf2",
+  "max": 149,
+  "en": "Support spell. Temporarily\ninvigorates the muscles. Raises the\ntarget's attack for several turns.",
+  "fr": "Sort de soutien. Revigore les\nmuscles. Augmente l'attaque de la\ncible pendant plusieurs tours."
+ },
+ {
+  "ctx": "0x25dc0",
+  "max": 25,
+  "en": "Magic Shield",
+  "fr": "Bouclier magique"
+ },
+ {
+  "ctx": "0x25e12",
+  "max": 149,
+  "en": "Support spell. Creates a magic\nbarrier. Raises the target's magic\ndefense for several turns.",
+  "fr": "Sort de soutien. Crée une barrière\nmagique. Augmente la défense mag.\nde la cible pendant plusieurs tours."
+ },
+ {
+  "ctx": "0x25ee0",
+  "max": 25,
+  "en": "Raise Mobility",
+  "fr": "Accélération"
+ },
+ {
+  "ctx": "0x25f32",
+  "max": 149,
+  "en": "Support spell. Calls upon the wind\nto lighten one's step. Raises the\ntarget's mobility for several turns.",
+  "fr": "Sort de soutien. Le vent allège le\npas. Augmente le déplacement de la\ncible pendant plusieurs tours."
+ },
+ {
+  "ctx": "0x26000",
+  "max": 25,
+  "en": "Poison",
+  "fr": "Poison"
+ },
+ {
+  "ctx": "0x26052",
+  "max": 149,
+  "en": "Offensive spell. Gathers up latent\ntoxins around the enemy. Poisons\nthe target for several turns.",
+  "fr": "Sort offensif. Rassemble les toxines\nautour de l'ennemi. Empoisonne la\ncible pendant plusieurs tours."
+ },
+ {
+  "ctx": "0x26120",
+  "max": 25,
+  "en": "Lower Mobility",
+  "fr": "Ralentissement"
+ },
+ {
+  "ctx": "0x26172",
+  "max": 149,
+  "en": "Support spell. Makes the air\naround a foe denser. Lowers the\ntarget's mobility for several turns.",
+  "fr": "Sort de soutien. Alourdit l'air\nautour d'un ennemi. Réduit son\ndéplacement pendant plusieurs tours."
+ },
+ {
+  "ctx": "0x26240",
+  "max": 25,
+  "en": "Lower Force",
+  "fr": "Affaiblissement"
+ },
+ {
+  "ctx": "0x26292",
+  "max": 149,
+  "en": "Support spell. Temporarily\nfatigues an enemy. Lowers the\ntarget's attack for several turns.",
+  "fr": "Sort de soutien. Épuise un ennemi.\nRéduit l'attaque de la cible\npendant plusieurs tours."
+ },
+ {
+  "ctx": "0x26360",
+  "max": 25,
+  "en": "Lower Defenses",
+  "fr": "Brise-défense"
+ },
+ {
+  "ctx": "0x263b2",
+  "max": 149,
+  "en": "Support spell. Weakens the overall\nconstitution of armor. Lowers the\ntarget's defense for several turns.",
+  "fr": "Sort de soutien. Fragilise toute\narmure. Réduit la défense de la\ncible pendant plusieurs tours."
+ },
+ {
+  "ctx": "0x26480",
+  "max": 25,
+  "en": "Revivify",
+  "fr": "Résurrection"
+ },
+ {
+  "ctx": "0x264d2",
+  "max": 149,
+  "en": "High recovery spell. Breathes\nlife into the fallen. Revives\nan ally.",
+  "fr": "Sort de soin supérieur. Insuffle\nla vie aux morts. Ressuscite un\nallié."
+ },
+ {
+  "ctx": "0x265a0",
+  "max": 25,
+  "en": "Mind Eater",
+  "fr": "Dévoreur d'esprit"
+ },
+ {
+  "ctx": "0x265f2",
+  "max": 149,
+  "en": "High offensive spell. Steals an\nopponent's magic-ancient\ntaboo. Absorbs the target's MP.",
+  "fr": "Sort offensif supérieur. Vole la\nmagie adverse, un antique tabou.\nAbsorbe les PM de la cible."
+ },
+ {
+  "ctx": "0x266c0",
+  "max": 25,
+  "en": "Swap",
+  "fr": "Permutation"
+ },
+ {
+  "ctx": "0x26712",
+  "max": 149,
+  "en": "High support spell. Twists the\nfabric of space. Swaps the caster's\nposition with that of a chosen ally.",
+  "fr": "Sort de soutien supérieur. Tord\nl'espace. Échange la position du\nlanceur avec celle d'un allié."
+ },
+ {
+  "ctx": "0x267e0",
+  "max": 25,
+  "en": "Raise Defenses",
+  "fr": "Fortification"
+ },
+ {
+  "ctx": "0x26832",
+  "max": 149,
+  "en": "Support spell. Magically fortifies\narmor. Raises the target's defense\nfor several turns.",
+  "fr": "Sort de soutien. Renforce l'armure\npar magie. Augmente la défense de\nla cible pendant plusieurs tours."
+ },
+ {
+  "ctx": "0x26900",
+  "max": 25,
+  "en": "Magic Rust",
+  "fr": "Rouille magique"
+ },
+ {
+  "ctx": "0x26952",
+  "max": 149,
+  "en": "Support spell. Upsets a foe's\nconcentration. Lowers the target's\nmagic defense for several turns. ",
+  "fr": "Sort de soutien. Trouble l'ennemi.\nRéduit la défense mag. de la cible\npendant plusieurs tours."
+ },
+ {
+  "ctx": "0x26a20",
+  "max": 25,
+  "en": "Inferno",
+  "fr": "Inferno"
+ },
+ {
+  "ctx": "0x26a72",
+  "max": 149,
+  "en": "The ultimate sol magic. Summons\nhellfire through a sinister pact,\nturning the battlefield to cinders.",
+  "fr": "La magie sol ultime. Un pacte\nsinistre invoque le feu infernal,\nréduisant le champ en cendres."
+ },
+ {
+  "ctx": "0x26b40",
+  "max": 25,
+  "en": "Angel Tear",
+  "fr": "Larme d'ange"
+ },
+ {
+  "ctx": "0x26b92",
+  "max": 149,
+  "en": "The ultimate luna magic. A single\ndroplet's purity washes all away\nin a raging torrent.",
+  "fr": "La magie luna ultime. La pureté\nd'une seule goutte emporte tout\ndans un torrent déchaîné."
+ },
+ {
+  "ctx": "0x26c60",
+  "max": 25,
+  "en": "Thor's Hammer",
+  "fr": "Marteau de Thor"
+ },
+ {
+  "ctx": "0x26cb2",
+  "max": 149,
+  "en": "The ultimate stella magic. An\nancient thunder god's hammer\nparts the heavens in judgment.",
+  "fr": "La magie stella ultime. Le marteau\nd'un antique dieu du tonnerre fend\nles cieux pour juger."
+ },
+ {
+  "ctx": "0x26d80",
+  "max": 25,
+  "en": "Sinister Storm",
+  "fr": "Tempête sinistre"
+ },
+ {
+  "ctx": "0x26dd2",
+  "max": 149,
+  "en": "The ultimate neutral magic.\nSummons a tornado of loathing\nthat gouges the earth.",
+  "fr": "La magie neutre ultime. Invoque\nune tornade de haine qui ravage\nla terre."
+ },
+ {
+  "ctx": "0x26ea0",
+  "max": 25,
+  "en": "Earthquake",
+  "fr": "Séisme"
+ },
+ {
+  "ctx": "0x26ef2",
+  "max": 149,
+  "en": "Ultimate magic that leads good\nand evil to nature's appointed end.\nShakes up friend and foe alike.",
+  "fr": "Magie ultime qui mène bien et mal\nà la fin voulue par la nature.\nSecoue alliés et ennemis."
+ },
+ {
+  "ctx": "0x26fc0",
+  "max": 25,
+  "en": "Follow Me!",
+  "fr": "Suivez-moi !"
+ },
+ {
+  "ctx": "0x27012",
+  "max": 149,
+  "en": "A mighty cry to stir up comrades.\nRaises the attack of allies within a\n4-square radius for several turns.",
+  "fr": "Un puissant cri qui galvanise.\nAugmente l'attaque des alliés à\n4 cases ou moins (plusieurs tours)."
+ },
+ {
+  "ctx": "0x270e0",
+  "max": 25,
+  "en": "Follow Me! II",
+  "fr": "Suivez-moi ! II"
+ },
+ {
+  "ctx": "0x27132",
+  "max": 149,
+  "en": "Heroic daring that drives allies'\nfear away. Greatly raises the attack\nof all surrounding allies.",
+  "fr": "Une audace héroïque qui chasse la\npeur. Augmente fortement l'attaque\nde tous les alliés alentour."
+ },
+ {
+  "ctx": "0x27200",
+  "max": 25,
+  "en": "Mighty Roar",
+  "fr": "Rugissement"
+ },
+ {
+  "ctx": "0x27252",
+  "max": 149,
+  "en": "The roar of a fearsome beast. Can\nparalyze enemies in the 3 squares\ndirectly ahead.",
+  "fr": "Le rugissement d'une bête féroce.\nPeut paralyser les ennemis sur les\n3 cases juste devant."
+ },
+ {
+  "ctx": "0x27320",
+  "max": 25,
+  "en": "Bomb",
+  "fr": "Bombe"
+ },
+ {
+  "ctx": "0x27372",
+  "max": 149,
+  "en": "Sends a bomb rolling toward the\nenemy's feet. Deals damage to a\nwide area around the target.",
+  "fr": "Fait rouler une bombe aux pieds de\nl'ennemi. Inflige des dégâts sur\nune large zone autour de la cible."
+ },
+ {
+  "ctx": "0x27440",
+  "max": 25,
+  "en": "Provoke",
+  "fr": "Provocation"
+ },
+ {
+  "ctx": "0x27492",
+  "max": 149,
+  "en": "Taunts the enemy to draw their\nattention. Makes the user more\nprone to attack for 1 turn.",
+  "fr": "Nargue l'ennemi pour attirer son\nattention. L'utilisateur devient\nla cible favorite pendant 1 tour."
+ },
+ {
+  "ctx": "0x27560",
+  "max": 25,
+  "en": "Jugulaire",
+  "fr": "Jugulaire"
+ },
+ {
+  "ctx": "0x275b2",
+  "max": 149,
+  "en": "A precision strike on enemy vitals.\nEnsures all single-enemy attacks\nare critical hits for several turns.",
+  "fr": "Frappe précise aux points vitaux.\nToute attaque sur un seul ennemi est\ncritique (plusieurs tours)."
+ },
+ {
+  "ctx": "0x27680",
+  "max": 25,
+  "en": "Flash Strike",
+  "fr": "Frappe éclair"
+ },
+ {
+  "ctx": "0x276d2",
+  "max": 149,
+  "en": "A single, scintillating attack to\nfell the opposition. Deals damage\nto one enemy.",
+  "fr": "Une attaque unique et fulgurante\nqui terrasse l'adversaire. Inflige\ndes dégâts à un ennemi."
+ },
+ {
+  "ctx": "0x277a0",
+  "max": 25,
+  "en": "Triple Slash",
+  "fr": "Triple entaille"
+ },
+ {
+  "ctx": "0x277f2",
+  "max": 149,
+  "en": "Changes the user's aura to a blade\nthat strikes from three ways at\nonce. Deals damage to one enemy.",
+  "fr": "Change l'aura en une lame qui\nfrappe de trois côtés à la fois.\nInflige des dégâts à un ennemi."
+ },
+ {
+  "ctx": "0x278c0",
+  "max": 25,
+  "en": "Heaven's Gate",
+  "fr": "Porte du Ciel"
+ },
+ {
+  "ctx": "0x27912",
+  "max": 149,
+  "en": "A merciful attack that opens the\ngates to a peaceful afterlife. Deals\nmortal damage to one enemy.",
+  "fr": "Une attaque miséricordieuse qui\nouvre les portes d'un doux au-delà.\nInflige des dégâts mortels."
+ },
+ {
+  "ctx": "0x279e0",
+  "max": 25,
+  "en": "Crescent Arc",
+  "fr": "Arc de lune"
+ },
+ {
+  "ctx": "0x27a32",
+  "max": 149,
+  "en": "Flashes the blade in an arc that\nevokes the moonlight. Strikes the\n3 squares directly ahead at once.",
+  "fr": "Trace avec la lame un arc évoquant\nle clair de lune. Frappe d'un coup\nles 3 cases juste devant."
+ },
+ {
+  "ctx": "0x27b00",
+  "max": 25,
+  "en": "Spirit Sword",
+  "fr": "Épée spirituelle"
+ },
+ {
+  "ctx": "0x27b52",
+  "max": 149,
+  "en": "Concentrates the surrounding aura\ninto a sharp blade. Attacks all\ndirectly adjacent enemies at once.",
+  "fr": "Concentre l'aura environnante en\nune lame acérée. Frappe d'un coup\ntous les ennemis adjacents."
+ },
+ {
+  "ctx": "0x27c20",
+  "max": 25,
+  "en": "Tempest Sword",
+  "fr": "Épée tempête"
+ },
+ {
+  "ctx": "0x27c72",
+  "max": 149,
+  "en": "Wields a storm as if it were rage\nand blows foes to bits. Attacks 4\nsquares directly ahead at once.",
+  "fr": "Manie l'orage telle une rage et\npulvérise l'ennemi. Frappe d'un\ncoup les 4 cases juste devant."
+ },
+ {
+  "ctx": "0x27d40",
+  "max": 25,
+  "en": "War Reverie",
+  "fr": "Rêverie guerrière"
+ },
+ {
+  "ctx": "0x27d92",
+  "max": 149,
+  "en": "A hundred battles pass like a\nfleeting dream. Attacks all\nnearby foes, one after another.",
+  "fr": "Cent batailles passent comme un\nrêve fugace. Frappe tour à tour\ntous les ennemis proches."
+ },
+ {
+  "ctx": "0x27e60",
+  "max": 25,
+  "en": "Hymn of Glory",
+  "fr": "Hymne de gloire"
+ },
+ {
+  "ctx": "0x27eb2",
+  "max": 149,
+  "en": "A glorious attack blessed by all. \nUnleashes a powerful attack on the\n7 squares directly ahead.",
+  "fr": "Une attaque glorieuse bénie de tous.\nDéchaîne une puissante attaque sur\nles 7 cases juste devant."
+ },
+ {
+  "ctx": "0x27f80",
+  "max": 25,
+  "en": "Impale!",
+  "fr": "Empalement !"
+ },
+ {
+  "ctx": "0x27fd2",
+  "max": 149,
+  "en": "Strike down numerous foes at once\nwith a single thrust! Attacks 7\nsquares in a straight line.",
+  "fr": "Abattez de nombreux ennemis d'un\nseul coup d'estoc ! Frappe 7 cases\nen ligne droite."
+ },
+ {
+  "ctx": "0x280a0",
+  "max": 25,
+  "en": "Take Flight!",
+  "fr": "Envol !"
+ },
+ {
+  "ctx": "0x280f2",
+  "max": 149,
+  "en": "Take off like a bird and launch a\nthrust from above! Surmounts all\nobstacles to strike far-off foes.",
+  "fr": "Prenez votre envol et frappez d'en\nhaut ! Franchit tout obstacle pour\natteindre les ennemis lointains."
+ },
+ {
+  "ctx": "0x281c0",
+  "max": 25,
+  "en": "Sweep!",
+  "fr": "Balayage !"
+ },
+ {
+  "ctx": "0x28212",
+  "max": 149,
+  "en": "Use the lance's length to mow\ndown many foes at once! Attacks\na wide area straight ahead.",
+  "fr": "La longueur de la lance fauche de\nnombreux ennemis ! Frappe une\nlarge zone droit devant."
+ },
+ {
+  "ctx": "0x282e0",
+  "max": 25,
+  "en": "Ravage!",
+  "fr": "Ravage !"
+ },
+ {
+  "ctx": "0x28332",
+  "max": 149,
+  "en": "Become a true demon and take on\nsurrounding foes alone! Attacks\nenemies 2 squares away.",
+  "fr": "Devenez un vrai démon et affrontez\nseul vos ennemis ! Frappe les\nennemis à 2 cases de distance."
+ },
+ {
+  "ctx": "0x28400",
+  "max": 25,
+  "en": "Destroy!",
+  "fr": "Destruction !"
+ },
+ {
+  "ctx": "0x28452",
+  "max": 149,
+  "en": "Slay all in your way with a cyclonic\nstrike! Launches a fierce attack\nagainst a wide area directly ahead.",
+  "fr": "Balayez tout d'un coup cyclonique !\nLance une attaque féroce sur une\nlarge zone droit devant."
+ },
+ {
+  "ctx": "0x28520",
+  "max": 25,
+  "en": "Compass",
+  "fr": "Moulinet"
+ },
+ {
+  "ctx": "0x28572",
+  "max": 149,
+  "en": "Use brute force to swing your\nweapon in a wide radius. Attacks\nall surrounding foes at once.",
+  "fr": "Faites tournoyer votre arme avec\nforce sur un large rayon. Frappe\nd'un coup tous les ennemis autour."
+ },
+ {
+  "ctx": "0x28640",
+  "max": 25,
+  "en": "Recovery Shot",
+  "fr": "Tir curatif"
+ },
+ {
+  "ctx": "0x28692",
+  "max": 149,
+  "en": "A first aid shot that fires a healing\narrow into an ally. Restores a lot\nof HP to a faraway target.",
+  "fr": "Un tir de secours qui envoie une\nflèche curative à un allié. Rend\nbeaucoup de PV à une cible lointaine."
+ },
+ {
+  "ctx": "0x28760",
+  "max": 25,
+  "en": "Meteor Bolt",
+  "fr": "Trait météore"
+ },
+ {
+  "ctx": "0x287b2",
+  "max": 149,
+  "en": "A dense aura that tears the sky and\npierces the enemy. A secret bow\ntechnique that deals big damage.",
+  "fr": "Une aura dense qui déchire le ciel\net transperce l'ennemi. Technique\nsecrète à l'arc, très puissante."
+ },
+ {
+  "ctx": "0x28880",
+  "max": 25,
+  "en": "Sky Dart",
+  "fr": "Flèche céleste"
+ },
+ {
+  "ctx": "0x288d2",
+  "max": 149,
+  "en": "An arrow of light shot heavenward\nthat chases its prey to Earth's end.\nAttacks anywhere on the map.",
+  "fr": "Une flèche de lumière tirée au ciel\nqui traque sa proie au bout du\nmonde. Frappe n'importe où."
+ },
+ {
+  "ctx": "0x289a0",
+  "max": 25,
+  "en": "Salvo",
+  "fr": "Salve"
+ },
+ {
+  "ctx": "0x289f2",
+  "max": 149,
+  "en": "An assault of arrows that rains\ndown wherever you aim. Randomly\nattacks a wide area.",
+  "fr": "Une pluie de flèches qui s'abat\noù vous visez. Frappe une large\nzone au hasard."
+ },
+ {
+  "ctx": "0x28ac0",
+  "max": 25,
+  "en": "Wild Whip",
+  "fr": "Fouet sauvage"
+ },
+ {
+  "ctx": "0x28b12",
+  "max": 149,
+  "en": "Crack your whip indiscriminately\nas if possessed by an ice queen.\nRandomly attacks a wide area.",
+  "fr": "Faites claquer votre fouet en tous\nsens, telle une reine des glaces.\nFrappe une large zone au hasard."
+ },
+ {
+  "ctx": "0x28be0",
+  "max": 25,
+  "en": "Tail Whip",
+  "fr": "Coup de queue"
+ },
+ {
+  "ctx": "0x28c32",
+  "max": 149,
+  "en": "Dragon skill. Swings a tail as thick\nas a log. Deals damage to the 3 \nsquares directly ahead.",
+  "fr": "Compétence de dragon. Frappe d'une\nqueue épaisse comme un tronc. Blesse\nles 3 cases juste devant."
+ },
+ {
+  "ctx": "0x28d00",
+  "max": 25,
+  "en": "Wallop",
+  "fr": "Raclée"
+ },
+ {
+  "ctx": "0x28d52",
+  "max": 149,
+  "en": "Golem skill. Swings a huge arm in\na crushing punch. Deals damage to\nthe 3 squares directly ahead.",
+  "fr": "Compétence de golem. Un énorme bras\nassène un coup écrasant. Blesse\nles 3 cases juste devant."
+ },
+ {
+  "ctx": "0x28e20",
+  "max": 25,
+  "en": "Poison Breath",
+  "fr": "Souffle toxique"
+ },
+ {
+  "ctx": "0x28e72",
+  "max": 149,
+  "en": "Dragon skill. Breathes noxious\nbreath. Poisons a wide area\ndirectly ahead.",
+  "fr": "Compétence de dragon. Crache un\nsouffle nocif. Empoisonne une\nlarge zone droit devant."
+ },
+ {
+  "ctx": "0x28f40",
+  "max": 25,
+  "en": "Body Slam",
+  "fr": "Écrasement"
+ },
+ {
+  "ctx": "0x28f92",
+  "max": 149,
+  "en": "Golem skill. Leaps and crashes its\nenormous body into the ground.\nDeals heavy damage to all nearby.",
+  "fr": "Compétence de golem. Bondit et\nretombe de tout son poids. Gros\ndégâts à tous les ennemis proches."
+ },
+ {
+  "ctx": "0x29060",
+  "max": 25,
+  "en": "Act of Finality",
+  "fr": "Acte final"
+ },
+ {
+  "ctx": "0x290b2",
+  "max": 149,
+  "en": "Gilvaroth's skill. Releases deadly\nanimosity. Deals fatal blows to\neverything around.",
+  "fr": "Compétence de Gilvaroth. Libère\nune haine mortelle. Inflige des\ncoups fatals à tout l'entourage."
+ },
+ {
+  "ctx": "0x29180",
+  "max": 25,
+  "en": "Dark Matter",
+  "fr": "Matière noire"
+ },
+ {
+  "ctx": "0x291d2",
+  "max": 149,
+  "en": "Gilvaroth's skill. A dark miasma\nfrom the body of the Fiend. Heavily\npoisons everything around.",
+  "fr": "Compétence de Gilvaroth. Un miasme\nnoir issu du corps du Malin.\nEmpoisonne gravement les alentours."
+ },
+ {
+  "ctx": "0x292a0",
+  "max": 25,
+  "en": "Breath",
+  "fr": "Souffle"
+ },
+ {
+  "ctx": "0x292f2",
+  "max": 149,
+  "en": "Dragon skill. Breathes fiery breath\nthat can melt iron. Deals heavy\ndamage to the area directly ahead.",
+  "fr": "Compétence de dragon. Un souffle\nqui fait fondre le fer. Gros dégâts\nsur la zone juste devant."
+ },
+ {
+  "ctx": "0x293c0",
+  "max": 25,
+  "en": "Jezebel's Slave",
+  "fr": "Esclave de Jézabel"
+ },
+ {
+  "ctx": "0x29412",
+  "max": 149,
+  "en": "Charm enemies with a titillating\npose. Makes the user more prone\nto attack for 1 turn.",
+  "fr": "Charme l'ennemi d'une pose\naguicheuse. L'utilisatrice devient\nla cible favorite pendant 1 tour."
+ },
+ {
+  "ctx": "0x294e0",
+  "max": 25,
+  "en": "Jezebel's Slave II",
+  "fr": "Esclave de Jézabel II"
+ },
+ {
+  "ctx": "0x29532",
+  "max": 149,
+  "en": "Play up irresistible...assets to\nseduce the enemy. Makes the user\nmore prone to attack for 3 turns.",
+  "fr": "Use de ses... atouts irrésistibles\npour séduire. L'utilisatrice devient\nla cible favorite pendant 3 tours."
+ },
+ {
+  "ctx": "0x29600",
+  "max": 25,
+  "en": "Flash of White",
+  "fr": "Éclair blanc"
+ },
+ {
+  "ctx": "0x29652",
+  "max": 149,
+  "en": "Those who see this blade of light\nknow Heaven has come for them.\nDeals heavy damage to one enemy.",
+  "fr": "Qui voit cette lame de lumière sait\nque le Ciel est venu le chercher.\nGros dégâts à un ennemi."
+ },
+ {
+  "ctx": "0x29720",
+  "max": 25,
+  "en": "Scarlet Soil",
+  "fr": "Terre écarlate"
+ },
+ {
+  "ctx": "0x29772",
+  "max": 149,
+  "en": "The blood of those who meet this\ncrimson gaze will stain the earth.\nDeals heavy damage to one enemy.",
+  "fr": "Le sang de qui croise ce regard\npourpre tachera la terre.\nGros dégâts à un ennemi."
+ },
+ {
+  "ctx": "0x29840",
+  "max": 25,
+  "en": "Blue Delirium",
+  "fr": "Délire bleu"
+ },
+ {
+  "ctx": "0x29892",
+  "max": 149,
+  "en": "Those who look at the blue moon\nare lulled into eternal madness.\nDeals heavy damage to one enemy.",
+  "fr": "Qui contemple la lune bleue sombre\ndans une folie éternelle.\nGros dégâts à un ennemi."
+ },
+ {
+  "ctx": "0x29960",
+  "max": 25,
+  "en": "Magic Attack +3",
+  "fr": "Attaque mag. +3"
+ },
+ {
+  "ctx": "0x299b2",
+  "max": 149,
+  "en": "A stone said to contain the\ncrystallized wisdom of a great\nmage. Increases magic attack by 3.",
+  "fr": "Pierre qui renfermerait la sagesse\ncristallisée d'un grand mage.\nAugmente l'attaque mag. de 3."
+ },
+ {
+  "ctx": "0x29a80",
+  "max": 25,
+  "en": "MP +100",
+  "fr": "PM +100"
+ },
+ {
+  "ctx": "0x29ad2",
+  "max": 149,
+  "en": "A stone of crystallized magic.\nIncreases MP by 100.",
+  "fr": "Pierre de magie cristallisée.\nAugmente les PM de 100."
+ },
+ {
+  "ctx": "0x29ba0",
+  "max": 25,
+  "en": "HP +300",
+  "fr": "PV +300"
+ },
+ {
+  "ctx": "0x29bf2",
+  "max": 149,
+  "en": "A stone of crystallized life force.\nIncreases HP by 300.",
+  "fr": "Pierre de force vitale cristallisée.\nAugmente les PV de 300."
+ },
+ {
+  "ctx": "0x29cc0",
+  "max": 25,
+  "en": "HP +150",
+  "fr": "PV +150"
+ },
+ {
+  "ctx": "0x29d12",
+  "max": 149,
+  "en": "A stone of crystallized life force.\nIncreases HP by 150.",
+  "fr": "Pierre de force vitale cristallisée.\nAugmente les PV de 150."
+ },
+ {
+  "ctx": "0x29de0",
+  "max": 25,
+  "en": "HP +20",
+  "fr": "PV +20"
+ },
+ {
+  "ctx": "0x29e32",
+  "max": 149,
+  "en": "A stone of crystallized life force.\nIncreases HP by 20.",
+  "fr": "Pierre de force vitale cristallisée.\nAugmente les PV de 20."
+ },
+ {
+  "ctx": "0x29f00",
+  "max": 25,
+  "en": "Day of Judgment",
+  "fr": "Jour du Jugement"
+ },
+ {
+  "ctx": "0x29f52",
+  "max": 149,
+  "en": "Thou shalt face heaven's judgment\nand be punished. Deals heavy\ndamage to one enemy.",
+  "fr": "Tu affronteras le jugement du Ciel\net seras châtié. Gros dégâts à\nun ennemi."
+ },
+ {
+  "ctx": "0x2a020",
+  "max": 25,
+  "en": "Godspeed",
+  "fr": "Élan divin"
+ },
+ {
+  "ctx": "0x2a072",
+  "max": 149,
+  "en": "Amplifies power as each foe is\nslain, speeding the wielder along.\nMove again if target is defeated.",
+  "fr": "Gagne en puissance à chaque ennemi\nabattu. Permet de rejouer si la\ncible est vaincue."
+ },
+ {
+  "ctx": "0x2a140",
+  "max": 25,
+  "en": "HP +30",
+  "fr": "PV +30"
+ },
+ {
+  "ctx": "0x2a192",
+  "max": 149,
+  "en": "A stone of crystallized life force.\nIncreases HP by 30.",
+  "fr": "Pierre de force vitale cristallisée.\nAugmente les PV de 30."
+ },
+ {
+  "ctx": "0x2a260",
+  "max": 25,
+  "en": "HP +50",
+  "fr": "PV +50"
+ },
+ {
+  "ctx": "0x2a2b2",
+  "max": 149,
+  "en": "A stone of crystallized life force.\nIncreases HP by 50.",
+  "fr": "Pierre de force vitale cristallisée.\nAugmente les PV de 50."
+ },
+ {
+  "ctx": "0x2a380",
+  "max": 25,
+  "en": "HP +100",
+  "fr": "PV +100"
+ },
+ {
+  "ctx": "0x2a3d2",
+  "max": 149,
+  "en": "A stone of crystallized life force.\nIncreases HP by 100.",
+  "fr": "Pierre de force vitale cristallisée.\nAugmente les PV de 100."
+ },
+ {
+  "ctx": "0x2a4a0",
+  "max": 25,
+  "en": "Treasure Hunter",
+  "fr": "Chasse au trésor"
+ },
+ {
+  "ctx": "0x2a4f2",
+  "max": 149,
+  "en": "A bandit skill that uses a sixth\nsense to seek out treasure. Locates\nhidden treasures on the map.",
+  "fr": "Un sixième sens de bandit pour\nflairer les trésors. Repère les\ntrésors cachés sur la carte."
+ },
+ {
+  "ctx": "0x2a5c0",
+  "max": 25,
+  "en": "MP +20",
+  "fr": "PM +20"
+ },
+ {
+  "ctx": "0x2a612",
+  "max": 149,
+  "en": "A stone of crystallized magic.\nIncreases MP by 20.",
+  "fr": "Pierre de magie cristallisée.\nAugmente les PM de 20."
+ },
+ {
+  "ctx": "0x2a6e0",
+  "max": 25,
+  "en": "MP +30",
+  "fr": "PM +30"
+ },
+ {
+  "ctx": "0x2a732",
+  "max": 149,
+  "en": "A stone of crystallized magic.\nIncreases MP by 30.",
+  "fr": "Pierre de magie cristallisée.\nAugmente les PM de 30."
+ },
+ {
+  "ctx": "0x2a800",
+  "max": 25,
+  "en": "MP +50",
+  "fr": "PM +50"
+ },
+ {
+  "ctx": "0x2a852",
+  "max": 149,
+  "en": "A stone of crystallized magic.\nIncreases MP by 50.",
+  "fr": "Pierre de magie cristallisée.\nAugmente les PM de 50."
+ },
+ {
+  "ctx": "0x2a920",
+  "max": 25,
+  "en": "Treasure Lover",
+  "fr": "Amour du trésor"
+ },
+ {
+  "ctx": "0x2a972",
+  "max": 149,
+  "en": "A bandit skill that uses a sixth\nsense to seek out treasure. Locates\nhidden treasures, loves!",
+  "fr": "Un sixième sens de bandit pour\nflairer les trésors. Repère les\ntrésors cachés, mes chéris !"
+ },
+ {
+  "ctx": "0x2aa40",
+  "max": 25,
+  "en": "Attack +3",
+  "fr": "Attaque +3"
+ },
+ {
+  "ctx": "0x2aa92",
+  "max": 149,
+  "en": "A stone said to contain the\ncrystallized valor of a great\nwarrior. Increases attack by 3.",
+  "fr": "Pierre qui renfermerait la bravoure\ncristallisée d'un grand guerrier.\nAugmente l'attaque de 3."
+ },
+ {
+  "ctx": "0x2ab60",
+  "max": 25,
+  "en": "Death Beckons",
+  "fr": "Appel de la mort"
+ },
+ {
+  "ctx": "0x2abb2",
+  "max": 149,
+  "en": "Gilvaroth's skill. Claws like a\nbloodied sword mince foes. Deals\nheavy damage to a wide area.",
+  "fr": "Compétence de Gilvaroth. Des griffes\ntelles des épées sanglantes. Gros\ndégâts sur une large zone."
+ },
+ {
+  "ctx": "0x2ac80",
+  "max": 25,
+  "en": "Hour of Death",
+  "fr": "Heure de la mort"
+ },
+ {
+  "ctx": "0x2acd2",
+  "max": 149,
+  "en": "Thou must pay for thy sins and\nmeet thine end at once. Deals\ndamage to one enemy.",
+  "fr": "Tu dois payer pour tes péchés et\ntrouver la mort sur-le-champ.\nInflige des dégâts à un ennemi."
+ },
+ {
+  "ctx": "0x2ada0",
+  "max": 25,
+  "en": "Defense +3",
+  "fr": "Défense +3"
+ },
+ {
+  "ctx": "0x2adf2",
+  "max": 149,
+  "en": "A stone said to contain the\ncrystallized fortitude of a knight.\nIncreases defense by 3.",
+  "fr": "Pierre qui renfermerait la force\nd'âme cristallisée d'un chevalier.\nAugmente la défense de 3."
+ },
+ {
+  "ctx": "0x2aec0",
+  "max": 25,
+  "en": "Defense +5",
+  "fr": "Défense +5"
+ },
+ {
+  "ctx": "0x2af12",
+  "max": 149,
+  "en": "A stone said to contain the\ncrystallized fortitude of a knight.\nIncreases defense by 5.",
+  "fr": "Pierre qui renfermerait la force\nd'âme cristallisée d'un chevalier.\nAugmente la défense de 5."
+ },
+ {
+  "ctx": "0x2afe0",
+  "max": 25,
+  "en": "Magic Defense +3",
+  "fr": "Défense mag. +3"
+ },
+ {
+  "ctx": "0x2b032",
+  "max": 149,
+  "en": "A stone said to contain the\ncrystallized prayers of a priest.\nIncreases magic defense by 3.",
+  "fr": "Pierre qui renfermerait les prières\ncristallisées d'un prêtre.\nAugmente la défense mag. de 3."
+ },
+ {
+  "ctx": "0x2b100",
+  "max": 25,
+  "en": "Magic Defense +5",
+  "fr": "Défense mag. +5"
+ },
+ {
+  "ctx": "0x2b152",
+  "max": 149,
+  "en": "A stone said to contain the\ncrystallized prayers of a priest.\nIncreases magic defense by 5.",
+  "fr": "Pierre qui renfermerait les prières\ncristallisées d'un prêtre.\nAugmente la défense mag. de 5."
+ },
+ {
+  "ctx": "0x2b220",
+  "max": 25,
+  "en": "Accuracy +5",
+  "fr": "Précision +5"
+ },
+ {
+  "ctx": "0x2b272",
+  "max": 149,
+  "en": "A stone with an odd shine that\noffers courage to stare down a foe.\nIncreases accuracy by 5.",
+  "fr": "Pierre à l'éclat étrange qui donne\nle courage de fixer l'ennemi.\nAugmente la précision de 5."
+ },
+ {
+  "ctx": "0x2b340",
+  "max": 25,
+  "en": "Accuracy +10",
+  "fr": "Précision +10"
+ },
+ {
+  "ctx": "0x2b392",
+  "max": 149,
+  "en": "A stone with an odd shine that\noffers courage to stare down a foe.\nIncreases accuracy by 10.",
+  "fr": "Pierre à l'éclat étrange qui donne\nle courage de fixer l'ennemi.\nAugmente la précision de 10."
+ },
+ {
+  "ctx": "0x2b460",
+  "max": 25,
+  "en": "Evade +5",
+  "fr": "Esquive +5"
+ },
+ {
+  "ctx": "0x2b4b2",
+  "max": 149,
+  "en": "A softly glowing stone that hones\nthe mind. Increases evade by 5.",
+  "fr": "Pierre à la douce lueur qui affûte\nl'esprit. Augmente l'esquive de 5."
+ },
+ {
+  "ctx": "0x2b580",
+  "max": 25,
+  "en": "Evade +10",
+  "fr": "Esquive +10"
+ },
+ {
+  "ctx": "0x2b5d2",
+  "max": 149,
+  "en": "A softly glowing stone that hones\nthe mind. Increases evade by 10.",
+  "fr": "Pierre à la douce lueur qui affûte\nl'esprit. Augmente l'esquive de 10."
+ },
+ {
+  "ctx": "0x2b6a0",
+  "max": 25,
+  "en": "Critical Edge",
+  "fr": "Tranchant critique"
+ },
+ {
+  "ctx": "0x2b6f2",
+  "max": 149,
+  "en": "An eerie light that reveals foes'\nweaknesses. Improves the chances\nof critical hits when attacking.",
+  "fr": "Lueur étrange qui révèle les points\nfaibles. Augmente les chances de\ncoup critique en attaquant."
+ },
+ {
+  "ctx": "0x2b7c0",
+  "max": 25,
+  "en": "Mobility +1",
+  "fr": "Déplacement +1"
+ },
+ {
+  "ctx": "0x2b812",
+  "max": 149,
+  "en": "A stone that floats in midair by\nsome strange force. Lightens the\nbearer and increases mobility by 1.",
+  "fr": "Pierre flottant dans les airs par\nune force étrange. Allège son\nporteur : Déplacement +1."
+ },
+ {
+  "ctx": "0x2b8e0",
+  "max": 25,
+  "en": "MP +150",
+  "fr": "PM +150"
+ },
+ {
+  "ctx": "0x2b932",
+  "max": 149,
+  "en": "A stone of crystallized magic.\nIncreases MP by 150.",
+  "fr": "Pierre de magie cristallisée.\nAugmente les PM de 150."
+ },
+ {
+  "ctx": "0x2ba00",
+  "max": 25,
+  "en": "Intemporal Light",
+  "fr": "Lumière intemporelle"
+ },
+ {
+  "ctx": "0x2ba52",
+  "max": 149,
+  "en": "Thou must learn thine existence is\nfutile and surrender to the light.\nDeals heavy damage to one enemy.",
+  "fr": "Apprends que ton existence est vaine\net rends-toi à la lumière.\nGros dégâts à un ennemi."
+ },
+ {
+  "ctx": "0x2bb20",
+  "max": 25,
+  "en": "MP +10",
+  "fr": "PM +10"
+ },
+ {
+  "ctx": "0x2bb72",
+  "max": 149,
+  "en": "A stone of crystallized magic.\nIncreases MP by 10.",
+  "fr": "Pierre de magie cristallisée.\nAugmente les PM de 10."
+ },
+ {
+  "ctx": "0x2bc40",
+  "max": 25,
+  "en": "Sol Spirit +1",
+  "fr": "Esprit sol +1"
+ },
+ {
+  "ctx": "0x2bc92",
+  "max": 149,
+  "en": "A warmly-lit stone said to contain\nthe crystallized blessings of the\nsun. Increases sol affinity by 1.",
+  "fr": "Pierre à la lueur chaude qui\nrenfermerait la bénédiction du\nsoleil. Affinité sol +1."
+ },
+ {
+  "ctx": "0x2bd60",
+  "max": 25,
+  "en": "Sol Spirit +2",
+  "fr": "Esprit sol +2"
+ },
+ {
+  "ctx": "0x2bdb2",
+  "max": 149,
+  "en": "A warmly-lit stone said to contain\nthe crystallized blessings of the\nsun. Increases sol affinity by 2.",
+  "fr": "Pierre à la lueur chaude qui\nrenfermerait la bénédiction du\nsoleil. Affinité sol +2."
+ },
+ {
+  "ctx": "0x2be80",
+  "max": 25,
+  "en": "Sol Spirit +3",
+  "fr": "Esprit sol +3"
+ },
+ {
+  "ctx": "0x2bed2",
+  "max": 149,
+  "en": "A warmly-lit stone said to contain\nthe crystallized blessings of the\nsun. Increases sol affinity by 3.",
+  "fr": "Pierre à la lueur chaude qui\nrenfermerait la bénédiction du\nsoleil. Affinité sol +3."
+ },
+ {
+  "ctx": "0x2bfa0",
+  "max": 25,
+  "en": "Luna Spirit +1",
+  "fr": "Esprit luna +1"
+ },
+ {
+  "ctx": "0x2bff2",
+  "max": 149,
+  "en": "A coldly-lit stone said to contain\nthe crystallized blessings of the\nmoon. Increases luna affinity by 1.",
+  "fr": "Pierre à la lueur froide qui\nrenfermerait la bénédiction de la\nlune. Affinité luna +1."
+ },
+ {
+  "ctx": "0x2c0c0",
+  "max": 25,
+  "en": "Luna Spirit +2",
+  "fr": "Esprit luna +2"
+ },
+ {
+  "ctx": "0x2c112",
+  "max": 149,
+  "en": "A coldly-lit stone said to contain\nthe crystallized blessings of the\nmoon. Increases luna affinity by 2.",
+  "fr": "Pierre à la lueur froide qui\nrenfermerait la bénédiction de la\nlune. Affinité luna +2."
+ },
+ {
+  "ctx": "0x2c1e0",
+  "max": 25,
+  "en": "Luna Spirit +3",
+  "fr": "Esprit luna +3"
+ },
+ {
+  "ctx": "0x2c232",
+  "max": 149,
+  "en": "A coldly-lit stone said to contain\nthe crystallized blessings of the\nmoon. Increases luna affinity by 3.",
+  "fr": "Pierre à la lueur froide qui\nrenfermerait la bénédiction de la\nlune. Affinité luna +3."
+ },
+ {
+  "ctx": "0x2c300",
+  "max": 25,
+  "en": "Stella Spirit +1",
+  "fr": "Esprit stella +1"
+ },
+ {
+  "ctx": "0x2c352",
+  "max": 149,
+  "en": "A queerly-lit stone said to contain\nthe crystallized blessings of the\nstars. Increases stella affinity by 1.",
+  "fr": "Pierre à la lueur insolite qui\nrenfermerait la bénédiction des\nétoiles. Affinité stella +1."
+ },
+ {
+  "ctx": "0x2c420",
+  "max": 25,
+  "en": "Stella Spirit +2",
+  "fr": "Esprit stella +2"
+ },
+ {
+  "ctx": "0x2c472",
+  "max": 149,
+  "en": "A queerly-lit stone said to contain\nthe crystallized blessings of the\nstars. Increases stella affinity by 2.",
+  "fr": "Pierre à la lueur insolite qui\nrenfermerait la bénédiction des\nétoiles. Affinité stella +2."
+ },
+ {
+  "ctx": "0x2c540",
+  "max": 25,
+  "en": "Stella Spirit +3",
+  "fr": "Esprit stella +3"
+ },
+ {
+  "ctx": "0x2c592",
+  "max": 149,
+  "en": "A queerly-lit stone said to contain\nthe crystallized blessings of the\nstars. Increases stella affinity by 3.",
+  "fr": "Pierre à la lueur insolite qui\nrenfermerait la bénédiction des\nétoiles. Affinité stella +3."
+ },
+ {
+  "ctx": "0x2c660",
+  "max": 25,
+  "en": "Attack +5",
+  "fr": "Attaque +5"
+ },
+ {
+  "ctx": "0x2c6b2",
+  "max": 149,
+  "en": "A stone said to contain the\ncrystallized valor of a great\nwarrior. Increases attack by 5.",
+  "fr": "Pierre qui renfermerait la bravoure\ncristallisée d'un grand guerrier.\nAugmente l'attaque de 5."
+ },
+ {
+  "ctx": "0x2c780",
+  "max": 25,
+  "en": "Visiting Goddess",
+  "fr": "Visite de la déesse"
+ },
+ {
+  "ctx": "0x2c7d2",
+  "max": 149,
+  "en": "The goddess of war descends in\nlight. Her saving hand dispels evil.\nDeals heavy damage to one foe.",
+  "fr": "La déesse de la guerre descend dans\nla lumière et chasse le mal.\nGros dégâts à un ennemi."
+ },
+ {
+  "ctx": "0x2c8a0",
+  "max": 25,
+  "en": "Attack +10",
+  "fr": "Attaque +10"
+ },
+ {
+  "ctx": "0x2c8f2",
+  "max": 149,
+  "en": "A stone said to contain the\ncrystallized valor of a great\nwarrior. Increases attack by 10.",
+  "fr": "Pierre qui renfermerait la bravoure\ncristallisée d'un grand guerrier.\nAugmente l'attaque de 10."
+ },
+ {
+  "ctx": "0x2c9c0",
+  "max": 25,
+  "en": "Attack +20",
+  "fr": "Attaque +20"
+ },
+ {
+  "ctx": "0x2ca12",
+  "max": 149,
+  "en": "A stone said to contain the\ncrystallized valor of a great\nwarrior. Increases attack by 20.",
+  "fr": "Pierre qui renfermerait la bravoure\ncristallisée d'un grand guerrier.\nAugmente l'attaque de 20."
+ },
+ {
+  "ctx": "0x2cae0",
+  "max": 25,
+  "en": "Attack +30",
+  "fr": "Attaque +30"
+ },
+ {
+  "ctx": "0x2cb32",
+  "max": 149,
+  "en": "A stone said to contain the\ncrystallized valor of a great\nwarrior. Increases attack by 30.",
+  "fr": "Pierre qui renfermerait la bravoure\ncristallisée d'un grand guerrier.\nAugmente l'attaque de 30."
+ },
+ {
+  "ctx": "0x2cc00",
+  "max": 25,
+  "en": "Magic Attack +5",
+  "fr": "Attaque mag. +5"
+ },
+ {
+  "ctx": "0x2cc52",
+  "max": 149,
+  "en": "A stone said to contain the\ncrystallized wisdom of a great\nmage. Increases magic attack by 5.",
+  "fr": "Pierre qui renfermerait la sagesse\ncristallisée d'un grand mage.\nAugmente l'attaque mag. de 5."
+ },
+ {
+  "ctx": "0x2cd20",
+  "max": 25,
+  "en": "Counter",
+  "fr": "Riposte"
+ },
+ {
+  "ctx": "0x2cd72",
+  "max": 149,
+  "en": "Predict, dodge, and return blows.\nCounters a percentage of enemy\nattacks without taking damage.",
+  "fr": "Prévoir, esquiver et rendre coup\npour coup. Contre une partie des\nattaques ennemies sans dégâts."
+ },
+ {
+  "ctx": "0x2ce40",
+  "max": 25,
+  "en": "Counter II",
+  "fr": "Riposte II"
+ },
+ {
+  "ctx": "0x2ce92",
+  "max": 149,
+  "en": "Dodge an attack and rebound with\na powerful counterattack. Deals\nheavy damage when countering.",
+  "fr": "Esquive une attaque et réplique\npar une puissante contre-attaque.\nGros dégâts en ripostant."
+ },
+ {
+  "ctx": "0x2cf60",
+  "max": 25,
+  "en": "Adroit",
+  "fr": "Adresse"
+ },
+ {
+  "ctx": "0x2cfb2",
+  "max": 149,
+  "en": "Meet assaults from any direction.\nNo disadvantage when attacked\nfrom the rear or side.",
+  "fr": "Fait face aux assauts de tous\ncôtés. Aucun malus si attaqué\nde dos ou de flanc."
+ },
+ {
+  "ctx": "0x2d080",
+  "max": 25,
+  "en": "Piercing Power",
+  "fr": "Perforation"
+ },
+ {
+  "ctx": "0x2d0d2",
+  "max": 149,
+  "en": "Uses the wielder's weight to limit\ndamage drop to the distant foe\nwhen piercing 2 targets.",
+  "fr": "Le poids du porteur limite la baisse\nde dégâts sur l'ennemi éloigné en\nperçant 2 cibles."
+ },
+ {
+  "ctx": "0x2d1a0",
+  "max": 25,
+  "en": "Piercing Power II",
+  "fr": "Perforation II"
+ },
+ {
+  "ctx": "0x2d1f2",
+  "max": 149,
+  "en": "Uses the wielder's weight to negate\ndamage drop to the distant foe\nwhen piercing 2 targets.",
+  "fr": "Le poids du porteur annule la baisse\nde dégâts sur l'ennemi éloigné en\nperçant 2 cibles."
+ },
+ {
+  "ctx": "0x2d2c0",
+  "max": 25,
+  "en": "Sneak By",
+  "fr": "Faufilement"
+ },
+ {
+  "ctx": "0x2d312",
+  "max": 149,
+  "en": "An agent's tech for slipping past\nnearby foes. Enables movement\nthrough an enemy square.",
+  "fr": "Technique d'agent pour se glisser\nentre les ennemis. Permet de\ntraverser une case ennemie."
+ },
+ {
+  "ctx": "0x2d3e0",
+  "max": 25,
+  "en": "Slip Through",
+  "fr": "Passe-passe"
+ },
+ {
+  "ctx": "0x2d432",
+  "max": 149,
+  "en": "A bandit skill used for charming\nnearby foes. Move through an\nenemy's square, loves!",
+  "fr": "Talent de bandit pour charmer les\nennemis proches. Traverse les\ncases ennemies, mes chéris !"
+ },
+ {
+  "ctx": "0x2d500",
+  "max": 25,
+  "en": "Piercing Power III",
+  "fr": "Perforation III"
+ },
+ {
+  "ctx": "0x2d552",
+  "max": 149,
+  "en": "Uses all the wielder's weight to\ndeliver heavy damage, even to the\ndistant foe.",
+  "fr": "Tout le poids du porteur inflige\nde gros dégâts, même à l'ennemi\néloigné."
+ },
+ {
+  "ctx": "0x2d620",
+  "max": 25,
+  "en": "Healing Perfume",
+  "fr": "Parfum curatif"
+ },
+ {
+  "ctx": "0x2d672",
+  "max": 149,
+  "en": "An adult scent mixed with an odd\nhealing medicine. Restores some\nHP to all allies each turn.",
+  "fr": "Senteur d'adulte mêlée d'un drôle\nde remède. Rend un peu de PV à\ntous les alliés à chaque tour."
+ },
+ {
+  "ctx": "0x2d740",
+  "max": 25,
+  "en": "HP Recovery",
+  "fr": "Régénération PV"
+ },
+ {
+  "ctx": "0x2d792",
+  "max": 149,
+  "en": "A crystal full of life's wondrous\nability to endure harsh conditions.\nRestores HP by 10% each turn.",
+  "fr": "Cristal de vie à l'étonnante\nendurance face à l'adversité.\nRend 10 % des PV à chaque tour."
+ },
+ {
+  "ctx": "0x2d860",
+  "max": 25,
+  "en": "HP Recovery II",
+  "fr": "Régénération PV II"
+ },
+ {
+  "ctx": "0x2d8b2",
+  "max": 149,
+  "en": "A crystal full of life's wondrous\nability to endure harsh conditions.\nRestores HP by 20% each turn.",
+  "fr": "Cristal de vie à l'étonnante\nendurance face à l'adversité.\nRend 20 % des PV à chaque tour."
+ },
+ {
+  "ctx": "0x2d980",
+  "max": 25,
+  "en": "HP Recovery III",
+  "fr": "Régénération PV III"
+ },
+ {
+  "ctx": "0x2d9d2",
+  "max": 149,
+  "en": "A crystal full of life's wondrous\nability to endure harsh conditions.\nRestores HP by 30% each turn.",
+  "fr": "Cristal de vie à l'étonnante\nendurance face à l'adversité.\nRend 30 % des PV à chaque tour."
+ },
+ {
+  "ctx": "0x2daa0",
+  "max": 25,
+  "en": "Toxic Arrow",
+  "fr": "Flèche toxique"
+ },
+ {
+  "ctx": "0x2daf2",
+  "max": 149,
+  "en": "A poisonous attack that fills the\nbattlefield with agonized screams.\nInflicts damage and strong poison.",
+  "fr": "Une attaque empoisonnée qui emplit\nle champ de cris d'agonie. Inflige\ndes dégâts et un poison puissant."
+ },
+ {
+  "ctx": "0x2dbc0",
+  "max": 25,
+  "en": "Rift in the Light",
+  "fr": "Faille de lumière"
+ },
+ {
+  "ctx": "0x2dc12",
+  "max": 149,
+  "en": "Offensive magic (neutral). Its \nvengeful wail deals heavy damage,\nrobbing victims of hope and life.",
+  "fr": "Magie offensive (neutre). Sa\nplainte vengeresse ôte espoir et\nvie : gros dégâts."
+ },
+ {
+  "ctx": "0x2dce0",
+  "max": 25,
+  "en": "Dead Revelry",
+  "fr": "Danse macabre"
+ },
+ {
+  "ctx": "0x2dd32",
+  "max": 149,
+  "en": "Offensive magic (stella). Deals\nheavy damage to a wide area with\nshocks, screams, and corpses.",
+  "fr": "Magie offensive (stella). Gros\ndégâts sur une large zone : chocs,\ncris et cadavres."
+ },
+ {
+  "ctx": "0x2de00",
+  "max": 25,
+  "en": "EXP Bonus",
+  "fr": "Bonus EXP"
+ },
+ {
+  "ctx": "0x2de52",
+  "max": 149,
+  "en": "A stone that has traveled eternity\nand seen the art of war perfected.\nMultiplies EXP earned by 120%.",
+  "fr": "Pierre qui a traversé l'éternité et\nvu l'art de la guerre parfait.\nMultiplie l'EXP gagnée par 120 %."
+ },
+ {
+  "ctx": "0x2df20",
+  "max": 25,
+  "en": "EXP Bonus II",
+  "fr": "Bonus EXP II"
+ },
+ {
+  "ctx": "0x2df72",
+  "max": 149,
+  "en": "A stone that has traveled eternity\nand seen the art of war perfected.\nMultiplies EXP earned by 150%.",
+  "fr": "Pierre qui a traversé l'éternité et\nvu l'art de la guerre parfait.\nMultiplie l'EXP gagnée par 150 %."
+ },
+ {
+  "ctx": "0x2e040",
+  "max": 25,
+  "en": "EXP Bonus III",
+  "fr": "Bonus EXP III"
+ },
+ {
+  "ctx": "0x2e092",
+  "max": 149,
+  "en": "A stone that has traveled eternity\nand seen the art of war perfected.\nMultiplies EXP earned by 200%.",
+  "fr": "Pierre qui a traversé l'éternité et\nvu l'art de la guerre parfait.\nMultiplie l'EXP gagnée par 200 %."
+ },
+ {
+  "ctx": "0x2e160",
+  "max": 25,
+  "en": "EXP Bonus IV",
+  "fr": "Bonus EXP IV"
+ },
+ {
+  "ctx": "0x2e1b2",
+  "max": 149,
+  "en": "A stone that has traveled eternity\nand seen the art of war perfected.\nMultiplies EXP earned by 300%.",
+  "fr": "Pierre qui a traversé l'éternité et\nvu l'art de la guerre parfait.\nMultiplie l'EXP gagnée par 300 %."
+ },
+ {
+  "ctx": "0x2e280",
+  "max": 25,
+  "en": "Preemptive",
+  "fr": "Initiative"
+ },
+ {
+  "ctx": "0x2e2d2",
+  "max": 149,
+  "en": "An odd stone that invites careless-\nness on the part of foes. Counters\nbefore their attack instead of after.",
+  "fr": "Pierre étrange qui rend l'ennemi\nimprudent. Riposte avant son\nattaque plutôt qu'après."
+ },
+ {
+  "ctx": "0x2e3a0",
+  "max": 25,
+  "en": "Two Rounds",
+  "fr": "Deux assauts"
+ },
+ {
+  "ctx": "0x2e3f2",
+  "max": 149,
+  "en": "The crystallized souls of heroes\ndrunk on battle. Fight a second\nround with opponents.",
+  "fr": "Âmes cristallisées de héros ivres\nde combat. Livre un deuxième\nassaut contre l'adversaire."
+ },
+ {
+  "ctx": "0x2e4c0",
+  "max": 25,
+  "en": "Three Rounds",
+  "fr": "Trois assauts"
+ },
+ {
+  "ctx": "0x2e512",
+  "max": 149,
+  "en": "The crystallized souls of heroes\ndrunk on battle. Fight a third\nround with opponents.",
+  "fr": "Âmes cristallisées de héros ivres\nde combat. Livre un troisième\nassaut contre l'adversaire."
+ },
+ {
+  "ctx": "0x2e5e0",
+  "max": 25,
+  "en": "Beast Slayer",
+  "fr": "Tueur de bêtes"
+ },
+ {
+  "ctx": "0x2e632",
+  "max": 149,
+  "en": "A stone that causes weapons to\nconfuse a beast's instincts. Deals\nadditional damage to beasts.",
+  "fr": "Pierre qui trouble l'instinct des\nbêtes face à l'arme. Dégâts\naccrus contre les bêtes."
+ },
+ {
+  "ctx": "0x2e700",
+  "max": 25,
+  "en": "Man-Eater",
+  "fr": "Mangeur d'hommes"
+ },
+ {
+  "ctx": "0x2e752",
+  "max": 149,
+  "en": "A stone that curses weapons with\na loathing of mankind. Deals\nadditional damage to humans.",
+  "fr": "Pierre qui maudit l'arme d'une\nhaine de l'humanité. Dégâts\naccrus contre les humains."
+ },
+ {
+  "ctx": "0x2e820",
+  "max": 25,
+  "en": "Goliath Slayer",
+  "fr": "Tueur de géants"
+ },
+ {
+  "ctx": "0x2e872",
+  "max": 149,
+  "en": "A dishonorable stone that reminds\ngiants of their days of defeat.\nDeals additional damage to giants.",
+  "fr": "Pierre déloyale qui rappelle aux\ngéants leurs jours de défaite.\nDégâts accrus contre les géants."
+ },
+ {
+  "ctx": "0x2e940",
+  "max": 25,
+  "en": "Undead Slayer",
+  "fr": "Tueur de morts-vivants"
+ },
+ {
+  "ctx": "0x2e992",
+  "max": 149,
+  "en": "A heaven-blessed stone full of\ndivine prayers. Deals additional\ndamage to the undead.",
+  "fr": "Pierre bénie du Ciel, pleine de\nprières divines. Dégâts accrus\ncontre les morts-vivants."
+ },
+ {
+  "ctx": "0x2ea60",
+  "max": 25,
+  "en": "RESERVE",
+  "fr": ""
+ },
+ {
+  "ctx": "0x2eb80",
+  "max": 25,
+  "en": "Devil Slayer",
+  "fr": "Tueur de démons"
+ },
+ {
+  "ctx": "0x2ebd2",
+  "max": 149,
+  "en": "A miraculous demon-repelling\nstone with God's mark. Deals\nadditional damage to demons.",
+  "fr": "Pierre miraculeuse anti-démons\nmarquée du sceau de Dieu. Dégâts\naccrus contre les démons."
+ },
+ {
+  "ctx": "0x2eca0",
+  "max": 25,
+  "en": "Dragon Slayer",
+  "fr": "Tueur de dragons"
+ },
+ {
+  "ctx": "0x2ecf2",
+  "max": 149,
+  "en": "A stone housing ancient braves\nwho brought dragons to bay. Deals\nadditional damage to wyverns.",
+  "fr": "Pierre où vivent d'anciens braves\nqui ont vaincu des dragons. Dégâts\naccrus contre les wyvernes."
+ },
+ {
+  "ctx": "0x2edc0",
+  "max": 25,
+  "en": "Loving Goddess",
+  "fr": "Déesse aimante"
+ },
+ {
+  "ctx": "0x2ee12",
+  "max": 149,
+  "en": "The goddess weeps at sinners and\nplucks them from the earth. Deals\nheavy damage to one enemy.",
+  "fr": "La déesse pleure les pécheurs et\nles arrache à la terre. Gros\ndégâts à un ennemi."
+ },
+ {
+  "ctx": "0x2eee0",
+  "max": 25,
+  "en": "Grieving Goddess",
+  "fr": "Déesse affligée"
+ },
+ {
+  "ctx": "0x2ef32",
+  "max": 149,
+  "en": "The goddess decries war, striking\ndown foes with her vengeance.\nDeals heavy damage to one enemy.",
+  "fr": "La déesse condamne la guerre et\nfrappe l'ennemi de sa vengeance.\nGros dégâts à un ennemi."
+ },
+ {
+  "ctx": "0x2f000",
+  "max": 25,
+  "en": "Ordained End",
+  "fr": "Fin décrétée"
+ },
+ {
+  "ctx": "0x2f052",
+  "max": 149,
+  "en": "Heaven promises the same fate to\nall evils. Attacks all adjacent\nenemies at once.",
+  "fr": "Le Ciel promet le même sort à tous\nles maux. Frappe d'un coup tous\nles ennemis adjacents."
+ },
+ {
+  "ctx": "0x2f120",
+  "max": 25,
+  "en": "Divine Intervention",
+  "fr": "Intervention divine"
+ },
+ {
+  "ctx": "0x2f172",
+  "max": 149,
+  "en": "The miracle of peace and glory a \nchosen maiden shall bring. Attacks\nall adjacent enemies at once.",
+  "fr": "Le miracle de paix et de gloire\nqu'apportera une vierge élue. Frappe\ntous les ennemis adjacents."
+ },
+ {
+  "ctx": "0x2f240",
+  "max": 25,
+  "en": "Look of Despair",
+  "fr": "Regard du désespoir"
+ },
+ {
+  "ctx": "0x2f292",
+  "max": 149,
+  "en": "Wreaks despair and death equally\nupon all living things. Deals heavy\ndamage throughout the battlefield.",
+  "fr": "Sème désespoir et mort sur tout\nêtre vivant. Gros dégâts sur tout\nle champ de bataille."
+ },
+ {
+  "ctx": "0x2f360",
+  "max": 25,
+  "en": "Bloodletting",
+  "fr": "Saignée"
+ },
+ {
+  "ctx": "0x2f3b2",
+  "max": 149,
+  "en": "A heart sated as blood is spilled,\nits thirst a call for war. Absorbs\nHP equal to the damage dealt.",
+  "fr": "Un coeur repu de sang versé, dont\nla soif appelle la guerre. Absorbe\ndes PV égaux aux dégâts infligés."
+ },
+ {
+  "ctx": "0x2f480",
+  "max": 25,
+  "en": "Incubus",
+  "fr": "Incube"
+ },
+ {
+  "ctx": "0x2f4d2",
+  "max": 149,
+  "en": "Taking pleasure in death, its thirst\nprefaces a horrid dream. Absorbs\nHP equal to the damage dealt.",
+  "fr": "Avide de mort, sa soif annonce un\nrêve horrible. Absorbe des PV\négaux aux dégâts infligés."
+ },
+ {
+  "ctx": "0x2f5a0",
+  "max": 25,
+  "en": "Deific Talons",
+  "fr": "Serres divines"
+ },
+ {
+  "ctx": "0x2f5f2",
+  "max": 149,
+  "en": "A bird with wings of light dances\ndown from heaven! Attacks faraway\nenemies regardless of obstacles.",
+  "fr": "Un oiseau aux ailes de lumière\ndescend du ciel ! Frappe au loin\nmalgré les obstacles."
+ },
+ {
+  "ctx": "0x2f6c0",
+  "max": 25,
+  "en": "Lightning Beast",
+  "fr": "Bête de foudre"
+ },
+ {
+  "ctx": "0x2f712",
+  "max": 149,
+  "en": "A beastly thing of levin thunders\nupon the earth! Attacks faraway\nenemies regardless of obstacles.",
+  "fr": "Une bête faite d'éclairs s'abat\nsur terre ! Frappe au loin\nmalgré les obstacles."
+ },
+ {
+  "ctx": "0x2f7e0",
+  "max": 25,
+  "en": "Celestial Drake",
+  "fr": "Dragon céleste"
+ },
+ {
+  "ctx": "0x2f832",
+  "max": 149,
+  "en": "A dragon soars earthward, rending\nwith silver claws! Attacks faraway\nenemies regardless of obstacles.",
+  "fr": "Un dragon fond sur terre, griffes\nd'argent tendues ! Frappe au loin\nmalgré les obstacles."
+ },
+ {
+  "ctx": "0x2f900",
+  "max": 25,
+  "en": "Mindbreaker",
+  "fr": "Brise-esprit"
+ },
+ {
+  "ctx": "0x2f952",
+  "max": 149,
+  "en": "A wallop of negative magic hinders\nenemy spellpower. Deals damage\nto MP as well when attacking.",
+  "fr": "Une charge de magie négative qui\nentrave les sorts. Inflige aussi\ndes dégâts aux PM en attaquant."
+ },
+ {
+  "ctx": "0x2fa20",
+  "max": 25,
+  "en": "Blood Sword",
+  "fr": "Épée de sang"
+ },
+ {
+  "ctx": "0x2fa72",
+  "max": 149,
+  "en": "Curses the bearer's weapon with a\nthirst for blood. Absorbs HP equal\nto 1/2 the damage dealt.",
+  "fr": "Maudit l'arme du porteur d'une soif\nde sang. Absorbe des PV égaux à\nla moitié des dégâts infligés."
+ },
+ {
+  "ctx": "0x2fb40",
+  "max": 25,
+  "en": "Blood Sword II",
+  "fr": "Épée de sang II"
+ },
+ {
+  "ctx": "0x2fb92",
+  "max": 149,
+  "en": "Turns the bearer's weapon into a\nmalevolent demon. Absorbs HP\nequal to the damage dealt.",
+  "fr": "Change l'arme du porteur en démon\nmalveillant. Absorbe des PV égaux\naux dégâts infligés."
+ },
+ {
+  "ctx": "0x2fc60",
+  "max": 25,
+  "en": "Leg Strike",
+  "fr": "Croc-en-jambe"
+ },
+ {
+  "ctx": "0x2fcb2",
+  "max": 149,
+  "en": "Trips up the enemy with a long\nhilt. Stuns the enemy in addition\nto dealing damage.",
+  "fr": "Fait trébucher l'ennemi d'un long\nmanche. Étourdit l'ennemi en plus\ndes dégâts."
+ },
+ {
+  "ctx": "0x2fd80",
+  "max": 25,
+  "en": "Pierce!",
+  "fr": "Percée !"
+ },
+ {
+  "ctx": "0x2fdd2",
+  "max": 149,
+  "en": "Bust through enemy armor with a\nsharp thrust. Deals damage\nregardless of a foe's defense.",
+  "fr": "Transperce l'armure d'un coup sec.\nInflige des dégâts quelle que soit\nla défense de l'ennemi."
+ },
+ {
+  "ctx": "0x2fea0",
+  "max": 25,
+  "en": "Pierce! II",
+  "fr": "Percée ! II"
+ },
+ {
+  "ctx": "0x2fef2",
+  "max": 149,
+  "en": "Bust through even heavy armor and\ngo for the kill! Deals big damage\nregardless of a foe's defense.",
+  "fr": "Transperce même l'armure lourde et\nachève ! Gros dégâts quelle que\nsoit la défense de l'ennemi."
+ },
+ {
+  "ctx": "0x2ffc0",
+  "max": 25,
+  "en": "Wood Chop",
+  "fr": "Coup de hache"
+ },
+ {
+  "ctx": "0x30012",
+  "max": 149,
+  "en": "Raise a weapon up before hacking\ndownward full-force. Deals heavy\ndamage to one enemy.",
+  "fr": "Lève l'arme puis l'abat de toutes\nses forces. Gros dégâts à un\nennemi."
+ },
+ {
+  "ctx": "0x300e0",
+  "max": 25,
+  "en": "Helm Splitter",
+  "fr": "Fend-heaume"
+ },
+ {
+  "ctx": "0x30132",
+  "max": 149,
+  "en": "A full-force attack that cleaves an\nenemy helm in two. Deals heavy\ndamage and lowers defense.",
+  "fr": "Un coup de toute sa force qui fend\nle heaume ennemi. Gros dégâts et\nbaisse la défense."
+ },
+ {
+  "ctx": "0x30200",
+  "max": 25,
+  "en": "Desperation",
+  "fr": "Témérité"
+ },
+ {
+  "ctx": "0x30252",
+  "max": 149,
+  "en": "Become a death-seeking warrior,\nswinging with abandon. Raises\nattack but slightly lowers defense.",
+  "fr": "Devient un guerrier en quête de\nmort, frappant sans retenue. Hausse\nl'attaque, baisse un peu la défense."
+ },
+ {
+  "ctx": "0x30320",
+  "max": 25,
+  "en": "Desperation II",
+  "fr": "Témérité II"
+ },
+ {
+  "ctx": "0x30372",
+  "max": 149,
+  "en": "Become a death-seeking warrior,\nswinging with abandon. Greatly\nraises attack but lowers defense.",
+  "fr": "Devient un guerrier en quête de\nmort, frappant sans retenue. Hausse\nfort l'attaque, baisse la défense."
+ },
+ {
+  "ctx": "0x30440",
+  "max": 25,
+  "en": "Desperation III",
+  "fr": "Témérité III"
+ },
+ {
+  "ctx": "0x30492",
+  "max": 149,
+  "en": "Parallel a warrior willing to give\nall to kill his foe. Gain fearsome\nattack, but also perilous defense.",
+  "fr": "Tel un guerrier prêt à tout pour\ntuer. Attaque redoutable, mais\ndéfense périlleuse."
+ },
+ {
+  "ctx": "0x30560",
+  "max": 25,
+  "en": "Dark Regen",
+  "fr": "Régénération noire"
+ },
+ {
+  "ctx": "0x305b2",
+  "max": 149,
+  "en": "The infinite darkness never ceases\ncreation of its pitch-black world.\nRestores a lot of HP to the target.",
+  "fr": "Les ténèbres infinies créent sans\nfin leur monde d'encre. Rend\nbeaucoup de PV à la cible."
+ },
+ {
+  "ctx": "0x30680",
+  "max": 25,
+  "en": "Dire Swing",
+  "fr": "Coup funeste"
+ },
+ {
+  "ctx": "0x306d2",
+  "max": 149,
+  "en": "A ruthless slash that cuts through\nbone and all, leaving only a pitiful\nshell... Always critical if it hits.",
+  "fr": "Une entaille impitoyable qui tranche\nl'os et ne laisse qu'une coquille...\nToujours critique s'il touche."
+ },
+ {
+  "ctx": "0x307a0",
+  "max": 25,
+  "en": "Sniper",
+  "fr": "Tireur d'élite"
+ },
+ {
+  "ctx": "0x307f2",
+  "max": 149,
+  "en": "Use keen archer senses to always\nhit the target. Guarantees a hit,\nbut greatly lessens damage.",
+  "fr": "Les sens aiguisés de l'archer\ntouchent toujours. Touche à coup\nsûr, mais dégâts très réduits."
+ },
+ {
+  "ctx": "0x308c0",
+  "max": 25,
+  "en": "Sniper II",
+  "fr": "Tireur d'élite II"
+ },
+ {
+  "ctx": "0x30912",
+  "max": 149,
+  "en": "Use keen archer senses to always\nhit the target. Guarantees a hit,\nbut slightly lessens damage.",
+  "fr": "Les sens aiguisés de l'archer\ntouchent toujours. Touche à coup\nsûr, mais dégâts un peu réduits."
+ },
+ {
+  "ctx": "0x309e0",
+  "max": 25,
+  "en": "Sniper III",
+  "fr": "Tireur d'élite III"
+ },
+ {
+  "ctx": "0x30a32",
+  "max": 149,
+  "en": "Use keen archer senses to always\nhit the target. Guarantees a hit\nwithout compromising damage.",
+  "fr": "Les sens aiguisés de l'archer\ntouchent toujours. Touche à coup\nsûr, sans réduire les dégâts."
+ },
+ {
+  "ctx": "0x30b00",
+  "max": 25,
+  "en": "Sniper IV",
+  "fr": "Tireur d'élite IV"
+ },
+ {
+  "ctx": "0x30b52",
+  "max": 149,
+  "en": "Sight enemy weak points with the\naccuracy of God Himself. Ensures\na hit for heavy damage.",
+  "fr": "Vise les points faibles avec la\nprécision de Dieu même. Touche à\ncoup sûr pour de gros dégâts."
+ },
+ {
+  "ctx": "0x30c20",
+  "max": 25,
+  "en": "Skewer Shot",
+  "fr": "Tir perforant"
+ },
+ {
+  "ctx": "0x30c72",
+  "max": 149,
+  "en": "Draw the bow taut and run one foe\nafter another through. Attacks all\nenemies in a straight line at once.",
+  "fr": "Tend l'arc et transperce un ennemi\naprès l'autre. Frappe d'un coup les\nennemis en ligne droite."
+ },
+ {
+  "ctx": "0x30d40",
+  "max": 25,
+  "en": "Poison Arrow",
+  "fr": "Flèche empoisonnée"
+ },
+ {
+  "ctx": "0x30d92",
+  "max": 149,
+  "en": "A poison-tipped arrow that is a\ntradition of hunting peoples.\nInflicts poison as well as damage.",
+  "fr": "Flèche à pointe empoisonnée, une\ntradition des peuples chasseurs.\nEmpoisonne en plus des dégâts."
+ },
+ {
+  "ctx": "0x30e60",
+  "max": 25,
+  "en": "Stun Arrow",
+  "fr": "Flèche étourdissante"
+ },
+ {
+  "ctx": "0x30eb2",
+  "max": 149,
+  "en": "An arrow tipped with a powerful\ntranquilizer. Paralyzes foes in\naddition to dealing damage.",
+  "fr": "Flèche enduite d'un puissant\ncalmant. Paralyse l'ennemi en plus\ndes dégâts."
+ },
+ {
+  "ctx": "0x30f80",
+  "max": 25,
+  "en": "Shadow Stitch",
+  "fr": "Ombre cousue"
+ },
+ {
+  "ctx": "0x30fd2",
+  "max": 149,
+  "en": "Sews a foe's shadow to the ground,\nrestricting movement. Paralyzes\nfoes in addition to dealing damage.",
+  "fr": "Coud l'ombre de l'ennemi au sol et\nentrave ses mouvements. Paralyse\nl'ennemi en plus des dégâts."
+ },
+ {
+  "ctx": "0x310a0",
+  "max": 25,
+  "en": "Venom Edge",
+  "fr": "Lame venimeuse"
+ },
+ {
+  "ctx": "0x310f2",
+  "max": 149,
+  "en": "Attacks with a blade coated in\nvenom. Sometimes poisons in\naddition to dealing damage.",
+  "fr": "Frappe d'une lame enduite de\nvenin. Empoisonne parfois en\nplus des dégâts."
+ },
+ {
+  "ctx": "0x311c0",
+  "max": 25,
+  "en": "Two Hits",
+  "fr": "Double coup"
+ },
+ {
+  "ctx": "0x31212",
+  "max": 149,
+  "en": "Unleashes a string of attacks\nfaster than the eye can register.\nAttacks twice in one go.",
+  "fr": "Une série d'attaques plus rapide\nque l'oeil. Attaque deux fois\nd'affilée."
+ },
+ {
+  "ctx": "0x312e0",
+  "max": 25,
+  "en": "Three Hits",
+  "fr": "Triple coup"
+ },
+ {
+  "ctx": "0x31332",
+  "max": 149,
+  "en": "Unleashes a string of attacks\nfaster than the eye can register.\nAttacks thrice in one go.",
+  "fr": "Une série d'attaques plus rapide\nque l'oeil. Attaque trois fois\nd'affilée."
+ },
+ {
+  "ctx": "0x31400",
+  "max": 25,
+  "en": "Four Hits",
+  "fr": "Quadruple coup"
+ },
+ {
+  "ctx": "0x31452",
+  "max": 149,
+  "en": "Unleashes a string of attacks\nfaster than the eye can register.\nAttacks four times in one go.",
+  "fr": "Une série d'attaques plus rapide\nque l'oeil. Attaque quatre fois\nd'affilée."
+ },
+ {
+  "ctx": "0x31520",
+  "max": 25,
+  "en": "Strange Dance",
+  "fr": "Danse étrange"
+ },
+ {
+  "ctx": "0x31572",
+  "max": 149,
+  "en": "Sap energy from foes with an odd\ndance that's...not meant to be odd.\nLowers attack for several turns.",
+  "fr": "Sape l'énergie ennemie d'une danse\nbizarre... sans le vouloir. Baisse\nl'attaque pendant plusieurs tours."
+ },
+ {
+  "ctx": "0x31640",
+  "max": 25,
+  "en": "Skill Shakedown",
+  "fr": "Racket de pierres"
+ },
+ {
+  "ctx": "0x31692",
+  "max": 149,
+  "en": "A cutthroat agent tactic that steals\nthe enemy's skill stones. Randomly\nobtains one stone if successful.",
+  "fr": "Tactique d'agent sans pitié qui vole\nles pierres de compétence. Obtient\nune pierre au hasard si réussi."
+ },
+ {
+  "ctx": "0x31760",
+  "max": 25,
+  "en": "Gold Shakedown",
+  "fr": "Racket d'or"
+ },
+ {
+  "ctx": "0x317b2",
+  "max": 149,
+  "en": "A cutthroat tactic that robs the\nenemy of their gold. Children,\ndon't try this at home!",
+  "fr": "Tactique sans pitié qui dépouille\nl'ennemi de son or. Les enfants,\nne faites pas ça chez vous !"
+ },
+ {
+  "ctx": "0x31880",
+  "max": 25,
+  "en": "Aero Dagger",
+  "fr": "Dague volante"
+ },
+ {
+  "ctx": "0x318d2",
+  "max": 149,
+  "en": "Hurls a knife in a straight line at\nthe targeted foe. Can attack an\nenemy up to 7 squares away.",
+  "fr": "Lance un couteau en ligne droite\nsur l'ennemi visé. Atteint un\nennemi jusqu'à 7 cases."
+ },
+ {
+  "ctx": "0x319a0",
+  "max": 25,
+  "en": "Gold Snatcher",
+  "fr": "Chapardeuse d'or"
+ },
+ {
+  "ctx": "0x319f2",
+  "max": 149,
+  "en": "Reaches into the enemy's bosom to\nrelieve them of their valuables.\nDon't try this at home, loves!",
+  "fr": "Fouille le corsage de l'ennemi pour\nle soulager de ses biens. Pas chez\nvous, hein, mes chéris !"
+ },
+ {
+  "ctx": "0x31ac0",
+  "max": 25,
+  "en": "Stun Whip",
+  "fr": "Fouet étourdissant"
+ },
+ {
+  "ctx": "0x31b12",
+  "max": 149,
+  "en": "Ties up foes after striking them.\nSometimes paralyzes enemies in\naddition to dealing damage.",
+  "fr": "Ligote l'ennemi après l'avoir\nfrappé. Paralyse parfois l'ennemi\nen plus des dégâts."
+ },
+ {
+  "ctx": "0x31be0",
+  "max": 25,
+  "en": "Skill Snatcher",
+  "fr": "Chapardeuse de pierres"
+ },
+ {
+  "ctx": "0x31c32",
+  "max": 149,
+  "en": "Filch skill stones the enemy is\ncarrying. We might even snag us\none stone at random, loves!",
+  "fr": "Chipe les pierres de compétence de\nl'ennemi. On en piquera peut-être\nune au hasard, mes chéris !"
+ },
+ {
+  "ctx": "0x31d00",
+  "max": 25,
+  "en": "Tearstain",
+  "fr": "Trace de larmes"
+ },
+ {
+  "ctx": "0x31d52",
+  "max": 149,
+  "en": "Tears of grief refresh a heart\ncaptive to darkness. Absorbs HP\nequal to the damage dealt.",
+  "fr": "Des larmes de chagrin apaisent un\ncoeur captif des ténèbres. Absorbe\ndes PV égaux aux dégâts infligés."
+ },
+ {
+  "ctx": "0x31e20",
+  "max": 25,
+  "en": "Range +1",
+  "fr": "Portée +1"
+ },
+ {
+  "ctx": "0x31e72",
+  "max": 149,
+  "en": "A bow technique that uses a more\neffective trajectory. Extends range\nby 1 square.",
+  "fr": "Technique à l'arc à la trajectoire\nplus efficace. Augmente la portée\nde 1 case."
+ },
+ {
+  "ctx": "0x31f40",
+  "max": 25,
+  "en": "Range +2",
+  "fr": "Portée +2"
+ },
+ {
+  "ctx": "0x31f92",
+  "max": 149,
+  "en": "A bow technique that uses a more\neffective trajectory. Extends range\nby 2 squares.",
+  "fr": "Technique à l'arc à la trajectoire\nplus efficace. Augmente la portée\nde 2 cases."
+ },
+ {
+  "ctx": "0x32060",
+  "max": 25,
+  "en": "Magic Attack +10",
+  "fr": "Attaque mag. +10"
+ },
+ {
+  "ctx": "0x320b2",
+  "max": 149,
+  "en": "A stone said to contain the\ncrystallized wisdom of a great\nmage. Increases magic atk. by 10.",
+  "fr": "Pierre qui renfermerait la sagesse\ncristallisée d'un grand mage.\nAugmente l'attaque mag. de 10."
+ },
+ {
+  "ctx": "0x32180",
+  "max": 25,
+  "en": "Magic Attack +20",
+  "fr": "Attaque mag. +20"
+ },
+ {
+  "ctx": "0x321d2",
+  "max": 149,
+  "en": "A stone said to contain the\ncrystallized wisdom of a great\nmage. Increases magic atk. by 20.",
+  "fr": "Pierre qui renfermerait la sagesse\ncristallisée d'un grand mage.\nAugmente l'attaque mag. de 20."
+ },
+ {
+  "ctx": "0x322a0",
+  "max": 25,
+  "en": "Mobility +3",
+  "fr": "Déplacement +3"
+ },
+ {
+  "ctx": "0x322f2",
+  "max": 149,
+  "en": "A stone that floats in midair by\nsome strange force. Lightens the\nbearer and increases mobility by 3.",
+  "fr": "Pierre flottant dans les airs par\nune force étrange. Allège son\nporteur : Déplacement +3."
+ },
+ {
+  "ctx": "0x323c0",
+  "max": 25,
+  "en": "Mobility +2",
+  "fr": "Déplacement +2"
+ },
+ {
+  "ctx": "0x32412",
+  "max": 149,
+  "en": "A stone that floats in midair by\nsome strange force. Lightens the\nbearer and increases mobility by 2.",
+  "fr": "Pierre flottant dans les airs par\nune force étrange. Allège son\nporteur : Déplacement +2."
+ },
+ {
+  "ctx": "0x324e0",
+  "max": 25,
+  "en": "Evade +30",
+  "fr": "Esquive +30"
+ },
+ {
+  "ctx": "0x32532",
+  "max": 149,
+  "en": "A softly glowing stone that hones\nthe mind. Increases evade by 30.",
+  "fr": "Pierre à la douce lueur qui affûte\nl'esprit. Augmente l'esquive de 30."
+ },
+ {
+  "ctx": "0x32600",
+  "max": 25,
+  "en": "Accuracy +30",
+  "fr": "Précision +30"
+ },
+ {
+  "ctx": "0x32652",
+  "max": 149,
+  "en": "A stone with an odd shine that\noffers courage to stare down a foe.\nIncreases accuracy by 30.",
+  "fr": "Pierre à l'éclat étrange qui donne\nle courage de fixer l'ennemi.\nAugmente la précision de 30."
+ },
+ {
+  "ctx": "0x32758",
+  "max": 25,
+  "en": "Paragon's Armlet",
+  "fr": "Bracelet du parangon"
+ },
+ {
+  "ctx": "0x327c8",
+  "max": 25,
+  "en": "Hellequin's Armlet",
+  "fr": "Bracelet d'Hellequin"
+ },
+ {
+  "ctx": "0x32800",
+  "max": 25,
+  "en": "Theologian's Armlet",
+  "fr": "Bracelet du théologien"
+ },
+ {
+  "ctx": "0x32838",
+  "max": 25,
+  "en": "Creator's Armlet",
+  "fr": "Bracelet du créateur"
+ },
+ {
+  "ctx": "0x32870",
+  "max": 25,
+  "en": "Usurper's Armlet",
+  "fr": "Bracelet de l'usurpateur"
+ },
+ {
+  "ctx": "0x32dc0",
+  "max": 25,
+  "en": "Ice Throw",
+  "fr": "Lancer de glace"
+ },
+ {
+  "ctx": "0x33100",
+  "max": 25,
+  "en": "Thunder Arrow",
+  "fr": "Flèche de foudre"
+ },
+ {
+  "ctx": "0x33780",
+  "max": 25,
+  "en": "Ice Throw II",
+  "fr": "Lancer de glace II"
+ },
+ {
+  "ctx": "0x33ac0",
+  "max": 25,
+  "en": "Thunder Arrow II",
+  "fr": "Flèche de foudre II"
+ },
+ {
+  "ctx": "0x34960",
+  "max": 25,
+  "en": "Strong",
+  "fr": "Puissance"
+ },
+ {
+  "ctx": "0x34ca0",
+  "max": 25,
+  "en": "Mobility Up",
+  "fr": "Déplacement +"
+ },
+ {
+  "ctx": "0x34fe0",
+  "max": 25,
+  "en": "Slow",
+  "fr": "Lenteur"
+ },
+ {
+  "ctx": "0x35180",
+  "max": 25,
+  "en": "Force Down",
+  "fr": "Force -"
+ },
+ {
+  "ctx": "0x35320",
+  "max": 25,
+  "en": "Weak",
+  "fr": "Faiblesse"
+ },
+ {
+  "ctx": "0x354c0",
+  "max": 25,
+  "en": "Revival Magic",
+  "fr": "Magie de résurrection"
+ },
+ {
+  "ctx": "0x359a0",
+  "max": 25,
+  "en": "Defensive",
+  "fr": "Défensive"
+ },
+ {
+  "ctx": "0x35b40",
+  "max": 25,
+  "en": "Magic Down",
+  "fr": "Magie -"
+ },
+ {
+  "ctx": "0x36500",
+  "max": 25,
+  "en": "To Arms!",
+  "fr": "Aux armes !"
+ },
+ {
+  "ctx": "0x366a0",
+  "max": 25,
+  "en": "To Arms! II",
+  "fr": "Aux armes ! II"
+ },
+ {
+  "ctx": "0x36840",
+  "max": 25,
+  "en": "Rallying Cry",
+  "fr": "Cri de ralliement"
+ },
+ {
+  "ctx": "0x37060",
+  "max": 25,
+  "en": "Tri-Slash",
+  "fr": "Tri-entaille"
+ },
+ {
+  "ctx": "0x373a0",
+  "max": 25,
+  "en": "Moonrise Cut",
+  "fr": "Taille lunaire"
+ },
+ {
+  "ctx": "0x37d60",
+  "max": 25,
+  "en": "Fly!",
+  "fr": "Vole !"
+ },
+ {
+  "ctx": "0x37f00",
+  "max": 25,
+  "en": "Raze!",
+  "fr": "Rase tout !"
+ },
+ {
+  "ctx": "0x380a0",
+  "max": 25,
+  "en": "Monster!",
+  "fr": "Monstre !"
+ },
+ {
+  "ctx": "0x38580",
+  "max": 25,
+  "en": "Recovery Arrow",
+  "fr": "Flèche curative"
+ },
+ {
+  "ctx": "0x38720",
+  "max": 25,
+  "en": "Meteor Shot",
+  "fr": "Tir météore"
+ },
+ {
+  "ctx": "0x388c0",
+  "max": 25,
+  "en": "Heavenly Arrow",
+  "fr": "Flèche du ciel"
+ },
+ {
+  "ctx": "0x38da0",
+  "max": 25,
+  "en": "Tail Attack",
+  "fr": "Attaque caudale"
+ },
+ {
+  "ctx": "0x38f40",
+  "max": 25,
+  "en": "Punch",
+  "fr": "Coup de poing"
+ },
+ {
+  "ctx": "0x39280",
+  "max": 25,
+  "en": "Jump Press",
+  "fr": "Saut écrasant"
+ },
+ {
+  "ctx": "0x39420",
+  "max": 25,
+  "en": "An End in Sight",
+  "fr": "La fin est proche"
+ },
+ {
+  "ctx": "0x39900",
+  "max": 25,
+  "en": "Jezebel's Captive",
+  "fr": "Captive de Jézabel"
+ },
+ {
+  "ctx": "0x39aa0",
+  "max": 25,
+  "en": "Jezebel's Captive II",
+  "fr": "Captive de Jézabel II"
+ },
+ {
+  "ctx": "0x39c40",
+  "max": 25,
+  "en": "Death's Way",
+  "fr": "Voie de la mort"
+ },
+ {
+  "ctx": "0x3a120",
+  "max": 25,
+  "en": "Light-Splitting Lament",
+  "fr": "Lamento brise-lumière"
+ },
+ {
+  "ctx": "0x3be60",
+  "max": 25,
+  "en": "Blue Heart-Hunt",
+  "fr": "Chasse au coeur bleu"
+ },
+ {
+  "ctx": "0x3c000",
+  "max": 25,
+  "en": "Divine Talons",
+  "fr": "Griffes divines"
+ },
+ {
+  "ctx": "0x3c1a0",
+  "max": 25,
+  "en": "Divine Talons II",
+  "fr": "Griffes divines II"
+ },
+ {
+  "ctx": "0x3c340",
+  "max": 25,
+  "en": "Divine Talons III",
+  "fr": "Griffes divines III"
+ },
+ {
+  "ctx": "0x3c680",
+  "max": 25,
+  "en": "Time of Dissolution",
+  "fr": "Heure de la dissolution"
+ },
+ {
+  "ctx": "0x3cb60",
+  "max": 25,
+  "en": "Goddess's Love",
+  "fr": "Amour de la déesse"
+ },
+ {
+  "ctx": "0x3cd00",
+  "max": 25,
+  "en": "Goddess's Pathos",
+  "fr": "Pathos de la déesse"
+ },
+ {
+  "ctx": "0x3d040",
+  "max": 25,
+  "en": "Heaven-Sent Miracle",
+  "fr": "Miracle du Ciel"
+ },
+ {
+  "ctx": "0x3d380",
+  "max": 25,
+  "en": "Wakeless Nightmare",
+  "fr": "Cauchemar sans fin"
+ },
+ {
+  "ctx": "0x3d520",
+  "max": 25,
+  "en": "Tragedy III",
+  "fr": "Tragédie III"
+ },
+ {
+  "ctx": "0x3f0c0",
+  "max": 25,
+  "en": "Break Through!",
+  "fr": "Transperce !"
+ },
+ {
+  "ctx": "0x3f260",
+  "max": 25,
+  "en": "Break Through! II",
+  "fr": "Transperce ! II"
+ },
+ {
+  "ctx": "0x3f400",
+  "max": 25,
+  "en": "Wood Chopper",
+  "fr": "Bûcheron"
+ },
+ {
+  "ctx": "0x3f740",
+  "max": 25,
+  "en": "Beard the Lion",
+  "fr": "Défier le lion"
+ },
+ {
+  "ctx": "0x3f8e0",
+  "max": 25,
+  "en": "Beard the Lion II",
+  "fr": "Défier le lion II"
+ },
+ {
+  "ctx": "0x3fa80",
+  "max": 25,
+  "en": "Beard the Lion III",
+  "fr": "Défier le lion III"
+ },
+ {
+  "ctx": "0x3fc20",
+  "max": 25,
+  "en": "Beard the Lion IV",
+  "fr": "Défier le lion IV"
+ },
+ {
+  "ctx": "0x3fdc0",
+  "max": 25,
+  "en": "Disaster Strike",
+  "fr": "Frappe désastre"
+ },
+ {
+  "ctx": "0x405e0",
+  "max": 25,
+  "en": "Piercing Strike",
+  "fr": "Frappe perçante"
+ },
+ {
+  "ctx": "0x40c60",
+  "max": 25,
+  "en": "Poison Knife",
+  "fr": "Couteau empoisonné"
+ },
+ {
+  "ctx": "0x41480",
+  "max": 25,
+  "en": "Steal Skill Stone",
+  "fr": "Vol de pierre"
+ },
+ {
+  "ctx": "0x41620",
+  "max": 25,
+  "en": "Steal Gold",
+  "fr": "Vol d'or"
+ },
+ {
+  "ctx": "0x41ca0",
+  "max": 25,
+  "en": "Skills, SVP",
+  "fr": "Pierres, SVP"
+ },
+ {
+  "ctx": "0x43d20",
+  "max": 25,
+  "en": "Pass Through",
+  "fr": "Traversée"
+ },
+ {
+  "ctx": "0x43ec0",
+  "max": 25,
+  "en": "Bird Slayer",
+  "fr": "Tueur d'oiseaux"
+ },
+ {
+  "ctx": "0x443a0",
+  "max": 25,
+  "en": "Counter I",
+  "fr": "Riposte I"
+ },
+ {
+  "ctx": "0x44bc0",
+  "max": 25,
+  "en": "Slip By",
+  "fr": "Se glisser"
+ },
+ {
+  "ctx": "0x450a0",
+  "max": 25,
+  "en": "Restore HP to All",
+  "fr": "PV rendus à tous"
+ },
+ {
+  "ctx": "0x45240",
+  "max": 25,
+  "en": "Restore 10% HP",
+  "fr": "Rend 10 % des PV"
+ },
+ {
+  "ctx": "0x453e0",
+  "max": 25,
+  "en": "Restore 20% HP",
+  "fr": "Rend 20 % des PV"
+ },
+ {
+  "ctx": "0x45580",
+  "max": 25,
+  "en": "Restore 30% HP",
+  "fr": "Rend 30 % des PV"
+ },
+ {
+  "ctx": "0x45720",
+  "max": 25,
+  "en": "Restore 10% MP",
+  "fr": "Rend 10 % des PM"
+ },
+ {
+  "ctx": "0x458c0",
+  "max": 25,
+  "en": "Restore 20% MP",
+  "fr": "Rend 20 % des PM"
+ },
+ {
+  "ctx": "0x45a60",
+  "max": 25,
+  "en": "Restore 30% MP",
+  "fr": "Rend 30 % des PM"
+ },
+ {
+  "ctx": "0x45c00",
+  "max": 25,
+  "en": "120% EXP",
+  "fr": "EXP 120 %"
+ },
+ {
+  "ctx": "0x45da0",
+  "max": 25,
+  "en": "150% EXP",
+  "fr": "EXP 150 %"
+ },
+ {
+  "ctx": "0x45f40",
+  "max": 25,
+  "en": "200% EXP",
+  "fr": "EXP 200 %"
+ },
+ {
+  "ctx": "0x460e0",
+  "max": 25,
+  "en": "300% EXP",
+  "fr": "EXP 300 %"
+ },
+ {
+  "ctx": "0x49ae4",
+  "max": 63,
+  "en": "Heaven, grant me power!",
+  "fr": "Ciel, donne-moi la force !"
+ },
+ {
+  "ctx": "0x49b28",
+  "max": 63,
+  "en": "Everyone! Follow me!",
+  "fr": "Vous tous ! Suivez-moi !"
+ },
+ {
+  "ctx": "0x49b6c",
+  "max": 63,
+  "en": "May the light be my sword!",
+  "fr": "Que la lumière soit mon épée !"
+ },
+ {
+  "ctx": "0x49bb0",
+  "max": 63,
+  "en": "Hero of olde, grant me power!",
+  "fr": "Héros d'antan, donne-moi la force !"
+ },
+ {
+  "ctx": "0x49bf4",
+  "max": 63,
+  "en": "I will protect everyone!",
+  "fr": "Je protégerai tout le monde !"
+ },
+ {
+  "ctx": "0x49c38",
+  "max": 63,
+  "en": "Bracelet! Show us the way to the light!",
+  "fr": "Bracelet ! Montre-nous le chemin de la lumière !"
+ },
+ {
+  "ctx": "0x49c7c",
+  "max": 63,
+  "en": "I will bear all your pain!",
+  "fr": "Je porterai toute votre douleur !"
+ },
+ {
+  "ctx": "0x49cc0",
+  "max": 63,
+  "en": "A miracle shall light the dark!",
+  "fr": "Un miracle illuminera les ténèbres !"
+ },
+ {
+  "ctx": "0x49d04",
+  "max": 63,
+  "en": "I will find the miracle within me!",
+  "fr": "Je trouverai le miracle en moi !"
+ },
+ {
+  "ctx": "0x49d48",
+  "max": 63,
+  "en": "Bracelet! Unleash your power!",
+  "fr": "Bracelet ! Libère ton pouvoir !"
+ },
+ {
+  "ctx": "0x49d8c",
+  "max": 63,
+  "en": "Blade of light, dance thy dance!",
+  "fr": "Lame de lumière, danse ta danse !"
+ },
+ {
+  "ctx": "0x49dd0",
+  "max": 63,
+  "en": "The time has come. To arms!",
+  "fr": "L'heure est venue. Aux armes !"
+ },
+ {
+  "ctx": "0x49e14",
+  "max": 63,
+  "en": "Lord above, lend me thy shape!",
+  "fr": "Seigneur, prête-moi ta forme !"
+ },
+ {
+  "ctx": "0x49e58",
+  "max": 63,
+  "en": "Lord, bestow your power unto me!",
+  "fr": "Seigneur, accorde-moi ton pouvoir !"
+ },
+ {
+  "ctx": "0x49e9c",
+  "max": 63,
+  "en": "Let my power awaken!",
+  "fr": "Que mon pouvoir s'éveille !"
+ },
+ {
+  "ctx": "0x49ee0",
+  "max": 63,
+  "en": "Grant me power to shatter the darkness!",
+  "fr": "Donne-moi la force de briser les ténèbres !"
+ },
+ {
+  "ctx": "0x49f24",
+  "max": 63,
+  "en": "Fall into the well of silence!",
+  "fr": "Sombre dans le puits du silence !"
+ },
+ {
+  "ctx": "0x49f68",
+  "max": 63,
+  "en": "I believe. I know we can win!",
+  "fr": "J'y crois. Je sais qu'on peut gagner !"
+ },
+ {
+  "ctx": "0x49fac",
+  "max": 63,
+  "en": "It's my turn to work miracles!",
+  "fr": "À moi d'accomplir des miracles !"
+ },
+ {
+  "ctx": "0x49ff0",
+  "max": 63,
+  "en": "Transfoooooorm!",
+  "fr": "Transformatiooooon !"
+ },
+ {
+  "ctx": "0x4a034",
+  "max": 63,
+  "en": "Here I goooooo!",
+  "fr": "C'est partiiiii !"
+ },
+ {
+  "ctx": "0x4a078",
+  "max": 63,
+  "en": "Armor on! Full power!",
+  "fr": "Armure ! Pleine puissance !"
+ }
+]

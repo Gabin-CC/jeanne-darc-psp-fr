@@ -1,0 +1,15 @@
+# Données du jeu : ne jamais publier
+*.iso
+*.ISO
+*.cso
+extract/
+iso_listing.txt
+# Patchs : publiés dans les Releases GitHub, pas dans le dépôt
+*.xdelta
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+release/

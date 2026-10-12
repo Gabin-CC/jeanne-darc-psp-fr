@@ -1,0 +1,1752 @@
+[
+ {
+  "ctx": "ST2030BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "Are you all right? You're not\ninjured at all, or in pain?",
+  "fr": "Tu vas bien ? Tu n'es pas blessée,\ntu n'as mal nulle part ?"
+ },
+ {
+  "ctx": "ST2030BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "I'm fine.\nRoger, thank you...",
+  "fr": "Je vais bien. Roger, merci..."
+ },
+ {
+  "ctx": "ST2030BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "I couldn't have seized the fort\nif it weren't for you.",
+  "fr": "Je n'aurais jamais pris le fort\nsans toi."
+ },
+ {
+  "ctx": "ST2030BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "Oh. That's...good.",
+  "fr": "Oh. Tant... mieux."
+ },
+ {
+  "ctx": "ST2030BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "I'm sorry, Liane.\nI know I worried you terribly.",
+  "fr": "Pardon, Liane.\nJe sais que je t'ai fait très peur."
+ },
+ {
+  "ctx": "ST2030BM",
+  "max": 34,
+  "who": "Liane",
+  "en": "...Yes you did.",
+  "fr": "...Ça, oui."
+ },
+ {
+  "ctx": "ST2030BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "You two don't have to worry, you\nknow. I have Heaven on my side...",
+  "fr": "Vous n'avez pas à vous inquiéter,\nvous savez. Le Ciel est avec moi..."
+ },
+ {
+  "ctx": "ST2030BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "and I'm blessed with good friends.",
+  "fr": "et j'ai la chance d'avoir de bons\namis."
+ },
+ {
+  "ctx": "ST2030BM",
+  "max": 34,
+  "who": "Aging Noble",
+  "en": "We're blessed as well, with an \ninvincible commander!",
+  "fr": "Et nous, la chance d'avoir un\ncommandant invincible !"
+ },
+ {
+  "ctx": "ST2030BM",
+  "max": 34,
+  "who": "Noble in Black",
+  "en": "Indeed! Not even these \nimpregnable walls could stop her.",
+  "fr": "En effet ! Même ces murailles\nimprenables n'ont pu l'arrêter."
+ },
+ {
+  "ctx": "ST2030BM",
+  "max": 34,
+  "who": "Talbot",
+  "en": "Har! You should have the walls \nchecked!",
+  "fr": "Har ! Vous devriez faire vérifier\nces murailles, my friend !"
+ },
+ {
+  "ctx": "ST2030BM",
+  "max": 34,
+  "who": "Talbot",
+  "en": "Did you think a single fortress\nunlikely to fall twice in one day?",
+  "fr": "Vous pensiez qu'une forteresse ne\npouvait tomber deux fois par jour ?"
+ },
+ {
+  "ctx": "ST2030BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "You!\nWhen did you sneak in?!",
+  "fr": "Vous !\nQuand vous êtes-vous faufilé ici ?!"
+ },
+ {
+  "ctx": "ST2030BT",
+  "max": 16,
+  "who": "unité#174",
+  "en": "Don't mess with\nme, girl!",
+  "fr": "Ne te frotte pas\nà moi, gamine !"
+ },
+ {
+  "ctx": "ST2030BT",
+  "max": 16,
+  "who": "unité#174",
+  "en": "I'll do anything\nto win!",
+  "fr": "Je ferai tout\npour gagner !"
+ },
+ {
+  "ctx": "ST2030BT",
+  "max": 16,
+  "who": "",
+  "en": "Dammit! I can't\ngive up yet!",
+  "fr": "Damn it ! Je ne\npeux pas céder !"
+ },
+ {
+  "ctx": "ST2030BT",
+  "max": 16,
+  "who": "",
+  "en": "I refuse to be\ndefeated twice!",
+  "fr": "Je refuse d'être\nvaincu deux fois !"
+ },
+ {
+  "ctx": "ST2030BT",
+  "max": 16,
+  "who": "",
+  "en": "This mere girl!\nHow...?!",
+  "fr": "Une simple fille !\nComment... ?!"
+ },
+ {
+  "ctx": "ST2030BT",
+  "max": 16,
+  "who": "",
+  "en": "We're taking the\nfortress back!",
+  "fr": "Nous reprenons\nla forteresse !"
+ },
+ {
+  "ctx": "ST2030BT",
+  "max": 16,
+  "who": "",
+  "en": "Too bad...my\ndear.",
+  "fr": "Dommage...\nmy dear."
+ },
+ {
+  "ctx": "ST2030BT",
+  "max": 16,
+  "who": "",
+  "en": "Now, time for\nthe death blow!",
+  "fr": "Et maintenant,\nle coup fatal !"
+ },
+ {
+  "ctx": "ST2030BT",
+  "max": 16,
+  "who": "",
+  "en": "Can you stand\nthis attack?",
+  "fr": "Résisteras-tu\nà cette attaque ?"
+ },
+ {
+  "ctx": "ST2030BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "You're a sore loser, Talbot!",
+  "fr": "Mauvais perdant, Talbot !"
+ },
+ {
+  "ctx": "ST2030BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Are you mad we stole your fort?",
+  "fr": "Vexé qu'on vous\nait pris le fort ?"
+ },
+ {
+  "ctx": "ST2030BT",
+  "max": 16,
+  "who": "Talbot",
+  "en": "Har! I'm simply taking back what\nwas stolen.",
+  "fr": "Har ! Je reprends simplement ce\nqu'on m'a volé."
+ },
+ {
+  "ctx": "ST2030BT",
+  "max": 16,
+  "who": "Talbot",
+  "en": "First the fort.\nThen all the lands of France.",
+  "fr": "D'abord le fort. Ensuite, toute\nla France, of course."
+ },
+ {
+  "ctx": "ST2030BT",
+  "max": 16,
+  "who": "Talbot",
+  "en": "Have you forgotten how foully\nyou once treated my motherland?",
+  "fr": "As-tu oublié avec quelle infamie\nvous avez traité ma patrie ?"
+ },
+ {
+  "ctx": "ST2030BT",
+  "max": 16,
+  "who": "Talbot",
+  "en": "I, for one, have not!",
+  "fr": "Moi, je n'ai pas\noublié !"
+ },
+ {
+  "ctx": "ST2030BT",
+  "max": 16,
+  "who": "Talbot",
+  "en": "You French hens have interfered\nfor the last time!",
+  "fr": "Bloody poules françaises,\nc'en est assez !"
+ },
+ {
+  "ctx": "ST2030BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "What are you talking about?",
+  "fr": "De quoi parlez- vous ?"
+ },
+ {
+  "ctx": "ST2030BT",
+  "max": 16,
+  "who": "Talbot",
+  "en": "What cruel joke is this...",
+  "fr": "Quelle est cette\nfarce cruelle..."
+ },
+ {
+  "ctx": "ST2030AB",
+  "max": 34,
+  "who": "",
+  "en": "Only one more to go! To the Tourelles!",
+  "fr": "Plus qu'un ! En route pour les\nTourelles !"
+ },
+ {
+  "ctx": "ST2030AB",
+  "max": 34,
+  "who": "Talbot",
+  "en": "Har!\nI will be back.",
+  "fr": "Har ! Je reviendrai."
+ },
+ {
+  "ctx": "ST2030AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "What did you mean before, about\nus interfering?",
+  "fr": "Que vouliez-vous dire, tout à\nl'heure, à propos de nos méfaits ?"
+ },
+ {
+  "ctx": "ST2030AB",
+  "max": 34,
+  "who": "Talbot",
+  "en": "If the tale could be recounted\nin a few short minutes,\nI would have told it long ago.",
+  "fr": "Si l'histoire pouvait se conter en\nquelques minutes, je te l'aurais\ndite depuis longtemps."
+ },
+ {
+  "ctx": "ST2030AB",
+  "max": 34,
+  "who": "Talbot",
+  "en": "Until next time, lass.",
+  "fr": "À la prochaine, petite."
+ },
+ {
+  "ctx": "ST2030AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "Jeanne.\nOnly one fortress remains.",
+  "fr": "Jeanne.\nIl ne reste qu'une forteresse."
+ },
+ {
+  "ctx": "ST2030AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "I know.",
+  "fr": "Je sais."
+ },
+ {
+  "ctx": "ST2030AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "All right, next we strike the \nTourelles. The last fortress.",
+  "fr": "Bien. Prochaine cible : les\nTourelles. La dernière forteresse."
+ },
+ {
+  "ctx": "ST2030AB",
+  "max": 34,
+  "who": "Cuisses",
+  "en": "Crunch, crunch...gulp!",
+  "fr": "Crunch, crunch... glup !"
+ },
+ {
+  "ctx": "ST2030AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Cuisses!\nWhat are you up to?",
+  "fr": "Cuisses !\nQu'est-ce que tu fabriques ?"
+ },
+ {
+  "ctx": "ST2030AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Huh?\nWhat is this all about?",
+  "fr": "Hein ? Qu'est-ce qui se passe ?"
+ },
+ {
+  "ctx": "ST2030AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "H-hey, stop that!\nDon't eat those!",
+  "fr": "H-hé, arrête ça !\nNe mange pas ça !"
+ },
+ {
+  "ctx": "ST2030AB",
+  "max": 34,
+  "who": "Cuisses",
+  "en": "Blarrrf!",
+  "fr": "Blorrrf !"
+ },
+ {
+  "ctx": "ST2030AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Yick... What?\nWhat's this skill stone?",
+  "fr": "Beurk... Quoi ?\nC'est quoi, cette pierre ?"
+ },
+ {
+  "ctx": "ST2030AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Did you make this out of those\ntwo skill stones that were here?",
+  "fr": "Tu l'as faite avec les deux\npierres de compétence d'ici ?"
+ },
+ {
+  "ctx": "ST2030AB",
+  "max": 34,
+  "who": "Cuisses",
+  "en": "Coa!",
+  "fr": "Croa !"
+ },
+ {
+  "ctx": "ST2030AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "This toad...\nHe's got talent...",
+  "fr": "Ce crapaud... Il a du talent..."
+ },
+ {
+  "ctx": "ST2030AB",
+  "max": 34,
+  "who": "",
+  "en": "You created \"Sniper\" by combining\n\"Accuracy +5\" and \"Force Down.\"",
+  "fr": "« Précision +5 » + « Force - » :\nvous avez créé « Tireur d'élite » !"
+ },
+ {
+  "ctx": "ST2030AB",
+  "max": 34,
+  "who": "",
+  "en": "Skillbinding is now at your disposal!",
+  "fr": "Vous pouvez désormais lier les\ncompétences !"
+ },
+ {
+  "ctx": "ST2040BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "I couldn't have fought my way to\nthis moment without all of you.",
+  "fr": "Je n'aurais jamais atteint ce\nmoment sans vous tous."
+ },
+ {
+  "ctx": "ST2040BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "And now, with all of you at my\nside, \nI believe I can win the coming\nbattle as well.",
+  "fr": "Et maintenant, avec vous tous à\nmes côtés,\nje crois pouvoir remporter\naussi la bataille qui vient."
+ },
+ {
+  "ctx": "ST2040BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "But stay vigilant:",
+  "fr": "Mais restez vigilants :"
+ },
+ {
+  "ctx": "ST2040BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "our foes are sure to greet our\nfinal assault with all their mettle.",
+  "fr": "l'ennemi accueillera notre assaut\nfinal de toutes ses forces."
+ },
+ {
+  "ctx": "ST2040BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "I say, let them!",
+  "fr": "Eh bien, qu'il vienne !"
+ },
+ {
+  "ctx": "ST2040BM",
+  "max": 34,
+  "who": "Rufus",
+  "en": "...Rowww?",
+  "fr": "...Rouah ?"
+ },
+ {
+  "ctx": "ST2040BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Fight with me!",
+  "fr": "Combattez avec moi !"
+ },
+ {
+  "ctx": "ST2040BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Together, we will trample the \nenemy underfoot!",
+  "fr": "Ensemble, nous écraserons\nl'ennemi !"
+ },
+ {
+  "ctx": "ST2040BM",
+  "max": 34,
+  "who": "Liane, Jeanne",
+  "en": "CHARGE!!!",
+  "fr": "CHARGEZ !!!"
+ },
+ {
+  "ctx": "ST2040BM",
+  "max": 34,
+  "who": "La Hire",
+  "en": "Rrraaaaaar!!!",
+  "fr": "Rrraaaaaah !!!"
+ },
+ {
+  "ctx": "ST2040BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "At last, the Tourelles...",
+  "fr": "Enfin, les Tourelles..."
+ },
+ {
+  "ctx": "ST2040BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "the enemy's stronghold.",
+  "fr": "le bastion de l'ennemi."
+ },
+ {
+  "ctx": "ST2040BM",
+  "max": 34,
+  "who": "Glasdale",
+  "en": "There you are, witch!",
+  "fr": "Te voilà, bloody sorcière !"
+ },
+ {
+  "ctx": "ST2040BM",
+  "max": 34,
+  "who": "Glasdale",
+  "en": "You're the wretched she-devil\nresponsible for my mangled honor!",
+  "fr": "C'est toi, misérable diablesse,\nqui as souillé mon honneur !"
+ },
+ {
+  "ctx": "ST2040BM",
+  "max": 34,
+  "who": "Glasdale",
+  "en": "I swear with every last inch of\nmy pride:\fyou will not have the Tourelles!",
+  "fr": "Je le jure sur tout ce qu'il me\nreste de fierté :\ftu n'auras pas les Tourelles !"
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "",
+  "en": "Enemy reinforcements!",
+  "fr": "Des renforts\nennemis !"
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "unité#178",
+  "en": "Good! Keep it\ngoing!",
+  "fr": "Bien ! On\ncontinue !"
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "unité#178",
+  "en": "A savior?\nNo such thing!",
+  "fr": "Oune salvatrice ?\nBalivernes !"
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "unité#178",
+  "en": "This is all a\nsavior can do?",
+  "fr": "Une salvatrice,\nça ? C'est tout ?"
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "unité#178",
+  "en": "This isn't over!\nKeep it up!",
+  "fr": "Ce n'est pas\nfini ! Continuez !"
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "unité#178",
+  "en": "You shall not\npass!",
+  "fr": "Vous ne passerez\npas !"
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "unité#178",
+  "en": "We can't lose!",
+  "fr": "Nous ne pouvons\npas perdre !"
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "",
+  "en": "Dammit...how\ncould this be...",
+  "fr": "Damn it...\ncomment est-ce..."
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "",
+  "en": "I can't believe\nthis...",
+  "fr": "Je n'y crois\npas..."
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "",
+  "en": "I'll never let\nyou past!",
+  "fr": "Tu ne passeras\njamais !"
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "",
+  "en": "This shall be\nyour grave!",
+  "fr": "Ce sera\nta tombe !"
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "",
+  "en": "Time to face\nyour fates!",
+  "fr": "L'heure du\njugement a sonné !"
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "",
+  "en": "Hah...figures.",
+  "fr": "Hah... Évidemment."
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "",
+  "en": "I'll kill you in\none stroke!",
+  "fr": "Je t'achève d'un\nseul coup !"
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "",
+  "en": "Now! Do it!",
+  "fr": "Maintenant !\nVas-y !"
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "",
+  "en": "I'm...not out\nyet...",
+  "fr": "Je... tiens\nencore..."
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "",
+  "en": "Yahh!",
+  "fr": "Yaah !"
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "",
+  "en": "How about this!",
+  "fr": "Et ça, alors !"
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Hey, Roger...",
+  "fr": "Dis, Roger..."
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "This battle... Do you really think\nwe can win it?",
+  "fr": "Cette bataille... Tu crois vraiment\nqu'on peut la gagner ?"
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "What's gotten into you?",
+  "fr": "Qu'est-ce qui te\nprend ?"
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "That's the last question I'd\nexpect out of your mouth.",
+  "fr": "C'est bien la dernière\nquestion que j'attendais de\ftoi."
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "So much pressure comes with\npeople believing in me.",
+  "fr": "Que les gens croient en moi,\nça pèse si lourd..."
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Do you believe in me, Roger?",
+  "fr": "Et toi, Roger, tu\ncrois en moi ?"
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "I want you fighting at my side.",
+  "fr": "Je te veux à mes\ncôtés au combat."
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "...You're my best friend.",
+  "fr": "...Tu es mon\nmeilleur ami."
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "Your...friend...",
+  "fr": "Ton... ami..."
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "I know, I make for poor company.\nBut stick with me, all right?",
+  "fr": "Je sais, je ne suis pas facile.\nMais reste avec moi, d'accord ?"
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "...Don't be stupid, Jeanne.",
+  "fr": "...Ne dis pas de\nbêtises, Jeanne."
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "I'm not going anywhere\\u2014",
+  "fr": "Je ne vais nulle part\\u2014"
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "and the English don't stand a\nchance against you and me.",
+  "fr": "et les Anglais n'ont aucune\nchance contre toi et moi."
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "...Right!",
+  "fr": "...Oui !"
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "Glasdale",
+  "en": "Agh...!",
+  "fr": "Agh... !"
+ },
+ {
+  "ctx": "ST2040BT",
+  "max": 16,
+  "who": "Glasdale",
+  "en": "Bloody monster!",
+  "fr": "Bloody monstre !"
+ },
+ {
+  "ctx": "ST2040AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "This way, everyone!",
+  "fr": "Par ici, tout le monde !"
+ },
+ {
+  "ctx": "ST2040AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "To the top of the fort!",
+  "fr": "Au sommet du fort !"
+ },
+ {
+  "ctx": "ST2050BM",
+  "max": 34,
+  "who": "Man's Voice",
+  "en": "Well met, lass!\nI see you are still alive.",
+  "fr": "Bien le bonjour, petite !\nJe vois que tu es toujours en vie."
+ },
+ {
+  "ctx": "ST2050BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Talbot!\nI might have known.",
+  "fr": "Talbot ! J'aurais dû m'en douter."
+ },
+ {
+  "ctx": "ST2050BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "But you're just the man I'm\nlooking for.\fNow you can explain something\nto me.",
+  "fr": "Mais vous êtes justement l'homme\nque je cherche.\fVous allez pouvoir m'expliquer\nquelque chose."
+ },
+ {
+  "ctx": "ST2050BM",
+  "max": 34,
+  "who": "Talbot",
+  "en": "Oh, I'd be delighted to.\fBut before you and I have any\nsuch parley,\nI must make one thing clear.",
+  "fr": "Oh, avec grand plaisir, indeed.\fMais avant toute discussion, il me\nfaut mettre une chose au clair."
+ },
+ {
+  "ctx": "ST2050BM",
+  "max": 34,
+  "who": "Talbot",
+  "en": "Lady Fortune has admittedly been\non your side\\u2014",
+  "fr": "Dame Fortune t'a certes été\nfavorable\\u2014"
+ },
+ {
+  "ctx": "ST2050BM",
+  "max": 34,
+  "who": "Talbot",
+  "en": "but only, I am convinced,\fout of sheer determination to\nnot be on Glasdale's.",
+  "fr": "mais uniquement, j'en suis sûr,\fparce qu'elle tenait à ne pas\nêtre du côté de Glasdale."
+ },
+ {
+  "ctx": "ST2050BM",
+  "max": 34,
+  "who": "Talbot",
+  "en": "Luck will save you no more.\fIt's time you learned that power\ntrumps all!",
+  "fr": "La chance ne te sauvera plus.\fIl est temps d'apprendre que la\nforce l'emporte sur tout !"
+ },
+ {
+  "ctx": "ST2050BT",
+  "max": 16,
+  "who": "unité#175, unité#113",
+  "en": "Excellent!",
+  "fr": "Excellent !"
+ },
+ {
+  "ctx": "ST2050BT",
+  "max": 16,
+  "who": "unité#175",
+  "en": "All right! Don't\nlet 'em go!",
+  "fr": "Bien ! Qu'aucun\nne s'échappe !"
+ },
+ {
+  "ctx": "ST2050BT",
+  "max": 16,
+  "who": "unité#175",
+  "en": "I won't let you\ninvade us!",
+  "fr": "Vous n'envahirez\npas nos murs !"
+ },
+ {
+  "ctx": "ST2050BT",
+  "max": 16,
+  "who": "unité#175",
+  "en": "Protect the base\nat all costs!",
+  "fr": "Protégez la base\nà tout prix !"
+ },
+ {
+  "ctx": "ST2050BT",
+  "max": 16,
+  "who": "unité#175",
+  "en": "We have no place\nto retreat to!",
+  "fr": "Nous n'avons nulle\npart où reculer !"
+ },
+ {
+  "ctx": "ST2050BT",
+  "max": 16,
+  "who": "unité#175",
+  "en": "Stop them, no\nmatter what!",
+  "fr": "Arrêtez-les,\ncoûte que coûte !"
+ },
+ {
+  "ctx": "ST2050BT",
+  "max": 16,
+  "who": "",
+  "en": "Keep it going!\nFull-on attack!",
+  "fr": "Continuez !\nAttaque totale !"
+ },
+ {
+  "ctx": "ST2050BT",
+  "max": 16,
+  "who": "",
+  "en": "Fight on! We\nmust not lose!",
+  "fr": "Hardi ! Il ne faut\npas perdre !"
+ },
+ {
+  "ctx": "ST2050BT",
+  "max": 16,
+  "who": "",
+  "en": "Savior? Don't\nmake me laugh!",
+  "fr": "Salvatrice ? Ne\nme fais pas rire !"
+ },
+ {
+  "ctx": "ST2050BT",
+  "max": 16,
+  "who": "",
+  "en": "Such a shame...",
+  "fr": "Quel dommage..."
+ },
+ {
+  "ctx": "ST2050BT",
+  "max": 16,
+  "who": "",
+  "en": "Give it up,\nlittle lady...",
+  "fr": "Abandonne,\nma petite..."
+ },
+ {
+  "ctx": "ST2050BT",
+  "max": 16,
+  "who": "",
+  "en": "This fortress\nis impregnable!",
+  "fr": "Cette forteresse\nest imprenable !"
+ },
+ {
+  "ctx": "ST2050BT",
+  "max": 16,
+  "who": "",
+  "en": "Still think you\ncan win this?",
+  "fr": "Tu crois encore\npouvoir gagner ?"
+ },
+ {
+  "ctx": "ST2050BT",
+  "max": 16,
+  "who": "",
+  "en": "Do not be\ndaunted!",
+  "fr": "Ne perdez pas\ncourage !"
+ },
+ {
+  "ctx": "ST2050BT",
+  "max": 16,
+  "who": "",
+  "en": "Yaaaaahhhh!!",
+  "fr": "Yaaaaaah !!"
+ },
+ {
+  "ctx": "ST2050BT",
+  "max": 16,
+  "who": "",
+  "en": "Pitiful!",
+  "fr": "Pitoyable !"
+ },
+ {
+  "ctx": "ST2050BT",
+  "max": 16,
+  "who": "Talbot",
+  "en": "Ngahhh!\nI'm through...",
+  "fr": "Ngaaah !\nC'est fini..."
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Talbot",
+  "en": "Har... I may have underestimated\nyou.",
+  "fr": "Har... Je t'ai peut-être sous-\nestimée."
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "...Finish what you were starting\nto say the other day.",
+  "fr": "...Finissez ce que vous aviez\ncommencé à dire l'autre jour."
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "What did France do to treat\nEngland so foully?",
+  "fr": "Qu'a donc fait la France pour\nmaltraiter ainsi l'Angleterre ?"
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Talbot",
+  "en": "Hmm?",
+  "fr": "Hmm ?"
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "What did my forefathers do to\nyours?",
+  "fr": "Qu'ont fait mes ancêtres aux\nvôtres ?"
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Talbot",
+  "en": "...Ha!",
+  "fr": "...Ha !"
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Talbot",
+  "en": "Tell me, lass...",
+  "fr": "Dis-moi, petite..."
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Talbot",
+  "en": "do you really believe you can\nsave all of France's people?",
+  "fr": "crois-tu vraiment pouvoir sauver\ntout le peuple de France ?"
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Of course...because I won't let\nyou hurt even one more person.",
+  "fr": "Bien sûr... car je ne vous\nlaisserai plus blesser personne."
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Talbot",
+  "en": "...Why!",
+  "fr": "...Pourquoi !"
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Talbot",
+  "en": "Why did God choose weal for\nFrance, and woe for us?\fAre we not allowed to be happy?",
+  "fr": "Pourquoi Dieu a-t-il accordé la joie\nà la France, et le malheur à nous ?\fN'avons-nous pas droit au bonheur ?"
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "There's no happiness in\nslaughtering innocent people!",
+  "fr": "Il n'y a aucun bonheur à\nmassacrer des innocents !"
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Talbot",
+  "en": "...Heh, heh...",
+  "fr": "...Héh, héh..."
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Talbot",
+  "en": "Heh heh heh...aha ha...\nAha ha ha, HAH HAH HAH!",
+  "fr": "Héh héh héh... ah ha ha...\nAh ha ha, HA HA HA !"
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "What's so funny?",
+  "fr": "Qu'est-ce qui vous fait rire ?"
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Talbot",
+  "en": "One day, lass...very soon...",
+  "fr": "Un jour, petite... très bientôt..."
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Talbot",
+  "en": "you'll learn just how absurd a\nplace the world really is.",
+  "fr": "tu comprendras à quel point ce\nmonde est absurde."
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Talbot",
+  "en": "I'll tell you one thing...",
+  "fr": "Je vais te dire une chose..."
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Talbot",
+  "en": "God doesn't save the believers. ",
+  "fr": "Dieu ne sauve pas les croyants."
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Talbot!",
+  "fr": "Talbot !"
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Bertrand",
+  "en": "Meh heh! I admit I always wanted\nto be popular, but\\u2014",
+  "fr": "Mé héh ! J'ai toujours voulu être\npopulaire, je l'avoue, mais\\u2014"
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Jean",
+  "en": "Something tells me we won't get\nmuch sleep tonight.",
+  "fr": "J'ai comme l'impression qu'on ne\ndormira pas beaucoup cette nuit."
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Marcel",
+  "en": "Colette, can we hurry up and go\nin, pleeease? I have to pee!",
+  "fr": "Colette, on rentre vite, s'il te\nplaaaît ? J'ai envie de faire pipi !"
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Colet",
+  "en": "Zen learn to ride sidesaddle!\nGrand dieu...",
+  "fr": "Alors apprends à monter en amazone !\nGrand Dieu..."
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Rufus",
+  "en": "Woof! Arf, arf!",
+  "fr": "Ouaf ! Ouaf, ouaf !"
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "Jeanne, shall we?",
+  "fr": "Jeanne, on y va ?"
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "...What's wrong?\nAre you crying?",
+  "fr": "...Qu'y a-t-il ? Vous pleurez ?"
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "N-no.",
+  "fr": "N-non."
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "I'm going to make everyone\nhere happy, Gilles.\fI'm going to save France.",
+  "fr": "Je rendrai heureux tous ceux\nqui sont ici, Gilles.\fJe sauverai la France."
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "...Well, of course you are. \fBut right now you need to smile,\nhmm?",
+  "fr": "...Bien sûr que oui.\fMais pour l'instant, il faut\nsourire, d'accord ?"
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "...Ha ha ha.",
+  "fr": "...Ha ha ha."
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Cuisses",
+  "en": "Coaaa!",
+  "fr": "Croaaa !"
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "Boooooo!",
+  "fr": "Bouuuuuh !"
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "What a bore. Nothing's going the\nway I want it to!",
+  "fr": "Boring ! Rien ne se passe\ncomme nous le voulons !"
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "And we were rather fond of that \nwhiskered fellow, too.",
+  "fr": "Et nous l'aimions bien, ce\nmonsieur avec la moustache."
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "Weren't we, kitty-witty?",
+  "fr": "N'est-ce pas, mon petit minou ?"
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "Take heart, Your Grace.",
+  "fr": "Courage, Votre Grâce."
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "You simply chose the wrong\npawns to play.",
+  "fr": "Vous avez simplement choisi les\nmauvais pions."
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "We should renew the assault\nwith all our forces...\fthis time both man AND monster.",
+  "fr": "Nous devrions relancer l'assaut\navec toutes nos forces...\fhommes ET monstres, cette fois."
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "Bah, that's dull. I'm sick of\nmen and monsters alike.\fThey're all so bloody useless!",
+  "fr": "Bah, c'est barbant. J'en ai assez\ndes hommes comme des monstres.\fIls sont tous bloody inutiles !"
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "Hmm... Very well.",
+  "fr": "Hmm... Very well."
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "What about THEM, Sire?",
+  "fr": "Et EUX, Sire ?"
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "...You three, come here.",
+  "fr": "...Vous trois, approchez."
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "What what what what what what\nwhat are THOSE?!",
+  "fr": "Qu'est-ce que qu'est-ce que\nqu'est-ce que c'est que ÇA ?!"
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "The toys, Sire, which you so\ninsightfully selected before.",
+  "fr": "Les jouets, Sire, que vous avez\nsi judicieusement choisis."
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Henry VI",
+  "en": "Wow! Are these truly the same\nthree people, Uncle?\fThey look so...so beefy!",
+  "fr": "Wow ! Ce sont vraiment les trois\nmêmes, Uncle ?\fIls ont l'air si... si costauds !"
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "Yes, Sire. They've undergone a\nbit of...corporal augmentation.",
+  "fr": "Oui, Sire. Ils ont subi oune\nlégère... amélioration corporelle."
+ },
+ {
+  "ctx": "ST2050AB",
+  "max": 34,
+  "who": "Duke of Bedford",
+  "en": "And I'm quite certain they're \nready to die for a cause \nas noble as yours.",
+  "fr": "Et je suis certain qu'ils sont\nprêts à mourir pour une cause\naussi noble que la vôtre."
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "",
+  "en": "We must first get out of Patay.",
+  "fr": "Il faut d'abord quitter Patay."
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Georges",
+  "en": "Going to Reims?!",
+  "fr": "Aller à Reims ?!"
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Georges",
+  "en": "I'ff heard enouff of your\nimpudenth, you tricky wench!",
+  "fr": "Z'en ai azzez entendu de vos\nimpertinenzes, rouzée !"
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "It's not a trick!\fI only want to see the dauphin\ncrowned France's rightful king.",
+  "fr": "Ce n'est pas une ruse !\fJe veux seulement voir le\ndauphin sacré roi de France."
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "He cannot accede to the throne\nwithout a proper coronation at\nthe Cathedral of Reims!",
+  "fr": "Il ne peut monter sur le trône\nsans être sacré dans la\ncathédrale de Reims !"
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Georges",
+  "en": "Thince when are you thuch a\nexthpert?!",
+  "fr": "Depuis quand êtes-vous zi\nexperte ?!"
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Georges",
+  "en": "Reims ith thituated thmack in\nthe middle of enemy territory!",
+  "fr": "Reims ze trouve en plein\nterritoire ennemi !"
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Charles VII",
+  "en": "Oh, pish-posh, Georges. Stay\nbehind, if it doesn't suit you.",
+  "fr": "Oh, taratata, Georges. Restez\nici, si cela ne vous convient pas."
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Georges",
+  "en": "But...but...!",
+  "fr": "Mais... mais... !"
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Charles VII",
+  "en": "You can keep the home fires\nburning while I'm away.",
+  "fr": "Vous garderez le château\npendant mon absence."
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Charles VII",
+  "en": "Richemont's troops will accompany\nme to Reims, I trust.",
+  "fr": "Les troupes de Richemont\nm'accompagneront à Reims, j'espère."
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Richemont",
+  "en": "I will not pass up any chance to\ncrown my king. Certainly not now,",
+  "fr": "Je saisirai toute occasion de\nsacrer mon roi. Surtout maintenant,"
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Richemont",
+  "en": "when the girl's victory at Orléans\nhas given us ground to stand on.",
+  "fr": "alors que sa victoire à Orléans\nnous a donné une assise."
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Gilles",
+  "en": "Encouraging words, sir.",
+  "fr": "Voilà qui est encourageant,\nmessire."
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Georges",
+  "en": "But D-D-Dauphin!\fAth your counthellor, I belong\nat your thide!",
+  "fr": "Mais d-d-dauphin !\fZ'est à vos côtés qu'est la plaze\nde votre conzeiller !"
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Charles VII",
+  "en": "Now honestly! Jeanne and her\nescorts have told me what to do.",
+  "fr": "Enfin, voyons ! Jeanne et son\nescorte m'ont dit quoi faire."
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Charles VII",
+  "en": "Grow up, Georges.",
+  "fr": "Soyez donc adulte, Georges."
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Georges",
+  "en": "Heep...!",
+  "fr": "Hiip... !"
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Georges",
+  "en": "How pothitiffly inthulting!",
+  "fr": "Z'est d'un inzultant !"
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Jeanne, Liane",
+  "en": "Roger?",
+  "fr": "Roger ?"
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Georges",
+  "en": "You'ff all gone mad! The wench\nhath thweet-talked you into folly.",
+  "fr": "Vous êtes tous fous ! Cette\nrouzée vous a enzorcelés !"
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Georges",
+  "en": "Richemont! I thought you were a\nman of reathon.",
+  "fr": "Richemont ! Ze vous croyais\nraisonnable."
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Georges",
+  "en": "Clearly I mutht revithe my\nopinion!",
+  "fr": "Il faut croire que ze dois\nrévizer mon opinion !"
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Richemont",
+  "en": "Go on, Georges, \"thpit\" yourself\n\"thilly.\"",
+  "fr": "Allons, Georges, ne « zoyez »\npas « zot »."
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Richemont",
+  "en": "Bad blood between you and I\nwould hardly be anything new.",
+  "fr": "Une brouille entre nous n'aurait\nrien de bien nouveau."
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Roger",
+  "en": "Ur...urgh...ahh...",
+  "fr": "Ur... urgh... ahh..."
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Richemont",
+  "en": "Now then...\nOur advance on Reims.",
+  "fr": "Bien... Notre marche sur Reims."
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Richemont",
+  "en": "We shall go by way of several\ntowns; but as Georges\nforewarned,",
+  "fr": "Nous passerons par plusieurs\nvilles ; mais comme Georges\nl'a dit,"
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Richemont",
+  "en": "the road to the cathedral takes\nus right through enemy territory.",
+  "fr": "la route de la cathédrale traverse\nle territoire ennemi."
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Richemont",
+  "en": "Be certain you are all doubly\nwell prepared for battle.",
+  "fr": "Soyez donc doublement prêts\nau combat."
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Gilles",
+  "en": "I shall be humbled to see a\ntitan like you once again in the\nbattlefield, sir.",
+  "fr": "Ce sera un honneur de revoir\nun colosse tel que vous sur\nle champ de bataille, messire."
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Richemont",
+  "en": "The honor is mine, Gilles.",
+  "fr": "Tout l'honneur est pour moi,\nGilles."
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Richemont",
+  "en": "I can still recall the days you\nwere just a squire.",
+  "fr": "Je me souviens encore de l'époque\noù vous n'étiez qu'écuyer."
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Man's Voice",
+  "en": "Don't forget me.\fI'm honored, too. I get to see the\nwench'th \"miraculth\" firththand.",
+  "fr": "Ne m'oubliez pas.\fZe zuis honoré, moi auzzi. Ze vais\nvoir les « miracles » de prèz !"
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Richemont",
+  "en": "Georges.\nWhat are you doing here?",
+  "fr": "Georges. Que faites-vous ici ?"
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Georges",
+  "en": "Oh? Is my prethenth here a\nhindranth?",
+  "fr": "Oh ? Ma prézenze vous\ndérange-t-elle ?"
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Georges",
+  "en": "Heaffen forbid the dauphin's\ncounthellor be wiff the dauphin!",
+  "fr": "Le Ziel nous garde qu'un conzeiller\ndu dauphin zoit avec le dauphin !"
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Charles VII",
+  "en": "One more man should scarcely\nslow us down.",
+  "fr": "Un homme de plus ne devrait\nguère nous ralentir."
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Charles VII",
+  "en": "Jeanne, Richemont!\nLead the way.",
+  "fr": "Jeanne, Richemont !\nOuvrez la marche."
+ },
+ {
+  "ctx": "ST2051BM",
+  "max": 34,
+  "who": "Richemont",
+  "en": "Very well, then.\nLet us depart at once.",
+  "fr": "Fort bien. Partons sur-le-champ."
+ },
+ {
+  "ctx": "ST2060BM",
+  "max": 34,
+  "who": "Man's Voice",
+  "en": "Har! Well met, lass.",
+  "fr": "Har ! Bien le bonjour, petite."
+ },
+ {
+  "ctx": "ST2060BM",
+  "max": 34,
+  "who": "Talbot",
+  "en": "I see this time you've got an\nentire army in tow.\fYou must be moving up in the\nworld. Praise be to God, har!",
+  "fr": "Je vois que cette fois, tu traînes\ntoute une armée derrière toi.\fTu fais ton chemin dans le monde.\nDieu soit loué, har !"
+ },
+ {
+  "ctx": "ST2060BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "What do you want?\nAnd where are your troops?",
+  "fr": "Que voulez-vous ?\nEt où sont vos troupes ?"
+ },
+ {
+  "ctx": "ST2060BM",
+  "max": 34,
+  "who": "Talbot",
+  "en": "It seems I wore out my \nusefulness. \nGot sacked, as it were. Har!",
+  "fr": "Il semble que je ne serve plus\nà rien.\nSacked, pour ainsi dire. Har !"
+ },
+ {
+  "ctx": "ST2060BM",
+  "max": 34,
+  "who": "Talbot",
+  "en": "And yet...I can't seem to let go,",
+  "fr": "Et pourtant... je n'arrive pas à\nlâcher prise,"
+ },
+ {
+  "ctx": "ST2060BM",
+  "max": 34,
+  "who": "Talbot",
+  "en": "can't close the book just yet.",
+  "fr": "à tourner la page."
+ },
+ {
+  "ctx": "ST2060BM",
+  "max": 34,
+  "who": "Talbot",
+  "en": "Not until you send me to Heaven,\nPucelle!",
+  "fr": "Pas avant que tu m'envoies au\nCiel, Pucelle !"
+ },
+ {
+  "ctx": "ST2060BM",
+  "max": 34,
+  "who": "Talbot",
+  "en": "Ngfff...",
+  "fr": "Ngfff..."
+ },
+ {
+  "ctx": "ST2060BM",
+  "max": 34,
+  "who": "",
+  "en": "&Mawra",
+  "fr": "&Mawra"
+ },
+ {
+  "ctx": "ST2060BM",
+  "max": 34,
+  "who": "Mawra",
+  "en": "Spare us, you mawkish oaf.",
+  "fr": "Épargne-nous ta sensiblerie,\ngros lourdaud."
+ },
+ {
+  "ctx": "ST2060BM",
+  "max": 34,
+  "who": "Mawra",
+  "en": "Last I checked, you wurnt in the\nMaster's good graces no more.",
+  "fr": "Paraît que t'étais plus dans les\nbonnes grâces du Maître."
+ },
+ {
+  "ctx": "ST2060BM",
+  "max": 34,
+  "who": "",
+  "en": "&Slinker",
+  "fr": "&Rôdeur"
+ },
+ {
+  "ctx": "ST2060BM",
+  "max": 34,
+  "who": "Slinker",
+  "en": "Ni-hee! Ni!",
+  "fr": "Ni-hi ! Ni !"
+ },
+ {
+  "ctx": "ST2060BM",
+  "max": 34,
+  "who": "",
+  "en": "&Blaze",
+  "fr": "&Blaze"
+ },
+ {
+  "ctx": "ST2060BM",
+  "max": 34,
+  "who": "Blaze",
+  "en": "Not that your anthrrropic\npersistence fails to be moving.",
+  "fr": "Non que ton obstination\nhumaine ne soit pas touchante."
+ },
+ {
+  "ctx": "ST2060BM",
+  "max": 34,
+  "who": "La Hire",
+  "en": "Rrrar, you will explain yourself\nto La Hire!",
+  "fr": "Rrraah, explique-toi devant\nLa Hire !"
+ },
+ {
+  "ctx": "ST2060BM",
+  "max": 34,
+  "who": "Blaze",
+  "en": "...That therion.",
+  "fr": "...Ce thérion."
+ },
+ {
+  "ctx": "ST2060BM",
+  "max": 34,
+  "who": "Mawra",
+  "en": "A friend of yours?",
+  "fr": "Un ami à toi ?"
+ },
+ {
+  "ctx": "ST2060BM",
+  "max": 34,
+  "who": "Blaze",
+  "en": "No.\nNo frrriend of mine.",
+  "fr": "Non. Pas un ami à moi."
+ },
+ {
+  "ctx": "ST2060BM",
+  "max": 34,
+  "who": "Mawra",
+  "en": "Hmm...if you say so.",
+  "fr": "Hmm... si tu le dis."
+ },
+ {
+  "ctx": "ST2060BM",
+  "max": 34,
+  "who": "Mawra",
+  "en": "You down there! Yer that girl-\npup they call \"Pucelle,\" right?",
+  "fr": "Hé, toi, en bas ! C'est toi, la\ngamine qu'on appelle « Pucelle » ?"
+ },
+ {
+  "ctx": "ST2060BM",
+  "max": 34,
+  "who": "Mawra",
+  "en": "Well, you get the honor of bein'\nour quarry.\fAn' now, Quarry...we got to kill\nya. Nothin' personal.",
+  "fr": "Eh ben, t'as l'honneur d'être\nnotre gibier.\fEt maintenant, le gibier... faut\nqu'on te tue. Rien de perso."
+ },
+ {
+  "ctx": "ST2060BM",
+  "max": 34,
+  "who": "Mawra",
+  "en": "Hireling!\nHunt down that pup.",
+  "fr": "Larbin ! Traque-moi cette gamine."
+ },
+ {
+  "ctx": "ST2060BM",
+  "max": 34,
+  "who": "Mawra",
+  "en": "We boss types have got bossier \nmatters to attend to.",
+  "fr": "Nous, les chefs, on a des\naffaires plus importantes à régler."
+ },
+ {
+  "ctx": "ST2060BM",
+  "max": 34,
+  "who": "Bartolomeo",
+  "en": "Fie, vile man-spawn!\fTo-day I shall return thee to\nthe dust from whence thou came!",
+  "fr": "Fi, vile engeance humaine !\fEn ce jour, je te rendrai à la\npoussière dont tu es issu !"
+ },
+ {
+  "ctx": "ST2060BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "Horror among\nhorrors!",
+  "fr": "Horreur des\nhorreurs !"
+ },
+ {
+  "ctx": "ST2060BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "Ohh...",
+  "fr": "Ohh..."
+ },
+ {
+  "ctx": "ST2060BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "Oh, war and the\nwoe it weaves...",
+  "fr": "Ah, la guerre et\nses malheurs..."
+ },
+ {
+  "ctx": "ST2060BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "Such a terrible\ntragedy...",
+  "fr": "Quelle terrible\ntragédie..."
+ },
+ {
+  "ctx": "ST2060BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "Lamentably...\nI loathe losing!",
+  "fr": "Hélas... Je\ndéteste perdre !"
+ },
+ {
+  "ctx": "ST2060BT",
+  "max": 16,
+  "who": "Beatrix, Richard",
+  "en": "Farewell...",
+  "fr": "Adieu..."
+ },
+ {
+  "ctx": "ST2060BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "Simpleton.",
+  "fr": "Nigaud."
+ },
+ {
+  "ctx": "ST2060BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "You see?",
+  "fr": "Vous voyez ?"
+ },
+ {
+  "ctx": "ST2060BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "Another bitter\nbattle begins...",
+  "fr": "Encore une\nâpre bataille..."
+ },
+ {
+  "ctx": "ST2060BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "Come,\ncomrades!",
+  "fr": "Venez,\ncamarades !"
+ },
+ {
+  "ctx": "ST2060BT",
+  "max": 16,
+  "who": "Beatrix, Bartolomeo, Jean",
+  "en": "Go!",
+  "fr": "Allez !"
+ },
+ {
+  "ctx": "ST2060BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "Yield, you\ntwaddling twit!",
+  "fr": "Rends-toi,\nmaudit bavard !"
+ }
+]

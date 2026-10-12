@@ -1,0 +1,977 @@
+{
+ "GUI/MENU04.GIM": [
+  {
+   "box": [
+    4,
+    2,
+    30,
+    10
+   ],
+   "fr": "Menu",
+   "align": "left",
+   "plain": true,
+   "cap": 8,
+   "base": 10
+  },
+  {
+   "box": [
+    5,
+    16,
+    30,
+    27
+   ],
+   "fr": "Équiper",
+   "align": "left",
+   "plain": true,
+   "cap": 8,
+   "base": 24
+  },
+  {
+   "box": [
+    4,
+    30,
+    59,
+    39
+   ],
+   "fr": "Pierres",
+   "align": "left",
+   "plain": true,
+   "cap": 8,
+   "base": 38
+  },
+  {
+   "box": [
+    4,
+    44,
+    58,
+    53
+   ],
+   "fr": "Armure d'âme",
+   "align": "left",
+   "plain": true,
+   "cap": 8,
+   "base": 52
+  },
+  {
+   "box": [
+    4,
+    58,
+    56,
+    67
+   ],
+   "fr": "Commandes",
+   "align": "left",
+   "plain": true,
+   "cap": 8,
+   "base": 66
+  },
+  {
+   "box": [
+    4,
+    72,
+    38,
+    82
+   ],
+   "fr": "Système",
+   "align": "left",
+   "plain": true,
+   "cap": 8,
+   "base": 80
+  },
+  {
+   "box": [
+    139,
+    1,
+    152,
+    10
+   ],
+   "fr": "Nv",
+   "font": "times",
+   "cap": 7,
+   "base": 9
+  },
+  {
+   "box": [
+    240,
+    16,
+    253,
+    26
+   ],
+   "fr": "Nv",
+   "font": "times",
+   "cap": 8,
+   "base": 25
+  },
+  {
+   "box": [
+    137,
+    81,
+    154,
+    90
+   ],
+   "fr": "PV",
+   "font": "times",
+   "cap": 7,
+   "base": 89
+  },
+  {
+   "box": [
+    157,
+    81,
+    175,
+    90
+   ],
+   "fr": "PM",
+   "font": "times",
+   "cap": 7,
+   "base": 89
+  },
+  {
+   "box": [
+    177,
+    81,
+    205,
+    90
+   ],
+   "fr": "TOUR",
+   "font": "times",
+   "cap": 7,
+   "base": 89
+  },
+  {
+   "box": [
+    22,
+    85,
+    54,
+    97
+   ],
+   "fr": "Objets",
+   "cap": 10,
+   "base": 96
+  },
+  {
+   "box": [
+    22,
+    101,
+    53,
+    113
+   ],
+   "fr": "Compét.",
+   "cap": 10,
+   "base": 112
+  },
+  {
+   "box": [
+    22,
+    117,
+    54,
+    131
+   ],
+   "fr": "Équiper",
+   "cap": 10,
+   "base": 128
+  },
+  {
+   "box": [
+    11,
+    133,
+    65,
+    147
+   ],
+   "fr": "Armes",
+   "cap": 10,
+   "base": 144
+  },
+  {
+   "box": [
+    19,
+    149,
+    57,
+    161
+   ],
+   "fr": "Armures",
+   "cap": 10,
+   "base": 160
+  },
+  {
+   "box": [
+    20,
+    165,
+    56,
+    177
+   ],
+   "fr": "Bouclier",
+   "cap": 10,
+   "base": 176
+  },
+  {
+   "box": [
+    4,
+    181,
+    72,
+    193
+   ],
+   "fr": "Pierres",
+   "cap": 10,
+   "base": 192
+  },
+  {
+   "box": [
+    23,
+    197,
+    53,
+    209
+   ],
+   "fr": "Unités",
+   "cap": 10,
+   "base": 208
+  },
+  {
+   "box": [
+    19,
+    213,
+    57,
+    225
+   ],
+   "fr": "Statut",
+   "cap": 10,
+   "base": 224
+  },
+  {
+   "box": [
+    15,
+    229,
+    62,
+    243
+   ],
+   "fr": "Options",
+   "cap": 10,
+   "base": 240
+  },
+  {
+   "box": [
+    32,
+    245,
+    74,
+    255
+   ],
+   "fr": "Critique",
+   "cap": 10,
+   "base": 256
+  },
+  {
+   "box": [
+    78,
+    122,
+    112,
+    133
+   ],
+   "fr": "Équip/",
+   "cap": 10,
+   "base": 133
+  },
+  {
+   "box": [
+    119,
+    122,
+    134,
+    131
+   ],
+   "fr": "Tout",
+   "cap": 10,
+   "base": 133
+  },
+  {
+   "box": [
+    77,
+    135,
+    139,
+    147
+   ],
+   "fr": "NIVEAU +1 !",
+   "cap": 10,
+   "base": 146
+  },
+  {
+   "box": [
+    81,
+    149,
+    147,
+    161
+   ],
+   "fr": "Armure d'âme",
+   "cap": 10,
+   "base": 160
+  },
+  {
+   "box": [
+    96,
+    165,
+    132,
+    179
+   ],
+   "fr": "Acheter",
+   "cap": 10,
+   "base": 176
+  },
+  {
+   "box": [
+    96,
+    181,
+    132,
+    193
+   ],
+   "fr": "Vendre",
+   "cap": 10,
+   "base": 192
+  },
+  {
+   "box": [
+    88,
+    197,
+    140,
+    209
+   ],
+   "fr": "Formules",
+   "cap": 10,
+   "base": 208
+  },
+  {
+   "box": [
+    94,
+    213,
+    135,
+    225
+   ],
+   "fr": "Chef",
+   "cap": 10,
+   "base": 224
+  },
+  {
+   "box": [
+    96,
+    229,
+    132,
+    241
+   ],
+   "fr": "Invité",
+   "cap": 10,
+   "base": 240
+  },
+  {
+   "box": [
+    171,
+    205,
+    214,
+    217
+   ],
+   "fr": "PHASE",
+   "cap": 9,
+   "base": 215
+  },
+  {
+   "box": [
+    216,
+    205,
+    254,
+    217
+   ],
+   "fr": "ALLIÉE",
+   "cap": 8,
+   "base": 216,
+   "ext_up": 0,
+   "ext_down": 0
+  },
+  {
+   "box": [
+    171,
+    219,
+    210,
+    231
+   ],
+   "fr": "PHASE",
+   "cap": 9,
+   "base": 229
+  },
+  {
+   "box": [
+    212,
+    219,
+    250,
+    231
+   ],
+   "fr": "ENNEMIE",
+   "cap": 9,
+   "base": 229
+  },
+  {
+   "box": [
+    181,
+    233,
+    217,
+    243
+   ],
+   "fr": "ALLIÉ",
+   "cap": 6,
+   "base": 242,
+   "ext_up": 0,
+   "ext_down": 0
+  },
+  {
+   "box": [
+    141,
+    245,
+    175,
+    255
+   ],
+   "fr": "INVITÉ",
+   "cap": 6,
+   "base": 254,
+   "ext_up": 0,
+   "ext_down": 0
+  },
+  {
+   "box": [
+    181,
+    245,
+    214,
+    254
+   ],
+   "fr": "ENNEMI",
+   "cap": 6,
+   "base": 252
+  }
+ ],
+ "TITLE.GIM": [
+  {
+   "box": [
+    2,
+    169,
+    143,
+    181
+   ],
+   "fr": "APPUYEZ SUR UN BOUTON",
+   "font": "times",
+   "cap": 9,
+   "base": 179,
+   "shadow": false
+  },
+  {
+   "box": [
+    148,
+    169,
+    289,
+    181
+   ],
+   "fr": "APPUYEZ SUR UN BOUTON",
+   "font": "times",
+   "cap": 9,
+   "base": 179,
+   "shadow": false
+  },
+  {
+   "box": [
+    2,
+    183,
+    143,
+    195
+   ],
+   "fr": "NOUVELLE PARTIE",
+   "font": "times",
+   "cap": 9,
+   "base": 193,
+   "shadow": false
+  },
+  {
+   "box": [
+    148,
+    183,
+    289,
+    195
+   ],
+   "fr": "NOUVELLE PARTIE",
+   "font": "times",
+   "cap": 9,
+   "base": 193,
+   "shadow": false
+  },
+  {
+   "box": [
+    2,
+    197,
+    143,
+    209
+   ],
+   "fr": "CONTINUER",
+   "font": "times",
+   "cap": 9,
+   "base": 207,
+   "shadow": false
+  },
+  {
+   "box": [
+    148,
+    197,
+    289,
+    209
+   ],
+   "fr": "CONTINUER",
+   "font": "times",
+   "cap": 9,
+   "base": 207,
+   "shadow": false
+  },
+  {
+   "box": [
+    2,
+    211,
+    143,
+    223
+   ],
+   "fr": "GALERIE",
+   "font": "times",
+   "cap": 9,
+   "base": 221,
+   "shadow": false
+  },
+  {
+   "box": [
+    148,
+    211,
+    289,
+    223
+   ],
+   "fr": "GALERIE",
+   "font": "times",
+   "cap": 9,
+   "base": 221,
+   "shadow": false
+  }
+ ],
+ "GUI/MENU07.GIM": [
+  {
+   "box": [
+    58,
+    1,
+    95,
+    11
+   ],
+   "fr": "TOUR",
+   "font": "helv",
+   "cap": 8,
+   "base": 10,
+   "shadow": false
+  }
+ ],
+ "GUI/MENU_TEX.GIM": [
+  {
+   "box": [
+    26,
+    94,
+    38,
+    107
+   ],
+   "fr": "a",
+   "cap": 16,
+   "base": 106,
+   "ext_up": 5,
+   "ext_down": 3,
+   "shadow": false
+  },
+  {
+   "box": [
+    46,
+    94,
+    58,
+    107
+   ],
+   "fr": "r",
+   "cap": 16,
+   "base": 106,
+   "ext_up": 5,
+   "ext_down": 3,
+   "shadow": false
+  },
+  {
+   "box": [
+    67,
+    94,
+    78,
+    107
+   ],
+   "fr": "d",
+   "cap": 16,
+   "base": 106,
+   "ext_up": 5,
+   "ext_down": 3,
+   "shadow": false
+  },
+  {
+   "box": [
+    85,
+    89,
+    98,
+    107
+   ],
+   "fr": "e",
+   "cap": 16,
+   "base": 106,
+   "ext_up": 5,
+   "ext_down": 3,
+   "shadow": false
+  },
+  {
+   "box": [
+    84,
+    116,
+    96,
+    129
+   ],
+   "fr": "q",
+   "cap": 13,
+   "base": 128,
+   "ext_up": 0,
+   "ext_down": 4,
+   "shadow": false
+  },
+  {
+   "box": [
+    104,
+    116,
+    116,
+    129
+   ],
+   "fr": "u",
+   "cap": 16,
+   "base": 128,
+   "ext_up": 5,
+   "ext_down": 3,
+   "shadow": false
+  },
+  {
+   "box": [
+    127,
+    111,
+    133,
+    129
+   ],
+   "fr": "e",
+   "cap": 16,
+   "base": 128,
+   "ext_up": 5,
+   "ext_down": 3,
+   "shadow": false,
+   "min_condense": 0.3
+  }
+ ],
+ "GUI/LOADING.GIM": [
+  {
+   "box": [
+    14,
+    62,
+    112,
+    80
+   ],
+   "fr": "Chargement...",
+   "font": "helv",
+   "plain": true,
+   "color": [
+    215,
+    215,
+    215
+   ],
+   "bg": [
+    0,
+    0,
+    0
+   ],
+   "align": "left",
+   "cap": 9,
+   "base": 75,
+   "ext_up": 0,
+   "ext_down": 0
+  }
+ ],
+ "GUI/WMICON04.GIM": [
+  {
+   "box": [
+    12,
+    56,
+    109,
+    70
+   ],
+   "fr": "Combat libre",
+   "bg": "rows",
+   "fill_color": [
+    252,
+    226,
+    150
+   ],
+   "outline_color": [
+    100,
+    15,
+    5
+   ],
+   "shadow": false,
+   "cap": 10,
+   "base": 68,
+   "ext_up": 0,
+   "ext_down": 0
+  },
+  {
+   "box": [
+    22,
+    86,
+    98,
+    102
+   ],
+   "fr": "BOUTIQUE",
+   "bg": "rows",
+   "fill_color": [
+    252,
+    232,
+    120
+   ],
+   "outline_color": [
+    90,
+    50,
+    0
+   ],
+   "shadow": false,
+   "cap": 11,
+   "base": 100,
+   "ext_up": 0,
+   "ext_down": 0
+  }
+ ],
+ "_banners": {
+  "PICT/MN1010.GIM": {
+   "kind": "location",
+   "fr": "La chapelle des bois"
+  },
+  "PICT/MN1020.GIM": {
+   "kind": "location",
+   "fr": "Domrémy"
+  },
+  "PICT/MN1030.GIM": {
+   "kind": "location",
+   "fr": "Neufchâteau"
+  },
+  "PICT/MN1040.GIM": {
+   "kind": "location",
+   "fr": "La forêt de Fraude"
+  },
+  "PICT/MN1050.GIM": {
+   "kind": "location",
+   "fr": "La vallée de Soir"
+  },
+  "PICT/MN1060.GIM": {
+   "kind": "location",
+   "fr": "La colline éolienne"
+  },
+  "PICT/MN1070.GIM": {
+   "kind": "location",
+   "fr": "La porte de Bourgogne"
+  },
+  "PICT/MN2010.GIM": {
+   "kind": "location",
+   "fr": "La bastille Saint-Loup"
+  },
+  "PICT/MN2020.GIM": {
+   "kind": "location",
+   "fr": "La bastille des Augustins"
+  },
+  "PICT/MN2040.GIM": {
+   "kind": "location",
+   "fr": "Les Tourelles"
+  },
+  "PICT/MN2060.GIM": {
+   "kind": "location",
+   "fr": "Patay"
+  },
+  "PICT/MN2070.GIM": {
+   "kind": "location",
+   "fr": "Troyes"
+  },
+  "PICT/MN2080.GIM": {
+   "kind": "location",
+   "fr": "Châlons"
+  },
+  "PICT/MN2090.GIM": {
+   "kind": "location",
+   "fr": "Les marais de Vermonde"
+  },
+  "PICT/MN2100.GIM": {
+   "kind": "location",
+   "fr": "Reims"
+  },
+  "PICT/MN3010.GIM": {
+   "kind": "location",
+   "fr": "Les remparts de Paris"
+  },
+  "PICT/MN3020.GIM": {
+   "kind": "location",
+   "fr": "La Charité"
+  },
+  "PICT/MN3021.GIM": {
+   "kind": "location",
+   "fr": "Saint-Pierre-le-Moûtier"
+  },
+  "PICT/MN3030.GIM": {
+   "kind": "location",
+   "fr": "Clairoix"
+  },
+  "PICT/MN3040.GIM": {
+   "kind": "location",
+   "fr": "Les landes de Reine-Couronne"
+  },
+  "PICT/MN3050.GIM": {
+   "kind": "location",
+   "fr": "Le col de Grandgris"
+  },
+  "PICT/MN3060.GIM": {
+   "kind": "location",
+   "fr": "Les ruines de Cents-Abris"
+  },
+  "PICT/MN3070.GIM": {
+   "kind": "location",
+   "fr": "Le château de Bourgogne"
+  },
+  "PICT/MN3080.GIM": {
+   "kind": "location",
+   "fr": "Le temple de Voldor"
+  },
+  "PICT/MN3090.GIM": {
+   "kind": "location",
+   "fr": "La cathédrale de Reims"
+  },
+  "PICT/MN4010.GIM": {
+   "kind": "location",
+   "fr": "Le canal de Guillorey"
+  },
+  "PICT/MN4020.GIM": {
+   "kind": "location",
+   "fr": "Les souterrains de Paris"
+  },
+  "PICT/MN4030.GIM": {
+   "kind": "location",
+   "fr": "Le bois d'Alrond"
+  },
+  "PICT/MN4031.GIM": {
+   "kind": "location",
+   "fr": "Les mines de Gwygone"
+  },
+  "PICT/MN4040.GIM": {
+   "kind": "location",
+   "fr": "Le reliquaire"
+  },
+  "PICT/MN4041.GIM": {
+   "kind": "location",
+   "fr": "Le labyrinthe d'Ybert"
+  },
+  "PICT/MN4050.GIM": {
+   "kind": "location",
+   "fr": "Le canyon de Vantoix"
+  },
+  "PICT/MN4060.GIM": {
+   "kind": "location",
+   "fr": "L'avant-poste de Soldat"
+  },
+  "PICT/MN4070.GIM": {
+   "kind": "location",
+   "fr": "Un cœur captif"
+  },
+  "PICT/MN4080.GIM": {
+   "kind": "location",
+   "fr": "Le château de Paris"
+  },
+  "PICT/MN4090.GIM": {
+   "kind": "location",
+   "fr": "Les appartements d'Henri VI"
+  },
+  "PICT/MN4100.GIM": {
+   "kind": "location",
+   "fr": "Abaddon"
+  },
+  "PICT/MN8801.GIM": {
+   "kind": "location",
+   "fr": "Le Colisée"
+  },
+  "PICT/MN8901.GIM": {
+   "kind": "location",
+   "fr": "La prairie d'Altois"
+  },
+  "PICT/MN8902.GIM": {
+   "kind": "location",
+   "fr": "Le tunnel de Langles"
+  },
+  "PICT/MN8904.GIM": {
+   "kind": "location",
+   "fr": "Le château de Vilneaux"
+  },
+  "PICT/MN8905.GIM": {
+   "kind": "location",
+   "fr": "La tour d'Alsace"
+  },
+  "PICT/MN8906.GIM": {
+   "kind": "location",
+   "fr": "Raillemont"
+  },
+  "PICT/MN8907.GIM": {
+   "kind": "location",
+   "fr": "Le cimetière"
+  },
+  "PICT/PICT0006.GIM": {
+   "kind": "chapter",
+   "line1": "Chapitre I",
+   "fr": "Naissance d'une légende"
+  },
+  "PICT/PICT0007.GIM": {
+   "kind": "chapter",
+   "line1": "Chapitre II",
+   "fr": "La Salvatrice"
+  },
+  "PICT/PICT0008.GIM": {
+   "kind": "chapter",
+   "line1": "Chapitre III",
+   "fr": "Au cœur de la tempête"
+  },
+  "PICT/PICT0009.GIM": {
+   "kind": "chapter",
+   "line1": "Chapitre IV",
+   "fr": "L'éveil de la Pucelle"
+  },
+  "PICT/PICT0010.GIM": {
+   "kind": "chapter",
+   "line1": "Chapitre V",
+   "fr": "Le Feu noir"
+  },
+  "PICT/PICT0012.GIM": {
+   "kind": "chapter",
+   "line1": "Chapitre VI",
+   "fr": "Drapé de mort"
+  },
+  "PICT/PICT0013.GIM": {
+   "kind": "chapter",
+   "line1": "Chapitre VII",
+   "fr": "Ballottés par la tempête"
+  },
+  "PICT/PICT0014.GIM": {
+   "kind": "chapter",
+   "line1": "Chapitre VIII",
+   "fr": "Promesses"
+  },
+  "PICT/PICT0015.GIM": {
+   "kind": "caption",
+   "fr": "Appartements du roi anglais"
+  },
+  "PICT/PICT0016.GIM": {
+   "kind": "caption",
+   "fr": "Conseil de guerre anglais"
+  },
+  "PICT/PICT0017.GIM": {
+   "kind": "caption",
+   "fr": "Prison de Rouen"
+  }
+ }
+}

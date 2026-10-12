@@ -1,0 +1,1752 @@
+[
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "I have no family; no real friends;\nI don't even have a home.",
+  "fr": "Je n'ai pas de famille, pas de vrais\namis, je n'ai même pas de foyer."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "This task belongs to me.",
+  "fr": "Cette tâche me revient."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Don't be stupid. You have us!",
+  "fr": "Ne dites pas de bêtises. Vous nous\navez, nous !"
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "All right, then.",
+  "fr": "Très bien, alors."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "The truth is, I just wanted to\nshow off.",
+  "fr": "À vrai dire, je voulais surtout\nfaire le fier."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Roger",
+  "en": "Ha! You idiot...",
+  "fr": "Ha ! Espèce d'idiot..."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "...I'll be all right.",
+  "fr": "...Tout ira bien."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "Now let's be off.",
+  "fr": "À présent, partons."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Gilles",
+  "en": "The castle and the rest of the\nworld should right itself soon.",
+  "fr": "Le château et le reste du monde\ndevraient bientôt redevenir normaux."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "All right. Let's go.",
+  "fr": "Très bien. Allons-y."
+ },
+ {
+  "ctx": "ST4100AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Back to our world...",
+  "fr": "Retournons dans notre monde..."
+ },
+ {
+  "ctx": "ST8110BT",
+  "max": 16,
+  "who": "",
+  "en": "Berkyahhh!",
+  "fr": "Berkyahhh !"
+ },
+ {
+  "ctx": "ST8140BT",
+  "max": 16,
+  "who": "",
+  "en": "Brhghaa!",
+  "fr": "Brhghaa !"
+ },
+ {
+  "ctx": "ST8210BT",
+  "max": 16,
+  "who": "unité#122",
+  "en": "Oh, my...\nWhat's wrong?",
+  "fr": "Oh, eh bien...\nUn problème ?"
+ },
+ {
+  "ctx": "ST8210BT",
+  "max": 16,
+  "who": "unité#122",
+  "en": "Kill them all!",
+  "fr": "Tuez-les tous !"
+ },
+ {
+  "ctx": "ST8210BT",
+  "max": 16,
+  "who": "unité#122",
+  "en": "That the best\nyou have?",
+  "fr": "C'est tout ce\nque tu vaux ?"
+ },
+ {
+  "ctx": "ST8210BT",
+  "max": 16,
+  "who": "unité#122",
+  "en": "I hate the sight\nof you humans!",
+  "fr": "Je hais la vue\ndes humains !"
+ },
+ {
+  "ctx": "ST8210BT",
+  "max": 16,
+  "who": "unité#122",
+  "en": "This place is\nours now!",
+  "fr": "Ces lieux sont\nà nous !"
+ },
+ {
+  "ctx": "ST8210BT",
+  "max": 16,
+  "who": "unité#122",
+  "en": "Humans have no\nrights here!",
+  "fr": "Les humains n'ont\naucun droit ici !"
+ },
+ {
+  "ctx": "ST8210BT",
+  "max": 16,
+  "who": "unité#122",
+  "en": "What the...\nHow dare you...",
+  "fr": "Quoi...\nComment oses-tu..."
+ },
+ {
+  "ctx": "ST8210BT",
+  "max": 16,
+  "who": "unité#122",
+  "en": "You won't take\nthis from us!",
+  "fr": "Vous ne nous\nprendrez pas ça !"
+ },
+ {
+  "ctx": "ST8210BT",
+  "max": 16,
+  "who": "unité#122",
+  "en": "Don't expect\nclemency!",
+  "fr": "N'attends aucune\nclémence !"
+ },
+ {
+  "ctx": "ST8210BT",
+  "max": 16,
+  "who": "",
+  "en": "Kneel before\nour power!",
+  "fr": "À genoux devant\nnotre puissance !"
+ },
+ {
+  "ctx": "ST8240BT",
+  "max": 16,
+  "who": "unité#140",
+  "en": "Keep it up,\nmoo!",
+  "fr": "Continuez,\nmeuh !"
+ },
+ {
+  "ctx": "ST8240BT",
+  "max": 16,
+  "who": "unité#140",
+  "en": "Let's go! Moo!",
+  "fr": "Allons-y ! Meuh !"
+ },
+ {
+  "ctx": "ST8240BT",
+  "max": 16,
+  "who": "unité#140",
+  "en": "Nn-mooooo!!",
+  "fr": "Nn-meuuuuh !!"
+ },
+ {
+  "ctx": "ST8240BT",
+  "max": 16,
+  "who": "unité#140",
+  "en": "Don't hold back,\nmoo!",
+  "fr": "Ne vous retenez\npas, meuh !"
+ },
+ {
+  "ctx": "ST8240BT",
+  "max": 16,
+  "who": "unité#140",
+  "en": "Moo moo moo!!",
+  "fr": "Meuh meuh meuh !!"
+ },
+ {
+  "ctx": "ST8250BT",
+  "max": 16,
+  "who": "unité#130",
+  "en": "Gah hah hah!",
+  "fr": "Gah hah hah !"
+ },
+ {
+  "ctx": "ST8250BT",
+  "max": 16,
+  "who": "unité#130",
+  "en": "More...more...",
+  "fr": "Encore...\nencore..."
+ },
+ {
+  "ctx": "ST8250BT",
+  "max": 16,
+  "who": "unité#130",
+  "en": "Groorrrhh!!",
+  "fr": "Groorrrhh !!"
+ },
+ {
+  "ctx": "ST8250BT",
+  "max": 16,
+  "who": "unité#130",
+  "en": "Enemy...\nDestroy...",
+  "fr": "Ennemi...\nDétruire..."
+ },
+ {
+  "ctx": "ST8250BT",
+  "max": 16,
+  "who": "",
+  "en": "Groooorrrhh...",
+  "fr": "Groooorrrhh..."
+ },
+ {
+  "ctx": "ST8250BT",
+  "max": 16,
+  "who": "",
+  "en": "Brh!!",
+  "fr": "Brh !!"
+ },
+ {
+  "ctx": "ST8260BT",
+  "max": 16,
+  "who": "unité#125",
+  "en": "Ngyaaaaaa!",
+  "fr": "Ngyaaaaaa !"
+ },
+ {
+  "ctx": "ST8260BT",
+  "max": 16,
+  "who": "unité#125",
+  "en": "Ngya-gyaaah!",
+  "fr": "Ngya-gyaaah !"
+ },
+ {
+  "ctx": "ST8323BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Protect the\ncrystals!",
+  "fr": "Protégez les\ncristaux !"
+ },
+ {
+  "ctx": "ST8323BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Block their way\nto the crystals!",
+  "fr": "Bloquez-les avant\nles cristaux !"
+ },
+ {
+  "ctx": "ST8323BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "I won't lose\nto brigands!",
+  "fr": "Des brigands ne\nme vaincront pas !"
+ },
+ {
+  "ctx": "ST8323BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "Hands off\nthe crystals!",
+  "fr": "Bas les pattes,\nces cristaux !"
+ },
+ {
+  "ctx": "ST8323BT",
+  "max": 16,
+  "who": "Rufus",
+  "en": "Woof! Pretty\nsparklies!",
+  "fr": "Ouaf ! Que c'est\nroli !"
+ },
+ {
+  "ctx": "ST8323BT",
+  "max": 16,
+  "who": "Rufus",
+  "en": "Rooks valuable!",
+  "fr": "Ra vaut cher !"
+ },
+ {
+  "ctx": "ST8323BT",
+  "max": 16,
+  "who": "La Hire",
+  "en": "Filthy brigands!\nFace La Hire!",
+  "fr": "Sales brrrigands !\nFace à La Hire !"
+ },
+ {
+  "ctx": "ST8323BT",
+  "max": 16,
+  "who": "Bartolomeo",
+  "en": "Feebleminded\nthieves...",
+  "fr": "Voleurs\nsans cervelle..."
+ },
+ {
+  "ctx": "ST8323BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "A damsel in\ndistress!",
+  "fr": "Une demoiselle\nen détresse !"
+ },
+ {
+  "ctx": "ST8323BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "I will lose\nto no brigand!",
+  "fr": "Nul brigand ne\nme vaincra !"
+ },
+ {
+  "ctx": "ST8323BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "You can't have\nthe crystals!",
+  "fr": "Pas touche\naux cristaux !"
+ },
+ {
+  "ctx": "ST8323BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Get any closer\nand I'll shoot!",
+  "fr": "Un pas de plus\net je tire !"
+ },
+ {
+  "ctx": "ST8323BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Watch where\nthey're headed!",
+  "fr": "Surveillez où\nils vont !"
+ },
+ {
+  "ctx": "ST8323BT",
+  "max": 16,
+  "who": "Claire",
+  "en": "You keep away\nfrom them!",
+  "fr": "Éloignez-vous\nd'eux !"
+ },
+ {
+  "ctx": "ST8323BT",
+  "max": 16,
+  "who": "Claire",
+  "en": "Prepare to\nbe sizzled!",
+  "fr": "Prépare-toi à\nrôtir !"
+ },
+ {
+  "ctx": "ST8323BT",
+  "max": 16,
+  "who": "Claire",
+  "en": "You're toast!",
+  "fr": "Tu es cuit !"
+ },
+ {
+  "ctx": "ST8323BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Don't let up\nuntil I tell you!",
+  "fr": "Ne relâchez pas\nsans mon ordre !"
+ },
+ {
+  "ctx": "ST8323BT",
+  "max": 16,
+  "who": "Rufus",
+  "en": "Did it break?!",
+  "fr": "C'est cassé ?!"
+ },
+ {
+  "ctx": "ST8323BT",
+  "max": 16,
+  "who": "Claire",
+  "en": "What is the\nmeaning of this!",
+  "fr": "Qu'est-ce que\ncela signifie !"
+ },
+ {
+  "ctx": "ST8323BT",
+  "max": 16,
+  "who": "Claire",
+  "en": "This is a\ndisaster!",
+  "fr": "Quel désastre !"
+ },
+ {
+  "ctx": "ST8323BT",
+  "max": 16,
+  "who": "Claire",
+  "en": "You dare\ndefy MEEE?!",
+  "fr": "Vous osez me\ndéfieeer ?!"
+ },
+ {
+  "ctx": "ST8323BT",
+  "max": 16,
+  "who": "Claire",
+  "en": "Let's see you\nsteal NOW!",
+  "fr": "Volez donc,\nMAINTENANT !"
+ },
+ {
+  "ctx": "ST8323BT",
+  "max": 16,
+  "who": "Claire",
+  "en": "You're all in\nfor beatings!",
+  "fr": "Une raclée pour\ntout le monde !"
+ },
+ {
+  "ctx": "ST8323BT",
+  "max": 16,
+  "who": "Claire",
+  "en": "Never cross a\nmagical genius!",
+  "fr": "Ne défiez jamais\nun génie magique !"
+ },
+ {
+  "ctx": "ST8380AB",
+  "max": 34,
+  "who": "",
+  "en": "You obtain the Gem of Sacrifice!",
+  "fr": "Vous obtenez la Gemme du sacrifice !"
+ },
+ {
+  "ctx": "ST8450BT",
+  "max": 16,
+  "who": "",
+  "en": "We're...we're\nstill in this!",
+  "fr": "Nous... nous\ntenons encore !"
+ },
+ {
+  "ctx": "ST8811BM",
+  "max": 34,
+  "who": "",
+  "en": "No yield!",
+  "fr": "Je prends !"
+ },
+ {
+  "ctx": "ST8811BM",
+  "max": 34,
+  "who": "",
+  "en": "Yield and return to the world map",
+  "fr": "Je laisse et retourne à la carte"
+ },
+ {
+  "ctx": "ST8811BM",
+  "max": 34,
+  "who": "",
+  "en": "Yield, or no yield?!",
+  "fr": "À prendre, ou à laisser ?!"
+ },
+ {
+  "ctx": "ST8811BM",
+  "max": 34,
+  "who": "",
+  "en": "&Robert",
+  "fr": "&Robert"
+ },
+ {
+  "ctx": "ST8811BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Ladies...gentlemen...and\nEnglishmen! WELCOME!!!",
+  "fr": "Mesdames... messieurs... et\nAnglais ! BIENVENUE !!!"
+ },
+ {
+  "ctx": "ST8811BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "It's time to play\\u2014say it with\nme now\\u2014\"YIELD or NO YIELD\"!",
+  "fr": "C'est l'heure de\\u2014tous en chœur\n\\u2014« À PRENDRE OU À LAISSER » !"
+ },
+ {
+  "ctx": "ST8811BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Hello. I'm your host, Bobby de\nBaudricourt.",
+  "fr": "Bonjour. Je suis votre animateur,\nBobby de Baudricourt."
+ },
+ {
+  "ctx": "ST8811BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Contestants, the rules of the\ngame are simple:",
+  "fr": "Candidats, les règles du jeu sont\nsimples :"
+ },
+ {
+  "ctx": "ST8811BM",
+  "max": 34,
+  "who": "Dominic, Robert",
+  "en": "For TEN rounds, we will pit you\nagainst bloodthirsty opponents.",
+  "fr": "Pendant DIX manches, vous\naffronterez des adversaires\fassoiffés de sang."
+ },
+ {
+  "ctx": "ST8811BM",
+  "max": 34,
+  "who": "Dominic, Robert",
+  "en": "YIELD, and you can walk away\nfrom any match unscathed.",
+  "fr": "LAISSEZ, et vous pouvez quitter\nn'importe quel match indemnes."
+ },
+ {
+  "ctx": "ST8811BM",
+  "max": 34,
+  "who": "Dominic, Robert",
+  "en": "But if you DON'T YIELD,\fand survive ALL TEN pommel-\ngreasing rounds...\fyou will win a FABULOUS prize!",
+  "fr": "Mais si vous PRENEZ,\fet survivez aux DIX manches à vous\nen faire rouiller l'épée...\fvous gagnerez un prix FABULEUX !"
+ },
+ {
+  "ctx": "ST8811BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Lose a match...and that's it!\nIt's g-g-g, <COL=1>GAME OVER<COL=0>!!!",
+  "fr": "Perdez un match... et c'est tout !\nC'est f-f-f, <COL=1>FINI<COL=0> !!!"
+ },
+ {
+  "ctx": "ST8811BM",
+  "max": 34,
+  "who": "Robert, Dominic",
+  "en": "You'll have to start all over\nagain the next time you enter.",
+  "fr": "Il vous faudra tout recommencer\nà votre prochaine participation."
+ },
+ {
+  "ctx": "ST8811BM",
+  "max": 34,
+  "who": "Robert, Dominic",
+  "en": "All right, you've been given the\nfacts... Your decision, please.",
+  "fr": "Bien, vous connaissez les règles...\nVotre décision, s'il vous plaît."
+ },
+ {
+  "ctx": "ST8811BM",
+  "max": 34,
+  "who": "",
+  "en": "No Yield! (Fight the match)",
+  "fr": "Je prends ! (Combattre)"
+ },
+ {
+  "ctx": "ST8811BM",
+  "max": 34,
+  "who": "Robert, Dominic",
+  "en": "Yield! (Return to the world map)",
+  "fr": "Je laisse ! (Retour à la carte)"
+ },
+ {
+  "ctx": "ST8811BM",
+  "max": 34,
+  "who": "Robert, Dominic",
+  "en": "YIELD...or NO YIELD?",
+  "fr": "À PRENDRE... ou À LAISSER ?"
+ },
+ {
+  "ctx": "ST8811BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Okay!!! Let's toss you right into\nROUND 1!",
+  "fr": "D'accord !!! On vous envoie tout\nde suite dans la MANCHE 1 !"
+ },
+ {
+  "ctx": "ST8811BM",
+  "max": 34,
+  "who": "Robert, Dominic",
+  "en": "Get ready...\nGet set... GO!!!",
+  "fr": "À vos marques...\nPrêts... PARTEZ !!!"
+ },
+ {
+  "ctx": "ST8812BM",
+  "max": 34,
+  "who": "Robert, Dominic",
+  "en": "CONGRATULATIONS!\nWhat an amazing match!",
+  "fr": "FÉLICITATIONS !\nQuel match incroyable !"
+ },
+ {
+  "ctx": "ST8812BM",
+  "max": 34,
+  "who": "Robert, Dominic",
+  "en": "Are you ready for more bone-\ncrunching action?",
+  "fr": "Prêts pour encore plus d'action\nà vous broyer les os ?"
+ },
+ {
+  "ctx": "ST8812BM",
+  "max": 34,
+  "who": "Robert, Dominic",
+  "en": "Or will you retire now, with\nyour appendages still intact?",
+  "fr": "Ou préférez-vous vous retirer\nmaintenant, membres intacts ?"
+ },
+ {
+  "ctx": "ST8812BM",
+  "max": 34,
+  "who": "Robert, Dominic",
+  "en": "It's your decision!",
+  "fr": "C'est vous qui décidez !"
+ },
+ {
+  "ctx": "ST8812BM",
+  "max": 34,
+  "who": "Robert, Dominic",
+  "en": "No Yield! (Fight the next match)",
+  "fr": "Je prends ! (Match suivant)"
+ },
+ {
+  "ctx": "ST8812BM",
+  "max": 34,
+  "who": "Robert, Dominic",
+  "en": "Okay!!! Grab your berets, then...\nIt's time for ROUND 2!",
+  "fr": "D'accord !!! Alors, à vos bérets...\nC'est l'heure de la MANCHE 2 !"
+ },
+ {
+  "ctx": "ST8813BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Are you ready for more heart-\nstopping action?",
+  "fr": "Prêts pour encore plus d'action\nà vous arrêter le cœur ?"
+ },
+ {
+  "ctx": "ST8813BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Or will you retire now, with\nyour faces still unmangled?",
+  "fr": "Ou préférez-vous vous retirer\nmaintenant, le visage intact ?"
+ },
+ {
+  "ctx": "ST8813BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Okay!!! Grab your escargot, then...\nIt's time for ROUND 3!",
+  "fr": "D'accord !!! À vos escargots...\nC'est l'heure de la MANCHE 3 !"
+ },
+ {
+  "ctx": "ST8814BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Are you ready for more death-\ndefying action?",
+  "fr": "Prêts pour encore plus d'action\nà défier la mort ?"
+ },
+ {
+  "ctx": "ST8814BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Or will you retire now, with\nyour spirits still unbroken?",
+  "fr": "Ou préférez-vous vous retirer\nmaintenant, le moral intact ?"
+ },
+ {
+  "ctx": "ST8814BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Okay!!! Grab your baguettes,\nthen... It's time for ROUND 4!",
+  "fr": "D'accord !!! À vos baguettes...\nC'est l'heure de la MANCHE 4 !"
+ },
+ {
+  "ctx": "ST8815BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Are you ready for more nerve-\nwracking action?",
+  "fr": "Prêts pour encore plus d'action\nà vous mettre les nerfs à vif ?"
+ },
+ {
+  "ctx": "ST8815BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Or will you retire now, with\nyour pants still unsoiled?",
+  "fr": "Ou préférez-vous vous retirer\nmaintenant, chausses immaculées ?"
+ },
+ {
+  "ctx": "ST8815BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Okay!!! Grab your crêpes, then...\nIt's time for ROUND 5!",
+  "fr": "D'accord !!! À vos crêpes...\nC'est l'heure de la MANCHE 5 !"
+ },
+ {
+  "ctx": "ST8816BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Are you ready for more face-\nmelting action?",
+  "fr": "Prêts pour encore plus d'action\nà vous faire fondre le visage ?"
+ },
+ {
+  "ctx": "ST8816BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Or will you retire now, with\nyour brains still unsplattered?",
+  "fr": "Ou préférez-vous vous retirer\nmaintenant, cervelle à l'intérieur ?"
+ },
+ {
+  "ctx": "ST8816BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Okay!!! Grab your accordions,\nthen... It's time for ROUND 6!",
+  "fr": "D'accord !!! À vos accordéons...\nC'est l'heure de la MANCHE 6 !"
+ },
+ {
+  "ctx": "ST8816BT",
+  "max": 16,
+  "who": "",
+  "en": "Mrrrrnnn!!",
+  "fr": "Mrrrrnnn !!"
+ },
+ {
+  "ctx": "ST8817BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Are you ready for more blood-\npumping action?",
+  "fr": "Prêts pour encore plus d'action\nà vous fouetter le sang ?"
+ },
+ {
+  "ctx": "ST8817BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Or will you retire now, with\nyour noses still in one piece?",
+  "fr": "Ou préférez-vous vous retirer\nmaintenant, nez en un seul morceau ?"
+ },
+ {
+  "ctx": "ST8817BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Okay!!! Grab your barrettes,\nthen... It's time for ROUND 7!",
+  "fr": "D'accord !!! À vos barrettes...\nC'est l'heure de la MANCHE 7 !"
+ },
+ {
+  "ctx": "ST8817BT",
+  "max": 16,
+  "who": "",
+  "en": "I can see our\nvictory ahead!",
+  "fr": "La victoire est\nen vue !"
+ },
+ {
+  "ctx": "ST8818BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Are you ready for more hair-\nraising action?",
+  "fr": "Prêts pour encore plus d'action\nà vous dresser les cheveux ?"
+ },
+ {
+  "ctx": "ST8818BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Or will you retire now, with\nyour spleens still unruptured?",
+  "fr": "Ou préférez-vous vous retirer\nmaintenant, rate encore intacte ?"
+ },
+ {
+  "ctx": "ST8818BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Okay!!! Grab your eclairs, then...\nIt's time for ROUND 8!",
+  "fr": "D'accord !!! À vos éclairs...\nC'est l'heure de la MANCHE 8 !"
+ },
+ {
+  "ctx": "ST8819BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Are you ready for more bowel-\nsoftening action?",
+  "fr": "Prêts pour encore plus d'action\nà vous liquéfier les entrailles ?"
+ },
+ {
+  "ctx": "ST8819BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Or will you retire now, with\nyour vitals still unstabbed?",
+  "fr": "Ou préférez-vous vous retirer\nmaintenant, tripes non percées ?"
+ },
+ {
+  "ctx": "ST8819BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Okay!!! Grab your merlot, then...\nIt's time for ROUND 9!",
+  "fr": "D'accord !!! À vos pichets...\nC'est l'heure de la MANCHE 9 !"
+ },
+ {
+  "ctx": "ST8820BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Are you ready for more widow-\nmaking action?",
+  "fr": "Prêts pour encore plus d'action\nà faire des veuves ?"
+ },
+ {
+  "ctx": "ST8820BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Or will you retire now, with your\nposterity still uncompromised?",
+  "fr": "Ou préférez-vous vous retirer\nmaintenant, descendance assurée ?"
+ },
+ {
+  "ctx": "ST8820BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Okay!!! Buckle up, French fries!\nThis is the FINAL ROUND!",
+  "fr": "D'accord !!! Accrochez-vous, mes\nfrites ! C'est la MANCHE FINALE !"
+ },
+ {
+  "ctx": "ST8820AB",
+  "max": 34,
+  "who": "",
+  "en": "Obtained the Gem of Azure!",
+  "fr": "Gemme d'azur obtenue !"
+ },
+ {
+  "ctx": "ST8820AB",
+  "max": 34,
+  "who": "",
+  "en": "The gem fused with Liane's armlet!",
+  "fr": "La gemme fusionne avec le Bracelet\nde Liane !"
+ },
+ {
+  "ctx": "ST8820AB",
+  "max": 34,
+  "who": "",
+  "en": "The gem fused with Cuisses's armlet!",
+  "fr": "La gemme fusionne avec le Bracelet\nde Cuisses !"
+ },
+ {
+  "ctx": "ST8820AB",
+  "max": 34,
+  "who": "Robert, Dominic",
+  "en": "UN...BEEE...LIEVABLE!\nWe have ourselves a WINNER:",
+  "fr": "IN... CROY... ABLE !\nNous avons un GAGNANT :"
+ },
+ {
+  "ctx": "ST8820AB",
+  "max": 34,
+  "who": "Robert, Dominic",
+  "en": "the unrelenting, UNYIELDING\nforces of Jeanne d'Arc!",
+  "fr": "les troupes acharnées et\nINFLEXIBLES de Jeanne d'Arc !"
+ },
+ {
+  "ctx": "ST8820AB",
+  "max": 34,
+  "who": "Robert",
+  "en": "Your prize for staying the test\nof testosterone:",
+  "fr": "Votre récompense pour avoir tenu\nbon dans cette épreuve virile :"
+ },
+ {
+  "ctx": "ST8820AB",
+  "max": 34,
+  "who": "Robert",
+  "en": "one fabulous <COL=3>Gem of Azure<COL=0>!",
+  "fr": "une fabuleuse\n<COL=3>Gemme d'azur<COL=0> !"
+ },
+ {
+  "ctx": "ST8820AB",
+  "max": 34,
+  "who": "Robert, Dominic",
+  "en": "Congratulations! REALLY!!!",
+  "fr": "Félicitations ! VRAIMENT !!!"
+ },
+ {
+  "ctx": "ST8820AB",
+  "max": 34,
+  "who": "Robert",
+  "en": "This is Bobby de Baudricourt,\nreminding you to spay your pets.",
+  "fr": "Ici Bobby de Baudricourt, qui vous\nrappelle de stériliser vos bêtes."
+ },
+ {
+  "ctx": "ST8820AB",
+  "max": 34,
+  "who": "Robert",
+  "en": "See you next time!",
+  "fr": "À la prochaine !"
+ },
+ {
+  "ctx": "ST8820AB",
+  "max": 34,
+  "who": "",
+  "en": "You obtain the Gem of Azure!",
+  "fr": "Vous obtenez la Gemme d'azur !"
+ },
+ {
+  "ctx": "ST8820AB",
+  "max": 34,
+  "who": "",
+  "en": "The gem fuses to Liane's armlet.",
+  "fr": "La gemme fusionne avec le Bracelet\nde Liane."
+ },
+ {
+  "ctx": "ST8820AB",
+  "max": 34,
+  "who": "",
+  "en": "The gem fuses to Cuisses's armlet.",
+  "fr": "La gemme fusionne avec le Bracelet\nde Cuisses."
+ },
+ {
+  "ctx": "ST8821BM",
+  "max": 34,
+  "who": "",
+  "en": "&Dominic",
+  "fr": "&Dominic"
+ },
+ {
+  "ctx": "ST8821BM",
+  "max": 34,
+  "who": "Dominic",
+  "en": "Ladies...gentlemen...and dog-men,\nwoof! WELCOME!!!",
+  "fr": "Mesdames... messieurs... et\nhommes-chiens, ouaf ! BIENVENUE !!!"
+ },
+ {
+  "ctx": "ST8821BM",
+  "max": 34,
+  "who": "Dominic",
+  "en": "It's time for another season of\n\"YIELD or NO YIELD\"!",
+  "fr": "Voici une nouvelle saison de\n« À PRENDRE OU À LAISSER » !"
+ },
+ {
+  "ctx": "ST8821BM",
+  "max": 34,
+  "who": "Dominic",
+  "en": "Hiya. I'm your host, Dominic\nDeschiens.",
+  "fr": "Salut ! Je suis votre animateur,\nDominic Deschiens."
+ },
+ {
+  "ctx": "ST8821BM",
+  "max": 34,
+  "who": "Dominic",
+  "en": "Our previous host, Bobby de\nBaudricourt, is off playing bocce,",
+  "fr": "Notre ancien animateur, Bobby de\nBaudricourt, joue aux boules,"
+ },
+ {
+  "ctx": "ST8821BM",
+  "max": 34,
+  "who": "Dominic",
+  "en": "so I'll be taking his place this\ntime around.",
+  "fr": "alors c'est moi qui le remplace\ncette fois-ci."
+ },
+ {
+  "ctx": "ST8821BM",
+  "max": 34,
+  "who": "Dominic",
+  "en": "We're about to begin our second\nseason,",
+  "fr": "Nous allons commencer notre\ndeuxième saison,"
+ },
+ {
+  "ctx": "ST8821BM",
+  "max": 34,
+  "who": "Dominic",
+  "en": "but the rules are exactly the\nsame as before!",
+  "fr": "mais les règles sont exactement\nles mêmes qu'avant !"
+ },
+ {
+  "ctx": "ST8821BM",
+  "max": 34,
+  "who": "Dominic",
+  "en": "Lose a match...and that's it!\nIt's <COL=1>GAME OVER<COL=0>, woof!",
+  "fr": "Perdez un match... et c'est tout !\nC'est <COL=1>FINI<COL=0>, ouaf !"
+ },
+ {
+  "ctx": "ST8821BM",
+  "max": 34,
+  "who": "Dominic",
+  "en": "Okay, woof! Let's toss you right\ninto ROUND 1!",
+  "fr": "D'accord, ouaf ! On vous envoie\ntout de suite dans la MANCHE 1 !"
+ },
+ {
+  "ctx": "ST8823BM",
+  "max": 34,
+  "who": "Dominic, Robert",
+  "en": "Okay!!! Grab your berets, then...\nIt's time for ROUND 3!",
+  "fr": "D'accord !!! Alors, à vos bérets...\nC'est l'heure de la MANCHE 3 !"
+ },
+ {
+  "ctx": "ST8823BT",
+  "max": 16,
+  "who": "",
+  "en": "You'll need more\nthan that!",
+  "fr": "Il t'en faudra\nplus que ça !"
+ },
+ {
+  "ctx": "ST8824BM",
+  "max": 34,
+  "who": "Dominic, Robert",
+  "en": "Okay!!! Grab your berets, then...\nIt's time for ROUND 4!",
+  "fr": "D'accord !!! Alors, à vos bérets...\nC'est l'heure de la MANCHE 4 !"
+ },
+ {
+  "ctx": "ST8825BM",
+  "max": 34,
+  "who": "Dominic, Robert",
+  "en": "Okay!!! Grab your berets, then...\nIt's time for ROUND 5!",
+  "fr": "D'accord !!! Alors, à vos bérets...\nC'est l'heure de la MANCHE 5 !"
+ },
+ {
+  "ctx": "ST8826BM",
+  "max": 34,
+  "who": "Dominic, Robert",
+  "en": "Okay!!! Grab your berets, then...\nIt's time for ROUND 6!",
+  "fr": "D'accord !!! Alors, à vos bérets...\nC'est l'heure de la MANCHE 6 !"
+ },
+ {
+  "ctx": "ST8826BT",
+  "max": 16,
+  "who": "",
+  "en": "Gah...not again.",
+  "fr": "Gah... encore ?"
+ },
+ {
+  "ctx": "ST8826BT",
+  "max": 16,
+  "who": "",
+  "en": "Hmph! I'm not\nout of this!",
+  "fr": "Hmpf ! Je ne suis\npas fini !"
+ },
+ {
+  "ctx": "ST8826BT",
+  "max": 16,
+  "who": "",
+  "en": "Your time is up,\nmy dear...",
+  "fr": "Ton heure est\nvenue, mon cher..."
+ },
+ {
+  "ctx": "ST8826BT",
+  "max": 16,
+  "who": "",
+  "en": "Victory is mine\nthis time!",
+  "fr": "Cette fois, je\nvais gagner !"
+ },
+ {
+  "ctx": "ST8827BM",
+  "max": 34,
+  "who": "Dominic, Robert",
+  "en": "Okay!!! Grab your berets, then...\nIt's time for ROUND 7!",
+  "fr": "D'accord !!! Alors, à vos bérets...\nC'est l'heure de la MANCHE 7 !"
+ },
+ {
+  "ctx": "ST8827BT",
+  "max": 16,
+  "who": "",
+  "en": "I hope you're\nready to die!",
+  "fr": "J'espère que tu\nes prêt à mourir !"
+ },
+ {
+  "ctx": "ST8827BT",
+  "max": 16,
+  "who": "",
+  "en": "When did this\nhappen?!",
+  "fr": "Quand est-ce\narrivé ?!"
+ },
+ {
+  "ctx": "ST8827BT",
+  "max": 16,
+  "who": "",
+  "en": "I'm still going\nstrong!",
+  "fr": "Je tiens encore\nbon !"
+ },
+ {
+  "ctx": "ST8827BT",
+  "max": 16,
+  "who": "",
+  "en": "I won't give up!",
+  "fr": "Je ne lâche pas !"
+ },
+ {
+  "ctx": "ST8827BT",
+  "max": 16,
+  "who": "",
+  "en": "Heh heh...You're\nmine now!",
+  "fr": "Hé hé... Je te\ntiens !"
+ },
+ {
+  "ctx": "ST8827BT",
+  "max": 16,
+  "who": "",
+  "en": "We can win this!",
+  "fr": "On peut gagner !"
+ },
+ {
+  "ctx": "ST8827BT",
+  "max": 16,
+  "who": "",
+  "en": "Just a little\nbit more!",
+  "fr": "Encore un\npetit effort !"
+ },
+ {
+  "ctx": "ST8827BT",
+  "max": 16,
+  "who": "",
+  "en": "I'm going to\nfinish this!",
+  "fr": "Je vais en\nfinir !"
+ },
+ {
+  "ctx": "ST8827BT",
+  "max": 16,
+  "who": "",
+  "en": "Hang in there!",
+  "fr": "Tiens bon !"
+ },
+ {
+  "ctx": "ST8827BT",
+  "max": 16,
+  "who": "",
+  "en": "Whew, I needed\nthat!",
+  "fr": "Ouf, ça fait\ndu bien !"
+ },
+ {
+  "ctx": "ST8827BT",
+  "max": 16,
+  "who": "",
+  "en": "What the...!",
+  "fr": "Quoi... !"
+ },
+ {
+  "ctx": "ST8827BT",
+  "max": 16,
+  "who": "",
+  "en": "Hi-yahh!",
+  "fr": "Hi-yahh !"
+ },
+ {
+  "ctx": "ST8827BT",
+  "max": 16,
+  "who": "",
+  "en": "Check this out!",
+  "fr": "Regarde ça !"
+ },
+ {
+  "ctx": "ST8828BM",
+  "max": 34,
+  "who": "Robert, Dominic",
+  "en": "Okay!!! Grab your berets, then...\nIt's time for ROUND 8!",
+  "fr": "D'accord !!! Alors, à vos bérets...\nC'est l'heure de la MANCHE 8 !"
+ },
+ {
+  "ctx": "ST8828BT",
+  "max": 16,
+  "who": "",
+  "en": "This strength...\nI knew it.",
+  "fr": "Cette force...\nJe le savais."
+ },
+ {
+  "ctx": "ST8828BT",
+  "max": 16,
+  "who": "",
+  "en": "Victory will be\nours this time!",
+  "fr": "Cette fois, on\nva gagner !"
+ },
+ {
+  "ctx": "ST8828BT",
+  "max": 16,
+  "who": "",
+  "en": "Damn it!\nNot again!",
+  "fr": "Bon sang !\nEncore !"
+ },
+ {
+  "ctx": "ST8828BT",
+  "max": 16,
+  "who": "",
+  "en": "Hee hee hee...!!",
+  "fr": "Hi hi hi... !!"
+ },
+ {
+  "ctx": "ST8828BT",
+  "max": 16,
+  "who": "",
+  "en": "I...I'm not\ngiving up!",
+  "fr": "Je... je n'aban-\ndonne pas !"
+ },
+ {
+  "ctx": "ST8828BT",
+  "max": 16,
+  "who": "",
+  "en": "Oh, my...what's\nthe matter?",
+  "fr": "Oh, eh bien...\nUn souci ?"
+ },
+ {
+  "ctx": "ST8828BT",
+  "max": 16,
+  "who": "",
+  "en": "Where's the bold\nhero of before?",
+  "fr": "Où est passé le\nhardi héros ?"
+ },
+ {
+  "ctx": "ST8829BM",
+  "max": 34,
+  "who": "Robert, Dominic",
+  "en": "Okay!!! Grab your berets, then...\nIt's time for ROUND 9!",
+  "fr": "D'accord !!! Alors, à vos bérets...\nC'est l'heure de la MANCHE 9 !"
+ },
+ {
+  "ctx": "ST8830BM",
+  "max": 34,
+  "who": "Dominic",
+  "en": "Are you ready for more leash-\nchoking action?",
+  "fr": "Prêts pour encore plus d'action\nà vous étrangler avec la laisse ?"
+ },
+ {
+  "ctx": "ST8830BM",
+  "max": 34,
+  "who": "Dominic",
+  "en": "Or will you retire now, with\nyour doghouse still untoppled?",
+  "fr": "Ou préférez-vous vous retirer\nmaintenant, niche encore debout ?"
+ },
+ {
+  "ctx": "ST8830BM",
+  "max": 34,
+  "who": "Dominic",
+  "en": "Okay, woof! Buckle up, dawgs!\nThis is the FINAL ROUND!",
+  "fr": "D'accord, ouaf ! Accrochez-vous, les\ntoutous ! C'est la MANCHE FINALE !"
+ },
+ {
+  "ctx": "ST8830BT",
+  "max": 16,
+  "who": "",
+  "en": "Ooh...you're\ngood...",
+  "fr": "Ooh... tu es\ndoué..."
+ },
+ {
+  "ctx": "ST8830BT",
+  "max": 16,
+  "who": "",
+  "en": "You won't win...\nthat easily...!",
+  "fr": "Tu ne gagneras\npas si aisément !"
+ },
+ {
+  "ctx": "ST8830BT",
+  "max": 16,
+  "who": "",
+  "en": "I'm getting too\nold for this...",
+  "fr": "Je me fais trop\nvieux pour ça..."
+ },
+ {
+  "ctx": "ST8830BT",
+  "max": 16,
+  "who": "",
+  "en": "What's wrong,\nyoung hero?",
+  "fr": "Qu'y a-t-il,\njeune héros ?"
+ },
+ {
+  "ctx": "ST8830BT",
+  "max": 16,
+  "who": "",
+  "en": "Hah! Such lax\ntraining!",
+  "fr": "Hah ! Tu manques\nd'entraînement !"
+ },
+ {
+  "ctx": "ST8830BT",
+  "max": 16,
+  "who": "",
+  "en": "Hook, line,\nand sinker!",
+  "fr": "Tombé dans\nle panneau !"
+ },
+ {
+  "ctx": "ST8830BT",
+  "max": 16,
+  "who": "",
+  "en": "Heh...you've\nimproved...",
+  "fr": "Hé... tu as fait\ndes progrès..."
+ },
+ {
+  "ctx": "ST8830BT",
+  "max": 16,
+  "who": "",
+  "en": "Give me every-\nthing you got!",
+  "fr": "Donne-moi tout\nce que tu as !"
+ },
+ {
+  "ctx": "ST8830BT",
+  "max": 16,
+  "who": "",
+  "en": "Well done,\nthere!",
+  "fr": "Bien joué !"
+ },
+ {
+  "ctx": "ST8830BT",
+  "max": 16,
+  "who": "",
+  "en": "I see I was\nwrong about you.",
+  "fr": "Je me suis trompé\nsur ton compte."
+ },
+ {
+  "ctx": "ST8830BT",
+  "max": 16,
+  "who": "",
+  "en": "That's all you\nhave?",
+  "fr": "C'est tout ce\nque tu as ?"
+ },
+ {
+  "ctx": "ST8830BT",
+  "max": 16,
+  "who": "",
+  "en": "Don't hold back\non me, you!",
+  "fr": "Ne te retiens pas\navec moi !"
+ },
+ {
+  "ctx": "ST8830BT",
+  "max": 16,
+  "who": "",
+  "en": "You still have a\nlot to learn...",
+  "fr": "Il te reste tant\nà apprendre..."
+ },
+ {
+  "ctx": "ST8830BT",
+  "max": 16,
+  "who": "",
+  "en": "Come on! Stand\nup!",
+  "fr": "Allez ! Debout !"
+ },
+ {
+  "ctx": "ST8830BT",
+  "max": 16,
+  "who": "",
+  "en": "What...? Done\nalready?",
+  "fr": "Quoi... ? Déjà\nfini ?"
+ },
+ {
+  "ctx": "ST8830BT",
+  "max": 16,
+  "who": "",
+  "en": "Is that all the\npower you have?!",
+  "fr": "C'est là toute\nta puissance ?!"
+ },
+ {
+  "ctx": "ST8830BT",
+  "max": 16,
+  "who": "",
+  "en": "This is nothing!",
+  "fr": "Ce n'est rien !"
+ },
+ {
+  "ctx": "ST8830BT",
+  "max": 16,
+  "who": "",
+  "en": "Feast your eyes\non this!",
+  "fr": "Admire donc\nceci !"
+ },
+ {
+  "ctx": "ST8830BT",
+  "max": 16,
+  "who": "",
+  "en": "Behold...my\ninner skill!",
+  "fr": "Voici... mon art\nle plus secret !"
+ },
+ {
+  "ctx": "ST8830BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "L-Luther?",
+  "fr": "L-Luther ?"
+ },
+ {
+  "ctx": "ST8830BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "What are you doing here?",
+  "fr": "Que fais-tu ici ?"
+ },
+ {
+  "ctx": "ST8830BT",
+  "max": 16,
+  "who": "Luther",
+  "en": "I have come to see what sort of\nwarrior you have become.",
+  "fr": "Je suis venu voir quelle\nguerrière tu es devenue."
+ },
+ {
+  "ctx": "ST8830BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "I swear I won't fail to rise to\nyour expectations!",
+  "fr": "Je jure d'être à la hauteur de\ntes espérances !"
+ },
+ {
+  "ctx": "ST8830BT",
+  "max": 16,
+  "who": "Luther",
+  "en": "...Well done.",
+  "fr": "...Bien joué."
+ },
+ {
+  "ctx": "ST8830BT",
+  "max": 16,
+  "who": "Luther",
+  "en": "Jeanne, you have grown stronger\nthan I ever imagined.",
+  "fr": "Jeanne, tu es devenue plus forte\nque je ne l'aurais jamais\fimaginé."
+ },
+ {
+  "ctx": "ST8830BT",
+  "max": 16,
+  "who": "Luther",
+  "en": "You have proven yourself worthy\nof the Creator's Armlet.",
+  "fr": "Tu t'es montrée digne du Bracelet\ndu créateur."
+ },
+ {
+  "ctx": "ST8830BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Thank you, Luther.",
+  "fr": "Merci, Luther."
+ },
+ {
+  "ctx": "ST8830AB",
+  "max": 34,
+  "who": "",
+  "en": "Obtained the Gem of Miracles!",
+  "fr": "Gemme des miracles obtenue !"
+ },
+ {
+  "ctx": "ST8830AB",
+  "max": 34,
+  "who": "Dominic",
+  "en": "Your prizes for staying the test\nof testosterone:",
+  "fr": "Vos récompenses pour avoir tenu\nbon dans cette épreuve virile :"
+ },
+ {
+  "ctx": "ST8830AB",
+  "max": 34,
+  "who": "Dominic",
+  "en": "this absolutely heartbreaking\n<COL=3>Charred Pendant<COL=0>,",
+  "fr": "ce <COL=3>Pendentif calciné<COL=0>,\nà vous briser le cœur,"
+ },
+ {
+  "ctx": "ST8830AB",
+  "max": 34,
+  "who": "Dominic",
+  "en": "and one fabulous <COL=3>Gem of\nMiracles<COL=0>!",
+  "fr": "et une fabuleuse <COL=3>Gemme des\nmiracles<COL=0> !"
+ },
+ {
+  "ctx": "ST8830AB",
+  "max": 34,
+  "who": "Dominic",
+  "en": "What a haul!",
+  "fr": "Quel butin !"
+ },
+ {
+  "ctx": "ST8830AB",
+  "max": 34,
+  "who": "Dominic",
+  "en": "And that's it for Season 2 of\n\"YIELD or NO YIELD.\"",
+  "fr": "Et c'est tout pour la saison 2 de\n« À PRENDRE OU À LAISSER »."
+ },
+ {
+  "ctx": "ST8830AB",
+  "max": 34,
+  "who": "Dominic",
+  "en": "This is Dominic Deschiens,\nsigning off. Woof!",
+  "fr": "Ici Dominic Deschiens, qui vous\ndit au revoir. Ouaf !"
+ },
+ {
+  "ctx": "ST8830AB",
+  "max": 34,
+  "who": "",
+  "en": "You obtain the Gem of Miracles!",
+  "fr": "Vous obtenez la Gemme des miracles !"
+ },
+ {
+  "ctx": "ST8831BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "Ladies...gentlemen...and\nEnglishmen!",
+  "fr": "Mesdames... messieurs... et\nAnglais !"
+ },
+ {
+  "ctx": "ST8831BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "WELCOME...to \"YIELD or NO\nYIELD\"!",
+  "fr": "BIENVENUE... à « À PRENDRE OU À\nLAISSER » !"
+ },
+ {
+  "ctx": "ST8831BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "The rules of the game remain the\nsame:",
+  "fr": "Les règles du jeu restent les\nmêmes :"
+ },
+ {
+  "ctx": "ST8831BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "For TEN rounds, we will pit you\nagainst bloodthirsty opponents.\fYIELD, and you walk away.\nNO YIELD? Then you fight!",
+  "fr": "Pendant DIX manches, vous\naffronterez des adversaires\fassoiffés de sang. LAISSEZ, et\nvous partez. Vous PRENEZ ?\fAlors, au combat !"
+ },
+ {
+  "ctx": "ST8831BM",
+  "max": 34,
+  "who": "Robert",
+  "en": "But lose a match and that's it!\nIt's g-g-g, <COL=1>GAME OVER<COL=0>!!!",
+  "fr": "Mais perdez un match et c'est tout !\nC'est f-f-f, <COL=1>FINI<COL=0> !!!"
+ },
+ {
+  "ctx": "ST8901BT",
+  "max": 16,
+  "who": "",
+  "en": "Ergh...I can't\nlose this...!",
+  "fr": "Argh... je ne\npeux pas perdre !"
+ },
+ {
+  "ctx": "ST8902AB",
+  "max": 34,
+  "who": "",
+  "en": "You obtain the Gem of Eternity!",
+  "fr": "Vous obtenez la Gemme d'éternité !"
+ },
+ {
+  "ctx": "ST8904BM",
+  "max": 34,
+  "who": "",
+  "en": "&Dwarf",
+  "fr": "&Nain"
+ },
+ {
+  "ctx": "ST8904BM",
+  "max": 34,
+  "who": "Dwarf",
+  "en": "Woh, no! It's wawful!",
+  "fr": "Oh non ! C'est howwibwe !"
+ },
+ {
+  "ctx": "ST8904BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "What? What's so wawful\\u2014\nI mean awful?",
+  "fr": "Quoi ? Qu'est-ce qui est si\nhowwi\\u2014 je veux dire, horrible ?"
+ },
+ {
+  "ctx": "ST8904BM",
+  "max": 34,
+  "who": "Dwarf",
+  "en": "Wy pets, da widdle pets wie was\nwaising\\u2014",
+  "fr": "Mes bêtes, wes petites bêtes que\nj'éwevais\\u2014"
+ },
+ {
+  "ctx": "ST8904BM",
+  "max": 34,
+  "who": "Dwarf",
+  "en": "dey flew da coop!",
+  "fr": "ewwes se sont échappées !"
+ },
+ {
+  "ctx": "ST8904BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "You call THAT...",
+  "fr": "Vous appelez ÇA..."
+ },
+ {
+  "ctx": "ST8904BM",
+  "max": 34,
+  "who": "La Hire",
+  "en": "A \"pet\"?!",
+  "fr": "Des « petites bêtes » ?!"
+ },
+ {
+  "ctx": "ST8904BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "How did\\u2014\nI mean, what were you\\u2014 Ugh.",
+  "fr": "Comment\\u2014\nEnfin, qu'est-ce que vous\\u2014 Pff."
+ },
+ {
+  "ctx": "ST8904BM",
+  "max": 34,
+  "who": "Dwarf",
+  "en": "Wie twipped and knocked into da\nwever dat opens deir stalls!",
+  "fr": "J'ai twébuché et cogné we\nwevier qui ouvwe weuws encwos !"
+ },
+ {
+  "ctx": "ST8904BM",
+  "max": 34,
+  "who": "Dwarf",
+  "en": "Pweeze, ye gotta help wie!",
+  "fr": "Pitié, vous devez m'aider !"
+ },
+ {
+  "ctx": "ST8904BM",
+  "max": 34,
+  "who": "Dwarf",
+  "en": "Lure wy sweet widdle minikins\nback inside da gates!",
+  "fr": "Wamenez mes adowabwes petits\nchéwis dewwièwe wes gwiwwes !"
+ },
+ {
+  "ctx": "ST8904BM",
+  "max": 34,
+  "who": "Rufus",
+  "en": "Arf, rever fear!\nRy'll rake care of it, ruff!",
+  "fr": "Ouaf, rien à craindre !\nR'en fais raffaire, rouaf !"
+ },
+ {
+  "ctx": "ST8904BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "What? Why?!",
+  "fr": "Quoi ? Pourquoi ?!"
+ },
+ {
+  "ctx": "ST8904BM",
+  "max": 34,
+  "who": "Rufus",
+  "en": "Recause! Pets require ruv and\nattention. Woof, woof!",
+  "fr": "Rarce que ! Les bêtes ont resoin\nd'amour et d'attention. Ouaf !"
+ },
+ {
+  "ctx": "ST8904BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "...Are you trying to tell me\nsomething?",
+  "fr": "...Tu essaies de me dire quelque\nchose ?"
+ },
+ {
+  "ctx": "ST8904BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Oh, well...\nTo arms?",
+  "fr": "Bon, eh bien...\nAux armes ?"
+ },
+ {
+  "ctx": "ST8904BT",
+  "max": 16,
+  "who": "Jeanne, Gilles",
+  "en": "Guide them\ninto the gates!",
+  "fr": "Guidez-les\nvers les grilles !"
+ },
+ {
+  "ctx": "ST8904BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "I guess we're\nstuck with this.",
+  "fr": "Pas le choix,\napparemment."
+ },
+ {
+  "ctx": "ST8904BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "What are we\nsupposed to do?",
+  "fr": "Qu'est-on censés\nfaire ?"
+ },
+ {
+  "ctx": "ST8904BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Let's do what\nwe can.",
+  "fr": "Faisons ce qu'on\npeut."
+ },
+ {
+  "ctx": "ST8904BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Is everyone\nready?",
+  "fr": "Tout le monde\nest prêt ?"
+ },
+ {
+  "ctx": "ST8904BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "Who keeps\npets like this?",
+  "fr": "Qui a des bêtes\npareilles ?"
+ },
+ {
+  "ctx": "ST8904BT",
+  "max": 16,
+  "who": "Gilles",
+  "en": "Any ideas?",
+  "fr": "Une idée ?"
+ },
+ {
+  "ctx": "ST8904BT",
+  "max": 16,
+  "who": "Rufus",
+  "en": "Ry'll do\nmy bestest!",
+  "fr": "Re rais faire\nde mon mieux !"
+ },
+ {
+  "ctx": "ST8904BT",
+  "max": 16,
+  "who": "Rufus",
+  "en": "Reave this\nto me, woof!",
+  "fr": "Raissez-moi\nfaire, ouaf !"
+ },
+ {
+  "ctx": "ST8904BT",
+  "max": 16,
+  "who": "La Hire",
+  "en": "La Hire is\ndumbfounded.",
+  "fr": "La Hire en rrreste\nbaba."
+ },
+ {
+  "ctx": "ST8904BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "Please don't\neat me...gulp!",
+  "fr": "Ne me mangez\npas... glups !"
+ },
+ {
+  "ctx": "ST8904BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "Those are\nenormous pets.",
+  "fr": "Ce sont des\nbêtes énormes."
+ },
+ {
+  "ctx": "ST8904BT",
+  "max": 16,
+  "who": "Bertrand",
+  "en": "Are we...lunch?",
+  "fr": "Sommes-nous...\nleur repas ?"
+ },
+ {
+  "ctx": "ST8904BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Can I pet them?",
+  "fr": "Je peux les\ncaresser ?"
+ },
+ {
+  "ctx": "ST8904BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "...Pets?",
+  "fr": "...Des bêtes ?"
+ },
+ {
+  "ctx": "ST8904BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Grand dieu, eez\nzees a joke?",
+  "fr": "Grand Dieu, c'est\nune blague ?"
+ },
+ {
+  "ctx": "ST8904BT",
+  "max": 16,
+  "who": "Rose",
+  "en": "Bugger! Whose\nidea was this?!",
+  "fr": "Morbleu ! Qui a\neu cette idée ?!"
+ },
+ {
+  "ctx": "ST8904BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Don't kill\nthem!",
+  "fr": "Ne les tuez\npas !"
+ },
+ {
+  "ctx": "ST8904BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "To the gates,\nquickly!",
+  "fr": "Aux grilles,\nvite !"
+ },
+ {
+  "ctx": "ST8904BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Get their\nattention!",
+  "fr": "Attirez leur\nattention !"
+ },
+ {
+  "ctx": "ST8904BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "We'll have to\nbe the bait...",
+  "fr": "Il va falloir\nservir d'appât..."
+ }
+]

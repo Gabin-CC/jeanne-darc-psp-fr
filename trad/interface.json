@@ -1,0 +1,824 @@
+[
+ {
+  "ctx": "GUISHT 0xf80",
+  "max": 16,
+  "en": "Anime Theatre",
+  "fr": "Théâtre animé"
+ },
+ {
+  "ctx": "GUISHT 0x1340",
+  "max": 16,
+  "en": "Lv       >",
+  "fr": "Nv       >"
+ },
+ {
+  "ctx": "GUISHT 0x13e0",
+  "max": 16,
+  "en": "Lv",
+  "fr": "Nv"
+ },
+ {
+  "ctx": "GUISHT 0x1840",
+  "max": 16,
+  "en": "Proceed",
+  "fr": "Continuer"
+ },
+ {
+  "ctx": "GUISHT 0x1930",
+  "max": 16,
+  "en": "Total Bonus ",
+  "fr": "Bonus total "
+ },
+ {
+  "ctx": "GUISHT 0x19d0",
+  "max": 16,
+  "en": "EXP",
+  "fr": "EXP"
+ },
+ {
+  "ctx": "GUISHT 0x1a70",
+  "max": 16,
+  "en": "Bonus Gold",
+  "fr": "Or bonus"
+ },
+ {
+  "ctx": "GUISHT 0x1b60",
+  "max": 16,
+  "en": "Bonus Items",
+  "fr": "Objets bonus"
+ },
+ {
+  "ctx": "GUISHT 0x2b00",
+  "max": 16,
+  "en": "Stage Spoils",
+  "fr": "Butin"
+ },
+ {
+  "ctx": "GUISHT 0x30a0",
+  "max": 16,
+  "en": "Status",
+  "fr": "Statut"
+ },
+ {
+  "ctx": "GUISHT 0x33c0",
+  "max": 16,
+  "en": "TURN",
+  "fr": "TOUR"
+ },
+ {
+  "ctx": "GUISHT 0x4040",
+  "max": 16,
+  "en": "Attack",
+  "fr": "Attaque"
+ },
+ {
+  "ctx": "GUISHT 0x41d0",
+  "max": 16,
+  "en": "Defense",
+  "fr": "Défense"
+ },
+ {
+  "ctx": "GUISHT 0x4360",
+  "max": 16,
+  "en": "Accuracy",
+  "fr": "Précision"
+ },
+ {
+  "ctx": "GUISHT 0x46d0",
+  "max": 16,
+  "en": "Magic Atk.",
+  "fr": "Attaque mag."
+ },
+ {
+  "ctx": "GUISHT 0x4860",
+  "max": 16,
+  "en": "Magic Def.",
+  "fr": "Défense mag."
+ },
+ {
+  "ctx": "GUISHT 0x49f0",
+  "max": 16,
+  "en": "Evade",
+  "fr": "Esquive"
+ },
+ {
+  "ctx": "GUISHT 0x4b80",
+  "max": 16,
+  "en": "Critical",
+  "fr": "Critique"
+ },
+ {
+  "ctx": "GUISHT 0x5e40",
+  "max": 16,
+  "en": "Equip at Lv. ",
+  "fr": "Équipable Nv "
+ },
+ {
+  "ctx": "GUISHT 0x5e90",
+  "max": 16,
+  "en": "Not Equippable",
+  "fr": "Non équipable"
+ },
+ {
+  "ctx": "GUISHT 0x5f30",
+  "max": 16,
+  "en": "Rarity",
+  "fr": "Rareté"
+ },
+ {
+  "ctx": "GUISHT 0x6980",
+  "max": 16,
+  "en": "SP",
+  "fr": "SP"
+ },
+ {
+  "ctx": "GUISHT 0x7100",
+  "max": 16,
+  "en": "Exit Without ",
+  "fr": "Quitter sans "
+ },
+ {
+  "ctx": "GUISHT 0x7150",
+  "max": 16,
+  "en": "Saving",
+  "fr": "sauvegarder"
+ },
+ {
+  "ctx": "GUISHT 0x73d0",
+  "max": 16,
+  "en": "Cures ",
+  "fr": "Soigne "
+ },
+ {
+  "ctx": "GUISHT 0x7740",
+  "max": 16,
+  "en": "HP",
+  "fr": "PV"
+ },
+ {
+  "ctx": "GUISHT 0x77e0",
+  "max": 16,
+  "en": "MP",
+  "fr": "PM"
+ },
+ {
+  "ctx": "GUISHT 0x82d0",
+  "max": 16,
+  "en": "Absorbs",
+  "fr": "Absorbe"
+ },
+ {
+  "ctx": "GUISHT 0x8550",
+  "max": 16,
+  "en": "Counter",
+  "fr": "Riposte"
+ },
+ {
+  "ctx": "GUISHT 0xb3e0",
+  "max": 16,
+  "en": "Troops",
+  "fr": "Troupes"
+ },
+ {
+  "ctx": "GUISHT 0xc830",
+  "max": 16,
+  "en": "Begin binding!",
+  "fr": "Lier !"
+ },
+ {
+  "ctx": "GUISHT 0xd280",
+  "max": 16,
+  "en": "Skill-Binding",
+  "fr": "Liaison"
+ },
+ {
+  "ctx": "GUISHT 0xd870",
+  "max": 16,
+  "en": "Premier",
+  "fr": "Premier"
+ },
+ {
+  "ctx": "GUISHT 0xdbe0",
+  "max": 16,
+  "en": "Seconde",
+  "fr": "Seconde"
+ },
+ {
+  "ctx": "GUISHT 0xde10",
+  "max": 16,
+  "en": "Yields",
+  "fr": "Donne"
+ },
+ {
+  "ctx": "GUISHT 0xe400",
+  "max": 16,
+  "en": "Sortie",
+  "fr": "Sortie"
+ },
+ {
+  "ctx": "GUISHT 0xe630",
+  "max": 16,
+  "en": "Units",
+  "fr": "Unités"
+ },
+ {
+  "ctx": "GUISHT 0xe680",
+  "max": 16,
+  "en": "You can place ",
+  "fr": "Encore "
+ },
+ {
+  "ctx": "GUISHT 0xe720",
+  "max": 16,
+  "en": " more!",
+  "fr": " à placer !"
+ },
+ {
+  "ctx": "GUISHT 0xeb80",
+  "max": 16,
+  "en": "Outfit",
+  "fr": "Équiper"
+ },
+ {
+  "ctx": "GUISHT 0xec20",
+  "max": 16,
+  "en": "Begin!",
+  "fr": "Go !"
+ },
+ {
+  "ctx": "GUISHT 0xee00",
+  "max": 16,
+  "en": "Place",
+  "fr": "Placer"
+ },
+ {
+  "ctx": "GUISHT 0xf030",
+  "max": 16,
+  "en": "Help ",
+  "fr": "Aide "
+ },
+ {
+  "ctx": "GUISHT 0xfda0",
+  "max": 16,
+  "en": "Warning",
+  "fr": "Attention"
+ },
+ {
+  "ctx": "GUISHT 0x10070",
+  "max": 16,
+  "en": "Stage",
+  "fr": "Étape"
+ },
+ {
+  "ctx": "GUISHT 0x10110",
+  "max": 16,
+  "en": "Victory",
+  "fr": "Victoire"
+ },
+ {
+  "ctx": "GUISHT 0x10c24",
+  "max": 16,
+  "en": "DHd",
+  "fr": ""
+ },
+ {
+  "ctx": "GUISHT 0x11380",
+  "max": 16,
+  "en": "Back",
+  "fr": "Retour"
+ },
+ {
+  "ctx": "GUISHT 0x115b0",
+  "max": 16,
+  "en": "Preferences",
+  "fr": "Préférences"
+ },
+ {
+  "ctx": "GUISHT 0x117b4",
+  "max": 16,
+  "en": "¨Hd",
+  "fr": ""
+ },
+ {
+  "ctx": "GUISHT 0x12820",
+  "max": 16,
+  "en": "Normal",
+  "fr": "Normal"
+ },
+ {
+  "ctx": "GUISHT 0x12870",
+  "max": 16,
+  "en": "Inverse",
+  "fr": "Inversé"
+ },
+ {
+  "ctx": "GUISHT 0x12a00",
+  "max": 16,
+  "en": "Fast",
+  "fr": "Rapide"
+ },
+ {
+  "ctx": "GUISHT 0x12aa0",
+  "max": 16,
+  "en": "Slow",
+  "fr": "Lent"
+ },
+ {
+  "ctx": "GUISHT 0x12d70",
+  "max": 16,
+  "en": "Sound",
+  "fr": "Son"
+ },
+ {
+  "ctx": "GUISHT 0x12dc0",
+  "max": 16,
+  "en": "Music Volume",
+  "fr": "Volume musique"
+ },
+ {
+  "ctx": "GUISHT 0x12e10",
+  "max": 16,
+  "en": "SFX Volume",
+  "fr": "Volume effets"
+ },
+ {
+  "ctx": "GUISHT 0x12e60",
+  "max": 16,
+  "en": "Camera Controls",
+  "fr": "Caméra"
+ },
+ {
+  "ctx": "GUISHT 0x12eb0",
+  "max": 16,
+  "en": "Analog Stick",
+  "fr": "Stick analog."
+ },
+ {
+  "ctx": "GUISHT 0x12f00",
+  "max": 16,
+  "en": "Y Axis",
+  "fr": "Axe Y"
+ },
+ {
+  "ctx": "GUISHT 0x12fa0",
+  "max": 16,
+  "en": "X Axis",
+  "fr": "Axe X"
+ },
+ {
+  "ctx": "GUISHT 0x12ff0",
+  "max": 16,
+  "en": "L/R Button ",
+  "fr": "Boutons L/R "
+ },
+ {
+  "ctx": "GUISHT 0x13040",
+  "max": 16,
+  "en": "Rotation",
+  "fr": "Rotation"
+ },
+ {
+  "ctx": "GUISHT 0x13090",
+  "max": 16,
+  "en": "Message ",
+  "fr": "Vitesse "
+ },
+ {
+  "ctx": "GUISHT 0x130e0",
+  "max": 16,
+  "en": "Speed",
+  "fr": "des messages"
+ },
+ {
+  "ctx": "GUISHT 0x13130",
+  "max": 16,
+  "en": "Restore Defaults",
+  "fr": "Par défaut"
+ },
+ {
+  "ctx": "GUISHT 0x134f0",
+  "max": 16,
+  "en": "Continue",
+  "fr": "Continuer"
+ },
+ {
+  "ctx": "GUISHT 0x13590",
+  "max": 16,
+  "en": "Skip",
+  "fr": "Passer"
+ },
+ {
+  "ctx": "GUISHT 0x138b0",
+  "max": 16,
+  "en": "Cures",
+  "fr": "Soigne"
+ },
+ {
+  "ctx": "GUISHT 0x14d00",
+  "max": 16,
+  "en": "Report",
+  "fr": "Rapport"
+ },
+ {
+  "ctx": "GUISHT 0x151b0",
+  "max": 16,
+  "en": "Turn Count",
+  "fr": "Tours"
+ },
+ {
+  "ctx": "GUISHT 0x15b60",
+  "max": 16,
+  "en": "Defeat",
+  "fr": "Défaite"
+ },
+ {
+  "ctx": "GUISHT 0x15cf0",
+  "max": 16,
+  "en": "Allied Units",
+  "fr": "Unités alliées"
+ },
+ {
+  "ctx": "GUISHT 0x15d40",
+  "max": 16,
+  "en": "Enemy Units",
+  "fr": "Unités ennemies"
+ },
+ {
+  "ctx": "GUISHT 0x15f70",
+  "max": 16,
+  "en": "Leader: ",
+  "fr": "Chef : "
+ },
+ {
+  "ctx": "GUISHT 0x166a0",
+  "max": 16,
+  "en": "Skill-binding",
+  "fr": "Liaison"
+ },
+ {
+  "ctx": "GUISHT 0x166f0",
+  "max": 16,
+  "en": "successful!",
+  "fr": "réussie !"
+ },
+ {
+  "ctx": "GUISHT 0x16bf0",
+  "max": 16,
+  "en": "complete!",
+  "fr": "terminée !"
+ },
+ {
+  "ctx": "GUISHT 0x172d0",
+  "max": 16,
+  "en": "CONTINUE",
+  "fr": "CONTINUER"
+ },
+ {
+  "ctx": "GUISHT 0x179b0",
+  "max": 16,
+  "en": "Shop",
+  "fr": "Boutique"
+ },
+ {
+  "ctx": "GUISHT 0x18900",
+  "max": 16,
+  "en": "Reorder Skills",
+  "fr": "Trier compét."
+ },
+ {
+  "ctx": "GUISHT 0x1af70",
+  "max": 16,
+  "en": "Detailed Status",
+  "fr": "Statut détaillé"
+ },
+ {
+  "ctx": "GUISHT 0x1c780",
+  "max": 16,
+  "en": "Objective",
+  "fr": "Objectif"
+ },
+ {
+  "ctx": "GUISHT 0x1c820",
+  "max": 16,
+  "en": "Outfit/Save",
+  "fr": "Équiper/Sauver"
+ },
+ {
+  "ctx": "GUISHT 0x1c8c0",
+  "max": 16,
+  "en": "Enter Area",
+  "fr": "Entrer"
+ },
+ {
+  "ctx": "GUISHT 0x1c960",
+  "max": 16,
+  "en": "Camera",
+  "fr": "Caméra"
+ },
+ {
+  "ctx": "GUISHT 0x1d360",
+  "max": 16,
+  "en": "Yes",
+  "fr": "Oui"
+ },
+ {
+  "ctx": "GUISHT 0x1d400",
+  "max": 16,
+  "en": "No",
+  "fr": "Non"
+ },
+ {
+  "ctx": "GUISHT 0x1def0",
+  "max": 16,
+  "en": "Attempt binding",
+  "fr": "Tenter la"
+ },
+ {
+  "ctx": "GUISHT 0x1df40",
+  "max": 16,
+  "en": "these skills?",
+  "fr": "liaison ?"
+ },
+ {
+  "ctx": "GUISHT 0x1e620",
+  "max": 16,
+  "en": "Bind these",
+  "fr": "Lier ces"
+ },
+ {
+  "ctx": "GUISHT 0x1e670",
+  "max": 16,
+  "en": "skills?",
+  "fr": "compétences ?"
+ },
+ {
+  "ctx": "GUISHT 0x1ee90",
+  "max": 16,
+  "en": "OK",
+  "fr": "OK"
+ },
+ {
+  "ctx": "GUISHT 0x1ef30",
+  "max": 16,
+  "en": "Cancel",
+  "fr": "Annuler"
+ },
+ {
+  "ctx": "BASEMAP 0x82",
+  "max": 35,
+  "en": "Nancy",
+  "fr": "Nancy"
+ },
+ {
+  "ctx": "BASEMAP 0x102",
+  "max": 35,
+  "en": "Forest of Fraude",
+  "fr": "Forêt de Fraude"
+ },
+ {
+  "ctx": "BASEMAP 0x182",
+  "max": 35,
+  "en": "Chapel in the Woods",
+  "fr": "Chapelle des bois"
+ },
+ {
+  "ctx": "BASEMAP 0x202",
+  "max": 35,
+  "en": "Alrond Wood",
+  "fr": "Bois d'Alrond"
+ },
+ {
+  "ctx": "BASEMAP 0x282",
+  "max": 35,
+  "en": "Raillemont",
+  "fr": "Raillemont"
+ },
+ {
+  "ctx": "BASEMAP 0x302",
+  "max": 35,
+  "en": "Colosseum",
+  "fr": "Colisée"
+ },
+ {
+  "ctx": "BASEMAP 0x382",
+  "max": 35,
+  "en": "Vaucouleurs",
+  "fr": "Vaucouleurs"
+ },
+ {
+  "ctx": "BASEMAP 0x402",
+  "max": 35,
+  "en": "Domremy",
+  "fr": "Domrémy"
+ },
+ {
+  "ctx": "BASEMAP 0x482",
+  "max": 35,
+  "en": "Neufchateau",
+  "fr": "Neufchâteau"
+ },
+ {
+  "ctx": "BASEMAP 0x502",
+  "max": 35,
+  "en": "Gwygone Mines",
+  "fr": "Mines de Gwygone"
+ },
+ {
+  "ctx": "BASEMAP 0x582",
+  "max": 35,
+  "en": "Reims",
+  "fr": "Reims"
+ },
+ {
+  "ctx": "BASEMAP 0x602",
+  "max": 35,
+  "en": "Bogs of Vermonde",
+  "fr": "Marais de Vermonde"
+ },
+ {
+  "ctx": "BASEMAP 0x682",
+  "max": 35,
+  "en": "Chalons",
+  "fr": "Châlons"
+ },
+ {
+  "ctx": "BASEMAP 0x702",
+  "max": 35,
+  "en": "Troyes",
+  "fr": "Troyes"
+ },
+ {
+  "ctx": "BASEMAP 0x782",
+  "max": 35,
+  "en": "Langles Tunnel",
+  "fr": "Tunnel de Langles"
+ },
+ {
+  "ctx": "BASEMAP 0x802",
+  "max": 35,
+  "en": "La Charite",
+  "fr": "La Charité"
+ },
+ {
+  "ctx": "BASEMAP 0x882",
+  "max": 35,
+  "en": "Soir Valley",
+  "fr": "Vallée de Soir"
+ },
+ {
+  "ctx": "BASEMAP 0x902",
+  "max": 35,
+  "en": "St. Pierre-le-Moutier",
+  "fr": "St-Pierre-le-Moûtier"
+ },
+ {
+  "ctx": "BASEMAP 0x982",
+  "max": 35,
+  "en": "Cents-Abris Ruins",
+  "fr": "Ruines de Cents-Abris"
+ },
+ {
+  "ctx": "BASEMAP 0xa02",
+  "max": 35,
+  "en": "Chateau Burgundy",
+  "fr": "Château de Bourgogne"
+ },
+ {
+  "ctx": "BASEMAP 0xa82",
+  "max": 35,
+  "en": "Cemetery",
+  "fr": "Cimetière"
+ },
+ {
+  "ctx": "BASEMAP 0xb02",
+  "max": 35,
+  "en": "Reine-Couronne Wilds",
+  "fr": "Landes de Reine-Couronne"
+ },
+ {
+  "ctx": "BASEMAP 0xb82",
+  "max": 35,
+  "en": "Castle Vilneaux",
+  "fr": "Château de Vilneaux"
+ },
+ {
+  "ctx": "BASEMAP 0xc02",
+  "max": 35,
+  "en": "Patay",
+  "fr": "Patay"
+ },
+ {
+  "ctx": "BASEMAP 0xc82",
+  "max": 35,
+  "en": "Bastille of St. Loup",
+  "fr": "Bastille St-Loup"
+ },
+ {
+  "ctx": "BASEMAP 0xd02",
+  "max": 35,
+  "en": "Aeolian Hill",
+  "fr": "Colline éolienne"
+ },
+ {
+  "ctx": "BASEMAP 0xd82",
+  "max": 35,
+  "en": "Chateau Richemont",
+  "fr": "Château de Richemont"
+ },
+ {
+  "ctx": "BASEMAP 0xe02",
+  "max": 35,
+  "en": "Clairoix",
+  "fr": "Clairoix"
+ },
+ {
+  "ctx": "BASEMAP 0xe82",
+  "max": 35,
+  "en": "Paris Ramparts",
+  "fr": "Remparts de Paris"
+ },
+ {
+  "ctx": "BASEMAP 0xf02",
+  "max": 35,
+  "en": "Vantoix Canyon",
+  "fr": "Canyon de Vantoix"
+ },
+ {
+  "ctx": "BASEMAP 0xf82",
+  "max": 35,
+  "en": "Tourelles",
+  "fr": "Les Tourelles"
+ },
+ {
+  "ctx": "BASEMAP 0x1002",
+  "max": 35,
+  "en": "Bastille of the Augustins",
+  "fr": "Bastille des Augustins"
+ },
+ {
+  "ctx": "BASEMAP 0x1082",
+  "max": 35,
+  "en": "Orleans",
+  "fr": "Orléans"
+ },
+ {
+  "ctx": "BASEMAP 0x1102",
+  "max": 35,
+  "en": "Chinon",
+  "fr": "Chinon"
+ },
+ {
+  "ctx": "BASEMAP 0x1182",
+  "max": 35,
+  "en": "Grandgris Pass",
+  "fr": "Col de Grandgris"
+ },
+ {
+  "ctx": "BASEMAP 0x1202",
+  "max": 35,
+  "en": "Soldat Outpost",
+  "fr": "Avant-poste de Soldat"
+ },
+ {
+  "ctx": "BASEMAP 0x1282",
+  "max": 35,
+  "en": "Paris Warren",
+  "fr": "Souterrains de Paris"
+ },
+ {
+  "ctx": "BASEMAP 0x1302",
+  "max": 35,
+  "en": "Guillorey Canal",
+  "fr": "Canal de Guillorey"
+ },
+ {
+  "ctx": "BASEMAP 0x1382",
+  "max": 35,
+  "en": "Altois Prairie",
+  "fr": "Prairie d'Altois"
+ },
+ {
+  "ctx": "BASEMAP 0x1402",
+  "max": 35,
+  "en": "Tower of Alsace",
+  "fr": "Tour d'Alsace"
+ },
+ {
+  "ctx": "BASEMAP 0x1482",
+  "max": 35,
+  "en": "Voldor Temple",
+  "fr": "Temple de Voldor"
+ },
+ {
+  "ctx": "BASEMAP 0x1502",
+  "max": 35,
+  "en": "Rouen",
+  "fr": "Rouen"
+ },
+ {
+  "ctx": "BASEMAP 0x1582",
+  "max": 35,
+  "en": "Paris Castle",
+  "fr": "Château de Paris"
+ }
+]

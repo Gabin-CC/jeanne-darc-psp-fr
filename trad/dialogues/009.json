@@ -1,0 +1,1752 @@
+[
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Bartolomeo",
+  "en": "On my way!",
+  "fr": "J'arrive !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Bartolomeo",
+  "en": "I shall fight\nin thy stead!",
+  "fr": "Je combattrai\nà ta place !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Bartolomeo",
+  "en": "Get thee clear!",
+  "fr": "Écarte-toi !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "Fortune\nfavors us...",
+  "fr": "La fortune\nnous sourit..."
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "This bodes a\nbitter beating...",
+  "fr": "Ça présage une\npénible punition."
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "Can we weather\nthese woes?",
+  "fr": "Survivrons-nous\nà ces soucis ?"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "Lie low!",
+  "fr": "À couvert !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "How...?",
+  "fr": "Comment... ?"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Ought I blame\nthis on old age?",
+  "fr": "Dois-je en blâmer\nmon grand âge ?"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Trapped...",
+  "fr": "Un piège..."
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "This will\nnot serve...",
+  "fr": "Cela ne\nsuffira pas..."
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "We were fools...",
+  "fr": "Nous étions\ndes sots..."
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Regroup!",
+  "fr": "Regroupez-vous !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Stay calm, lest\nfear do us in!",
+  "fr": "Calme ! La peur\nnous perdrait !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Keep your wits\nabout you.",
+  "fr": "Gardez la\ntête froide."
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "God has shown\nus the way.",
+  "fr": "Dieu nous a\nmontré la voie."
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Grant us a\nswift victory.",
+  "fr": "Accorde-nous une\nprompte victoire."
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Press the\nadvantage!",
+  "fr": "Profitons de\nl'avantage !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard, Liane",
+  "en": "Stay back!",
+  "fr": "Reculez !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Keep a safer\ndistance!",
+  "fr": "Gardez vos\ndistances !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "My humblest\nthanks.",
+  "fr": "Mes plus humbles\nremerciements."
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "I am grateful.",
+  "fr": "Merci du fond\ndu coeur."
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard, Lady Bandit",
+  "en": "There we are!",
+  "fr": "Et voilà !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "I will not yield...",
+  "fr": "Je ne céderai\npas..."
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Witness\nGod's strength!",
+  "fr": "Voyez la force\nde Dieu !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Begone!",
+  "fr": "Arrière !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Suffer thy\npunishment!",
+  "fr": "Subis ton\nchâtiment !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "The light\ncalls you!",
+  "fr": "La lumière\nt'appelle !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "unité#70, unité#71",
+  "en": "You're useless!",
+  "fr": "Bande\nd'incapables !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "unité#70, unité#71",
+  "en": "Hee hee...\nMore, more!",
+  "fr": "Hi hi...\nEncore, encore !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "unité#70, unité#71",
+  "en": "Yes! Yes! Take\nno prisoners!",
+  "fr": "Oui ! Oui ! Pas\nde quartier !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "unité#70, unité#71",
+  "en": "Kill them!!",
+  "fr": "Tuez-les !!"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "unité#144, unité#147, unité#148",
+  "en": "Heh heh heh...",
+  "fr": "Hé hé hé..."
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "Hee hee hee!",
+  "fr": "Hi hi hi !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "You bastards...!",
+  "fr": "Bande de\nchiens... !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "Erp...!",
+  "fr": "Heup... !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "You...damn you!",
+  "fr": "Toi... que le\ndiable t'emporte !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "Gah...everyone,\nstay on target!",
+  "fr": "Gah... tous,\ngardez le cap !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "Nrrrrrngh...",
+  "fr": "Nrrrrrngh..."
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "Hee hee...!\nPrepare to die!",
+  "fr": "Hi hi... !\nTu vas mourir !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "We don't need\na savior!",
+  "fr": "Pas besoin\nde salvatrice !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "Hee hee! Push\nforward!",
+  "fr": "Hi hi ! En\navant !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "Hmph...",
+  "fr": "Hmph..."
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "unité#164",
+  "en": "Geh...",
+  "fr": "Geh..."
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "Hee hee...\nWrithe in pain!",
+  "fr": "Hi hi...\nSouffre donc !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "Want me to make\nit all better?",
+  "fr": "Tu veux que je\nte soigne ?"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "Pahh!",
+  "fr": "Pahh !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "Gah!",
+  "fr": "Gah !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "I'll run\nyou over!",
+  "fr": "Je vais\nt'écraser !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "Tell me how\nthis tastes!",
+  "fr": "Ça a quel\ngoût, hein ?"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "You...are my\nenemy!",
+  "fr": "Tu... es mon\nennemi !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "Damn you...",
+  "fr": "Maudit sois-tu..."
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "You will not\ndestroy us!",
+  "fr": "Vous ne nous\ndétruirez pas !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "Dammit...we\ncan't take 'em.",
+  "fr": "Bon sang... ils\nsont trop forts."
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "Why did you\ncome here?!",
+  "fr": "Pourquoi être\nvenus ici ?!"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "We'll protect\nthis town!",
+  "fr": "Nous défendrons\ncette ville !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "We have no need\nfor a savior!",
+  "fr": "Pas besoin\nd'une salvatrice !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "Go back to\nwhence you came!",
+  "fr": "Retournez\nd'où vous venez !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "Savior, my foot!",
+  "fr": "Salvatrice,\nmon œil !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "Just a common\nmurderer!",
+  "fr": "Une vulgaire\nmeurtrière !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "No regrets,\nI hope.",
+  "fr": "Pas de regrets,\nj'espère."
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "All right! Clear\nthem out!",
+  "fr": "Parfait !\nBalayez-les !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "unité#150",
+  "en": "Get 'em!",
+  "fr": "Attrapez-les !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "Ergh...I cannot\nlose!",
+  "fr": "Argh... je ne\npeux pas perdre !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "Agh...you...\nHow are you...?",
+  "fr": "Agh... toi...\nComment as-tu... ?"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "Raaagh!",
+  "fr": "Raaagh !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "I'll handle\nthis!",
+  "fr": "Je m'en charge !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "Face your shame!",
+  "fr": "Affronte\nta honte !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "",
+  "en": "Clear them\nout, now!",
+  "fr": "Balayez-les,\nmaintenant !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Gilles",
+  "en": "Richard! Why?",
+  "fr": "Richard !\nPourquoi ?"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Gilles",
+  "en": "A righteous man like you\\u2014",
+  "fr": "Un homme juste\ncomme vous\\u2014"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Not all men wish for the same\nfuture as you.",
+  "fr": "Tous ne souhaitent pas le même\navenir que vous."
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "It is well past time you learnt\nthat lesson.",
+  "fr": "Il était grand temps que vous\nl'appreniez."
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Gilles",
+  "en": "...Look, his arm!",
+  "fr": "...Regardez,\nson bras !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Another armlet wielder?!",
+  "fr": "Un autre porteur\nde Bracelet ?!"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "As I said, not all men wish for\nthe same future as you.",
+  "fr": "Je le répète : tous ne souhaitent\npas le même avenir que vous."
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "But I have faith...",
+  "fr": "Mais j'ai foi..."
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "I have faith:",
+  "fr": "J'ai foi :"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "that the peaceful world I wish for\nlies in a unified France!",
+  "fr": "le monde de paix que je désire passe\npar une France unifiée !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Slinker",
+  "en": "Ni-niii!\nWhat are you doing?!",
+  "fr": "Ni-niii !\nQue fais-tu ?!"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Jeanne, Liane",
+  "en": "Richard!",
+  "fr": "Richard !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Fight with me\\u2014for this\ncountry's future!",
+  "fr": "Battons-nous\\u2014pour\nl'avenir du pays !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Richard joins your ranks!",
+  "fr": "Richard rejoint\nvos rangs !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Richard!\nExplain yourself!",
+  "fr": "Richard !\nExpliquez-vous !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "How could you deceive me?",
+  "fr": "Comment avez-vous\npu me tromper ?"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "...Your arm!",
+  "fr": "...Votre bras !"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Richard wields an armlet, like\nus...",
+  "fr": "Richard porte un Bracelet, comme\nnous..."
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "But then why?",
+  "fr": "Mais alors,\npourquoi ?"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Slinker",
+  "en": "Ni-aaaaaagh!\nHow d-d-dare youuuu, ni!",
+  "fr": "Ni-aaaaaargh !\nTu o-o-oses, ni ?!"
+ },
+ {
+  "ctx": "ST2070BT",
+  "max": 16,
+  "who": "Slinker",
+  "en": "Next time...you won't be so\nlucky!",
+  "fr": "La prochaine fois, tu n'auras\npas autant de chance !"
+ },
+ {
+  "ctx": "ST2070AB",
+  "max": 34,
+  "who": "",
+  "en": "Reims is a long ways off. Next is the city of Ch\\u00e2lons.",
+  "fr": "Reims est encore loin. Prochaine\nétape : la ville de Ch\\u00e2lons."
+ },
+ {
+  "ctx": "ST2070AB",
+  "max": 34,
+  "who": "Mayor of Troyes",
+  "en": "We surrender...",
+  "fr": "Nous nous rendons..."
+ },
+ {
+  "ctx": "ST2070AB",
+  "max": 34,
+  "who": "Mayor of Troyes",
+  "en": "The citizens of Troyes will swear\nfealty to the dauphin,",
+  "fr": "Les citoyens de Troyes jureront\nfidélité au Dauphin,"
+ },
+ {
+  "ctx": "ST2070AB",
+  "max": 34,
+  "who": "Mayor of Troyes",
+  "en": "and join his army in opposing\nthe English.",
+  "fr": "et rejoindront son armée contre\nles Anglais."
+ },
+ {
+  "ctx": "ST2070AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "...Why did you do this!",
+  "fr": "...Pourquoi avoir fait ça !"
+ },
+ {
+  "ctx": "ST2070AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Why do we have to fight each\nother?!",
+  "fr": "Pourquoi devons-nous nous battre\nentre nous ?!"
+ },
+ {
+  "ctx": "ST2070AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Frenchmen shouldn't have to kill\nFrenchmen!",
+  "fr": "Des Français ne devraient pas tuer\nd'autres Français !"
+ },
+ {
+  "ctx": "ST2070AB",
+  "max": 34,
+  "who": "Richard",
+  "en": "Ah, but you have no qualms about\nkilling Englishmen?",
+  "fr": "Ah, mais tuer des Anglais ne vous\ngêne guère ?"
+ },
+ {
+  "ctx": "ST2070AB",
+  "max": 34,
+  "who": "Richard",
+  "en": "The English royal family descends\nfrom a people exiled from France;",
+  "fr": "La famille royale anglaise descend\nd'un peuple exilé de France ;"
+ },
+ {
+  "ctx": "ST2070AB",
+  "max": 34,
+  "who": "Richard",
+  "en": "in other words, they share the\nsame French blood as you and I.",
+  "fr": "autrement dit, elle partage le même\nsang français que vous et moi."
+ },
+ {
+  "ctx": "ST2070AB",
+  "max": 34,
+  "who": "Richard",
+  "en": "This is no war between countries.",
+  "fr": "Ce n'est pas une guerre de nations."
+ },
+ {
+  "ctx": "ST2070AB",
+  "max": 34,
+  "who": "Richard",
+  "en": "It's a glorified family feud,",
+  "fr": "Ce n'est qu'une querelle de famille\nà grande échelle,"
+ },
+ {
+  "ctx": "ST2070AB",
+  "max": 34,
+  "who": "Richard",
+  "en": "between consanguineous nobles\nsquabbling over lands and titles.",
+  "fr": "entre nobles consanguins qui se\ndisputent terres et titres."
+ },
+ {
+  "ctx": "ST2070AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "...No, it can't be.",
+  "fr": "...Non, c'est impossible."
+ },
+ {
+  "ctx": "ST2070AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Lass...do you really believe you\ncan save all of France's people?",
+  "fr": "Petite... tu crois vraiment pouvoir\nsauver tout le peuple de France ?"
+ },
+ {
+  "ctx": "ST2070AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "Innocent people are...are dying\nfor that? All this time...",
+  "fr": "Des innocents... meurent pour ça ?\nDepuis tout ce temps..."
+ },
+ {
+  "ctx": "ST2070AB",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "we've been fighting to sate the\nroyalty's hunger for power?",
+  "fr": "on se battait pour assouvir la\nsoif de pouvoir des rois ?"
+ },
+ {
+  "ctx": "ST2070AB",
+  "max": 34,
+  "who": "",
+  "en": "One day...you'll learn just how\nabsurd a place the world really is.",
+  "fr": "Un jour... tu comprendras à quel\npoint le monde est absurde."
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "",
+  "en": "&Mayor of Châlons",
+  "fr": "&Maire de Châlons"
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Mayor of Châlons",
+  "en": "I cannot challenge the Pucelle.",
+  "fr": "Je ne peux pas défier la Pucelle."
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Mayor of Châlons",
+  "en": "We'd never win. I have no choice\nbut to surrender the city.",
+  "fr": "Jamais nous ne vaincrions. Je n'ai\nplus qu'à rendre la ville."
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Slinker",
+  "en": "Ni! Won't fight the filly, you say?",
+  "fr": "Ni ! Tu refuses d'affronter la\npouliche, dis-tu ?"
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Slinker",
+  "en": "Then you won't mind me taking\nmatters into my own claws.",
+  "fr": "Alors tu ne m'en voudras pas de\nprendre les choses en griffes."
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Mayor of Châlons",
+  "en": "Ngaaah!",
+  "fr": "Ngaaah !"
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "",
+  "en": "&Citizen",
+  "fr": "&Habitant"
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Citizen",
+  "en": "Mayor!",
+  "fr": "Monsieur le Maire !"
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Slinker",
+  "en": "Murder her.\fShe'd never bare a blade at you\ncommon folk...",
+  "fr": "Tue-la.\fElle ne lèverait jamais l'épée\nsur de simples gens comme vous..."
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Slinker",
+  "en": "but YOU could walk right up and\nkill HER, my dear Mayor...\fwhich I am certain would please\nHenry, your true king.",
+  "fr": "mais TOI, tu pourrais l'approcher\net LA tuer, mon cher Maire...\fce qui, j'en suis sûr, plairait\nà Henri, ton vrai roi."
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Slinker",
+  "en": "Why, when this mess is over,\nyou could have any title you want.",
+  "fr": "Et quand tout ceci sera fini, tu\npourras avoir le titre de ton choix."
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Mayor of Châlons",
+  "en": "Ahh...ooooooh...",
+  "fr": "Ahh... ooooooh..."
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Slinker",
+  "en": "Then again, should you FAIL...\nNi-hee!",
+  "fr": "En revanche, si tu ÉCHOUES...\nNi-hii !"
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Claire, Mayor of Châlons, Mawra",
+  "en": "Eep!",
+  "fr": "Hiii !"
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Mayor of Châlons",
+  "en": "Aaaaaaaaaaaagh!!!",
+  "fr": "Aaaaaaaaaaaargh !!!"
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Mayor of Châlons",
+  "en": "We d-don't want your dauphin as\nking. We are ANTI-dauphin, yes!",
+  "fr": "N-nous ne voulons pas de votre\nDauphin. Nous sommes ANTI-Dauphin !"
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Mayor of Châlons",
+  "en": "The Duke of B-B-Burgundy is\nthe rightful ruler of France!",
+  "fr": "Le duc de B-B-Bourgogne est le\nsouverain légitime de France !"
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Mayor of Châlons",
+  "en": "N-now g-g-go back to where you\ncame from! Eep!",
+  "fr": "M-maintenant, r-r-retournez d'où\nvous venez ! Hiii !"
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "...It's no use.",
+  "fr": "...C'est inutile."
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Richard",
+  "en": "Like Troyes before it,",
+  "fr": "Comme Troyes avant elle,"
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Richard",
+  "en": "this city comprises dissenters who\nanswer to the Duke of Burgundy.",
+  "fr": "cette ville abrite des dissidents\nfidèles au duc de Bourgogne."
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Richard",
+  "en": "It's only natural they would spurn\nthe dauphin and us with him.",
+  "fr": "Rien d'étonnant à ce qu'ils\nrejettent le Dauphin, et nous avec."
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "",
+  "en": "&Young Man",
+  "fr": "&Jeune homme"
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Young Man",
+  "en": "Pucelle...\nPlease, Pucelle!",
+  "fr": "Pucelle...\nJe vous en prie, Pucelle !"
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Young Man",
+  "en": "Pucelle, you must help us!\nOur mayor has been captured!",
+  "fr": "Pucelle, aidez-nous !\nNotre maire a été capturé !"
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Young Man",
+  "en": "A therion with a horrific look in\nhis eye came along, and...and...",
+  "fr": "Un Thérion au regard effroyable\nest arrivé, et... et..."
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "...I just spoke with your mayor\nmoments ago.",
+  "fr": "...Je viens de parler à votre maire\nà l'instant."
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "I think some of his spittle is\nstill clinging to my face.",
+  "fr": "Je crois que j'ai encore de sa\nbave sur le visage."
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Young Man",
+  "en": "That was an impostor!\nA minion of the enemy!",
+  "fr": "C'était un imposteur !\nUn sbire de l'ennemi !"
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Young Man",
+  "en": "The real mayor is being held \nunder duress!",
+  "fr": "Le vrai maire est retenu\nde force !"
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "...All right. I'll see that he's\nrescued. Will you open the gates?",
+  "fr": "...Très bien. Je le ferai délivrer.\nVous nous ouvrirez les portes ?"
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Richard",
+  "en": "...You're going in?\fThe people of Châlons are no\nbosom friends. It could be a trap.",
+  "fr": "...Vous comptez entrer ?\fLes gens de Châlons ne sont pas\nnos amis. C'est peut-être un piège."
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "I'll fight that fire when it burns. \nWhat if he speaks the truth?",
+  "fr": "On verra bien le moment venu.\nEt s'il disait la vérité ?"
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Gilles",
+  "en": "Then let us enter alone for the\ntime being.",
+  "fr": "Alors, entrons seuls pour\nle moment."
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Gilles",
+  "en": "The dauphin and Richemont's\nforces can stay outside at the\nready.",
+  "fr": "Les forces du Dauphin et de\nRichemont resteront dehors,\nprêtes à intervenir."
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Young Man",
+  "en": "Oh, thank you, Pucelle!\nI'll open the gates at once!",
+  "fr": "Oh, merci, Pucelle !\nJ'ouvre les portes tout de suite !"
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Mayor of Châlons",
+  "en": "L-lapdog of the dauphin!\nDie-eeeeeeeee!!!",
+  "fr": "T-toutou du Dauphin !\nMeuuuuuuuurs !!!"
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Young Man",
+  "en": "Behind you, Pucelle!\nThe impostor!",
+  "fr": "Derrière vous, Pucelle !\nL'imposteur !"
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Citizen",
+  "en": "M-Mayor...",
+  "fr": "M-Monsieur le Maire..."
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Slinker",
+  "en": "Ni-hah!",
+  "fr": "Ni-ha !"
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Jeanne",
+  "en": "...It was you!",
+  "fr": "...C'était toi !"
+ },
+ {
+  "ctx": "ST2080BM",
+  "max": 34,
+  "who": "Citizen",
+  "en": "What have you done to our\nmayor, you...you witch! Kill her!",
+  "fr": "Qu'avez-vous fait à notre maire,\nespèce de... de sorcière ! Tuez-la !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "We can't\nback down!",
+  "fr": "Pas question\nde reculer !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Ahh! We have to\nget out of here!",
+  "fr": "Ahh ! Il faut\nfiler d'ici !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "We have to run!",
+  "fr": "Il faut fuir !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "Don't rush\ninto danger!",
+  "fr": "Ne foncez pas\ntête baissée !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "Leave no\nman behind!",
+  "fr": "N'abandonnez\npersonne !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Gilles",
+  "en": "Outside the\nwalls, hurry!",
+  "fr": "Hors des murs,\nvite !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Gilles",
+  "en": "Avoid needless\nbattle!",
+  "fr": "Évitez les\ncombats inutiles !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Rufus",
+  "en": "R-run!",
+  "fr": "F-fuyez !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Rufus",
+  "en": "Awoowoo...",
+  "fr": "Ahouhouhou..."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Rufus",
+  "en": "R-r-rut do\nwe doooooo...",
+  "fr": "R-r-rue faut-il\nfaiiiiiire..."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "La Hire",
+  "en": "Madness...",
+  "fr": "Folie..."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "La Hire",
+  "en": "Grrar...\nRun or die!",
+  "fr": "Grrar... Fuis\nou meurrrs !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "La Hire",
+  "en": "A trap...",
+  "fr": "Un piège..."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Bartolomeo",
+  "en": "Fly! Flee!",
+  "fr": "Fuyons, filons !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Bartolomeo",
+  "en": "Make haste!",
+  "fr": "Hâtez-vous !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "I'd rather not\nright you.",
+  "fr": "Re voudrais ras\nvous rattre."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Bertrand",
+  "en": "Let's get outta\nhere, now!",
+  "fr": "Tirons-nous\nd'ici, vite !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Hurry! Run!",
+  "fr": "Vite ! Fuyez !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "How do we\nget out?",
+  "fr": "Comment\nsortir d'ici ?"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "What\nfoolish folk...",
+  "fr": "Quelle\nsotte engeance..."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "Nuisances.",
+  "fr": "Quelle plaie."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Make your way\noutside town!",
+  "fr": "Sortez de\nla ville !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Beatrix, Jean, Richard",
+  "en": "Swiftly!",
+  "fr": "Promptement !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Keep battle\nto a minimum!",
+  "fr": "Combattez le\nmoins possible !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Do we have\nto do zees?",
+  "fr": "Faut-il vraiment\nfaire ça ?"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Please,\nforgive me...",
+  "fr": "Pitié,\npardonnez-moi..."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "This is wrong...",
+  "fr": "Ce n'est\npas juste..."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Jean, Roger",
+  "en": "Keep moving!",
+  "fr": "Avancez !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Gilles",
+  "en": "Good.\nPush through!",
+  "fr": "Bien.\nPassez en force !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Gilles",
+  "en": "To the exits!",
+  "fr": "Vers les sorties !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Gilles",
+  "en": "Good! Hurry!",
+  "fr": "Bien ! Vite !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Rufus",
+  "en": "Ruff!\nRun for it!",
+  "fr": "Ouaf ! Rilez !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "La Hire",
+  "en": "Follow La Hire\nto the exits!",
+  "fr": "Suivez La Hirrre\nvers la sortie !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "La Hire",
+  "en": "What choice did\nLa Hire have!",
+  "fr": "La Hirrre n'avait\npas le choix !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Bartolomeo",
+  "en": "The exit is near!",
+  "fr": "La sortie est\nproche !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "Make your\nway out!",
+  "fr": "Sortez d'ici !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Gilles, Jean",
+  "en": "Quickly,\nfriends!",
+  "fr": "Vite, mes amis !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "Break through!",
+  "fr": "Percez leurs\nlignes !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Bertrand",
+  "en": "Move, before\nyou get hurt!",
+  "fr": "Écartez-vous,\nou gare à vous !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Hurry up!",
+  "fr": "Dépêchez-vous !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "Almost out...",
+  "fr": "Presque sortis..."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "",
+  "en": "Hah, beautiful!",
+  "fr": "Ha, magnifique !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "",
+  "en": "Ergh...you'll\npay...",
+  "fr": "Argh... tu vas\nle payer..."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "",
+  "en": "Cursed witch...",
+  "fr": "Maudite\nsorcière..."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "",
+  "en": "You'll pay for\nyour deeds!",
+  "fr": "Tu paieras pour\ntes crimes !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "",
+  "en": "Kill the witch!",
+  "fr": "À mort\nla sorcière !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "",
+  "en": "She's a witch!\nI knew it!",
+  "fr": "Une sorcière !\nJe le savais !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "",
+  "en": "Murderer...!",
+  "fr": "Meurtrière... !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "",
+  "en": "Grgh...!",
+  "fr": "Grgh... !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "",
+  "en": "You fell for\nit...",
+  "fr": "Tu es tombée\ndans le panneau..."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "",
+  "en": "Prepare to die.",
+  "fr": "Prépare-toi\nà mourir."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "",
+  "en": "When did this\nhappen...",
+  "fr": "Quand est-ce\narrivé..."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "",
+  "en": "You...haven't\nwon this...!",
+  "fr": "Tu... n'as pas\nencore gagné... !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "",
+  "en": "No escape!",
+  "fr": "Pas d'issue !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "",
+  "en": "Don't let any of\nthem escape!!",
+  "fr": "Que personne\nne s'échappe !!"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "",
+  "en": "It cannot be...",
+  "fr": "Impossible..."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "",
+  "en": "Don't let any of\nthem escape!",
+  "fr": "Que personne\nne s'échappe !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "",
+  "en": "Die like the\nwitch you are!",
+  "fr": "Meurs donc,\nsorcière !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "",
+  "en": "I want them all\ncaptured!",
+  "fr": "Capturez-les\ntous !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "",
+  "en": "That's it!\nChase 'em down!",
+  "fr": "C'est ça !\nTraquez-les !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "",
+  "en": "Krh...",
+  "fr": "Krh..."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "",
+  "en": "Let's go!",
+  "fr": "Allons-y !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "",
+  "en": "Power!!",
+  "fr": "Puissance !!"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "",
+  "en": "Haahh!!",
+  "fr": "Haahh !!"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "",
+  "en": "This is for the\nmayor!!",
+  "fr": "Pour notre\nmaire !!"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "",
+  "en": "We need no\nsavior!",
+  "fr": "Pas besoin de\nsalvatrice !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Citizen",
+  "en": "Attack!\nStrike down the witch!",
+  "fr": "À l'attaque !\nTuez la sorcière !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Gilles",
+  "en": "...We haven't the time to sort\nthis mess out.",
+  "fr": "...Pas le temps de\ndémêler ce gâchis."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Forgive me, my brothers.",
+  "fr": "Pardonnez-moi,\nmes frères."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "...I have a higher cause now.",
+  "fr": "...Je sers une\ncause plus haute."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "Please, stop...",
+  "fr": "Pitié, arrêtez..."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "",
+  "en": "...RUN, JEANNE...",
+  "fr": "...FUIS, JEANNE..."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "",
+  "en": "FLEE THE TOWN......",
+  "fr": "QUITTE LA\nVILLE......"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Slinker",
+  "en": "Ni?",
+  "fr": "Ni ?"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Slinker",
+  "en": "You ni-ni-ninny!\nUrg...",
+  "fr": "Ni-ni-niais !\nUrg..."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "All right, quickly!",
+  "fr": "Allez, vite !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Jeanne",
+  "en": "We can escape this way!",
+  "fr": "On peut fuir par ici !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "I can't stay here...",
+  "fr": "Je ne peux pas\nrester ici..."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Liane",
+  "en": "I have to find some way to\nescape!",
+  "fr": "Je dois trouver\nun moyen de fuir !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "Humph, nice knowing you.",
+  "fr": "Hmph, ravi de\nt'avoir connu."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Roger",
+  "en": "Now, time to find a way out.",
+  "fr": "Bon, trouvons une sortie."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Gilles",
+  "en": "Now, to find a way out...",
+  "fr": "Bon, trouvons\nune sortie..."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Gilles",
+  "en": "before I overstay my welcome.",
+  "fr": "avant d'abuser\nde l'hospitalité."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Rufus",
+  "en": "Ruff! Awooo!\nRat one's for yooooo, Pucelle!",
+  "fr": "Ouaf ! Ahouuu ! Relle-là, c'est\npour rooooi, Pucelle !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Rufus",
+  "en": "...Ruh-oh!\nRow what do I roo?!",
+  "fr": "...Rouh-oh ! Re rais\nquoi, maintenant ?!"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "La Hire",
+  "en": "La Hire has trampled the puny\npeon, rrrar!",
+  "fr": "La Hirrre a\npiétiné le gueux !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "La Hire",
+  "en": "Now he must find an exit and\ntrrrample out of here!",
+  "fr": "Il doit trouver une sortie et\nfiler d'ici en trrrombe !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Bartolomeo",
+  "en": "Harrumph...",
+  "fr": "Hum..."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Bartolomeo",
+  "en": "Methinks it wise to fast an\negress find,\fere this warlike town becometh\nmy grave.",
+  "fr": "Il sied de trouver\nprompte issue,\favant que cette\ncité belliqueuse\fne devienne mon tombeau."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "Splendid! Now, time to take leave\nof this place.",
+  "fr": "Splendide ! Il est temps de quitter\nces lieux."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "You know what they say about\n\"knights,\" after all:",
+  "fr": "Vous savez ce qu'on dit des «\nchevaliers » :"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Jean",
+  "en": "the skies grow dark whenever\none falls!",
+  "fr": "le ciel se voile\nquand l'un tombe !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Bertrand",
+  "en": "Meh heh heh! Now, I better see\nabout savin' my knightly hide...",
+  "fr": "Hé hé hé ! Bon, faudrait que je\nsauve ma peau de chevalier..."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "Poor, pitiful brute...",
+  "fr": "Pauvre petite\nbrute pitoyable..."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Beatrix",
+  "en": "Mayhap your mother was miserly\nwhen meting out the hugs...",
+  "fr": "Peut-être ta mère fut-elle\nmesquine en matière de\fmamours..."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Hah! That's for making Jeannette\nupset!",
+  "fr": "Ha ! Voilà pour avoir fâché\nJeannette !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Marcel",
+  "en": "Have a nice day.",
+  "fr": "Bonne journée."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Sinner!",
+  "fr": "Pécheur !"
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Richard",
+  "en": "Pray that God takes you.",
+  "fr": "Prie pour que\nDieu t'accueille."
+ },
+ {
+  "ctx": "ST2080BT",
+  "max": 16,
+  "who": "Colet",
+  "en": "Ze whole town ees against us?\nWe weel never ween!",
+  "fr": "Toute la ville contre nous ?\nNous ne gagnerons jamais !"
+ }
+]

@@ -1,0 +1,1400 @@
+[
+ {
+  "ctx": "MAP1010.DAT",
+  "max": 31,
+  "en": "A Voice from Heaven",
+  "fr": "Une voix du Ciel"
+ },
+ {
+  "ctx": "MAP1010.DAT",
+  "max": 31,
+  "en": "Orc",
+  "fr": "Orque"
+ },
+ {
+  "ctx": "MAP1010.DAT",
+  "max": 31,
+  "en": "Orc Knight",
+  "fr": "Chevalier orque"
+ },
+ {
+  "ctx": "MAP1010.DAT",
+  "max": 31,
+  "en": "Liane",
+  "fr": "Liane"
+ },
+ {
+  "ctx": "MAP1010.DAT",
+  "max": 31,
+  "en": "Jeanne",
+  "fr": "Jeanne"
+ },
+ {
+  "ctx": "MAP1010.DAT",
+  "max": 63,
+  "en": "Annihilate all enemies",
+  "fr": "Anéantir tous les ennemis"
+ },
+ {
+  "ctx": "MAP1010.DAT",
+  "max": 63,
+  "en": "Jeanne falls",
+  "fr": "Défaite de Jeanne"
+ },
+ {
+  "ctx": "MAP1020.DAT",
+  "max": 31,
+  "en": "Holy Armor",
+  "fr": "L'armure sacrée"
+ },
+ {
+  "ctx": "MAP1020.DAT",
+  "max": 32,
+  "en": "English Officer",
+  "fr": "Officier anglais"
+ },
+ {
+  "ctx": "MAP1020.DAT",
+  "max": 31,
+  "en": "Roger",
+  "fr": "Roger"
+ },
+ {
+  "ctx": "MAP1030.DAT",
+  "max": 31,
+  "en": "Journey's Start",
+  "fr": "Le départ"
+ },
+ {
+  "ctx": "MAP1030.DAT",
+  "max": 31,
+  "en": "Lizardman",
+  "fr": "Homme-lézard"
+ },
+ {
+  "ctx": "MAP1030.DAT",
+  "max": 31,
+  "en": "Jean",
+  "fr": "Jean"
+ },
+ {
+  "ctx": "MAP1030.DAT",
+  "max": 31,
+  "en": "Bertrand",
+  "fr": "Bertrand"
+ },
+ {
+  "ctx": "MAP1030.DAT",
+  "max": 63,
+  "en": "Defeat the English officer",
+  "fr": "Vaincre l'officier anglais"
+ },
+ {
+  "ctx": "MAP1030.DAT",
+  "max": 63,
+  "en": "All allies fall in battle",
+  "fr": "Tous les alliés sont vaincus"
+ },
+ {
+  "ctx": "MAP1040.DAT",
+  "max": 31,
+  "en": "The Crimson Warrior",
+  "fr": "Le guerrier écarlate"
+ },
+ {
+  "ctx": "MAP1040.DAT",
+  "max": 31,
+  "en": "Bovimoth",
+  "fr": "Bovimoth"
+ },
+ {
+  "ctx": "MAP1040.DAT",
+  "max": 31,
+  "en": "Mage",
+  "fr": "Mage"
+ },
+ {
+  "ctx": "MAP1040.DAT",
+  "max": 32,
+  "en": "French Soldier",
+  "fr": "Soldat français"
+ },
+ {
+  "ctx": "MAP1040.DAT",
+  "max": 32,
+  "en": "Nobleman",
+  "fr": "Noble"
+ },
+ {
+  "ctx": "MAP1040.DAT",
+  "max": 63,
+  "en": "The nobleman falls in       battle",
+  "fr": "Le noble est vaincu"
+ },
+ {
+  "ctx": "MAP1050.DAT",
+  "max": 31,
+  "en": "The Road to Chinon",
+  "fr": "La route de Chinon"
+ },
+ {
+  "ctx": "MAP1050.DAT",
+  "max": 31,
+  "en": "Dark Elf",
+  "fr": "Elfe noir"
+ },
+ {
+  "ctx": "MAP1050.DAT",
+  "max": 31,
+  "en": "Talbot",
+  "fr": "Talbot"
+ },
+ {
+  "ctx": "MAP1050.DAT",
+  "max": 31,
+  "en": "Marcel",
+  "fr": "Marcel"
+ },
+ {
+  "ctx": "MAP1050.DAT",
+  "max": 31,
+  "en": "Colet",
+  "fr": "Colet"
+ },
+ {
+  "ctx": "MAP1050.DAT",
+  "max": 63,
+  "en": "Guide all allies to the roadat the map's north edge",
+  "fr": "Mener tous les alliés à la  route au nord de la carte"
+ },
+ {
+  "ctx": "MAP1050.DAT",
+  "max": 63,
+  "en": "A single ally falls in      battle",
+  "fr": "Un seul allié est vaincu"
+ },
+ {
+  "ctx": "MAP1060.DAT",
+  "max": 31,
+  "en": "The Armlet's Chosen",
+  "fr": "L'élue du Bracelet"
+ },
+ {
+  "ctx": "MAP1060.DAT",
+  "max": 31,
+  "en": "Gazelliath",
+  "fr": "Gazelliath"
+ },
+ {
+  "ctx": "MAP1060.DAT",
+  "max": 31,
+  "en": "Gilles",
+  "fr": "Gilles"
+ },
+ {
+  "ctx": "MAP1060.DAT",
+  "max": 63,
+  "en": "Defeat Talbot",
+  "fr": "Vaincre Talbot"
+ },
+ {
+  "ctx": "MAP1060.DAT",
+  "max": 63,
+  "en": "Jeanne falls in battle",
+  "fr": "Jeanne est vaincue"
+ },
+ {
+  "ctx": "MAP1070.DAT",
+  "max": 31,
+  "en": "The Maiden Battle",
+  "fr": "La bataille de la Pucelle"
+ },
+ {
+  "ctx": "MAP1070.DAT",
+  "max": 31,
+  "en": "Swordfighter",
+  "fr": "Bretteur"
+ },
+ {
+  "ctx": "MAP1070.DAT",
+  "max": 31,
+  "en": "Priestess",
+  "fr": "Prêtresse"
+ },
+ {
+  "ctx": "MAP1070.DAT",
+  "max": 31,
+  "en": "Wizard",
+  "fr": "Sorcier"
+ },
+ {
+  "ctx": "MAP1070.DAT",
+  "max": 31,
+  "en": "Lizard Guardian",
+  "fr": "Gardien lézard"
+ },
+ {
+  "ctx": "MAP1070.DAT",
+  "max": 31,
+  "en": "La Hire",
+  "fr": "La Hire"
+ },
+ {
+  "ctx": "MAP1070.DAT",
+  "max": 31,
+  "en": "Rufus",
+  "fr": "Rufus"
+ },
+ {
+  "ctx": "MAP1070.DAT",
+  "max": 63,
+  "en": "Guide Jeanne to the gates   of Orl\\u00e9ans",
+  "fr": "Mener Jeanne aux portes     d'Orl\\u00e9ans"
+ },
+ {
+  "ctx": "MAP2010.DAT",
+  "max": 31,
+  "en": "Savior's Proof",
+  "fr": "La preuve de la Salvatrice"
+ },
+ {
+  "ctx": "MAP2010.DAT",
+  "max": 31,
+  "en": "Lancer",
+  "fr": "Lancier"
+ },
+ {
+  "ctx": "MAP2010.DAT",
+  "max": 31,
+  "en": "Swordmaster",
+  "fr": "Maître d'armes"
+ },
+ {
+  "ctx": "MAP2010.DAT",
+  "max": 31,
+  "en": "Bowfighter",
+  "fr": "Archer-guerrier"
+ },
+ {
+  "ctx": "MAP2010.DAT",
+  "max": 63,
+  "en": "Defeat all enemies",
+  "fr": "Vaincre tous les ennemis"
+ },
+ {
+  "ctx": "MAP2020.DAT",
+  "max": 31,
+  "en": "The Bloodied Savior",
+  "fr": "La Salvatrice ensanglantée"
+ },
+ {
+  "ctx": "MAP2020.DAT",
+  "max": 31,
+  "en": "Knighted Blade",
+  "fr": "Lame adoubée"
+ },
+ {
+  "ctx": "MAP2020.DAT",
+  "max": 31,
+  "en": "Gate",
+  "fr": "Porte"
+ },
+ {
+  "ctx": "MAP2030.DAT",
+  "max": 31,
+  "en": "Talbot's Scheme",
+  "fr": "Le stratagème de Talbot"
+ },
+ {
+  "ctx": "MAP2030.DAT",
+  "max": 31,
+  "en": "Archer",
+  "fr": "Archer"
+ },
+ {
+  "ctx": "MAP2040.DAT",
+  "max": 31,
+  "en": "Breaching the Dark",
+  "fr": "Percer les ténèbres"
+ },
+ {
+  "ctx": "MAP2040.DAT",
+  "max": 32,
+  "en": "Glasdale",
+  "fr": "Glasdale"
+ },
+ {
+  "ctx": "MAP2040.DAT",
+  "max": 31,
+  "en": "Knighted Lancer",
+  "fr": "Lancier adoubé"
+ },
+ {
+  "ctx": "MAP2040.DAT",
+  "max": 31,
+  "en": "Gargoyle",
+  "fr": "Gargouille"
+ },
+ {
+  "ctx": "MAP2040.DAT",
+  "max": 63,
+  "en": "Defeat Glasdale",
+  "fr": "Vaincre Glasdale"
+ },
+ {
+  "ctx": "MAP2050.DAT",
+  "max": 31,
+  "en": "For a Free Orl\\u00E9ans",
+  "fr": "Pour libérer Orl\\u00E9ans"
+ },
+ {
+  "ctx": "MAP2060.DAT",
+  "max": 31,
+  "en": "The Battle of Patay",
+  "fr": "La bataille de Patay"
+ },
+ {
+  "ctx": "MAP2060.DAT",
+  "max": 31,
+  "en": "Bartolomeo",
+  "fr": "Bartolomeo"
+ },
+ {
+  "ctx": "MAP2060.DAT",
+  "max": 31,
+  "en": "Beatrix",
+  "fr": "Beatrix"
+ },
+ {
+  "ctx": "MAP2060.DAT",
+  "max": 31,
+  "en": "Orc King",
+  "fr": "Roi orque"
+ },
+ {
+  "ctx": "MAP2060.DAT",
+  "max": 31,
+  "en": "Qrow",
+  "fr": "Qrow"
+ },
+ {
+  "ctx": "MAP2060.DAT",
+  "max": 31,
+  "en": "Troll",
+  "fr": "Troll"
+ },
+ {
+  "ctx": "MAP2070.DAT",
+  "max": 31,
+  "en": "Brother Richard",
+  "fr": "Frère Richard"
+ },
+ {
+  "ctx": "MAP2070.DAT",
+  "max": 31,
+  "en": "Ceratoth",
+  "fr": "Ceratoth"
+ },
+ {
+  "ctx": "MAP2070.DAT",
+  "max": 31,
+  "en": "Militiaman",
+  "fr": "Milicien"
+ },
+ {
+  "ctx": "MAP2070.DAT",
+  "max": 31,
+  "en": "Slinker",
+  "fr": "Rôdeur"
+ },
+ {
+  "ctx": "MAP2070.DAT",
+  "max": 31,
+  "en": "Richard",
+  "fr": "Richard"
+ },
+ {
+  "ctx": "MAP2070.DAT",
+  "max": 63,
+  "en": "Defeat Slinker",
+  "fr": "Vaincre le Rôdeur"
+ },
+ {
+  "ctx": "MAP2080.DAT",
+  "max": 31,
+  "en": "Ch\\u00e2lons and the Ruse",
+  "fr": "Ch\\u00e2lons et la ruse"
+ },
+ {
+  "ctx": "MAP2080.DAT",
+  "max": 63,
+  "en": "Guide all allies to the     fissures in the city wall",
+  "fr": "Mener tous les alliés aux   brèches du rempart"
+ },
+ {
+  "ctx": "MAP2090.DAT",
+  "max": 31,
+  "en": "A New Pucelle",
+  "fr": "Une nouvelle Pucelle"
+ },
+ {
+  "ctx": "MAP2090.DAT",
+  "max": 31,
+  "en": "Mawra",
+  "fr": "Mawra"
+ },
+ {
+  "ctx": "MAP2090.DAT",
+  "max": 31,
+  "en": "Wyvern",
+  "fr": "Wyverne"
+ },
+ {
+  "ctx": "MAP2090.DAT",
+  "max": 63,
+  "en": "Defeat Mawra",
+  "fr": "Vaincre Mawra"
+ },
+ {
+  "ctx": "MAP2090.DAT",
+  "max": 63,
+  "en": "Liane falls in battle",
+  "fr": "Liane est vaincue"
+ },
+ {
+  "ctx": "MAP2100.DAT",
+  "max": 31,
+  "en": "To Crown a King",
+  "fr": "Le sacre du roi"
+ },
+ {
+  "ctx": "MAP2100.DAT",
+  "max": 31,
+  "en": "Qrow Knight",
+  "fr": "Chevalier qrow"
+ },
+ {
+  "ctx": "MAP2100.DAT",
+  "max": 31,
+  "en": "Charles VII",
+  "fr": "Charles VII"
+ },
+ {
+  "ctx": "MAP2100.DAT",
+  "max": 63,
+  "en": "Guide Charles VII to the    cathedral's entrance",
+  "fr": "Mener Charles VII à l'entréede la cathédrale"
+ },
+ {
+  "ctx": "MAP2100.DAT",
+  "max": 63,
+  "en": "Charles VII falls in battle",
+  "fr": "Charles VII est vaincu"
+ },
+ {
+  "ctx": "MAP3010.DAT",
+  "max": 31,
+  "en": "Vicissitudes",
+  "fr": "Revers de fortune"
+ },
+ {
+  "ctx": "MAP3010.DAT",
+  "max": 31,
+  "en": "Sniper",
+  "fr": "Tireur d'élite"
+ },
+ {
+  "ctx": "MAP3010.DAT",
+  "max": 31,
+  "en": "Alain",
+  "fr": "Alain"
+ },
+ {
+  "ctx": "MAP3010.DAT",
+  "max": 31,
+  "en": "Pierre",
+  "fr": "Pierre"
+ },
+ {
+  "ctx": "MAP3010.DAT",
+  "max": 31,
+  "en": "Ren\\u00E9",
+  "fr": "Ren\\u00E9"
+ },
+ {
+  "ctx": "MAP3020.DAT",
+  "max": 31,
+  "en": "Narrow Roads",
+  "fr": "Chemins étroits"
+ },
+ {
+  "ctx": "MAP3020.DAT",
+  "max": 31,
+  "en": "Necromancer",
+  "fr": "Nécromancien"
+ },
+ {
+  "ctx": "MAP3020.DAT",
+  "max": 31,
+  "en": "Rebel Leader",
+  "fr": "Chef rebelle"
+ },
+ {
+  "ctx": "MAP3020.DAT",
+  "max": 31,
+  "en": "Rose",
+  "fr": "Rose"
+ },
+ {
+  "ctx": "MAP3020.DAT",
+  "max": 63,
+  "en": "Defeat the rebel leader",
+  "fr": "Vaincre le chef rebelle"
+ },
+ {
+  "ctx": "MAP3021.DAT",
+  "max": 31,
+  "en": "The Magician Girl",
+  "fr": "La petite magicienne"
+ },
+ {
+  "ctx": "MAP3021.DAT",
+  "max": 31,
+  "en": "Crystal",
+  "fr": "Cristal"
+ },
+ {
+  "ctx": "MAP3021.DAT",
+  "max": 31,
+  "en": "Claire",
+  "fr": "Claire"
+ },
+ {
+  "ctx": "MAP3021.DAT",
+  "max": 63,
+  "en": "Any one crystal is          destroyed",
+  "fr": "Un cristal est détruit"
+ },
+ {
+  "ctx": "MAP3030.DAT",
+  "max": 31,
+  "en": "The Snare",
+  "fr": "Le piège"
+ },
+ {
+  "ctx": "MAP3030.DAT",
+  "max": 31,
+  "en": "Qrow Leader",
+  "fr": "Chef qrow"
+ },
+ {
+  "ctx": "MAP3030.DAT",
+  "max": 31,
+  "en": "Lady Noire",
+  "fr": "Dame Noire"
+ },
+ {
+  "ctx": "MAP3030.DAT",
+  "max": 31,
+  "en": "Paul the Hack",
+  "fr": "Paul la Taillade"
+ },
+ {
+  "ctx": "MAP3030.DAT",
+  "max": 31,
+  "en": "Clever Claude",
+  "fr": "Claude le Rusé"
+ },
+ {
+  "ctx": "MAP3030.DAT",
+  "max": 31,
+  "en": "Shifty Maurice",
+  "fr": "Maurice le Fourbe"
+ },
+ {
+  "ctx": "MAP3030.DAT",
+  "max": 63,
+  "en": "Enemy breaches the town     gates",
+  "fr": "L'ennemi franchit les portesde la ville"
+ },
+ {
+  "ctx": "MAP3040.DAT",
+  "max": 31,
+  "en": "Fated to War",
+  "fr": "Voués à la guerre"
+ },
+ {
+  "ctx": "MAP3040.DAT",
+  "max": 31,
+  "en": "Blaze",
+  "fr": "Blaze"
+ },
+ {
+  "ctx": "MAP3040.DAT",
+  "max": 31,
+  "en": "Lizard Marshal",
+  "fr": "Maréchal lézard"
+ },
+ {
+  "ctx": "MAP3040.DAT",
+  "max": 63,
+  "en": "Defeat the trio of therions",
+  "fr": "Vaincre le trio de thérions"
+ },
+ {
+  "ctx": "MAP3050.DAT",
+  "max": 31,
+  "en": "Hopes Unattained",
+  "fr": "Espoirs déçus"
+ },
+ {
+  "ctx": "MAP3050.DAT",
+  "max": 31,
+  "en": "Demon",
+  "fr": "Démon"
+ },
+ {
+  "ctx": "MAP3050.DAT",
+  "max": 31,
+  "en": "Skeleton",
+  "fr": "Squelette"
+ },
+ {
+  "ctx": "MAP3050.DAT",
+  "max": 31,
+  "en": "Ogre",
+  "fr": "Ogre"
+ },
+ {
+  "ctx": "MAP3050.DAT",
+  "max": 63,
+  "en": "Defeat Blaze and Mawra",
+  "fr": "Vaincre Blaze et Mawra"
+ },
+ {
+  "ctx": "MAP3060.DAT",
+  "max": 31,
+  "en": "The Black Knight",
+  "fr": "Le Chevalier noir"
+ },
+ {
+  "ctx": "MAP3060.DAT",
+  "max": 31,
+  "en": "Flameflyer",
+  "fr": "Flammevol"
+ },
+ {
+  "ctx": "MAP3060.DAT",
+  "max": 31,
+  "en": "Queen Rouge",
+  "fr": "Reine Rouge"
+ },
+ {
+  "ctx": "MAP3060.DAT",
+  "max": 63,
+  "en": "Guide all allies to the     north edge of the map",
+  "fr": "Mener tous les alliés au    nord de la carte"
+ },
+ {
+  "ctx": "MAP3070.DAT",
+  "max": 31,
+  "en": "Dark Demoniac",
+  "fr": "Démoniaque noir"
+ },
+ {
+  "ctx": "MAP3070.DAT",
+  "max": 31,
+  "en": "Golem",
+  "fr": "Golem"
+ },
+ {
+  "ctx": "MAP3070.DAT",
+  "max": 31,
+  "en": "Superbia",
+  "fr": "Superbia"
+ },
+ {
+  "ctx": "MAP3070.DAT",
+  "max": 63,
+  "en": "Defeat Superbia",
+  "fr": "Vaincre Superbia"
+ },
+ {
+  "ctx": "MAP3080.DAT",
+  "max": 31,
+  "en": "Death Bestirred",
+  "fr": "La mort s'éveille"
+ },
+ {
+  "ctx": "MAP3080.DAT",
+  "max": 31,
+  "en": "Avaritia",
+  "fr": "Avaritia"
+ },
+ {
+  "ctx": "MAP3080.DAT",
+  "max": 31,
+  "en": "Dragon",
+  "fr": "Dragon"
+ },
+ {
+  "ctx": "MAP3080.DAT",
+  "max": 31,
+  "en": "Georges",
+  "fr": "Georges"
+ },
+ {
+  "ctx": "MAP3080.DAT",
+  "max": 31,
+  "en": "Tiamat",
+  "fr": "Tiamat"
+ },
+ {
+  "ctx": "MAP3080.DAT",
+  "max": 31,
+  "en": "Phantom Lord",
+  "fr": "Seigneur fantôme"
+ },
+ {
+  "ctx": "MAP3080.DAT",
+  "max": 63,
+  "en": "Defeat Georges and his      reaper",
+  "fr": "Vaincre Georges et son      faucheur"
+ },
+ {
+  "ctx": "MAP3090.DAT",
+  "max": 31,
+  "en": "Queen Isabeau",
+  "fr": "La reine Isabeau"
+ },
+ {
+  "ctx": "MAP3090.DAT",
+  "max": 31,
+  "en": "Luxuria",
+  "fr": "Luxuria"
+ },
+ {
+  "ctx": "MAP3090.DAT",
+  "max": 31,
+  "en": "Dark Shamanka",
+  "fr": "Chamane noire"
+ },
+ {
+  "ctx": "MAP3090.DAT",
+  "max": 63,
+  "en": "Defeat Luxuria",
+  "fr": "Vaincre Luxuria"
+ },
+ {
+  "ctx": "MAP4010.DAT",
+  "max": 31,
+  "en": "Barging into Paris",
+  "fr": "L'assaut de Paris"
+ },
+ {
+  "ctx": "MAP4010.DAT",
+  "max": 31,
+  "en": "Cyclops",
+  "fr": "Cyclope"
+ },
+ {
+  "ctx": "MAP4010.DAT",
+  "max": 31,
+  "en": "Therion Pup",
+  "fr": "Petit thérion"
+ },
+ {
+  "ctx": "MAP4010.DAT",
+  "max": 63,
+  "en": "Guide all allies to the     boats",
+  "fr": "Mener tous les alliés aux   bateaux"
+ },
+ {
+  "ctx": "MAP4020.DAT",
+  "max": 31,
+  "en": "Shade and Light",
+  "fr": "Ombre et lumière"
+ },
+ {
+  "ctx": "MAP4020.DAT",
+  "max": 31,
+  "en": "Wyvern Lord",
+  "fr": "Seigneur wyverne"
+ },
+ {
+  "ctx": "MAP4030.DAT",
+  "max": 31,
+  "en": "Hunted Down",
+  "fr": "Traqués"
+ },
+ {
+  "ctx": "MAP4030.DAT",
+  "max": 31,
+  "en": "Ghost",
+  "fr": "Spectre"
+ },
+ {
+  "ctx": "MAP4030.DAT",
+  "max": 63,
+  "en": "Enemy reaches the elder's   hut",
+  "fr": "L'ennemi atteint la hutte del'Ancien"
+ },
+ {
+  "ctx": "MAP4031.DAT",
+  "max": 31,
+  "en": "The Dwarves' Test",
+  "fr": "L'épreuve des nains"
+ },
+ {
+  "ctx": "MAP4031.DAT",
+  "max": 31,
+  "en": "Elder Dwarf",
+  "fr": "Doyen nain"
+ },
+ {
+  "ctx": "MAP4031.DAT",
+  "max": 31,
+  "en": "Dwarf",
+  "fr": "Nain"
+ },
+ {
+  "ctx": "MAP4040.DAT",
+  "max": 31,
+  "en": "Vying for Light",
+  "fr": "La lutte pour la lumière"
+ },
+ {
+  "ctx": "MAP4041.DAT",
+  "max": 63,
+  "en": "Defeat Roger",
+  "fr": "Vaincre Roger"
+ },
+ {
+  "ctx": "MAP4050.DAT",
+  "max": 31,
+  "en": "Face to Face",
+  "fr": "Face à face"
+ },
+ {
+  "ctx": "MAP4050.DAT",
+  "max": 31,
+  "en": "Bedford",
+  "fr": "Bedford"
+ },
+ {
+  "ctx": "MAP4050.DAT",
+  "max": 31,
+  "en": "Shadow Knight",
+  "fr": "Chevalier des ombres"
+ },
+ {
+  "ctx": "MAP4060.DAT",
+  "max": 31,
+  "en": "Encumbered Powers",
+  "fr": "Pouvoirs entravés"
+ },
+ {
+  "ctx": "MAP4060.DAT",
+  "max": 31,
+  "en": "Shadow Lancer",
+  "fr": "Lancier des ombres"
+ },
+ {
+  "ctx": "MAP4060.DAT",
+  "max": 31,
+  "en": "Seal of Abilities",
+  "fr": "Sceau des capacités"
+ },
+ {
+  "ctx": "MAP4060.DAT",
+  "max": 31,
+  "en": "Seal of Fire",
+  "fr": "Sceau du feu"
+ },
+ {
+  "ctx": "MAP4060.DAT",
+  "max": 31,
+  "en": "Seal of Change",
+  "fr": "Sceau du changement"
+ },
+ {
+  "ctx": "MAP4070.DAT",
+  "max": 31,
+  "en": "Release",
+  "fr": "Délivrance"
+ },
+ {
+  "ctx": "MAP4070.DAT",
+  "max": 31,
+  "en": "Phantom Orc",
+  "fr": "Orque fantôme"
+ },
+ {
+  "ctx": "MAP4071.DAT",
+  "max": 31,
+  "en": "Dark Skeleton",
+  "fr": "Squelette noir"
+ },
+ {
+  "ctx": "MAP4072.DAT",
+  "max": 31,
+  "en": "Hellpriest",
+  "fr": "Prêtre infernal"
+ },
+ {
+  "ctx": "MAP4073.DAT",
+  "max": 31,
+  "en": "Phantom Knight",
+  "fr": "Chevalier fantôme"
+ },
+ {
+  "ctx": "MAP4074.DAT",
+  "max": 31,
+  "en": "Darkest Demon",
+  "fr": "Démon des ténèbres"
+ },
+ {
+  "ctx": "MAP4075.DAT",
+  "max": 31,
+  "en": "Ira",
+  "fr": "Ira"
+ },
+ {
+  "ctx": "MAP4075.DAT",
+  "max": 63,
+  "en": "Defeat Ira",
+  "fr": "Vaincre Ira"
+ },
+ {
+  "ctx": "MAP4080.DAT",
+  "max": 31,
+  "en": "The Fifth Hero",
+  "fr": "Le cinquième héros"
+ },
+ {
+  "ctx": "MAP4080.DAT",
+  "max": 31,
+  "en": "Lich",
+  "fr": "Liche"
+ },
+ {
+  "ctx": "MAP4080.DAT",
+  "max": 63,
+  "en": "Defeat Bedford",
+  "fr": "Vaincre Bedford"
+ },
+ {
+  "ctx": "MAP4090.DAT",
+  "max": 31,
+  "en": "The Dark Throne",
+  "fr": "Le trône des ténèbres"
+ },
+ {
+  "ctx": "MAP4090.DAT",
+  "max": 32,
+  "en": "Gilvaroth",
+  "fr": "Gilvaroth"
+ },
+ {
+  "ctx": "MAP4090.DAT",
+  "max": 63,
+  "en": "Defeat Gilvaroth",
+  "fr": "Vaincre Gilvaroth"
+ },
+ {
+  "ctx": "MAP4090.DAT",
+  "max": 63,
+  "en": "Jeanne or Roger falls in    battle",
+  "fr": "Jeanne ou Roger est vaincu"
+ },
+ {
+  "ctx": "MAP4100.DAT",
+  "max": 31,
+  "en": "Demise",
+  "fr": "Trépas"
+ },
+ {
+  "ctx": "MAP4100.DAT",
+  "max": 31,
+  "en": "Shadowloom",
+  "fr": "Ombrevoile"
+ },
+ {
+  "ctx": "MAP4100.DAT",
+  "max": 31,
+  "en": "Doomgiver",
+  "fr": "Porte-fléau"
+ },
+ {
+  "ctx": "MAP5101.DAT",
+  "max": 31,
+  "en": "NewMap",
+  "fr": ""
+ },
+ {
+  "ctx": "MAP5104.DAT",
+  "max": 31,
+  "en": "A Voice from Above",
+  "fr": "Une voix d'en haut"
+ },
+ {
+  "ctx": "MAP5107.DAT",
+  "max": 31,
+  "en": "Cuisses",
+  "fr": "Cuisses"
+ },
+ {
+  "ctx": "MAP5118.DAT",
+  "max": 31,
+  "en": "Talbot1050",
+  "fr": ""
+ },
+ {
+  "ctx": "MAP5216.DAT",
+  "max": 31,
+  "en": "For a Free Orleans",
+  "fr": "Pour libérer Orléans"
+ },
+ {
+  "ctx": "MAP5514.DAT",
+  "max": 31,
+  "en": "The Cemetery",
+  "fr": "Le cimetière"
+ },
+ {
+  "ctx": "MAP5522.DAT",
+  "max": 31,
+  "en": "The Altois Prairie",
+  "fr": "La prairie d'Altois"
+ },
+ {
+  "ctx": "MAP5523.DAT",
+  "max": 31,
+  "en": "Langles Tunnel",
+  "fr": "Le tunnel de Langles"
+ },
+ {
+  "ctx": "MAP5524.DAT",
+  "max": 31,
+  "en": "Castle Vilneaux",
+  "fr": "Le château de Vilneaux"
+ },
+ {
+  "ctx": "MAP5526.DAT",
+  "max": 31,
+  "en": "The Tower of Alsace",
+  "fr": "La tour d'Alsace"
+ },
+ {
+  "ctx": "MAP5527.DAT",
+  "max": 31,
+  "en": "Raillemont",
+  "fr": "Raillemont"
+ },
+ {
+  "ctx": "MAP8110.DAT",
+  "max": 31,
+  "en": "Chapel in the Woods",
+  "fr": "La chapelle des bois"
+ },
+ {
+  "ctx": "MAP8130.DAT",
+  "max": 31,
+  "en": "Neufch\\u00e2teau",
+  "fr": "Neufch\\u00e2teau"
+ },
+ {
+  "ctx": "MAP8140.DAT",
+  "max": 31,
+  "en": "The Forest of Fraude",
+  "fr": "La forêt de Fraude"
+ },
+ {
+  "ctx": "MAP8150.DAT",
+  "max": 31,
+  "en": "Soir Valley",
+  "fr": "La vallée de Soir"
+ },
+ {
+  "ctx": "MAP8160.DAT",
+  "max": 31,
+  "en": "Aeolian Hill",
+  "fr": "La colline d'Éole"
+ },
+ {
+  "ctx": "MAP8170.DAT",
+  "max": 31,
+  "en": "The Burgundy Gate",
+  "fr": "La porte de Bourgogne"
+ },
+ {
+  "ctx": "MAP8210.DAT",
+  "max": 31,
+  "en": "Saint Loup",
+  "fr": "Saint-Loup"
+ },
+ {
+  "ctx": "MAP8220.DAT",
+  "max": 31,
+  "en": "The Augustins",
+  "fr": "Les Augustins"
+ },
+ {
+  "ctx": "MAP8240.DAT",
+  "max": 31,
+  "en": "The Tourelles",
+  "fr": "Les Tourelles"
+ },
+ {
+  "ctx": "MAP8260.DAT",
+  "max": 31,
+  "en": "Patay",
+  "fr": "Patay"
+ },
+ {
+  "ctx": "MAP8270.DAT",
+  "max": 31,
+  "en": "Troyes",
+  "fr": "Troyes"
+ },
+ {
+  "ctx": "MAP8280.DAT",
+  "max": 31,
+  "en": "Ch\\u00e2lons",
+  "fr": "Ch\\u00e2lons"
+ },
+ {
+  "ctx": "MAP8290.DAT",
+  "max": 31,
+  "en": "Bogs of Vermonde",
+  "fr": "Les marais de Vermonde"
+ },
+ {
+  "ctx": "MAP8298.DAT",
+  "max": 31,
+  "en": "Royal Lancer",
+  "fr": "Lancier royal"
+ },
+ {
+  "ctx": "MAP8310.DAT",
+  "max": 31,
+  "en": "Paris Ramparts",
+  "fr": "Les remparts de Paris"
+ },
+ {
+  "ctx": "MAP8320.DAT",
+  "max": 31,
+  "en": "La Charit\\u00e9",
+  "fr": "La Charit\\u00e9"
+ },
+ {
+  "ctx": "MAP8321.DAT",
+  "max": 31,
+  "en": "St. Pierre-le-Moutier",
+  "fr": "Saint-Pierre-le-Moutier"
+ },
+ {
+  "ctx": "MAP8330.DAT",
+  "max": 31,
+  "en": "Clairoix",
+  "fr": "Clairoix"
+ },
+ {
+  "ctx": "MAP8350.DAT",
+  "max": 31,
+  "en": "Grandgris Pass",
+  "fr": "Le col de Grandgris"
+ },
+ {
+  "ctx": "MAP8360.DAT",
+  "max": 31,
+  "en": "Cents-Abris Ruins",
+  "fr": "Les ruines de Cents-Abris"
+ },
+ {
+  "ctx": "MAP8370.DAT",
+  "max": 31,
+  "en": "Chateau Burgundy",
+  "fr": "Le château de Bourgogne"
+ },
+ {
+  "ctx": "MAP8380.DAT",
+  "max": 31,
+  "en": "Voldor Temple",
+  "fr": "Le temple de Voldor"
+ },
+ {
+  "ctx": "MAP8390.DAT",
+  "max": 31,
+  "en": "Reims Cathedral",
+  "fr": "La cathédrale de Reims"
+ },
+ {
+  "ctx": "MAP8410.DAT",
+  "max": 31,
+  "en": "Guillorey Canal",
+  "fr": "Le canal de Guillorey"
+ },
+ {
+  "ctx": "MAP8420.DAT",
+  "max": 31,
+  "en": "The Paris Warren",
+  "fr": "Les souterrains de Paris"
+ },
+ {
+  "ctx": "MAP8430.DAT",
+  "max": 31,
+  "en": "Alrond Wood",
+  "fr": "Le bois d'Alrond"
+ },
+ {
+  "ctx": "MAP8431.DAT",
+  "max": 31,
+  "en": "Gwygone Mines",
+  "fr": "Les mines de Gwygone"
+ },
+ {
+  "ctx": "MAP8433.DAT",
+  "max": 4,
+  "en": "\nnK",
+  "fr": ""
+ },
+ {
+  "ctx": "MAP8450.DAT",
+  "max": 31,
+  "en": "Vantoix Canyon",
+  "fr": "Le canyon de Vantoix"
+ },
+ {
+  "ctx": "MAP8460.DAT",
+  "max": 31,
+  "en": "Soldat Outpost",
+  "fr": "L'avant-poste de Soldat"
+ },
+ {
+  "ctx": "MAP8811.DAT",
+  "max": 31,
+  "en": "Round 1",
+  "fr": "Manche 1"
+ },
+ {
+  "ctx": "MAP8812.DAT",
+  "max": 31,
+  "en": "Round 2",
+  "fr": "Manche 2"
+ },
+ {
+  "ctx": "MAP8813.DAT",
+  "max": 31,
+  "en": "Round 3",
+  "fr": "Manche 3"
+ },
+ {
+  "ctx": "MAP8814.DAT",
+  "max": 31,
+  "en": "Round 4",
+  "fr": "Manche 4"
+ },
+ {
+  "ctx": "MAP8815.DAT",
+  "max": 31,
+  "en": "Round 5",
+  "fr": "Manche 5"
+ },
+ {
+  "ctx": "MAP8816.DAT",
+  "max": 31,
+  "en": "Round 6",
+  "fr": "Manche 6"
+ },
+ {
+  "ctx": "MAP8817.DAT",
+  "max": 31,
+  "en": "Round 7",
+  "fr": "Manche 7"
+ },
+ {
+  "ctx": "MAP8818.DAT",
+  "max": 31,
+  "en": "Round 8",
+  "fr": "Manche 8"
+ },
+ {
+  "ctx": "MAP8819.DAT",
+  "max": 31,
+  "en": "Round 9",
+  "fr": "Manche 9"
+ },
+ {
+  "ctx": "MAP8819.DAT",
+  "max": 31,
+  "en": "Frost Demon",
+  "fr": "Démon du givre"
+ },
+ {
+  "ctx": "MAP8820.DAT",
+  "max": 31,
+  "en": "Round 10",
+  "fr": "Manche 10"
+ },
+ {
+  "ctx": "MAP8827.DAT",
+  "max": 31,
+  "en": "Thief",
+  "fr": "Voleur"
+ },
+ {
+  "ctx": "MAP8830.DAT",
+  "max": 32,
+  "en": "Luther",
+  "fr": "Luther"
+ },
+ {
+  "ctx": "MAP8904.DAT",
+  "max": 32,
+  "en": "Mimi",
+  "fr": "Mimi"
+ },
+ {
+  "ctx": "MAP8904.DAT",
+  "max": 31,
+  "en": "Toutou",
+  "fr": "Toutou"
+ },
+ {
+  "ctx": "MAP8904.DAT",
+  "max": 63,
+  "en": "Lock Mimi in the green      cage, Toutou in the red",
+  "fr": "Mettre Mimi dans la cage    verte, Toutou dans la rouge"
+ },
+ {
+  "ctx": "MAP8904.DAT",
+  "max": 63,
+  "en": "Mimi or Toutou is slain in  battle",
+  "fr": "Mimi ou Toutou est tué"
+ },
+ {
+  "ctx": "MAP8905.DAT",
+  "max": 63,
+  "en": "Defeat the qrow leader",
+  "fr": "Vaincre le chef qrow"
+ },
+ {
+  "ctx": "MAP8905.DAT",
+  "max": 63,
+  "en": "Colet falls in battle",
+  "fr": "Colet est vaincu"
+ },
+ {
+  "ctx": "MAP8906.DAT",
+  "max": 63,
+  "en": "Defeat the Queen Rouge",
+  "fr": "Vaincre la Reine Rouge"
+ },
+ {
+  "ctx": "MAP8912.DAT",
+  "max": 31,
+  "en": "Tiny Dragon",
+  "fr": "Petit dragon"
+ }
+]
