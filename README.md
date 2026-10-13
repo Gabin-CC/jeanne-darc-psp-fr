@@ -88,7 +88,7 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 .venv/bin/python tools/build.py
 
 # 3. Générer le patch
-xdelta3 -e -9 -s "Jeanne d'Arc (USA).iso" "Jeanne d'Arc (FR).iso" Jeanne_dArc_FR.xdelta
+xdelta3 -e -9 -S none -s "Jeanne d'Arc (USA).iso" "Jeanne d'Arc (FR).iso" Jeanne_dArc_FR.xdelta   # -S none : compatible Rom Patcher JS
 ```
 
 ## Organisation
