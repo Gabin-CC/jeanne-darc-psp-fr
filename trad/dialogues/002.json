@@ -4,1749 +4,1999 @@
   "max": 16,
   "who": "Roger, Gilles, Bertrand",
   "en": "Come on!",
-  "fr": "Allez !"
+  "fr": "Viens !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Roger",
   "en": "Don't let your\nguard down yet!",
-  "fr": "Ne baissez pas\nencore la garde !"
+  "fr": "Ne baisse pas\nta garde !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "La Hire, Bertrand, Roger",
   "en": "Charge!",
-  "fr": "Chargez !"
+  "fr": "Chargez !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Roger",
   "en": "Will we make\nit in time?",
-  "fr": "Arriverons-nous\nà temps ?"
+  "fr": "Y arriverons-nous\nà temps ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "Is he safe?",
-  "fr": "Est-il sauf ?"
+  "fr": "Est-il blessé ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "It's not\nover yet...",
-  "fr": "Ce n'est pas\nencore fini..."
+  "fr": "C'est pas\nencore fini...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "Formidable\nindeed...",
-  "fr": "Redoutable,\nen effet..."
+  "fr": "Formidable\nn'est-ce pas...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "He can't hold\nout forever!",
-  "fr": "Il ne tiendra\npas toujours !"
+  "fr": "Il ne peut pas\ntenir indéfiniment !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "You ain't\nstoppin' me!",
-  "fr": "Tu m'arrêteras\npas !"
+  "fr": "Vous ne pouvez\npas m'arrêter !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jeanne",
   "en": "Agh...\nSome help!",
-  "fr": "Argh...\nUn coup de main !"
+  "fr": "Argh...\nÀ l'aide !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jeanne",
   "en": "Agh!\nIt's not over...",
-  "fr": "Argh !\nC'est pas fini..."
+  "fr": "Argh !\nCe n'est pas fini...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jeanne",
   "en": "Ungh! No...",
-  "fr": "Unngh ! Non..."
+  "fr": "Ungh ! Non...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jeanne",
   "en": "I...will...\nnot...lose...!",
-  "fr": "Je... ne...\nperdrai... pas !"
+  "fr": "Je...ne...\nperdrai...pas... !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jeanne",
   "en": "Look what\nI've caught.",
-  "fr": "Regardez ce\nque j'ai attrapé."
+  "fr": "Regardez ce que\nj'ai attrappé.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jeanne",
   "en": "You're mine!",
-  "fr": "Tu es à moi !"
+  "fr": "Tu es à moi !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jeanne",
   "en": "We...we can\nstill win this!",
-  "fr": "On... on peut\nencore gagner !"
+  "fr": "Nous pouvons\nencore gagner !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jeanne",
   "en": "Everyone,\nstand fast!",
-  "fr": "Tenez bon,\ntout le monde !"
+  "fr": "En position,\nvite !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jeanne",
   "en": "We have to turn\nthis around...",
-  "fr": "Il faut renverser\nla situation..."
+  "fr": "Nous devons le\ncontourner...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jeanne",
   "en": "Stand your\nground!",
-  "fr": "Ne reculez pas !"
+  "fr": "Maintenez vos\npositions !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jeanne",
   "en": "Protect him!\nNo matter what!",
-  "fr": "Protégez-le !\nCoûte que coûte !"
+  "fr": "Protège-le !\nCoûte que coûte !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jeanne",
   "en": "Great!\nKeep going!",
-  "fr": "Bravo !\nContinuez !"
+  "fr": "Parfait !\nContinuez !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jeanne",
   "en": "Someone, heal\nthose wounds!",
-  "fr": "Qu'on soigne\nces blessures !"
+  "fr": "À l'aide !\nSoignez-le !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jeanne",
   "en": "Thanks...\nThat was close.",
-  "fr": "Merci...\nC'était juste."
+  "fr": "Merci. C'était\nmoins une...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jeanne, Liane",
   "en": "Whew!",
-  "fr": "Ouf !"
+  "fr": "Pfiou !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jeanne",
   "en": "You'll pay!",
-  "fr": "Tu vas payer !"
+  "fr": "Tu le paieras !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jeanne",
   "en": "Scum!",
-  "fr": "Racaille !"
+  "fr": "Bâtards !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jeanne",
   "en": "Yield!",
-  "fr": "Rends-toi !"
+  "fr": "Renonce !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jeanne, Liane",
   "en": "I will prevail!",
-  "fr": "Je triompherai !"
+  "fr": "Je vais gagner !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Liane",
   "en": "Someone...\nplease...",
-  "fr": "Quelqu'un...\npitié..."
+  "fr": "Au secours...\nÀ l'aide...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Liane",
   "en": "They're going\nto get us!",
-  "fr": "Ils vont nous\navoir !"
+  "fr": "Ils vont nous\navoir !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Liane",
   "en": "I...I have to\ndo something!",
-  "fr": "Je... je dois\nréagir !"
+  "fr": "Je... je dois faire\nquelque chose !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Liane",
   "en": "What do we do?",
-  "fr": "Que faire ?"
+  "fr": "Que faire ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Liane",
   "en": "Can't someone\nheal that?!",
-  "fr": "Personne ne peut\nsoigner ça ?!"
+  "fr": "Quelqu'un peut\nguérir ça ?!",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Liane, unité#31",
   "en": "Thank you!",
-  "fr": "Merci !"
+  "fr": "Merci !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Liane, unité#31, Jeanne",
   "en": "Oww...",
-  "fr": "Aïe..."
+  "fr": "Ouch...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Liane",
   "en": "Make me\nstronger!",
-  "fr": "Donne-moi\nde la force !"
+  "fr": "Rends moi\nplus forte !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Liane",
   "en": "Here!",
-  "fr": "Tiens !"
+  "fr": "Là !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Liane",
   "en": "Don't think I\nwon't hurt you!",
-  "fr": "Ne crois pas que\nje t'épargnerai !"
+  "fr": "N'espère pas que je\nretienne mes coups !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Liane",
   "en": "Yaaahhh!",
-  "fr": "Yaaahhh !"
+  "fr": "Yaaahhh !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Roger",
   "en": "Urg, damn...",
-  "fr": "Argh, bon sang..."
+  "fr": "Arg, bon sang...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Roger",
   "en": "You've caused\nenough trouble.",
-  "fr": "Tu as causé assez\nd'ennuis."
+  "fr": "Vous avez causé\nassez d'ennuis.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Roger",
   "en": "We're in\ntrouble...",
-  "fr": "Ça sent\nmauvais..."
+  "fr": "Nous avons\ndes ennuis...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Roger",
   "en": "Don't lose\nheart now!",
-  "fr": "Ne perdez pas\ncourage !"
+  "fr": "Ne perdez pas\nespoir !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Gilles, Richard, Roger",
   "en": "Healer!",
-  "fr": "Des soins !"
+  "fr": "Infirmier !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Roger",
   "en": "Thank you...",
-  "fr": "Merci..."
+  "fr": "Merci...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Roger",
   "en": "Agh, dammit...",
-  "fr": "Ah, misère..."
+  "fr": "Arg, mince...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Roger",
   "en": "You've picked\nyour last fight!",
-  "fr": "C'était ton\ndernier combat !"
+  "fr": "C'est votre\ndernier combat !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Roger",
   "en": "See how...\nTHIS feels!",
-  "fr": "Voyons ce que...\nÇA te fait !"
+  "fr": "Vois comment...\nÇA fait !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "Disgraceful...",
-  "fr": "Honteux..."
+  "fr": "Pitoyable...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "Why me?",
-  "fr": "Pourquoi moi ?"
+  "fr": "Pourquoi moi ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "No place to run.",
-  "fr": "Plus d'issue."
+  "fr": "La fuite est\ninconcevable.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "Clumsy fool.",
-  "fr": "Pauvre balourd."
+  "fr": "Imbécile.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "Shall I bake\nor braise you?",
-  "fr": "Rôti ou braisé,\nque préfères-tu ?"
+  "fr": "Dois-je vous braiser\nou vous bouillir ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "Uh, hello...",
-  "fr": "Euh, bonjour..."
+  "fr": "Heu, bonjour...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "Oh, bother.",
-  "fr": "Oh, zut."
+  "fr": "Oh, la galère.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "Dreadful...",
-  "fr": "Affreux..."
+  "fr": "Abominable...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "These are\ndire straits...",
-  "fr": "La situation\nest critique..."
+  "fr": "On est dans\nla panade...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "We must\nregroup!",
-  "fr": "Regroupons-nous !"
+  "fr": "Nous devons\nnous regrouper !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "Stay calm,\nmy friends!",
-  "fr": "Du calme,\nmes amis !"
+  "fr": "Restez calmes,\nmes amis !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "Splendid!",
-  "fr": "Splendide !"
+  "fr": "Splendide !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "This win was\nassured.",
-  "fr": "Cette victoire\nétait acquise."
+  "fr": "Cette victoire\nétait assurée.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "Fortune\nfavors us!",
-  "fr": "La fortune\nnous sourit !"
+  "fr": "La chance\nnous sourit !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "Shall we\nsweep up?",
-  "fr": "On fait le\nménage ?"
+  "fr": "Devons-nous\nfaire le ménage ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "Hold on!",
-  "fr": "Tenez bon !"
+  "fr": "Tenez bon !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "Save your\nstrength!",
-  "fr": "Ménagez vos\nforces !"
+  "fr": "Economisez vos\nforces !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "Give the\nquietus!",
-  "fr": "Le coup de\ngrâce !"
+  "fr": "Achève-le !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "Your time is up!",
-  "fr": "Ton heure\nest venue !"
+  "fr": "Ton heure\na sonné !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "Lay down\nyour arms!",
-  "fr": "Rendez les\narmes !"
+  "fr": "Déposez\nvos armes !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "Much\nappreciated!",
-  "fr": "Bien aimable !"
+  "fr": "Merci\nbeaucoup !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "What a relief...",
-  "fr": "Quel soulagement."
+  "fr": "Quel soulagement...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "I remember\nmy debts.",
-  "fr": "Je n'oublie pas\nmes dettes."
+  "fr": "Je n'oublie pas\nmes dettes.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "Urg!",
-  "fr": "Urg !"
+  "fr": "Arg !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "I'll give you\nthat one...",
-  "fr": "Celle-là, je\nte l'accorde..."
+  "fr": "Celui-là est\npour toi...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean, Colet",
   "en": "Oof...",
-  "fr": "Oumpf..."
+  "fr": "Ouf...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean, unité#87",
   "en": "Is that all?",
-  "fr": "C'est tout ?"
+  "fr": "C'est tout ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "Shall I?",
-  "fr": "Permettez ?"
+  "fr": "Puis-je ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "Now then!",
-  "fr": "Bien, alors !"
+  "fr": "Maintenant !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "You won't want\nto miss this...",
-  "fr": "Ne manquez pas\nça..."
+  "fr": "Ce serait dommage\nde rater ça...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jean",
   "en": "Hope you have\ngood armor.",
-  "fr": "J'espère que ton\narmure est solide."
+  "fr": "J'espère que vous\navez une bonne\farmure.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "Damn it...",
-  "fr": "Bon sang..."
+  "fr": "Bon sang...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "Ouch...",
-  "fr": "Ouïe..."
+  "fr": "Ouch...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "Arrrg...",
-  "fr": "Arrrg..."
+  "fr": "Arrrg...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "This ain't\nso good...",
-  "fr": "Ça sent pas\nbon, ça..."
+  "fr": "C'est pas\nbon signe...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "Who's first?",
-  "fr": "Qui commence ?"
+  "fr": "À qui le tour ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "It's pummel\ntime!",
-  "fr": "C'est l'heure\nde la raclée !"
+  "fr": "C'est l'heure de\nla castagne !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "You ain't\ngoin' nowhere!",
-  "fr": "Tu vas nulle\npart, toi !"
+  "fr": "Vous n'irez\nnulle part !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "How'd they\noutwit ME?",
-  "fr": "Comment qu'ils\nm'ont eu, MOI ?"
+  "fr": "Comment ont-ils\nfait pour m'avoir ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "Yipes!",
-  "fr": "Ouille !"
+  "fr": "Youpi !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "Sneaky\ncowards!",
-  "fr": "Lâches et\nsournois !"
+  "fr": "Vils serpents !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "This...\nis bad, right?",
-  "fr": "C'est... pas\nbon, hein ?"
+  "fr": "C'est... pas\nsuper, non ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "Don't give up!",
-  "fr": "N'abandonne pas !"
+  "fr": "N'abandonnez pas !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "Fight!\nWe gots to!",
-  "fr": "Battez-vous !\nFaut y aller !"
+  "fr": "À l'attaque !\nAllons-y !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "I ain't givin'\nup yet!",
-  "fr": "J'lâche pas\nl'affaire !"
+  "fr": "Je n'ai pas encore\nabandonné !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "Now we're\ntalkin'!",
-  "fr": "Là, on cause !"
+  "fr": "Parlons\nmaintenant !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand, Jeanne",
   "en": "Forward!",
-  "fr": "En avant !"
+  "fr": "En avant !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "Not goin' to\nlose this one!",
-  "fr": "Celle-là, on\nla perdra pas !"
+  "fr": "On ne perdra\npas celui-là !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "I've got\nyou covered!",
-  "fr": "Je te couvre !"
+  "fr": "Je vous\ncouvre !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "Stand down!",
-  "fr": "Repliez-vous !"
+  "fr": "En arrière !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "Don't get\nyourself killed!",
-  "fr": "Ne te fais pas\ntuer !"
+  "fr": "Ne vous faites\npas tuer !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "Hang on!",
-  "fr": "Accroche-toi !"
+  "fr": "Tiens bon !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "Finish the\ncoward off!",
-  "fr": "Achevez ce\nlâche !"
+  "fr": "Achevez les\nlâches !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "You're through!",
-  "fr": "C'est la fin\npour toi !"
+  "fr": "Tu es fini !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "Who wants the\nlast punch?",
-  "fr": "Qui veut le\ndernier coup ?"
+  "fr": "Qui veut le\ncoup de grâce ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "That felt great!",
-  "fr": "Ça fait du bien !"
+  "fr": "C'est pas mal !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand, Marcel, Rose",
   "en": "Thanks!",
-  "fr": "Merci !"
+  "fr": "Merci !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "That tingles!",
-  "fr": "Ça picote !"
+  "fr": "Ça picote !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "Whew, thanks!",
-  "fr": "Ouf, merci !"
+  "fr": "Pfiou, merci !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "Cheap bastard!",
-  "fr": "Sale lâche !"
+  "fr": "Bâtards !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "Yaargh!",
-  "fr": "Yaargh !"
+  "fr": "Yaargh !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand, Mawra, Liane",
   "en": "Ungh!",
-  "fr": "Unngh !"
+  "fr": "Gnnn !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "Ow, dammit!",
-  "fr": "Aïe, bon sang !"
+  "fr": "Ouch, bordel !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "Hoo-ahhhhhh!",
-  "fr": "Hou-ahhhhhh !"
+  "fr": "Hoo-ahhhhhh !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "Try this on\nfor size!",
-  "fr": "Goûte-moi ça !"
+  "fr": "Essayez juste\npour voir !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Bertrand",
   "en": "I'm sendin' you\nto hotter climes!",
-  "fr": "J't'envoie rôtir\nen enfer !"
+  "fr": "Je vais vous envoyer\nsous d'autres\flatitudes !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "unité#122, unité#168, unité#167",
   "en": "Keep it going!",
-  "fr": "On continue !"
+  "fr": "Vas-y, continue !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "unité#167",
   "en": "Survivors!\nKill them!",
-  "fr": "Des survivants !\nTuez-les !"
+  "fr": "Des survivants !\nTuez-les !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "unité#122, unité#77, unité#76",
   "en": "Ergh...",
-  "fr": "Erg..."
+  "fr": "Argh...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "",
   "en": "Curse you...",
-  "fr": "Maudit sois-tu..."
+  "fr": "Maudit sois-tu...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "",
   "en": "What...who is\nthat?!",
-  "fr": "Quoi... qui\nest-ce ?!"
+  "fr": "Quoi... qui\nest-ce ?!",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Beatrix",
   "en": "Fools...",
-  "fr": "Insensés..."
+  "fr": "Imbéciles...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "",
   "en": "Victory is ours!",
-  "fr": "La victoire\nest à nous !"
+  "fr": "La victoire est\nnôtre !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "",
   "en": "Fshhh...",
-  "fr": "Fshhh..."
+  "fr": "Fshhh...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "",
   "en": "Shhnnhh...",
-  "fr": "Shhnnhh..."
+  "fr": "Shhnnhh...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "",
   "en": "Shnn...",
-  "fr": "Shnn..."
+  "fr": "Shnn...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "",
   "en": "Shrrhh...",
-  "fr": "Shrrhh..."
+  "fr": "Shrrhh...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "",
   "en": "Shrrhh!!",
-  "fr": "Shrrhh !!"
+  "fr": "Shrrhh !!",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "",
   "en": "Uggrrhh!",
-  "fr": "Uggrrhh !"
+  "fr": "Uggrrhh !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "",
   "en": "Sssssss!",
-  "fr": "Sssssss !"
+  "fr": "Sssssss !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "",
   "en": "Ssssssssss!!",
-  "fr": "Ssssssssss !!"
+  "fr": "Ssssssssss !!",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jeanne",
   "en": "All right! This time I transformed!",
-  "fr": "Ça y est ! Je me suis transformée !"
+  "fr": "Parfait ! Cette fois\nje me suis\ftransformée !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jeanne",
   "en": "That explains it...",
-  "fr": "Voilà qui\nexplique tout..."
+  "fr": "Tout s'explique...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "Jeanne",
   "en": "I have to store up power before \nthe armlet will work!",
-  "fr": "Je dois accumuler de la puissance\npour que le Bracelet marche !"
+  "fr": "Je dois stocker de\nla puissance avant\fque le bracelet\fne fonctionne !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
   "max": 16,
   "who": "English Officer",
   "en": "Ngaaah...!\nBloody French...",
-  "fr": "Ngaaah... !\nBloody Français..."
+  "fr": "Ngaaah... !\nMaudits Français...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "",
   "en": "Head to Nancy by way of the Forest of Fraude.",
-  "fr": "Gagnez Nancy par la forêt de Fraude."
+  "fr": "En route pour Nancy par la forêt de\nFraude.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "",
   "en": "&Neufchâteau Townsman",
-  "fr": "&Habitant de Neufchâteau"
+  "fr": "&Habitant de Neufchâteau",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "Neufchâteau Townsman",
   "en": "Ohh... N-no...",
-  "fr": "Ohh... N-non..."
+  "fr": "Ohh... N-non...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "Jeanne",
   "en": "All the demons are vanquished. \nYou've naught to fear.",
-  "fr": "Tous les démons sont vaincus.\nVous n'avez plus rien à craindre."
+  "fr": "Tous les démons sont morts.\nVous n'avez plus rien à craindre.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "Neufchâteau Townsman",
   "en": "Ohh, no, nooo...",
-  "fr": "Ohh, non, nooon..."
+  "fr": "Ohh, non, nooon...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "Neufchâteau Townsman",
   "en": "I've got nothing left...",
-  "fr": "Je n'ai plus rien..."
+  "fr": "Je n'ai plus rien...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "Neufchâteau Townsman",
   "en": "Aaaaaahhh!!!",
-  "fr": "Aaaaaahhh !!!"
+  "fr": "Aaaaaahhh !!!",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "Jeanne",
   "en": "I told myself I'd never fail my \ncountrymen again...",
-  "fr": "Je m'étais juré de ne plus jamais\nfaillir envers les miens..."
+  "fr": "Je m'étais dit que je ne laisserai\nplus jamais tomber\fmes concitoyens...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "Jeanne",
   "en": "Those English scum...",
-  "fr": "Ces ordures d'Anglais..."
+  "fr": "Ces vermines d'Anglais...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "Jeanne",
   "en": "If only...\nIf I'd just...",
-  "fr": "Si seulement... Si j'avais..."
+  "fr": "Si seulement...\nSi j'avais...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "Jeanne",
   "en": "I should've wielded the armlet \nmore skillfully...",
-  "fr": "J'aurais dû mieux maîtriser\nle Bracelet..."
+  "fr": "Si seulement j'avais une\nmeilleure maîtrise du bracelet...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "Jean",
   "en": "Quite to the contrary, my sweet.\nThis was our task, not yours.",
-  "fr": "Bien au contraire, ma belle.\nC'était notre tâche, pas la vôtre."
+  "fr": "C'est tout le contraire, ma douce.\nC'était notre tâche, pas la vôtre.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "Jean",
   "en": "If we'd properly stationed some \nof the garrison here,",
-  "fr": "Si nous avions posté une partie\nde la garnison ici,"
+  "fr": "Si seulement nous avions\nplacé une garnison ici,",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "Jean",
   "en": "none of this would have \nhappened.",
-  "fr": "rien de tout cela ne serait\narrivé."
+  "fr": "rien de tout cela ne\nserait arrivé.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "Bertrand",
   "en": "The armlet's that thing you gots \non?",
-  "fr": "Le Bracelet, c'est l'machin\nque vous avez là ?"
+  "fr": "Ce bracelet est l'objet que vous\navez trouvé ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "Jeanne",
   "en": "...I've been using its power \nto fight.",
-  "fr": "...J'utilise son pouvoir\npour combattre."
+  "fr": "... J'ai utilisé son pouvoir\npour combattre.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "Jeanne",
   "en": "But it doesn't make any sense.",
-  "fr": "Mais ça n'a aucun sens."
+  "fr": "Mais c'est totalement absurde.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "Jeanne",
   "en": "Why do I have it? What is it \nreally for?",
-  "fr": "Pourquoi est-ce moi qui l'ai ?\nÀ quoi sert-il vraiment ?"
+  "fr": "Pourquoi est-ce moi qui l'ai\nreçu ? À quoi sert-il vraiment ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "Bertrand",
   "en": "Hmm, you don't say...",
-  "fr": "Hum, vraiment..."
+  "fr": "Hmm, tu ne dis rien...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "Jeanne",
   "en": "Stupid armlet!\fThe moment I need it, \nit decides to stop working!",
-  "fr": "Stupide Bracelet !\fAu moment où j'en ai besoin,\nil décide de ne plus marcher !"
+  "fr": "Stupide bracelet ! Au moment où\nj'en ai besoin, \fil se décide à ne plus\nfonctionner !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "Jeanne",
   "en": "If I'd just been able to\n transform in time...",
-  "fr": "Si seulement j'avais pu me\ntransformer à temps..."
+  "fr": "Si seulement j'avais été capable\nde me transformer à temps...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "Liane",
   "en": "J-Jeanne!",
-  "fr": "J-Jeanne !"
+  "fr": "J-Jeanne !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "Roger",
   "en": "Jeanne, stop it! You fought well!",
-  "fr": "Jeanne, arrête ! Tu t'es bien\nbattue !"
+  "fr": "Jeanne, arrête ça ! Tu t'es bien\nbattue !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "Roger",
   "en": "There was nothing any of us \ncould do! All right?",
-  "fr": "Aucun de nous ne pouvait rien\nfaire ! D'accord ?"
+  "fr": "Nous n'aurions rien pu faire,\nde toute façon ! D'accord ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "Jeanne",
   "en": "No, it's not!",
-  "fr": "Non, pas d'accord !"
+  "fr": "Non, ce n'est pas vrai !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "",
   "en": "...GO TO THE CITY OF NANCY...",
-  "fr": "...VA EN LA CITÉ DE NANCY..."
+  "fr": "...RENDS-TOI À NANCY...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "Jeanne, Roger",
   "en": "What's wrong?",
-  "fr": "Qu'y a-t-il ?"
+  "fr": "Qu'est-ce qui ne va pas ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "Jeanne",
   "en": "The city of Nancy...\fIf I go, as you say, \nwill I find answers?",
-  "fr": "La cité de Nancy...\fSi j'y vais, comme vous le dites,\ntrouverai-je des réponses ?"
+  "fr": "La ville de Nancy...\fSi j'y vais, y trouverai-je des\nréponses ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "Liane",
   "en": "Jeanne, is it...is it Him?",
-  "fr": "Jeanne, c'est... c'est Lui ?"
+  "fr": "Jeanne, est-ce... est-ce LUI ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST1030AB",
   "max": 34,
   "who": "Jeanne, Roger, Liane",
   "en": "...Yes.",
-  "fr": "...Oui."
+  "fr": "... Oui.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BM",
   "max": 34,
   "who": "Toad",
   "en": "Coa, coa, coa-coa!",
-  "fr": "Croa, croa, croa-croa !"
+  "fr": "Coa, coa, coa-coa !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BM",
   "max": 34,
   "who": "Liane",
   "en": "Tee hee! You're in awfully good \nspirits, Cuisses.",
-  "fr": "Hi hi ! Tu es drôlement de bonne\nhumeur, Cuisses."
+  "fr": "Hi hi ! Tu es vraiment de\nbonne humeur, Cuisses.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BM",
   "max": 34,
   "who": "Roger",
   "en": "\"Cuisses\"?\nYou gave the toad a name?",
-  "fr": "« Cuisses » ?\nTu as donné un nom au crapaud ?"
+  "fr": "\"Cuisses\" ?\fTu as donné un nom à la\ngrenouille ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BM",
   "max": 34,
   "who": "Liane",
   "en": "Well, yes!\nI happen to think it's cute.",
-  "fr": "Eh bien, oui !\nJe trouve ça mignon."
+  "fr": "Bien sûr !\nJe trouve ça mignon.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BM",
   "max": 34,
   "who": "Liane",
   "en": "I sure wish I knew what Cuisses \nfinds so nice about long journeys.",
-  "fr": "J'aimerais bien savoir ce que\nCuisses trouve aux longs voyages."
+  "fr": "Je regrette de ne pas savoir ce\nque Cuisses trouve d'agréable\fdans ces longs voyages.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BM",
   "max": 34,
   "who": "Liane",
   "en": "...This is my first one.",
-  "fr": "...C'est mon premier."
+  "fr": "... C'est mon premier.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BM",
   "max": 34,
   "who": "Liane",
   "en": "To be honest...\nI never wished for it.",
-  "fr": "Pour être honnête...\nje ne l'ai jamais souhaité."
+  "fr": "Pour être honnête...\nJe n'y pensais même pas.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BM",
   "max": 34,
   "who": "Cuisses",
   "en": "Coa...",
-  "fr": "Croa..."
+  "fr": "Coa...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BM",
   "max": 34,
   "who": "Jeanne, Roger, Richard",
   "en": "Liane...",
-  "fr": "Liane..."
+  "fr": "Liane...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BM",
   "max": 34,
   "who": "Jeanne",
   "en": "Don't talk like that. Think of \nwhat the English did.",
-  "fr": "Ne parle pas comme ça. Pense à\nce qu'ont fait les Anglais."
+  "fr": "Ne parles pas comme ça.\fPense à ce que les Anglais ont\nfaits.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BM",
   "max": 34,
   "who": "Jeanne",
   "en": "Don't tell me you're willing to \nlet them get away with it!",
-  "fr": "Tu ne vas pas me dire que tu\nveux les laisser s'en tirer !"
+  "fr": "Ne me dis pas que tu es prête à\nles laisser s'en tirer comme ça !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BM",
   "max": 34,
   "who": "Roger",
   "en": "Jeanne, stop it.",
-  "fr": "Jeanne, arrête."
+  "fr": "Jeanne, arrête ça.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BM",
   "max": 34,
   "who": "Bertrand",
   "en": "Huh? Hold it!\nOver there, look!",
-  "fr": "Hein ? Attendez !\nLà-bas, regardez !"
+  "fr": "Huh ? Tenez !\nLà-bas, regardez !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BM",
   "max": 34,
   "who": "English Officer",
   "en": "Got you at last, you slippery \nlittle frog.",
-  "fr": "Enfin je te tiens, petite\ngrenouille insaisissable, my dear."
+  "fr": "On t'a enfin attrapé, gluante\npetite grenouille.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BM",
   "max": 34,
   "who": "",
   "en": "&Nobleman",
-  "fr": "&Noble"
+  "fr": "&Noble",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BM",
   "max": 34,
   "who": "Nobleman",
   "en": "...Tsk.\nFancy meeting you here.",
-  "fr": "...Tss. Tiens donc, vous ici."
+  "fr": "...Tss.\nTiens tiens, vous ici.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BM",
   "max": 34,
   "who": "Jeanne",
   "en": "What?! The English again?",
-  "fr": "Quoi ?! Encore les Anglais ?"
+  "fr": "Quoi ?! Encore les Anglais ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BM",
   "max": 34,
   "who": "Jeanne",
   "en": "Come on, everyone.\nWe have to save him!",
-  "fr": "Venez, tout le monde.\nIl faut le sauver !"
+  "fr": "Venez, tout le monde.\nNous devons le sauver !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "unité#150, unité#168, unité#113",
   "en": "Get them!",
-  "fr": "Attrapez-les !"
+  "fr": "Des survivants !\nTuez-les !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "unité#168",
   "en": "Who are you?!",
-  "fr": "Qui êtes-vous ?!"
+  "fr": "Qui êtes-vous ?!",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "Moohh...",
-  "fr": "Meuhh..."
+  "fr": "Meuh...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "unité#140",
   "en": "Mrohh...",
-  "fr": "Mrrheuh..."
+  "fr": "MEUH...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "Gotcha!",
-  "fr": "Attrapé !"
+  "fr": "Je t'ai !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "Don't moove!",
-  "fr": "Meuh bouge pas !"
+  "fr": "Ne bougez pas !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "Mooh!",
-  "fr": "Meuh !"
+  "fr": "Meuuuh !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "Mooh?!",
-  "fr": "Meuh ?!"
+  "fr": "Meuh ?!",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "unité#140",
   "en": "Uhnn...",
-  "fr": "Uhnn..."
+  "fr": "Gnn...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "Moove forward!\nStrike back!",
-  "fr": "Meuhvez-vous !\nRipostez !"
+  "fr": "Reculez !\nDéfendez-vous !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "Don't let them\nmoove away!",
-  "fr": "Qu'aucun ne\nmeuhve d'ici !"
+  "fr": "Ne les laissez\npas filer !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "It's our battle\nto win!",
-  "fr": "Cette bataille\nest à nous !"
+  "fr": "C'est une bataille\nà gagner !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "Grnnhh...",
-  "fr": "Grnnhh..."
+  "fr": "Grnnhh...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "You will pay\nfor this...",
-  "fr": "Vous paierez\nça..."
+  "fr": "Vous allez\nme le payer.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "Moo mooh! Did\nyou see that?!",
-  "fr": "Meuh meuh ! Vous\navez vu ça ?!"
+  "fr": "Meuh meuh !\nVous avez vu ça ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "Let me make it\neasy for you...",
-  "fr": "Je vais te\nfaciliter ça..."
+  "fr": "Laisse-moi te\nfaciliter la tâche.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "Moo, thank you!",
-  "fr": "Meuhrci !"
+  "fr": "Meuh, merci.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "Sorry...moo.",
-  "fr": "Pardon... meuh."
+  "fr": "Désolé... Meuh.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "Mooohh!!",
-  "fr": "Meuuuhh !!"
+  "fr": "Meuuuuuhhhh !!",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "Grooh...",
-  "fr": "Grouh..."
+  "fr": "Grouhh...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "Moohh!!",
-  "fr": "Meuhh !!"
+  "fr": "Meuhh !!",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "Mmmoooohh!",
-  "fr": "Mmmeuuuhh !"
+  "fr": "Mmmmmeuhhhh !!!",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "Duke of Bedford",
   "en": "Now...",
-  "fr": "À présent..."
+  "fr": "Maintenant...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "You cannot\nescape...",
-  "fr": "Tu ne peux\npas fuir..."
+  "fr": "Vous ne pouvez\nplus fuir.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "How silly\nof you.",
-  "fr": "Que c'est\nbête de ta part."
+  "fr": "Bande\nd'idiots.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "Ugh, this is so\ndepressing...",
-  "fr": "Pff, c'est si\ndéprimant..."
+  "fr": "Arf, c'est si\ndéprimant.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "Such strength...",
-  "fr": "Quelle force..."
+  "fr": "Quelle force...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "The end is in\nsight...",
-  "fr": "La fin est\nproche..."
+  "fr": "La fin\napproche...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "We've taken the\nadvantage...",
-  "fr": "Nous avons pris\nl'avantage..."
+  "fr": "Nous avons pris\nl'avantage...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "Let's settle\nthis...",
-  "fr": "Réglons ça..."
+  "fr": "Arrangeons\ntout ça...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "Let's get this\nover with...",
-  "fr": "Finissons-en..."
+  "fr": "Finissons-en\navec...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "I'll be right\nover...",
-  "fr": "J'arrive tout\nde suite..."
+  "fr": "J'arrive\nimmédiatement.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "Want me to end\nthe pain?",
-  "fr": "Je mets fin à\ntes souffrances ?"
+  "fr": "Voulez-vous que\nj'abrège votre peine\f?",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "I needed that...",
-  "fr": "J'en avais\nbesoin..."
+  "fr": "J'en avais besoin...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "This just isn't\nlike me...",
-  "fr": "Ça ne me\nressemble pas..."
+  "fr": "Ce n'est pas\ncomme moi...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "How does this\ngrab you?",
-  "fr": "Qu'est-ce que\ntu dis de ça ?"
+  "fr": "Comment est-ce\nqu'il t'a eu ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "Power...come\nto me!",
-  "fr": "Puissance...\nviens à moi !"
+  "fr": "Pouvoir...\nViens à moi !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "The power of\ndarkness...",
-  "fr": "Le pouvoir\ndes ténèbres..."
+  "fr": "Le pouvoir des\nténèbres...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "Haahhh!",
-  "fr": "Haahhh !"
+  "fr": "Haahhh !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "Brr...",
-  "fr": "Brr..."
+  "fr": "Brr...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "Byaaahh!!",
-  "fr": "Byaaahh !!"
+  "fr": "Byaaahh !!",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "Nobleman, Gilles",
   "en": "My God...",
-  "fr": "Mon Dieu..."
+  "fr": "Mon Dieu...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "Nobleman",
   "en": "She has the same power!",
-  "fr": "Elle a le même\npouvoir !"
+  "fr": "Elle a le même\npouvoir !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "English Officer",
   "en": "Our troops, defeated?\nThat can't...urg...be right...",
-  "fr": "Nos troupes, vaincues ? C'est...\nargh... impossible, damn it..."
+  "fr": "Nos troupes, battues\n? Imp... Impossible\f!",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "English Officer",
   "en": "Ngaah... Don't go celebratin' yet, \nfroggies...",
-  "fr": "Ngaah... Faites pas la fête trop\nvite, bouffeurs de grenouilles..."
+  "fr": "Graaah... Ne vous\nréjouissez pas trop\fvite, froggies...",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "English Officer",
   "en": "Our demon horde is on your tail.\nYour grave's good as dug...",
-  "fr": "Notre horde de démons vous suit.\nVotre tombe est creusée, indeed..."
+  "fr": "Notre horde\ndémoniaque est à vos\ftrousses.\fVotre tombe est déjà\ncreusée.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040AB",
   "max": 34,
   "who": "Bertrand",
   "en": "Meh heh! Up she goes.",
-  "fr": "Mé hé ! Et hop là."
+  "fr": "Hi hi hi ! Elle prend du galon.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040AB",
   "max": 34,
   "who": "Blaze, Roger",
   "en": "What was that?",
-  "fr": "Qu'est-ce que c'était ?"
+  "fr": "Qu'est-ce que c'était ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040AB",
   "max": 34,
   "who": "Bertrand",
   "en": "Hmm? Oh, never you mind.",
-  "fr": "Hein ? Oh, vous occupez pas d'ça."
+  "fr": "Hmm ? Oh, c'est sans importance.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040AB",
   "max": 34,
   "who": "Jeanne",
   "en": "Are you all right?",
-  "fr": "Vous allez bien ?"
+  "fr": "Vous n'avez rien ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040AB",
   "max": 34,
   "who": "Nobleman",
   "en": "...Yes, thank you.",
-  "fr": "...Oui, merci."
+  "fr": "...Non, merci.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040AB",
   "max": 34,
   "who": "Jeanne",
   "en": "We couldn't get to the person \nwith you in time.",
-  "fr": "Nous n'avons pas pu sauver à temps\nla personne qui était avec vous."
+  "fr": "Nous n'avons pas pu arriver à\ntemps.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040AB",
   "max": 34,
   "who": "Jeanne",
   "en": "...I'm so sorry.",
-  "fr": "...Je suis vraiment désolée."
+  "fr": "... Je suis désolée.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040AB",
   "max": 34,
   "who": "Nobleman",
   "en": "Where did you get that armlet?",
-  "fr": "Où avez-vous eu ce Bracelet ?"
+  "fr": "Où avez-vous eu ce bracelet ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040AB",
   "max": 34,
   "who": "",
   "en": "&French Soldier",
-  "fr": "&Soldat français"
+  "fr": "&Soldat Français",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040AB",
   "max": 34,
   "who": "French Soldier",
   "en": "Beggin' your pardon!",
-  "fr": "Pardonnez-moi !"
+  "fr": "Veuillez me pardonner !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040AB",
   "max": 34,
   "who": "French Soldier",
   "en": "Excellent work, sirs!",
-  "fr": "Excellent travail, messieurs !"
+  "fr": "Excellent travail, messieurs.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040AB",
   "max": 34,
   "who": "French Soldier",
   "en": "Thank you for sending word!",
-  "fr": "Merci de nous avoir prévenus !"
+  "fr": "Merci de m'avoir prévenu !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040AB",
   "max": 34,
   "who": "Jean",
   "en": "Yes, uh, splendid...\nAha ha ha... *Cough*",
-  "fr": "Oui, euh, splendide...\nAha ha ha... *Kof*"
+  "fr": "Oui, euh, splendide...\nAha ha ha... *Teuf teuf*",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040AB",
   "max": 34,
   "who": "Nobleman",
   "en": "...If you'll excuse me.",
-  "fr": "...Si vous voulez bien m'excuser."
+  "fr": "... Vous m'excuserez.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040AB",
   "max": 34,
   "who": "Jeanne",
   "en": "Oh! Wait just a minute!",
-  "fr": "Oh ! Attendez une minute !"
+  "fr": "Oh ! Attendez un instant !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040AB",
   "max": 34,
   "who": "Bertrand",
   "en": "This here's the girl in question.",
-  "fr": "La v'là, la fille en question."
+  "fr": "Voici la fille en question.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040AB",
   "max": 34,
   "who": "French Soldier",
   "en": "You are the Maiden, then?\nThe Pucelle?\fThe Duke of Lorraine has long \nawaited this day.",
-  "fr": "Vous êtes donc la jeune vierge ?\nLa Pucelle ?\fLe duc de Lorraine attend ce\njour depuis longtemps."
+  "fr": "Vous êtes la jeune fille dont tout\nle monde parle ? La Pucelle ?\fLe Duc de Lorraine a\nlongtemps attendu ce jour.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040AB",
   "max": 34,
   "who": "Jeanne",
   "en": "The duke...?\nWhat are you talking about?",
-  "fr": "Le duc... ? De quoi parlez-vous ?"
+  "fr": "Le Duc... ?\nDe quoi parlez-vous ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040AB",
   "max": 34,
   "who": "Jeanne",
   "en": "You must have me confused with \nsomeone else.",
-  "fr": "Vous devez me confondre avec\nquelqu'un d'autre."
+  "fr": "Vous devez me confondre avec\nquelqu'un d'autre.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040AB",
   "max": 34,
   "who": "Jean",
   "en": "Now, now. Why squabble over \ndetails, my sweet?\fAt least hear the man out.",
-  "fr": "Allons, allons. Pourquoi chicaner\nsur des détails, ma belle ?\fÉcoutez au moins ce qu'il a à dire."
+  "fr": "Du calme. Pourquoi s'encombrer\nde détails, ma douce ?\fPrenez au moins le temps\nd'écouter ce qu'il a à dire.",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040AB",
   "max": 34,
   "who": "Jeanne",
   "en": "Jean!",
-  "fr": "Jean !"
+  "fr": "Jean !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040AB",
   "max": 34,
   "who": "Jeanne",
   "en": "Bertrand!",
-  "fr": "Bertrand !"
+  "fr": "Bertrand !",
+  "src": "pinky"
  },
  {
   "ctx": "ST1040AB",
   "max": 34,
   "who": "Jeanne",
   "en": "What did you do?!",
-  "fr": "Qu'avez-vous fait ?!"
+  "fr": "Qu'avez-vous fait ?!",
+  "src": "pinky"
  }
 ]

@@ -15,6 +15,7 @@ from PIL import Image
 
 
 def _blocks(data, start, end):
+    end = min(end, len(data))  # GimConv annonce parfois des tailles qui dépassent le fichier
     pos = start
     while pos + 16 <= end:
         bid, size, nxt, doff = struct.unpack_from('<HxxIII', data, pos)
@@ -164,7 +165,7 @@ class Gim:
                     px[x, y] = _decode_color(hd['fmt'], v)
         return im
 
-    def from_image(self, im: Image.Image) -> bytes:
+    def from_image(self, im: Image.Image, new_palette=False) -> bytes:
         """Réencode `im` (même taille) dans le format d'origine ; palette recalculée si indexé."""
         hd = self._hdr(self.img)
         bpp, wbytes, h = self._geometry(hd)
@@ -175,8 +176,16 @@ class Gim:
             # On conserve la palette d'origine : chaque pixel prend la couleur existante la plus
             # proche (les zones non modifiées restent identiques au pixel près).
             import numpy as np
-            pal = np.array(self.palette(), dtype=np.int32)
             ncol = 16 if bpp == 4 else 256
+            if new_palette:  # image entièrement refaite : palette recalculée pour elle
+                q, _ = _quantize_rgba(im, ncol)
+                q = list(q) + [(0, 0, 0, 0)] * (ncol - len(q))
+                phd0 = self._hdr(self.pal)
+                psize0 = 4 if phd0['fmt'] == 3 else 2
+                fmtc0 = '<I' if psize0 == 4 else '<H'
+                for i in range(min(ncol, (phd0['pe'] - phd0['ps']) // psize0)):
+                    struct.pack_into(fmtc0, self.data, phd0['ps'] + i * psize0, _encode_color(phd0['fmt'], q[i]))
+            pal = np.array(self.palette(), dtype=np.int32)
             pal = pal[:ncol]
             pix = np.array(im, dtype=np.int32).reshape(-1, 4)
             uniq, inv = np.unique(pix, axis=0, return_inverse=True)

@@ -753,7 +753,7 @@
   "ctx": "0xcbf2",
   "max": 151,
   "en": "A large, destructive axe wielded\nby ceratoths, adorned with a\ntraditional therion crest of\nprotection.",
-  "fr": "Grande hache destructrice des\ncératoths, ornée d'un blason\nthérion traditionnel de\nprotection."
+  "fr": "Grande hache destructrice des\ncératoths, ornée d'un blason\ntherion traditionnel de\nprotection."
  },
  {
   "ctx": "0xcf00",
@@ -1083,13 +1083,13 @@
   "ctx": "0xf8a0",
   "max": 25,
   "en": "The Fiend's Grip",
-  "fr": "Poigne du Malin"
+  "fr": "Poigne du Démon"
  },
  {
   "ctx": "0xf8f2",
   "max": 153,
   "en": "The Fiend's whetted claws,\nbristling with magic. Black as sin,\ntheir tips tap out darkness itself...",
-  "fr": "Les griffes affûtées du Malin,\nchargées de magie. Noires comme le\npéché, elles suintent les ténèbres..."
+  "fr": "Les griffes affûtées du Démon,\nchargées de magie. Noires comme le\npéché, elles suintent les ténèbres..."
  },
  {
   "ctx": "0xfc00",
@@ -1659,13 +1659,13 @@
   "ctx": "0x15f00",
   "max": 25,
   "en": "Therion Shield",
-  "fr": "Bouclier thérion"
+  "fr": "Bouclier therion"
  },
  {
   "ctx": "0x15f52",
   "max": 151,
   "en": "A large iron shield favored by the\ntherions. The sharp spikes about it\nlend it a frightening quality.",
-  "fr": "Grand bouclier de fer prisé des\nthérions. Ses pointes acérées lui\ndonnent un air effrayant."
+  "fr": "Grand bouclier de fer prisé des\ntherions. Ses pointes acérées lui\ndonnent un air effrayant."
  },
  {
   "ctx": "0x16140",
@@ -1743,7 +1743,7 @@
   "ctx": "0x16d00",
   "max": 25,
   "en": "Healing Herb",
-  "fr": "Herbe médicinale"
+  "fr": "Herbe de soin"
  },
  {
   "ctx": "0x16d52",
@@ -1761,7 +1761,7 @@
   "ctx": "0x16ef2",
   "max": 155,
   "en": "The seed of the healing herb,\nwithin which vitality is locked.\nRestores 120 HP to the target.",
-  "fr": "Graine d'herbe médicinale, qui\nrenferme une grande vitalité.\nRend 120 PV à la cible."
+  "fr": "Graine d'herbe de soin, qui\nrenferme une grande vitalité.\nRend 120 PV à la cible."
  },
  {
   "ctx": "0x17040",
@@ -1773,7 +1773,7 @@
   "ctx": "0x17092",
   "max": 155,
   "en": "The fruit of the healing herb,\npacked with restorative nutrients.\nRestores 180 HP to the target.",
-  "fr": "Fruit d'herbe médicinale, gorgé\nde nutriments réparateurs.\nRend 180 PV à la cible."
+  "fr": "Fruit d'herbe de soin, gorgé\nde nutriments réparateurs.\nRend 180 PV à la cible."
  },
  {
   "ctx": "0x171e0",
@@ -3135,7 +3135,7 @@
   "ctx": "0x291d2",
   "max": 149,
   "en": "Gilvaroth's skill. A dark miasma\nfrom the body of the Fiend. Heavily\npoisons everything around.",
-  "fr": "Compétence de Gilvaroth. Un miasme\nnoir issu du corps du Malin.\nEmpoisonne gravement les alentours."
+  "fr": "Compétence de Gilvaroth. Un miasme\nnoir issu du corps du Démon.\nEmpoisonne gravement les alentours."
  },
  {
   "ctx": "0x292a0",

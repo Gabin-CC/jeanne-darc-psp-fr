@@ -4,853 +4,975 @@
   "max": 16,
   "who": "Gilles",
   "en": "Don't strike\ntoo hard!",
-  "fr": "Ne frappez pas\ntrop fort !"
+  "fr": "Ne frappe pas\ntrop fort !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Rufus",
   "en": "Ruff, do as\nyou're told!",
-  "fr": "Ouaf, rais ce\nqu'on te rit !"
+  "fr": "Fais comme\non t'a dit !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Rufus",
   "en": "Ry'm here\nto help you!",
-  "fr": "Re suis là pour\nt'aider !"
+  "fr": "Je suis là pour\nvous aider !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Bartolomeo",
   "en": "Thou art\nrather cute!",
-  "fr": "Que voilà une\nfort jolie bête !"
+  "fr": "Ils sont trop\nmignons !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Jean",
   "en": "You call\nthat a pet?",
-  "fr": "Vous appelez ça\nune petite bête ?"
+  "fr": "Un animal de\ncompagnie, ça ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Jean",
   "en": "Please don't\nbite me...",
-  "fr": "Ne me mords\npas, pitié..."
+  "fr": "Ne me\nmords pas !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Jean",
   "en": "Does anyone\nhave a leash?",
-  "fr": "Quelqu'un a\nune laisse ?"
+  "fr": "Quelqu'un a\nune laisse ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Marcel",
   "en": "So big!",
-  "fr": "Qu'il est gros !"
+  "fr": "Si grand !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Marcel",
   "en": "Um...shake?",
-  "fr": "Euh... la patte ?"
+  "fr": "Remue ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Marcel",
   "en": "Here, boy!\n...Girl?",
-  "fr": "Viens, mon gros !\n...Ma grosse ?"
+  "fr": "Hé, petit !\n... Petite ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Marcel",
   "en": "Hi! What's\nyour name?",
-  "fr": "Salut ! Comment\ntu t'appelles ?"
+  "fr": "C'est quoi\nton nom ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Beatrix",
   "en": "Draw the\ndragons thence.",
-  "fr": "Menons donc ces\ndragons céans."
+  "fr": "Attirez les\ndragons ici.",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Beatrix",
   "en": "Beware the\nbeasts!",
-  "fr": "Gare aux bêtes !"
+  "fr": "Attention\nà la bête !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Jeanne",
   "en": "Uh-oh...",
-  "fr": "Oh-oh..."
+  "fr": "Oh oh...",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Jeanne",
   "en": "Maybe we\noverdid it...",
-  "fr": "On a peut-être\nexagéré..."
+  "fr": "On en a peut\nêtre trop fait...",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Jeanne",
   "en": "Don't kill them!",
-  "fr": "Ne les tuez pas !"
+  "fr": "Ne les tuez pas !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Liane",
   "en": "Careful!\nIt'll die!",
-  "fr": "Attention !\nIl va mourir !"
+  "fr": "Attention !\nIl va mourir !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Liane",
   "en": "It's on its\nlast legs...",
-  "fr": "Il est à bout\nde forces..."
+  "fr": "Il va pousser son\ndernier souffle...",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Roger",
   "en": "Wait! Don't!",
-  "fr": "Attendez ! Non !"
+  "fr": "Attends ! Non !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Gilles",
   "en": "Let's get this\nover with.",
-  "fr": "Finissons-en."
+  "fr": "Finissons-en.",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Gilles",
   "en": "Damn!",
-  "fr": "Zut !"
+  "fr": "Bon sang !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Gilles",
   "en": "Slow down!",
-  "fr": "Doucement !"
+  "fr": "Doucement !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Gilles",
   "en": "Play nice!",
-  "fr": "Sois sage !"
+  "fr": "Bien joué !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Rufus",
   "en": "Awooo!\nD-d-don't!",
-  "fr": "Aouuu !\nR-r-ron !"
+  "fr": "Awouuuh !\nNon !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Rufus",
   "en": "Yip! Don't\nkill them!",
-  "fr": "Ouaf ! Re les\nruez pas !"
+  "fr": "Ne les\ntuez pas !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "La Hire",
   "en": "Rrrar? Uh-oh...",
-  "fr": "Grrr ? Oups..."
+  "fr": "Rrrar ? Uh-oh...",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "La Hire",
   "en": "La Hire got\ncarried away!",
-  "fr": "La Hire s'est\nemporrrté !"
+  "fr": "La Hire se fait\nemporter !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "La Hire",
   "en": "You will be\nvery sorry!",
-  "fr": "Tu vas le\nregretter !"
+  "fr": "Tu vas t'en\nvouloir !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Bartolomeo",
   "en": "Fie! Cease!",
-  "fr": "Fi ! Cessez !"
+  "fr": "Arrête !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Bartolomeo",
   "en": "We have\ngone too far...",
-  "fr": "Nous sommes\nallés trop loin..."
+  "fr": "On est allés\ntrop loin...",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Bartolomeo",
   "en": "Submit!",
-  "fr": "Soumets-toi !"
+  "fr": "Allez-y !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Jean",
   "en": "Uhh...it doesn't\nlook so good.",
-  "fr": "Euh... ça n'a\npas l'air d'aller."
+  "fr": "Ça ne s'annonce\npas super...",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Jean",
   "en": "Whoa, whoa...",
-  "fr": "Hé, du calme..."
+  "fr": "Whoa, whoa...",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Bertrand",
   "en": "Meh? Did we\nhit too hard?",
-  "fr": "Hein ? On a\ntapé trop fort ?"
+  "fr": "On a frappé\ntrop fort ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Bertrand",
   "en": "Oh, cripes...",
-  "fr": "Oh, misère..."
+  "fr": "Oh, mince...",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Marcel",
   "en": "Let's deal\nwith this one!",
-  "fr": "Occupons-nous\nde celui-là !"
+  "fr": "C'est bon pour\ncelui-là !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Marcel",
   "en": "Killing is wrong!",
-  "fr": "Tuer, c'est mal !"
+  "fr": "Tuer, c'est mal !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Marcel",
   "en": "Boy, will that\ndwarf be mad!",
-  "fr": "Le nain va être\nfurieux !"
+  "fr": "Ce nain est\ncinglé !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Beatrix",
   "en": "Stay your\nsteely strikes!",
-  "fr": "Cessez ces\ncoups cruels !"
+  "fr": "Frappez\ntout doux !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Beatrix",
   "en": "A dead dragon\ndoes no good!",
-  "fr": "Un dragon mort\nne sert à rien !"
+  "fr": "Ne tuez pas\nles dragons !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Richard",
   "en": "It looks\nterribly weak...",
-  "fr": "Il a l'air bien\nfaible..."
+  "fr": "Il a l'air\ntout faible.",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Claire",
   "en": "Oopsie!",
-  "fr": "Oupsie !"
+  "fr": "Oups !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Claire",
   "en": "Can we kill it?\nI'm bored...",
-  "fr": "On peut le tuer ?\nJe m'ennuie..."
+  "fr": "On peut pas les tuer\n? J'en ai marre.",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Colet",
   "en": "It looks a\nleetle droopy...",
-  "fr": "Il a l'air un\npeu mou..."
+  "fr": "Il a l'air\nfatigué...",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Colet",
   "en": "Whoa, whoa...\nDo not keel it!",
-  "fr": "Holà, holà...\nNe le tuez pas !"
+  "fr": "Whoa, ne le\ntuez pas !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Rose",
   "en": "You realize it's\ndying, loves?",
-  "fr": "Il agonise,\nmes chéris !"
+  "fr": "Attention,\nil va mourir !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Rose",
   "en": "This could get\nus in trouble...",
-  "fr": "Ça risque de nous\nattirer des\fennuis..."
+  "fr": "On va avoir\ndes problèmes...",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Cuisses",
   "en": "Wh...what do\nwe do now?",
-  "fr": "Qu... que fait-on\nmaintenant ?"
+  "fr": "On fait quoi\nmaintenant ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Cuisses",
   "en": "Its breathing\nhas slowed...",
-  "fr": "Son souffle\nralentit..."
+  "fr": "Il ne respire\npresque plus.",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Cuisses",
   "en": "This can't\nbe right?",
-  "fr": "Ce n'est pas\nnormal, si ?"
+  "fr": "C'est pas\nbon, hein ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904BT",
   "max": 16,
   "who": "Dwarf",
   "en": "Woh, nooo!\nWhat have ye wijits done?",
-  "fr": "Oh, nooon ! Qu'avez-vous\nfait, gwedins ?"
+  "fr": "Oh noooon !\nQu'avons-nous fait ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904AB",
   "max": 34,
   "who": "",
   "en": "Obtained the Gem of Portent",
-  "fr": "Gemme du présage obtenue"
+  "fr": "Vous recevez la gemme\nd'augures.",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904AB",
   "max": 34,
   "who": "",
   "en": "The gem fused with Roger's armlet!",
-  "fr": "La gemme fusionne avec le Bracelet\nde Roger !"
+  "fr": "La gemme fusionne avec le\nbracelet de Roger !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904AB",
   "max": 34,
   "who": "",
   "en": "The gem did not fuse with\n anyone's armlet!",
-  "fr": "La gemme n'a fusionné avec aucun\nBracelet !"
+  "fr": "La gemme ne fusionne avec\naucun bracelet !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904AB",
   "max": 34,
   "who": "Dwarf",
   "en": "Oh, dank ye!\nDank ye wery, wery much!",
-  "fr": "Oh, mewci !\nMewci beaucoup, beaucoup !"
+  "fr": "Oh, merci !\nMerci beaucoup beaucoup !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904AB",
   "max": 34,
   "who": "Rufus",
   "en": "Woof! Ry only rid rut r'any\ngood pet ruvver would do!",
-  "fr": "Ouaf ! R'ai rait ce que rerait\ntout ramoureux des rêtes !"
+  "fr": "Woof ! N'importe quelle personne\naimant les animaux ferait ça !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904AB",
   "max": 34,
   "who": "Dwarf",
   "en": "Here!\nTake dis for wending a hand!",
-  "fr": "Tenez !\nPwenez ça pouw m'avoiw aidé !"
+  "fr": "Tiens !\nC'est pour te remercier !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904AB",
   "max": 34,
   "who": "",
   "en": "You obtain the Gem of Portent!",
-  "fr": "Vous obtenez la Gemme du présage !"
+  "fr": "Vous recevez la gemme\nd'augures !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904AB",
   "max": 34,
   "who": "",
   "en": "The gem fuses to Roger's armlet.",
-  "fr": "La gemme fusionne avec le Bracelet\nde Roger."
+  "fr": "La gemme fusionne avec le\nbracelet de Roger.",
+  "src": "pinky"
  },
  {
   "ctx": "ST8904AB",
   "max": 34,
   "who": "",
   "en": "The gem doesn't fuse to your armlets...",
-  "fr": "La gemme ne fusionne avec aucun\nde vos Bracelets..."
+  "fr": "La gemme ne fusionne avec\naucun bracelet...",
+  "src": "pinky"
  },
  {
   "ctx": "ST8905BM",
   "max": 34,
   "who": "Colet",
   "en": "Look, mes amis... Zees must be\nwhere all ze qrows nest.",
-  "fr": "Regardez, mes amis... C'est sûrement\nici que nichent tous les Qrows."
+  "fr": "Regardez, les amis... Ça doit être\nle nid des korbeaux.",
+  "src": "pinky"
  },
  {
   "ctx": "ST8905BM",
   "max": 34,
   "who": "La Hire",
   "en": "La Hire spies the qrow leader!\nHe will rrrip its wings off!",
-  "fr": "La Hire voit le chef qrow !\nIl va lui arrrracher les ailes !"
+  "fr": "La Hire voit le chef des\nkorbeaux.\fIl va lui couper les ailes.",
+  "src": "pinky"
  },
  {
   "ctx": "ST8905BM",
   "max": 34,
   "who": "Jeanne",
   "en": "First we need a way up...",
-  "fr": "Il faut d'abord trouver un moyen\nde monter..."
+  "fr": "Il nous faut trouver un moyen\nde monter...",
+  "src": "pinky"
  },
  {
   "ctx": "ST8905BM",
   "max": 34,
   "who": "Colet",
   "en": "Ho-hoh, pleez!\fColet weel have you up zere\nbefore you can sneeze!",
-  "fr": "Ho-hoh, voyons !\fColet vous fera monter là-haut\nplus vite qu'un éternuement !"
+  "fr": "Hoho, voyons...\fCollet sera en haut avant même\nde dire ouf.",
+  "src": "pinky"
  },
  {
   "ctx": "ST8905BT",
   "max": 16,
   "who": "Liane",
   "en": "I know how\nto fight!",
-  "fr": "Je sais me\nbattre !"
+  "fr": "Je sais me\nbattre !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8905BT",
   "max": 16,
   "who": "Jeanne, Gilles",
   "en": "Don't look\ndown!",
-  "fr": "Ne regardez\npas en bas !"
+  "fr": "Ne regarde\npas en bas !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8905BT",
   "max": 16,
   "who": "Jeanne",
   "en": "I'm getting\ndizzy...",
-  "fr": "J'ai la tête\nqui tourne..."
+  "fr": "J'ai le\nvertige...",
+  "src": "pinky"
  },
  {
   "ctx": "ST8905BT",
   "max": 16,
   "who": "Liane",
   "en": "We're so\nhigh up...",
-  "fr": "Qu'est-ce que\nc'est haut..."
+  "fr": "On est\nsi haut !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8905BT",
   "max": 16,
   "who": "Gilles",
   "en": "Watch your\nstep!",
-  "fr": "Attention où\nvous marchez !"
+  "fr": "Attention !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8905BT",
   "max": 16,
   "who": "Rufus",
   "en": "Ry'm afraid\nof heights!",
-  "fr": "R'ai le rertige !"
+  "fr": "J'ai peur\ndu vide !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8905BT",
   "max": 16,
   "who": "La Hire",
   "en": "The roofs, they\nare sturdy, yes?",
-  "fr": "Ces toits sont\nsolides, yes ?"
+  "fr": "Les toits\nglissent...",
+  "src": "pinky"
  },
  {
   "ctx": "ST8905BT",
   "max": 16,
   "who": "La Hire",
   "en": "La Hire cannot\nprowl here!",
-  "fr": "La Hire ne peut\npas rrrôder ici !"
+  "fr": "La Hire ne peut\npas y aller.",
+  "src": "pinky"
  },
  {
   "ctx": "ST8905BT",
   "max": 16,
   "who": "Jean",
   "en": "No pushing!",
-  "fr": "Ne poussez pas !"
+  "fr": "Ne pousse pas !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8905BT",
   "max": 16,
   "who": "Jean",
   "en": "I...I miss\nthe ground...",
-  "fr": "Le... le sol me\nmanque..."
+  "fr": "Le sol me\nmanque...",
+  "src": "pinky"
  },
  {
   "ctx": "ST8905BT",
   "max": 16,
   "who": "Bertrand",
   "en": "Careful no one\ngoes splat!",
-  "fr": "Gare à la chute,\ntout le monde !"
+  "fr": "Attention à ne\npas tomber !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8905BT",
   "max": 16,
   "who": "Marcel",
   "en": "Nobody fall!",
-  "fr": "Que personne\nne tombe !"
+  "fr": "Ne chutez pas !!",
+  "src": "pinky"
  },
  {
   "ctx": "ST8905BT",
   "max": 16,
   "who": "Marcel",
   "en": "Wow! How'd we\nget up here?",
-  "fr": "Ouah ! Comment\na-t-on grimpé ?"
+  "fr": "On fait comment\npour monter ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST8905BT",
   "max": 16,
   "who": "Beatrix",
   "en": "Holy harrowing\nheights...",
-  "fr": "Haut-le-cœur\nà cette hauteur !"
+  "fr": "J'ai peur\ndu vide !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8905BT",
   "max": 16,
   "who": "Colet",
   "en": "Look at ze view!",
-  "fr": "Regardez-moi cette\nvue !"
+  "fr": "Quelle vue !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8905BT",
   "max": 16,
   "who": "Colet",
   "en": "Relax, you\nleetle cowards!",
-  "fr": "Du calme, petits\npoltrons !"
+  "fr": "Relax,\ntrouillards !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8905BT",
   "max": 16,
   "who": "Rose",
   "en": "Nice view!",
-  "fr": "Jolie vue !"
+  "fr": "C'est joli !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8905BT",
   "max": 16,
   "who": "Rose",
   "en": "Stay put, loves!",
-  "fr": "Pas un geste,\nmes chéris !"
+  "fr": "Ne bougez\npas !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8905BT",
   "max": 16,
   "who": "Liane",
   "en": "Finish that\none off!",
-  "fr": "Achevez\ncelui-là !"
+  "fr": "Éliminons-le !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8906BM",
   "max": 34,
   "who": "Colet",
   "en": "La vache!\nZe bweedges are down!",
-  "fr": "La vache !\nLes ponts sont détruits !"
+  "fr": "La vache !\nLes ponts sont loin !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8906BM",
   "max": 34,
   "who": "Colet",
   "en": "Zat harpy over zere...\nShe must be ze one responsible!",
-  "fr": "Cette harpie, là-bas...\nC'est sûrement elle, la coupable !"
+  "fr": "Cette harpie, là...\nÇa doit être elle !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8906BM",
   "max": 34,
   "who": "Marcel",
   "en": "Waaaaaah!\nColette, save meeeee!",
-  "fr": "Ouiiiin ! Colette, sauve-moiiii !"
+  "fr": "Waaaaaah !\nColette, sauve-moiiii !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8906BM",
   "max": 34,
   "who": "Jeanne",
   "en": "Argh!\nColet, do something!",
-  "fr": "Argh ! Colet, fais quelque chose !"
+  "fr": "Argh !\nColet, fais quelque chose !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8906BM",
   "max": 34,
   "who": "Colet",
   "en": "Oh la la, you are all hopeless...",
-  "fr": "Oh là là, vous êtes tous des cas\ndésespérés..."
+  "fr": "Oh là là, quels boulets...",
+  "src": "pinky"
  },
  {
   "ctx": "ST8906AB",
   "max": 34,
   "who": "",
   "en": "You obtain the Gem of the Welkin!",
-  "fr": "Vous obtenez la Gemme du firmament !"
+  "fr": "Vous recevez la gemme céleste !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "",
   "en": "A \"Yes\"",
-  "fr": "A « Oui »"
+  "fr": "A \"Oui\"",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "",
   "en": "B \"No\"",
-  "fr": "B « Non »"
+  "fr": "B \"Non\"",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "",
   "en": "Swap Liane for Cuisses?",
-  "fr": "Remplacer Liane par Cuisses ?"
+  "fr": "Échanger Lianne avec Cuisses ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "",
   "en": "Swap Cuisses for Liane?",
-  "fr": "Remplacer Cuisses par Liane ?"
+  "fr": "Échanger Cuisses avec Lianne ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "",
   "en": "Enter the Cemetery Stage?",
-  "fr": "Entrer dans le Cimetière ?"
+  "fr": "Entrer dans le cimetière ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "Jeanne",
   "en": "Liane's pendant...",
-  "fr": "Le pendentif de Liane..."
+  "fr": "Le pendentif de Liane...",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "Jeanne",
   "en": "Liane?!",
-  "fr": "Liane ?!"
+  "fr": "Liane ?!",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "Liane",
   "en": "...Jeanne.\nDid you call for me?",
-  "fr": "...Jeanne. Tu m'as appelée ?"
+  "fr": "... Jeanne.\nTu m'as appelée ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "Jeanne",
   "en": "Liane?\nThis isn't some trick?",
-  "fr": "Liane ? Ce n'est pas une ruse ?"
+  "fr": "Liane ?\nCe n'est pas un piège ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "Liane",
   "en": "...No trick, Jeanne.",
-  "fr": "...Pas de ruse, Jeanne."
+  "fr": "... Aucun piège, Jeanne.",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "Jeanne",
   "en": "I've never stopped calling for\nyou, wishing for you to be here.",
-  "fr": "Je n'ai jamais cessé de t'appeler,\nde souhaiter que tu sois là."
+  "fr": "Je n'ai jamais cessé de t'appeler,\nespérant que tu sois ici.",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "Liane",
   "en": "...I know.\nI could feel it.",
-  "fr": "...Je sais. Je le sentais."
+  "fr": "... Je sais. Je le ressentais.",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "Liane",
   "en": "I want to fight at your side\nagain, with all my friends...",
-  "fr": "Je veux me battre de nouveau à tes\ncôtés, avec tous mes amis..."
+  "fr": "Je veux me battre à nouveau à\ntes coté, avec tous mes amis...",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "Liane",
   "en": "Do you...do you think I could?",
-  "fr": "Tu... tu crois que je pourrais ?"
+  "fr": "Est-ce... Est-ce que je pourrais ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "Jeanne",
   "en": "Of course, Liane...\nYou don't have to ask!",
-  "fr": "Bien sûr, Liane...\nTu n'as même pas à le demander !"
+  "fr": "Bien sûr, Liane... Ce n'est même\npas la peine de demander...",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "Liane",
   "en": "...Oh, thank you, Jeanne!",
-  "fr": "...Oh, merci, Jeanne !"
+  "fr": "... Oh, merci, Jeanne !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "Liane",
   "en": "Sorry, Cuisses...\nI need to borrow your body.",
-  "fr": "Désolée, Cuisses...\nJe dois t'emprunter ton corps."
+  "fr": "Désolée, Cuisses... Je dois\nemprunter ton corps.",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "Liane",
   "en": "It's good to be back...at least\nfor a little while.",
-  "fr": "Ça fait du bien d'être de retour...\nau moins pour un moment."
+  "fr": "C'est bon d'être de retour. Au\nmoins pour quelques temps.",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "Liane",
   "en": "Liane takes Cuisses's place in\nyour ranks!",
-  "fr": "Liane prend la place de Cuisses\ndans vos rangs !"
+  "fr": "Liane prend la place de Cuisses\ndans votre groupe !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "Liane",
   "en": "Now you can switch freely between\nLiane and Cuisses at the cemetery!",
-  "fr": "Vous pouvez désormais échanger\nLiane et Cuisses au cimetière !"
+  "fr": "À présent, vous pouvez\nintervertir Liane et Cuisses\fau cimetière quand bon vous\nsemble.",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "",
   "en": "A.  Yes\nB.  No",
-  "fr": "A. Oui B. Non"
+  "fr": "A. Oui\nB. Non",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "",
   "en": "Would you like to switch Cuisses\nin for Liane?",
-  "fr": "Voulez-vous remplacer Liane par\nCuisses ?"
+  "fr": "Voulez-vous échanger Cuisses et\nLiane ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "Liane",
   "en": "Thanks, Cuisses.",
-  "fr": "Merci, Cuisses."
+  "fr": "Merci, Cuisses.",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "Liane",
   "en": "Jeanne, I'll be here whenever\nyou need me.",
-  "fr": "Jeanne, je serai là chaque fois\nque tu auras besoin de moi."
+  "fr": "Jeanne, je serai toujours là à tes\ncotés.",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "",
   "en": "A.  No\nB.  Yes",
-  "fr": "A. Non B. Oui"
+  "fr": "A. Non\nB. Oui",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "",
   "en": "Return to the world map?",
-  "fr": "Retourner à la carte du monde ?"
+  "fr": "Retourner sur la carte du monde ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "",
   "en": "Would you like to switch Liane\nin for Cuisses?",
-  "fr": "Voulez-vous remplacer Cuisses par\nLiane ?"
+  "fr": "Voulez-vous échanger Liane avec\nCuisses ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "Liane",
   "en": "It's good to be back with my\nfriends.",
-  "fr": "Ça fait du bien de retrouver mes\namis."
+  "fr": "C'est bon d'être de retour près\nde ses amis.",
+  "src": "pinky"
  },
  {
   "ctx": "ST8907AB",
   "max": 34,
   "who": "",
   "en": "You obtain the Gem of Darkness!",
-  "fr": "Vous obtenez la Gemme des ténèbres !"
+  "fr": "Vous recevez la gemme des\nténèbres !",
+  "src": "pinky"
  },
  {
   "ctx": "ST8917BM",
   "max": 34,
   "who": "Liane",
   "en": "Jeanne, I'll be here whenever you\nneed me.",
-  "fr": "Jeanne, je serai là chaque fois\nque tu auras besoin de moi."
+  "fr": "Jeanne, je serai toujours là pour\ntoi.",
+  "src": "pinky"
  },
  {
   "ctx": "ST8917BM",
   "max": 34,
   "who": "",
   "en": "Would you like to switch Liane in\nfor Cuisses?",
-  "fr": "Voulez-vous remplacer Cuisses par\nLiane ?"
+  "fr": "Voulez-vous échanger Liane avec\nCuisses ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST9100BM",
   "max": 34,
   "who": "",
   "en": "Unicode Test\n2605 -> \\u2605 266a -> \\u266a\n2014 -> \\u2014",
-  "fr": ""
+  "fr": "",
+  "src": "ia"
  },
  {
   "ctx": "ST9101AB",
   "max": 34,
   "who": "",
   "en": "Skip Event Working...",
-  "fr": ""
+  "fr": "",
+  "src": "ia"
  }
 ]

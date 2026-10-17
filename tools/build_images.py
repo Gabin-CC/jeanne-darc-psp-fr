@@ -67,7 +67,7 @@ def _gim_spans(data):
 def patch_archives(out, archives):
     """Remplace, dans toutes les archives SPF, les copies exactes des GIM modifiés."""
     originals = {open(os.path.join(DATA, rel), 'rb').read(): new for rel, new in out.items()
-                 if rel.upper().endswith('.GIM')}
+                 if rel.upper().endswith(('.GIM', '.GMO'))}
     seen = set()
     for root, _, files in os.walk(DATA):
         for f in files:
@@ -79,6 +79,9 @@ def patch_archives(out, archives):
             data = archives[key] if key else bytearray(open(os.path.join(DATA, rel), 'rb').read())
             hit = False
             for orig, new in originals.items():
+                if len(new) > len(orig):
+                    continue  # ne tiendrait pas dans l'archive
+                new = new + b'\0' * (len(orig) - len(new))
                 i = data.find(orig)
                 while i >= 0:
                     data[i:i + len(orig)] = new
@@ -89,10 +92,41 @@ def patch_archives(out, archives):
     return archives
 
 
+RAVEN = os.path.join(ROOT, 'trad/raven')
+
+
+def raven_textures():
+    """Textures refaites par Raven (équipe PSP Traduction) : GIM tels quels, pages d'aide PNG
+    converties en GIM avec une palette recalculée."""
+    from PIL import Image
+    out = {}
+    gdir = os.path.join(RAVEN, 'gim')
+    for root, _, files in os.walk(gdir):
+        for f in files:
+            if not f.upper().endswith('.GIM'):
+                continue
+            rel = os.path.relpath(os.path.join(root, f), gdir)
+            if not os.path.exists(os.path.join(DATA, rel)):
+                rel = os.path.join('GUI', rel)  # LOADING, MENU04, MENU05, MENU07 sont dans GUI/
+            out[rel] = open(os.path.join(root, f), 'rb').read()
+    mdir = os.path.join(RAVEN, 'gmo')  # bannières de compétences (Aura de Feu, Garde Unie)
+    for f in sorted(os.listdir(mdir)) if os.path.isdir(mdir) else []:
+        if f.upper().endswith('.GMO'):
+            out[os.path.join('EFFECT', f.upper())] = open(os.path.join(mdir, f), 'rb').read()
+    hdir = os.path.join(RAVEN, 'help')
+    for f in sorted(os.listdir(hdir)) if os.path.isdir(hdir) else []:
+        if f.lower().endswith('.png'):
+            rel = os.path.join('HELP', f[:-4].upper() + '.GIM')
+            g = Gim(open(os.path.join(DATA, rel), 'rb').read())
+            out[rel] = g.from_image(Image.open(os.path.join(hdir, f)).convert('RGBA'), new_palette=True)
+    return out
+
+
 def build(preview_dir=None):
     spec = json.load(open(os.path.join(ROOT, 'trad/images.json'), encoding='utf-8'))
     out = {}
     archives = {}
+    out.update(raven_textures())
     for key, it in spec.pop('_wmap', {}).items():
         rel, idx = key.split('#')
         data = archives.setdefault(rel, bytearray(open(os.path.join(DATA, rel), 'rb').read()))

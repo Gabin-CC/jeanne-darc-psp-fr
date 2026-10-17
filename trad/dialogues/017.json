@@ -4,1749 +4,1999 @@
   "max": 16,
   "who": "Bartolomeo",
   "en": "Kill we must...",
-  "fr": "Il faut tuer..."
+  "fr": "Tuez, il nous\nfaut...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "Jean",
   "en": "Courage,\nfriends!",
-  "fr": "Courage,\nmes amis !"
+  "fr": "Courage,\nmes amis !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "Jean",
   "en": "Have faith!",
-  "fr": "Ayez foi !"
+  "fr": "Ayez foi !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "Jean",
   "en": "We have to\nstop him...",
-  "fr": "Il faut\nl'arrêter..."
+  "fr": "Il faut\nl'arrêter !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "Jean",
   "en": "Stay focused,\nfriends!",
-  "fr": "Restez\nconcentrés !"
+  "fr": "Restez\nconcentrés !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "Marcel",
   "en": "Don't let\nup now!",
-  "fr": "On ne lâche\nrien !"
+  "fr": "Ne flanchez\npas maintenant !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "Marcel",
   "en": "It's cold\nin here...",
-  "fr": "Il fait froid\nici..."
+  "fr": "Il fait\nfroid ici...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "Marcel",
   "en": "Where did the\nmean man go?",
-  "fr": "Où est passé\nle méchant ?"
+  "fr": "Où est parti\nle méchant ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "Beatrix",
   "en": "Focus...",
-  "fr": "Concentration..."
+  "fr": "Concentration...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "Beatrix",
   "en": "We may\nmake it...",
-  "fr": "On peut y\narriver..."
+  "fr": "On pouvons\ny arriver...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "Claire",
   "en": "What an\nicky place.",
-  "fr": "Quel endroit\nrépugnant."
+  "fr": "Ce que c'est\nsale ici.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "Claire",
   "en": "Let's just\nfinish this!",
-  "fr": "Finissons-en !"
+  "fr": "Finnisons-en !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "Claire",
   "en": "Time to\nclean up!",
-  "fr": "Place au\nménage !"
+  "fr": "Nettoyons\ntout ça !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "Claire",
   "en": "Phew!\nI smell evil!",
-  "fr": "Pouah ! Ça\nsent le mal !"
+  "fr": "Pfiou ! Je pue\nle démon !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "Rose",
   "en": "Surely there's\ntreasure about?",
-  "fr": "Il doit bien y\navoir un trésor ?"
+  "fr": "Il y a un trésor\npar ici, non ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "Rose",
   "en": "Go get 'em!",
-  "fr": "Sus à eux !"
+  "fr": "Attrapez-les !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "Rose",
   "en": "We can do it!\nRose knows!",
-  "fr": "On va y arriver !\nRose le sait !"
+  "fr": "On va y arriver !\nRose le sait !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "Rose",
   "en": "Let's wrap\nthis up!",
-  "fr": "Terminons-en !"
+  "fr": "Finissons-en\navec eux !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "Cuisses",
   "en": "Coa? Coa!",
-  "fr": "Coâ ? Coâ !"
+  "fr": "Coa ? Coa !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "unité#146",
   "en": "I'll consume\nyou completely.",
-  "fr": "Je vais te\ndévorer en entier"
+  "fr": "Je vais te brûler,\nsang et os !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "unité#146",
   "en": "More...I need\nmore!",
-  "fr": "Encore... Il\nm'en faut plus !"
+  "fr": "Plus... J'en\nveux plus !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "unité#146",
   "en": "Stop struggling,\nhuman...",
-  "fr": "Cesse de lutter,\nhumain..."
+  "fr": "Arrêtez de vous\ndébattre, humain...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "unité#146",
   "en": "All of it...\nIt's miiine!",
-  "fr": "Tout... C'est\nà moiii !"
+  "fr": "Tout ça...\nC'est à MOI !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "unité#146",
   "en": "Behold our\nmassive power...",
-  "fr": "Contemplez notre\nimmense pouvoir"
+  "fr": "Voilà toute notre\npuissance...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "You shall pay\nfor this!!",
-  "fr": "Tu vas me le\npayer !!"
+  "fr": "Vous allez\npayer pour ça !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "Cursed humans!!",
-  "fr": "Maudits\nhumains !!"
+  "fr": "Maudits humains !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "I'm not done\nquite yet!",
-  "fr": "Je n'ai pas\nencore fini !"
+  "fr": "Je ne suis pas\nencore mort !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "This world is\nour property!",
-  "fr": "Ce monde nous\nappartient !"
+  "fr": "Ce monde est\nà nous !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "Heh heh...\nYou fools...",
-  "fr": "Hé hé...\nPauvres fous..."
+  "fr": "Hé hé...\nInconscients...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "Release...\nyour soul...!",
-  "fr": "Libère... ton\nâme... !"
+  "fr": "Libère...\nTon âme !!!",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "Your power is\nnothing to me!",
-  "fr": "Ta force ne\nm'impressionne pas"
+  "fr": "Ton pouvoir n'est\nrien face au mien !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "Eee...!",
-  "fr": "Iiih... !"
+  "fr": "Hiii... !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "You...you\nwitch!",
-  "fr": "Toi... sale\nsorcière !"
+  "fr": "Sale... Sale\nsorcière !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "Grrh...",
-  "fr": "Grrh..."
+  "fr": "Grrh...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "I won't take\nthis abuse!",
-  "fr": "Ze ne zubirai\npas za !"
+  "fr": "Je ne me laisserai\npas malmener !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "Get out of my\nsight, you!",
-  "fr": "Hors de ma vue,\ntoi !"
+  "fr": "Hors de\nma vue !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "Heh heh...I'm\nnot done yet...",
-  "fr": "Hé hé... ze n'ai\npas fini..."
+  "fr": "Hé hé, je n'ai pas\ndit mon dernier mot.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "I...I am no\nfool, you know!",
-  "fr": "Ze... ze ne zuis\npas idiot !"
+  "fr": "Je ne suis pas\nun imbécile !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "Ahh ha ha! How\nd'you like that?",
-  "fr": "Ah ha ha ! Za te\nplaît ?"
+  "fr": "Ha ha ha ! Tu\naimes ça ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "Whadaya think?\nScared, huh?!",
-  "fr": "Alors ? Tu as\npeur, hein ?!"
+  "fr": "T'en penses quoi ?\nt'as peur ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "Ha ha! That'll\nshow you!",
-  "fr": "Ha ha ! Za\nt'apprendra !"
+  "fr": "Ha ha ! J'vais\nte montrer !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "Good, good!\nGet 'em!",
-  "fr": "Bien, bien !\nAttrapez-les !"
+  "fr": "Bien !\nSaisissez-les !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "Damn youuuu!",
-  "fr": "Maudits zoyez-\nvouuus !"
+  "fr": "Maudis-sois tu !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "Brk...",
-  "fr": "Brk..."
+  "fr": "Brk...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "Bshrrr!",
-  "fr": "Bshrrr !"
+  "fr": "Bshrrr !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "Baagh!!",
-  "fr": "Baagh !!"
+  "fr": "Baagh !!",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "Grrrgh...",
-  "fr": "Grrrgh..."
+  "fr": "Grrrgh...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "Yaaahhh!!",
-  "fr": "Yaaahhh !!"
+  "fr": "Yaaahhh !!",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "Grahhh!!",
-  "fr": "Grahhh !!"
+  "fr": "Grahhh !!",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "Grgh!",
-  "fr": "Grgh !"
+  "fr": "Grgh !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "Grrrr...",
-  "fr": "Grrrr..."
+  "fr": "Grrrr...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "Gaaaah!!",
-  "fr": "Gaaaah !!"
+  "fr": "Gaaaah !!",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "Georges",
   "en": "Ancient dragon!\nAnther my thummonth!",
-  "fr": "Dragon ancien !\nRéponds à ma zommation\f!"
+  "fr": "Dragon ancestral !\nEntend mon appel !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "Jeanne",
   "en": "Damn it... We can't let him\nmake any more monsters! Hurry!",
-  "fr": "Bon sang... Il ne faut plus\nqu'il crée de monstres ! Vite !"
+  "fr": "Bon sang... Il nous\nfaut l'empêcher\fd'invoquer\fd'autres monstres,\nil faut faire vite !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "Georges",
   "en": "Muuuuuurrrg... Thaaah!",
-  "fr": "Muuuuuurrrg... Zaaah !"
+  "fr": "Muuuuuurrrg...\nThaaah !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "",
   "en": "&Avaritia",
-  "fr": "&Avaritia"
+  "fr": "&Avaritia",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "Avaritia",
   "en": "thRRRaaaRRRGH!",
-  "fr": "zRRRaaaRRRGH !"
+  "fr": "thRRRaaaRRRGH !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "Avaritia",
   "en": "gRRRaaaAAAWWW!!!",
-  "fr": "gRRRaaaAAAWWW !!!"
+  "fr": "gRRRaaaAAAWWW !!!",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "Jeanne",
   "en": "...A reaper!\n(That explains a lot.)",
-  "fr": "...Un faucheur ! (Ça\nexplique bien des\fchoses.)"
+  "fr": "... Un moissoneur !\n(Ça explique tout.)",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "Georges",
   "en": "Hee hee...\nOoh, are you doomed now!",
-  "fr": "Hi hi... Vous voilà perdus\n!"
+  "fr": "Hi hi... Ooh, vous\nêtes condamnés !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "Georges",
   "en": "The indethructible drake, Tiamat,\nwill thtrike you all down!",
-  "fr": "L'indeztructible dragon Tiamat va\nvous terrazzer !"
+  "fr": "Le dragon\nindestructible,\fTiamat, aura raison\nde vous !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
   "max": 16,
   "who": "Avaritia",
   "en": "gRRrrrAAAWWW!!!",
-  "fr": "gRRrrrAAAWWW !!!"
+  "fr": "gRRrrrAAAWWW !!!",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080AB",
   "max": 34,
   "who": "Jeanne",
   "en": "That black shadow again...",
-  "fr": "Encore cette ombre noire..."
+  "fr": "Encore cette ombre noire...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080AB",
   "max": 34,
   "who": "Henry VI",
   "en": "Oh, my! You're just smacking\ndown reapers left and right!",
-  "fr": "Oh, my ! Tu abats les\nfaucheurs à tour de bras !"
+  "fr": "Oh, oh ! Vous exterminez des\nmoissoneurs à tours de bras !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080AB",
   "max": 34,
   "who": "Henry VI",
   "en": "Good! What doesn't kill you makes\nme stronger, hee hee! Ta ta.",
-  "fr": "Parfait ! Ce qui ne te tue pas\nme rend plus fort, hi hi ! Salut !"
+  "fr": "Bien ! Ce qui ne vous tue pas\nme rend plus fort, hi hi ! Ta ta.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080AB",
   "max": 34,
   "who": "Jeanne",
   "en": "Wait! Gilvaroth!",
-  "fr": "Attends ! Gilvaroth !"
+  "fr": "Attends ! Gilvaroth !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3080AB",
   "max": 34,
   "who": "Jeanne",
   "en": "...Come on. We have to report\nthis to Sir Richemont.",
-  "fr": "...Allons. Nous devons faire\nnotre rapport à Richemont."
+  "fr": "... Allons-y. Nous devons faire\nnotre rapport à Ser Richemont.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "",
   "en": "Stop Henry VI's coronation! To Reims!",
-  "fr": "Empêchez le sacre d'Henri VI !\nÀ Reims !"
+  "fr": "Arrêter le couronnement d'Henri VI à\nReims !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Charles VII",
   "en": "What a ghastly turn of events...",
-  "fr": "Quel effroyable tournant..."
+  "fr": "Quelle affreuse tournure\nprennent les évènements.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Charles VII",
   "en": "Seeing his dearest vassals and\nguards...murdered...\fIt must have been quite a shock\nto him.",
-  "fr": "Voir ses plus chers vassaux et\nses gardes... massacrés...\fCela a dû lui causer un\nterrible choc."
+  "fr": "Voir ses fidèles vassaux et ses\ngardes... assassinés...\fÇa a dû être un choc pour lui.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Richemont",
   "en": "Ahem... What matters most, Sire,\nis that we have gained a\ntemporary reprieve from civil\nwar on French soil.",
-  "fr": "Hum... L'essentiel, Sire, c'est\nque nous avons obtenu un\nrépit dans la guerre civile\nsur le sol français."
+  "fr": "Ahem... Ce qui importe le plus,\nSire,\fc'est que nous ayons gagné un\nsursis temporaire\fdans la guerre civile sur le sol\nFrançais.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Richemont",
   "en": "Now only one enemy remains:\nHenry VI. England.",
-  "fr": "Il ne reste qu'un ennemi :\nHenri VI. L'Angleterre."
+  "fr": "Maintenant il ne reste qu'un\nennemi :\fHenry VI. L'Angleterre.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Charles VII",
   "en": "...I owe it to you and your\nsecret negotiations, Richemont.",
-  "fr": "...Je le dois à vous et à vos\nnégociations secrètes, Richemont."
+  "fr": "... Je vous remercie vous et\nvos négociations secrètes,\fRichemont.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Charles VII",
   "en": "You accomplished great things\nfrom an even greater distance.",
-  "fr": "Vous avez accompli de grandes\nchoses, et de bien loin."
+  "fr": "Vous avez accompli de belles\nchoses et ce malgré la distance.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Richemont",
   "en": "...Your Highness,",
-  "fr": "...Votre Altesse,"
+  "fr": "... Votre Altesse,",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Richemont",
   "en": "you've changed in my absence.\nYou look...haggard, Sire.",
-  "fr": "vous avez changé en mon absence.\nVous semblez... épuisé, Sire."
+  "fr": "vous avez changé durant mon\nabsence.\fVous semblez... perdu Sire.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Richemont",
   "en": "Perhaps Jeanne's death was\\u2014",
-  "fr": "La mort de Jeanne a peut-être\\u2014"
+  "fr": "Peut-être que la mort de Jeanne\nétait...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Charles VII",
   "en": "That tale is finished.",
-  "fr": "Cette histoire est close."
+  "fr": "C'est de l'histoire ancienne.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Charles VII",
   "en": "I am glad you have returned to\ncourt, Richemont.",
-  "fr": "Je suis heureux que vous soyez\nde retour à la cour, Richemont."
+  "fr": "Je suis heureux que vous soyez\nrevenu à la cour, Richemont.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Charles VII",
   "en": "My dear Georges has gone\nmissing...\fbut I suppose the army will not\nbe mourning his absence, hmm?",
-  "fr": "Mon cher Georges a disparu...\fmais je doute que l'armée\npleure son absence, hmm ?"
+  "fr": "Mon cher Georges est porté\ndisparu...\fmais je pense que l'armée\nne pleurera pas son absence.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Charles VII",
   "en": "At least I have another loyal\ncounsellor here in his stead.",
-  "fr": "J'ai au moins un autre fidèle\nconseiller pour le remplacer."
+  "fr": "Au moins j'ai un autre conseiller\nfidèle à sa place ici.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Duke of Bedford",
   "en": "Might I have a moment, Your\nGrace?",
-  "fr": "Puis-je vous parler un instant,\nYour Grace ?"
+  "fr": "Auriez-vous un moment,\nVotre Grâce ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Henry VI",
   "en": "What is it, Uncle?",
-  "fr": "Qu'y a-t-il, mon oncle ?"
+  "fr": "Qu'y a-t-il mon oncle ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Duke of Bedford",
   "en": "We must make ready for the\nceremony.",
-  "fr": "Nous devons préparer la cérémonie."
+  "fr": "Nous devons nous préparer\npour la cérémonie.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Duke of Bedford",
   "en": "I was hoping you would be so\nkind as to select the guests.",
-  "fr": "J'espérais que vous auriez la\nbonté de choisir les invités."
+  "fr": "J'espérais que vous voudriez\nbien choisir les invités.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Henry VI",
   "en": "...Ah, yes.\nWell, let me see...",
-  "fr": "...Ah, yes. Voyons voir..."
+  "fr": "... Ah, oui.\nBien, laisse-moi réfléchir...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Henry VI",
   "en": "...Oh ho! You foul bird!\nReims, you say?",
-  "fr": "...Oh oh ! Vilain oiseau !\nReims, dis-tu ?"
+  "fr": "... Oh ho ! Vilain oiseau !\nReims, tu dis ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Henry VI",
   "en": "I love it, hee hee...\nDon't you love it, kitty-witty?",
-  "fr": "J'adore ça, hi hi...\nTu adores aussi, mon minou ?"
+  "fr": "Ça me plait, hi hi...\nTu aimes aussi, minou-minou ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Charles VII",
   "en": "An ugly civil war is about to\ndraw to a close\\u2014",
-  "fr": "Une affreuse guerre civile est\nsur le point de s'achever\\u2014"
+  "fr": "Une horrible guerre civile est\nsur le point de s'achever...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Charles VII",
   "en": "a war the seeds of which you\nsowed, Mother.",
-  "fr": "une guerre dont vous avez semé\nles graines, Mère."
+  "fr": "Une guerre qui a été provoquée\npar vous, Mère.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Charles VII",
   "en": "And yet all is vanity! Why do\nI feel so empty inside...",
-  "fr": "Et pourtant, tout n'est que vanité !\nPourquoi ce vide en moi..."
+  "fr": "Maintenant tout est vanité !\fPourquoi je me sens si vide à\nl'intérieur...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Charles VII",
   "en": "Once...people vilified you,",
-  "fr": "Jadis... le peuple vous honnissait,"
+  "fr": "Jadis... les gens vous ont\ninsultée,",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Charles VII",
   "en": "named you a witch for leading\nFrance to ruin.",
-  "fr": "vous traitait de sorcière pour\navoir mené la France à sa ruine."
+  "fr": "vous ont traitée de sorcière pour\navoir mené la France à sa ruine.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Charles VII",
   "en": "And me? I thought by enlisting\na saint and becoming king,\fI could disown your legacy.\nI lived for that.",
-  "fr": "Et moi ? Je pensais qu'en m'alliant\nune sainte et en devenant roi,\fje pourrais renier votre héritage.\nJe ne vivais que pour cela."
+  "fr": "Et moi ? Je pensais qu'en enrôlant\nune sainte et en devenant roi,\fje pourrais renier votre héritage.\nJe l'espérais.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Charles VII",
   "en": "...But then the people started\ncalling my saint the witch,",
-  "fr": "...Mais le peuple s'est mis à\ntraiter ma sainte de sorcière,"
+  "fr": "... Mais alors les gens ont\ncommencé\fà appeler ma sainte la sorcière,",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Charles VII",
   "en": "and me, a wretch crowned by a\ntool of the devil.",
-  "fr": "et moi, de misérable couronné\npar un instrument du diable."
+  "fr": "et moi, le misérable, couronné\npar la main du diable.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Charles VII",
   "en": "And yet when I let their \"witch\"\nburn, they turned on me again.",
-  "fr": "Et quand j'ai laissé brûler leur\n« sorcière », ils m'ont renié."
+  "fr": "Et maintenant que je les ai\nlaissés brûler la \"sorcière\",\fils se tournent de nouveau vers\nmoi.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Charles VII",
   "en": "What am I?",
-  "fr": "Que suis-je donc ?"
+  "fr": "Que suis-je ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Charles VII",
   "en": "I have become a subject to my\nsubjects...",
-  "fr": "Je suis devenu le sujet de mes\npropres sujets..."
+  "fr": "Je suis devenu un sujet de\nmes sujets...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Richemont",
   "en": "...Your Highness.\nMight I have a word?",
-  "fr": "...Votre Altesse.\nPuis-je vous dire un mot ?"
+  "fr": "... Votre Altesse.\nSi je peux me permettre ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Charles VII",
   "en": "Richemont. What is it?",
-  "fr": "Richemont. Qu'y a-t-il ?"
+  "fr": "Richemont. Qu'y a-t-il ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Richemont",
   "en": "Prince Henry VI of England...",
-  "fr": "Le prince Henri VI d'Angleterre..."
+  "fr": "Le prince Henry VI\nd'Angleterre...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Richemont",
   "en": "has announced his coronation at\nReims.",
-  "fr": "a annoncé son sacre à Reims."
+  "fr": "il a annoncé son couronnement\nà Reims.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Charles VII",
   "en": "Coronation?",
-  "fr": "Son sacre ?"
+  "fr": "Son couronnement ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Charles VII",
   "en": "Well, he's too late! I am already\nking of France!",
-  "fr": "Eh bien, il arrive trop tard ! Je\nsuis déjà roi de France !"
+  "fr": "Mais il est trop tard ! Je suis\ndéjà roi de France !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Richemont",
   "en": "He may be trying to turn public\nsupport in his favor.",
-  "fr": "Il cherche peut-être à rallier\nle peuple à sa cause."
+  "fr": "Il essaie de gagner l'opinion\npublique.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Richemont",
   "en": "We cannot sit back and let him.\nWe must act accordingly.",
-  "fr": "Nous ne pouvons le laisser faire.\nNous devons agir en conséquence."
+  "fr": "Nous ne pouvons rester assis et\nle laisser faire.\fNous devons agir en\nconséquences.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Charles VII",
   "en": "...What do you think I should do?",
-  "fr": "...Que me conseillez-vous ?"
+  "fr": "Que me conseillez-vous ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Richemont",
   "en": "Jump on this opportunity, and\norder an attack on Paris.",
-  "fr": "Saisissez cette occasion et\nordonnez l'assaut sur Paris."
+  "fr": "Sautez sur cette opportunité, et\ndonnez l'ordre d'attaquer Paris.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Richemont",
   "en": "With the Duke of Burgundy's\ntroops withdrawn,",
-  "fr": "Les troupes du duc de Bourgogne\ns'étant retirées,"
+  "fr": "Avec le retrait des troupes du\nDuc de Bourgogne,",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Richemont",
   "en": "you can vie directly with Henry\nfor control of the capital.",
-  "fr": "vous pourrez disputer\ndirectement la capitale à Henri."
+  "fr": "vous pouvez rivaliser\ndirectement avec Henry\fpour le contrôle de la capitale.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Charles VII",
   "en": "You think we can win? That we\ncan retake Paris?",
-  "fr": "Vous croyez que nous pouvons\nvaincre ? Reprendre Paris ?"
+  "fr": "Vous y croyez vraiment ?\fSommes-nous en mesure de\nreprendre Paris ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Charles VII",
   "en": "But...not even Jeanne was able\nto do that.",
-  "fr": "Mais... même Jeanne n'y est\npas parvenue."
+  "fr": "Mais... même Jeanne n'a pas été\ncapable de le faire.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Richemont",
   "en": "...It will be a long battle.",
-  "fr": "...La bataille sera longue."
+  "fr": "... Ce sera une longue bataille.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Jeanne",
   "en": "Stop the coronation?",
-  "fr": "Empêcher le sacre ?"
+  "fr": "Arrêter le couronnement ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Richemont",
   "en": "That's right.",
-  "fr": "Exactement."
+  "fr": "C'est bien ça.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Richemont",
   "en": "While we invade a masterless\nParis, you are to head to Reims.",
-  "fr": "Pendant que nous envahirons Paris,\nsans maître, vous irez à Reims."
+  "fr": "Alors que nous envahirons un\nParis sans régent, \fvous vous dirigerez vers Reims.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Richemont",
   "en": "For the time being, your ranks\nand mine will act separately.",
-  "fr": "Pour l'heure, vos troupes et\nles miennes agiront séparément."
+  "fr": "Pour le moment, vos troupes et\nles miennes agiront séparément.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3081BM",
   "max": 34,
   "who": "Jeanne",
   "en": "...I understand, sir.",
-  "fr": "...Entendu, messire."
+  "fr": "... Compris, Ser.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BM",
   "max": 34,
   "who": "Gilles",
   "en": "...Not a soul in sight.\nHave we been set up?",
-  "fr": "...Pas âme qui vive.\nOn nous aurait tendu un piège ?"
+  "fr": "... Il n'y a pas âme qui vive.\nAurions-nous été piégés ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BM",
   "max": 34,
   "who": "Henry VI",
   "en": "Oh, now really. Do I look the sort\nto go through all that trouble?",
-  "fr": "Oh, voyons. Ai-je l'air du genre\nà me donner tant de mal ?"
+  "fr": "Oh, il me semble bien. Pourquoi\ndois-je subir tout ça ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BM",
   "max": 34,
   "who": "Jeanne",
   "en": "Gilvaroth!",
-  "fr": "Gilvaroth !"
+  "fr": "Gilvaroth !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BM",
   "max": 34,
   "who": "Henry VI",
   "en": "Come closer! What's the matter?\nAfraid to strike a child?",
-  "fr": "Approche ! Qu'y a-t-il ? Tu as\npeur de frapper un enfant ?"
+  "fr": "Approche-toi ! Quel est le\nproblème ? \fTu as peur de frapper un\nbambin ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BM",
   "max": 34,
   "who": "Henry VI",
   "en": "Or are you just afraid of the\nchild? Ha ha!",
-  "fr": "Ou bien c'est l'enfant qui te\nfait peur ? Ha ha !"
+  "fr": "Ou c'est juste que le gamin te fait\npeur ? Ha ha !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BM",
   "max": 34,
   "who": "Jeanne",
   "en": "You're about to find out.",
-  "fr": "Tu vas vite le savoir."
+  "fr": "Tu es à deux doigts de le\ndécouvrir.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BM",
   "max": 34,
   "who": "Henry VI",
   "en": "Whoopsie!",
-  "fr": "Oups !"
+  "fr": "Houp-là !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BM",
   "max": 34,
   "who": "Henry VI",
   "en": "While I do like your big, scary \nsword, I'm afraid it's useless.\fI know! Why don't I introduce\nyou to my special friend instead?",
-  "fr": "J'adore ta grande épée qui fait\npeur, mais elle est inutile.\fJe sais ! Laisse-moi plutôt te\nprésenter mon amie très spéciale."
+  "fr": "Même si j'aime beaucoup ta\nterrifiante grosse épée,\fj'ai bien peur qu'elle ne soit\nd'aucune utilité.\fJe sais ! Pourquoi ne pas vous\nprésenter à mon nouvel ami ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BM",
   "max": 34,
   "who": "Henry VI",
   "en": "I wouldn't want the guest of\nhonor feeling left out, after all.",
-  "fr": "Je ne voudrais pas que l'invitée\nd'honneur se sente délaissée."
+  "fr": "Je n'aimerais pas que de tels\ninvités de marque se sentent\flaissés pour compte, après tout.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BM",
   "max": 34,
   "who": "Gilles",
   "en": "I know you...",
-  "fr": "Je vous connais..."
+  "fr": "Je vous connais...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BM",
   "max": 34,
   "who": "Henry VI",
   "en": "Of course! She's my granny!\nQueen Isabeau!",
-  "fr": "Of course ! C'est ma mamie !\nLa reine Isabeau !"
+  "fr": "Bien sûr ! C'est ma mamie !\nReine Isabeau !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BM",
   "max": 34,
   "who": "",
   "en": "&Isabeau",
-  "fr": "&Isabeau"
+  "fr": "&Isabeau",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BM",
   "max": 34,
   "who": "Isabeau",
   "en": "Ah, what a splendid day!",
-  "fr": "Ah, quelle splendide journée !"
+  "fr": "Ah, quelle belle journée !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BM",
   "max": 34,
   "who": "Isabeau",
   "en": "My darling Henry is to be\ncrowned king of France,",
-  "fr": "Mon petit Henri chéri va être\ncouronné roi de France,"
+  "fr": "Mon cher Henry va être\ncouronné roi de France,",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BM",
   "max": 34,
   "who": "Isabeau",
   "en": "and I get to feast on fresh\nhors d'oeuvres!",
-  "fr": "et j'ai droit à de délicieux\nhors-d'œuvre tout frais !"
+  "fr": "et je vais me délecter de\ndélicieux hors d'oeuvres !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BM",
   "max": 34,
   "who": "Gilles",
   "en": "Queen Isabeau...",
-  "fr": "Reine Isabeau..."
+  "fr": "Reine Isabeau...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BM",
   "max": 34,
   "who": "Isabeau",
   "en": "You humans look positively\ndelectable! I must have a taste!",
-  "fr": "Vous autres humains semblez\ndélicieux ! Je veux y goûter !"
+  "fr": "Vous avez l'air tellement\nappétissants, humains !\fIl va falloir que je vous goûte !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BM",
   "max": 34,
   "who": "Henry VI",
   "en": "Uwee hee... Dig in, Granny!\nAnd don't forget to chew!",
-  "fr": "Ouhi hi... Bon appétit, mamie !\nEt n'oublie pas de mâcher !"
+  "fr": "Hi hi hi... Croque-les, mamie !\fEt n'oublie pas de bien mâcher\navant d'avaler !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BM",
   "max": 34,
   "who": "Henry VI",
   "en": "Really, now.\nWhat's your rush, witchy?",
-  "fr": "Voyons. Pourquoi tant de hâte,\nma petite sorcière ?"
+  "fr": "À nous, maintenant. Pourquoi\ncette hâte, sorcière ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BM",
   "max": 34,
   "who": "Henry VI",
   "en": "One misstep at a time, please.",
-  "fr": "Un faux pas à la fois, je te prie."
+  "fr": "Une chose à la fois, s'il te plait.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "",
   "en": "The gem fused with Jeanne's armlet!",
-  "fr": "La gemme fusionne avec le Bracelet de\nJeanne !"
+  "fr": "La gemme fusionne\navec le bracelet de\fJeanne !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "unité#147",
   "en": "Your soul...will\nbe ours...",
-  "fr": "Ton âme... sera\nnôtre..."
+  "fr": "Ton âme...\nsera nôtre...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "unité#150, unité#147",
   "en": "Pathetic...",
-  "fr": "Pitoyable..."
+  "fr": "Pathétique...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "unité#147",
   "en": "Your soul...\nI want it!",
-  "fr": "Ton âme...\nje la veux !"
+  "fr": "Ton âme...\nJe la veux !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "unité#147",
   "en": "Fill me...with\nmore death...!",
-  "fr": "Emplis-moi...\nde plus de mort !"
+  "fr": "Donne-moi...\nplus de morts !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "unité#147",
   "en": "More...more...!",
-  "fr": "Encore...\nencore... !"
+  "fr": "Encore... encore !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "unité#147",
   "en": "Graaaahhh!",
-  "fr": "Graaaahhh !"
+  "fr": "Graaaahhh !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "unité#147",
   "en": "Well...how shall\nI finish you...?",
-  "fr": "Voyons... comment\nt'achever... ?"
+  "fr": "Eh bien, comment\nvais-je t'achever ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "unité#147",
   "en": "You shall fall\ninto darkness...",
-  "fr": "Tu sombreras\ndans les ténèbres"
+  "fr": "Vous périrez dans\nles ténèbres...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "unité#147",
   "en": "Welcome...",
-  "fr": "Bienvenue..."
+  "fr": "Bienvenue...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "unité#147",
   "en": "I will give you\neternal peace...",
-  "fr": "Je t'offrirai\nla paix éternelle"
+  "fr": "je vais vous donner\nle repos éternel...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "",
   "en": "Let me make this\neasy for you...",
-  "fr": "Laisse-moi te\nfaciliter la tâche"
+  "fr": "Lairrez-moi vous\nfacilitez les\fchoses...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "",
   "en": "All will be\ndarkness...",
-  "fr": "Tout ne sera\nque ténèbres..."
+  "fr": "Tout ne sera plus\nque ténnèbres...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "",
   "en": "You'll be eaten\nsoon enough...",
-  "fr": "Tu seras dévoré\nbien assez tôt..."
+  "fr": "Tu va vite finir\ndévoré...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "",
   "en": "What is it...?\nDone already?",
-  "fr": "Qu'y a-t-il... ?\nDéjà fini ?"
+  "fr": "Quoi... ?\nDéjà fini ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "",
   "en": "Accept...the\ndarkness...",
-  "fr": "Accepte... les\nténèbres..."
+  "fr": "Accepte...\nles ténèbres...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "",
   "en": "Just what I\nneeded...",
-  "fr": "Exactement ce\nqu'il me fallait"
+  "fr": "Juste ce qu'il\nme fallait...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "",
   "en": "Gwahh!",
-  "fr": "Gwahh !"
+  "fr": "Graaaah !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "",
   "en": "May it embed\ninto my soul!",
-  "fr": "Qu'elle s'ancre\ndans mon âme !"
+  "fr": "Mon âme va\nl'engloutir !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "",
   "en": "Errgh...",
-  "fr": "Eurgh..."
+  "fr": "Arrrgh....",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "",
   "en": "You've been\nsurrounded...",
-  "fr": "Vous êtes\ncernés..."
+  "fr": "Tu es\nencerclé...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "",
   "en": "I must go on!",
-  "fr": "Je dois\ncontinuer !"
+  "fr": "Je dois continuer !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "",
   "en": "I cannot lose\nto you!",
-  "fr": "Je ne peux pas\nperdre contre toi"
+  "fr": "Tu ne peux pas\nme vaincre !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "",
   "en": "We're far ahead\nof you...",
-  "fr": "Nous avons une\nlongueur d'avance"
+  "fr": "On est loin\ndevant toi...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "",
   "en": "Strike back\nat them!",
-  "fr": "Ripostez !"
+  "fr": "Droit sur\neux !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "",
   "en": "Stand up!",
-  "fr": "Debout !"
+  "fr": "Debout !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "",
   "en": "...We can do\nthis.",
-  "fr": "...On peut y\narriver."
+  "fr": "... On ne peut\npas faire ça.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "",
   "en": "Look out...",
-  "fr": "Attention..."
+  "fr": "Attention...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "",
   "en": "&Luxuria",
-  "fr": "&Luxuria"
+  "fr": "&Luxuria",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "Luxuria",
   "en": "gEEYAAaaaAAAHHH!!!",
-  "fr": "gIIYAAaaaAAAHH !!!"
+  "fr": "gEEYAAaaaAAAHHH !!!",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Isabeau",
   "en": "Ahh... Please, Pucelle...\nDon't kill me...",
-  "fr": "Ahh... Je vous en prie, Pucelle...\nNe me tuez pas..."
+  "fr": "Ahh... Je t'en supplie, Pucelle...\nNe me tue pas...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Isabeau",
   "en": "Not until I see my son's\nbeautiful face again...",
-  "fr": "Pas avant que j'aie revu le\nbeau visage de mon fils..."
+  "fr": "Pas avant de revoir le si joli\nvisage de mon fils...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Gilles",
   "en": "Queen Isabeau... We wouldn't\ndream of harming you.",
-  "fr": "Reine Isabeau... Nous n'avons\nnulle intention de vous nuire."
+  "fr": "Reine Isabeau... Nous ne\nsaurions vous causer du tort.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Isabeau",
   "en": "Oh, Charles...my darling\nCharles!\nYour mother is here for you\\u2014",
-  "fr": "Oh, Charles... mon Charles chéri !\nTa mère est là pour toi\\u2014"
+  "fr": "Oh Charles... Mon si cher\nCharles !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Isabeau",
   "en": "Aaaaaaaaagh!",
-  "fr": "Aaaaaaaaagh !"
+  "fr": "Aaaaaaaaagh !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Henry VI",
   "en": "Oh, darn! I killed her.\nUseless thing.",
-  "fr": "Oh, zut ! Je l'ai tuée.\nBonne à rien."
+  "fr": "Oh flûte, je l'ai tuée...\nInutile petite chose...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Jeanne",
   "en": "That shadow...\nYou did that?",
-  "fr": "Cette ombre...\nC'est toi qui as fait ça ?"
+  "fr": "Cette ombre...\nC'est toi qui as fait ça ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Henry VI",
   "en": "Gosh! What do you think?\nUgh, really! Enough games.",
-  "fr": "Ben tiens ! À ton avis ?\nPff, franchement ! Assez joué."
+  "fr": "Oh mon dieu ! Mais à quoi tu\njoues ? Vraiment !\fSuffit les enfantillages.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Henry VI",
   "en": "Would you mind terribly if I\nscrapped this puny body now?",
-  "fr": "Ça t'embête si je me débarrasse\nde ce corps chétif, maintenant ?"
+  "fr": "Cela vous ennuirait-il beaucoup\nsi j'abandonnais\fce corps chétif ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Jeanne",
   "en": "Why you\\u2014",
-  "fr": "Espèce de\\u2014"
+  "fr": "Pourquoi vous...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Henry VI",
   "en": "A spirited response! Bravo!",
-  "fr": "Quelle fougue ! Bravo !"
+  "fr": "Une réponse sensée ! Bravo !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Henry VI",
   "en": "But I was talking to the toad.\nWell? You can speak, can't you?",
-  "fr": "Mais je parlais au crapaud.\nWell ? Tu sais parler, non ?"
+  "fr": "Je parlais à la grenouille.\nEt ? Tu peux parler, non ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Henry VI",
   "en": "Now's your big chance to stop\nme, you know.",
-  "fr": "C'est ta chance de m'arrêter,\ntu sais."
+  "fr": "C'est ta chance pour m'arrêter,\ntu sais.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Henry VI",
   "en": "Won't you miss this cute widdle\nbody of yours once I BREAK it?",
-  "fr": "Ton petit corps tout mimi ne te\nmanquera pas, une fois CASSÉ ?"
+  "fr": "Cet adorable petit corps va vous\nmanquer\fquand je l'aurais DÉTRUIT ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Roger",
   "en": "...Stop stalling. If you're going\nto kill them, then kill them.",
-  "fr": "...Arrête de traîner. Si tu veux\nles tuer, alors tue-les."
+  "fr": "... Arrête d'épiloguer. Si tu veux\nles tuer, alors tue-les.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Henry VI",
   "en": "Ah, it's you! How kind of you\nto finally pay me a visit.",
-  "fr": "Ah, c'est toi ! Comme c'est\ngentil de venir enfin me voir."
+  "fr": "Ah, c'est toi ! Comme c'est\naimable de ta part \fde me rendre visite.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Henry VI",
   "en": "I have been simply itching to\nput you out of your misery!",
-  "fr": "Il me tardait tant de mettre\nfin à tes souffrances !"
+  "fr": "J'avais juste envie de venir\nte sortir de tes ennuis.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Henry VI",
   "en": "Creating you was undoubtedly\none of my career lows...",
-  "fr": "Te créer fut sans doute l'un des\npires moments de ma carrière..."
+  "fr": "Te créer a été indubitablement\nun de mes échecs...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Roger",
   "en": "...Urg!",
-  "fr": "...Argh !"
+  "fr": "... Arg !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Henry VI",
   "en": "Ohh, you wouldn't dream of\nchallenging me in THAT body\\u2014",
-  "fr": "Ohh, tu n'oserais pas me défier\ndans CE corps\\u2014"
+  "fr": "Ohh, tu ne voudrais quand même\npas m'affronter, CE corps...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Henry VI",
   "en": "at least I hope not, because\nthat would be very, very insulting.",
-  "fr": "du moins je l'espère, car ce\nserait très, très insultant."
+  "fr": "enfin, je n'espère pas, parce que\nce serait très très insultant.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Gilles",
   "en": "Run, Jeanne! If we stay here,\nwe're dead for certain.",
-  "fr": "Fuyez, Jeanne ! Si nous restons,\nnous sommes morts à coup sûr."
+  "fr": "Cours, Jeanne ! Si nous restons\nici, nous allons y rester.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Jeanne",
   "en": "But what about Roger!",
-  "fr": "Mais... et Roger ?"
+  "fr": "Et Roger !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Gilles",
   "en": "Just run!",
-  "fr": "Partez, vite !"
+  "fr": "Cours !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Gilles",
   "en": "Now, Jeanne!",
-  "fr": "Maintenant, Jeanne !"
+  "fr": "Maintenant, Jeanne !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Henry VI",
   "en": "Your playmates are smarter than\nyou. They ran away.",
-  "fr": "Tes camarades de jeu sont plus\nmalins que toi. Ils ont fui."
+  "fr": "Tes camarades sont plus malins\nque toi, ils partent.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Roger",
   "en": "...You don't scare me. And no\none kills Jeanne before I do.",
-  "fr": "...Tu ne me fais pas peur. Et\npersonne ne tuera Jeanne avant moi."
+  "fr": "... Vous ne me faites pas peur.\fEt personne n'a tué Jeanne avant\nmoi.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Roger",
   "en": "Not even you.",
-  "fr": "Pas même toi."
+  "fr": "Même pas toi.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Duke of Bedford",
   "en": "Omnipotent lord of darkness,\nmay thy frail flesh be tempered...",
-  "fr": "Seigneur omnipotent des ténèbres,\nque ta frêle chair soit trempée..."
+  "fr": "Omnipotent seigneur des\nténèbres, puisse ta fragile chair",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Duke of Bedford",
   "en": "through the mystery of this\niniquitous oil!",
-  "fr": "par le mystère de cette\nhuile inique !"
+  "fr": "être ravivée grâce aux mystères\nde cette huile inique !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "",
   "en": "Grraaaaaaarrr!",
-  "fr": "Grraaaaaaarrr !"
+  "fr": "Grraaaaaaarrr !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Henry VI",
   "en": "Uwee hee, I can FEEL it...\nI can feel my POWER! Ga ha!",
-  "fr": "Ouhi hi, je le SENS...\nJe sens mon POUVOIR ! Ga ha !"
+  "fr": "Oh oui, je le SENS...\nJe sens mon POUVOIR ! Ga ha !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Henry VI",
   "en": "Scream! Shriek! More, MORE!\nLet your cries rend the heavens!",
-  "fr": "Hurle ! Crie ! Encore, ENCORE !\nQue tes cris déchirent les cieux !"
+  "fr": "Crie ! Hurle ! Vas-y ! VAS-Y !\fLaisse tes cris atteindre les\ncieux !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "",
   "en": "GrraaaAAAAARGH!!!",
-  "fr": "GrraaaAAAAARGH !!!"
+  "fr": "GrraaaAAAAARGH !!!",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Jeanne",
   "en": "You have some explaining to do.",
-  "fr": "Tu nous dois des explications."
+  "fr": "Tu as quelques explications à me\nfaire.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Jeanne",
   "en": "Are you the real Henry VI?\nYou are, aren't you!",
-  "fr": "Es-tu le vrai Henri VI ?\nC'est toi, n'est-ce pas ?"
+  "fr": "Tu es vraiment Henry VI ?\nC'est ça, hein ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Cuisses",
   "en": "When Gilvaroth was revived by\nmy uncle, the Duke of Bedford,",
-  "fr": "Quand mon oncle, le duc de Bedford,\na ressuscité Gilvaroth,"
+  "fr": "Quand mon oncle, le Duc de\nBedford a ramené Gilvaroth\fd'entre les morts,",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Cuisses",
   "en": "Luther's soul and my own were\ncast out into the wilds.",
-  "fr": "mon âme et celle de Luther ont\nété rejetées dans la nature."
+  "fr": "mon âme et celle de Luther ont\nété envoyées dans les limbes.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Cuisses",
   "en": "And it was actually a knight\nnamed Hugue...",
-  "fr": "Et c'est en fait oun chevalier\nnommé Hugue..."
+  "fr": "Et c'est en fait un chevalier\nappelé Hugues...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Cuisses",
   "en": "who inherited this armlet at birth.",
-  "fr": "qui reçut ce Bracelet\nà sa naissance."
+  "fr": "qui a reçu ce bracelet à sa\nnaissance.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Cuisses",
   "en": "His armlet guided him to me,\nand together we set off...",
-  "fr": "Son Bracelet l'a mené à moi,\net nous sommes partis ensemble..."
+  "fr": "Ce bracelet l'a guidé jusqu'à moi,\net nous sommes partis ensemble",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Cuisses",
   "en": "to find other wielders of the\narmlet.",
-  "fr": "à la recherche d'autres porteurs\ndu Bracelet."
+  "fr": "à la recherche d'autres porteurs\nde bracelet.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Jeanne",
   "en": "So that was the knight we saw\nat the chapel outside Domremy...",
-  "fr": "C'était donc lui, le chevalier de\nla chapelle près de Domrémy..."
+  "fr": "C'était donc ce chevalier que\nnous avons vu à la chapelle\fde Domrémy...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Jeanne",
   "en": "Why did you lie to us?",
-  "fr": "Pourquoi nous avoir menti ?"
+  "fr": "Pourquoi nous avoir menti ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Jeanne",
   "en": "Why hide the fact that you're\nHenry?",
-  "fr": "Pourquoi cacher que tu es Henri ?"
+  "fr": "Pourquoi nous cacher\nta véritable identité,\fque tu es Henri IV ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Cuisses",
   "en": "Well...I was everyone's enemy.",
-  "fr": "Well... J'étais l'ennemi de tous."
+  "fr": "Eh bien... J'étais l'ennemi de\ntous...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Jeanne",
   "en": "How could you think that?",
-  "fr": "Comment peux-tu penser ça ?"
+  "fr": "Comment pouvez-vous dire ça ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Cuisses",
   "en": "One thing I never understood\nwhen I was a human boy...",
-  "fr": "Petit garçon, il y a une chose\nque je n'ai jamais comprise..."
+  "fr": "Une des choses que je n'ai jamais\ncomprise lorsque j'étais humain,",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Cuisses",
   "en": "was why we were at war\nwhen we all shared\nthe same forefathers.",
-  "fr": "pourquoi nous étions en guerre\nalors que nous avions\nles mêmes ancêtres."
+  "fr": "c'est pourquoi se faire la guerre\nquand on a les mêmes ancêtres.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Cuisses",
   "en": "But I figured it all out\ntraveling with you.",
-  "fr": "Mais j'ai tout compris en\nvoyageant avec vous."
+  "fr": "Mais je l'ai compris en voyageant\navec toi.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Cuisses",
   "en": "People hate me. All of France\nwould be happier with me gone.",
-  "fr": "Les gens me haïssent. La France\nserait plus heureuse sans moi."
+  "fr": "Les gens me haïssent. Toute la\nFrance se réjouirait de ma mort.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Cuisses",
   "en": "My uncle must have known people\nwanted me dead.",
-  "fr": "Mon oncle devait savoir qu'on\nvoulait ma mort."
+  "fr": "Mon oncle aurait dû savoir que le\npeuple souhaitait ma mort.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Cuisses",
   "en": "He was willing to make a pact\nwith Gilvaroth to keep me safe\\u2014",
-  "fr": "Il était prêt à pactiser avec\nGilvaroth pour me protéger\\u2014"
+  "fr": "ll souhaitait faire un pacte avec\nGilvaroth pour me protéger...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Cuisses",
   "en": "but Gilvaroth doesn't make pacts.\nHe breaks them.",
-  "fr": "mais Gilvaroth ne respecte pas\nles pactes. Il les brise."
+  "fr": "Mais Gilvaroth ne fait pas de\npacte, il les brise.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Cuisses",
   "en": "And now, he only grows\nstronger...",
-  "fr": "Et désormais, il ne cesse de\ngagner en puissance..."
+  "fr": "Et à présent, son pouvoir ne\ncesse de s'accroître...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Cuisses",
   "en": "with every reaper he devours.",
-  "fr": "avec chaque faucheur qu'il dévore."
+  "fr": "avec tous les moissoneurs qu'il\nengloutit.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Cuisses",
   "en": "Right now he's trapped inside\nmy body, behaving himself,",
-  "fr": "Pour l'instant, il est prisonnier\nde mon corps et se tient tranquille,"
+  "fr": "À présent il est bien sage, pris\nau piège dans mon corps,",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Cuisses",
   "en": "but soon his true form will break\nfree and conquer the world.",
-  "fr": "mais sa vraie forme se libérera\nbientôt pour conquérir le monde."
+  "fr": "mais bientôt, sa vraie forme se\nlibèrera et il partira\fà la conquête du monde.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Cuisses",
   "en": "Once that happens, no human will\nbe able to stand against him.",
-  "fr": "Alors, aucun humain ne pourra\nplus lui tenir tête."
+  "fr": "Si ça se produit, aucun humain\nne sera en mesure de le vaincre.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Cuisses",
   "en": "Please!",
-  "fr": "Je vous en prie ! Please !"
+  "fr": "Je vous en prie !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Cuisses",
   "en": "Stop Gilvaroth before his true\nform awakens\\u2014",
-  "fr": "Arrêtez Gilvaroth avant que sa\nvraie forme ne s'éveille\\u2014"
+  "fr": "Arrêtez Gilvaroth avant qu'il ne\nse montre\fsous sa véritable forme...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Cuisses",
   "en": "and help my uncle see the error\nof his ways.",
-  "fr": "et aidez mon oncle à comprendre\nson erreur."
+  "fr": "et aidez mon oncle à voir qu'il\nest sur la mauvaise voie.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Jeanne",
   "en": "Henry...",
-  "fr": "Henri..."
+  "fr": "Henry...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Cuisses",
   "en": "Please.",
-  "fr": "Je vous en prie."
+  "fr": "Je vous en prie.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Roger",
   "en": "Grr...\nJust wait, Jeanne.",
-  "fr": "Grr... Attends un peu, Jeanne."
+  "fr": "Grrr...\nAttends, Jeanne.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Roger",
   "en": "I swear...\nI SWEAR I'll kill you...",
-  "fr": "Je le jure...\nJe JURE que je te tuerai..."
+  "fr": "Je jure...\nJE JURE que je te tuerai...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Raven",
   "en": "Cawww, caw!",
-  "fr": "Crôa, crôa !"
+  "fr": "Croaaaa, croa !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Roger",
   "en": "Huff, huff...\nYou again?",
-  "fr": "Hff, hff... Encore toi ?"
+  "fr": "Pfff, pffff...\nEncore toi ?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Roger",
   "en": "I told you I won't take orders\nfrom you!",
-  "fr": "Je t'ai dit que je ne prendrais\npas d'ordres de toi !"
+  "fr": "Je t'ai déjà dit que n'étais pas à\ntes ordres !",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Roger",
   "en": "Huff, huff... A gem?\nHow should I know...",
-  "fr": "Hff, hff... Une gemme ?\nComment le saurais-je..."
+  "fr": "Pff, pff... Une gemme ? Mais\ncomment j'aurais pu le savoir...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "",
   "en": "fIND iT...\na fLAWLESS bODY fOR uS...",
-  "fr": "tROUVE-lA...\nuN cORPS sANS dÉFAUT pOUR nOUS..."
+  "fr": "tROUveZ-lE...\nuN cORpS parFAiT pOur NOuS...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "",
   "en": "fIND tHE gEM...",
-  "fr": "tROUVE lA gEMME..."
+  "fr": "tROuVeZ lA gEMmE...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3090AB",
   "max": 34,
   "who": "Roger",
   "en": "Urrg...",
-  "fr": "Arrgh..."
+  "fr": "Urrg...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3091BM",
   "max": 34,
   "who": "",
   "en": "Head for Paris Warren by way of the Guillorey Canal!",
-  "fr": "Gagnez les souterrains de Paris\npar le canal de Guillorey !"
+  "fr": "Droit sur Paris par le canal Guillorey\n!",
+  "src": "pinky"
  },
  {
   "ctx": "ST3091BM",
   "max": 34,
   "who": "Richemont",
   "en": "The English army has occupied all\nof Brittany.",
-  "fr": "L'armée anglaise a occupé toute\nla Bretagne."
+  "fr": "L'armée anglaise occupe toute la\nBretagne.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3091BM",
   "max": 34,
   "who": "Gilles",
   "en": "Brittany? What?!",
-  "fr": "La Bretagne ? Quoi ?!"
+  "fr": "La Bretagne ? Quoi !?",
+  "src": "pinky"
  },
  {
   "ctx": "ST3091BM",
   "max": 34,
   "who": "Gilles",
   "en": "The blame lies with us.",
-  "fr": "La faute nous en revient."
+  "fr": "Et c'est par notre faute.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3091BM",
   "max": 34,
   "who": "Gilles",
   "en": "We should never have abandoned\nour mission at the cathedral...",
-  "fr": "Jamais nous n'aurions dû quitter\nnotre mission à la cathédrale..."
+  "fr": "Nous n'aurions jamais dû\nabandonner notre mission\fà la cathédrale...",
+  "src": "pinky"
  },
  {
   "ctx": "ST3091BM",
   "max": 34,
   "who": "Richemont",
   "en": "Your judgment was sound.",
-  "fr": "Vous avez bien jugé."
+  "fr": "Ton jugement était judicieux.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3091BM",
   "max": 34,
   "who": "Richemont",
   "en": "I cannot have you dying when we\nhave yet to recapture Paris.",
-  "fr": "Je ne puis vous laisser mourir\nalors que Paris n'est pas repris."
+  "fr": "Je ne pouvais te laisser\nmourir à la veille\fde reprendre Paris.",
+  "src": "pinky"
  },
  {
   "ctx": "ST3091BM",
   "max": 34,
   "who": "Richemont",
   "en": "Gilles...you were born in\nBrittany, were you not?",
-  "fr": "Gilles... vous êtes né en\nBretagne, n'est-ce pas ?"
+  "fr": "Gilles, tu es originaire de\nBretagne, non ?",
+  "src": "pinky"
  }
 ]

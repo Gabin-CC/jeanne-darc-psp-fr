@@ -639,7 +639,7 @@
   "ctx": "MAP3040.DAT",
   "max": 63,
   "en": "Defeat the trio of therions",
-  "fr": "Vaincre le trio de thérions"
+  "fr": "Vaincre le trio de therions"
  },
  {
   "ctx": "MAP3050.DAT",
@@ -759,7 +759,7 @@
   "ctx": "MAP3080.DAT",
   "max": 63,
   "en": "Defeat Georges and his      reaper",
-  "fr": "Vaincre Georges et son      faucheur"
+  "fr": "Vaincre Georges et son    moissonneur"
  },
  {
   "ctx": "MAP3090.DAT",
@@ -801,7 +801,7 @@
   "ctx": "MAP4010.DAT",
   "max": 31,
   "en": "Therion Pup",
-  "fr": "Petit thérion"
+  "fr": "Petit therion"
  },
  {
   "ctx": "MAP4010.DAT",

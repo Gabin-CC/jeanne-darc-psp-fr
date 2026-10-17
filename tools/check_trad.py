@@ -22,7 +22,8 @@ def check_entry(e, fixed):
         return err
     if en.startswith('&') != fr.startswith('&'):
         err.append('préfixe & incohérent')
-    if sorted(CODES.findall(en)) != sorted(CODES.findall(fr)):
+    fmt = lambda t: sorted(c for c in CODES.findall(t) if c.startswith('%'))  # %d/%s obligatoires
+    if fmt(en) != fmt(fr):
         err.append(f'codes différents : {CODES.findall(en)} -> {CODES.findall(fr)}')
     if fixed:
         n = len(fit(fr, e['max']))
@@ -37,7 +38,8 @@ def check_entry(e, fixed):
     else:
         vlen = lambda t: len(re.sub(r'\\u[0-9a-fA-F]{4}', 'x', t.rstrip()))
         en_longest = max(vlen(l) for l in en.replace('\f', '\n').split('\n'))
-        lim = max(e.get('max') or 34, en_longest) + 2
+        # largeurs validées en jeu : dialogues 38, bulles de combat 20
+        lim = max({34: 38, 16: 20}.get(e.get('max'), 38), en_longest + 2)
         nb_en = max(len(b.split('\n')) for b in en.split('\f'))
         for box in fr.split('\f'):
             lines = box.split('\n')
@@ -71,7 +73,7 @@ def check_file(path):
 
 def main():
     paths = sys.argv[1:] or sorted(p for p in glob.glob(os.path.join(ROOT, 'trad/**/*.json'), recursive=True)
-                                   if '/revision/' not in p and not p.endswith('images.json'))
+                                   if '/revision/' not in p and '/pinky/' not in p and not p.endswith('images.json'))
     tot_err = tot_done = tot = 0
     for p in paths:
         e, d, n = check_file(p)
