@@ -20,8 +20,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I'm sorry.\nWe can talk later.",
-  "fr": "Désolé. Nous en reparlerons plus\ntard.",
-  "src": "pinky"
+  "fr": "Désolée. Nous en reparlerons plus\ntard.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1070AB",
@@ -204,8 +205,9 @@
   "max": 34,
   "who": "Noble in Black",
   "en": "Which would make Saint Loup our\nsurest bet, no?",
-  "fr": "Et si nous tablions d'abord sur\nSaint Loup, se serait plus sûr.",
-  "src": "pinky"
+  "fr": "Et si nous tablions d'abord sur\nSaint Loup, ce serait plus sûr.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1070AB",
@@ -420,8 +422,9 @@
   "max": 34,
   "who": "Roger",
   "en": "He's the one who told me what\nhappened this morning.",
-  "fr": "C'est lui qui m'a dit ce qu'il\nc'est passé ce matin.",
-  "src": "pinky"
+  "fr": "C'est lui qui m'a dit ce qui\ns'est passé ce matin.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1070AB",
@@ -484,16 +487,18 @@
   "max": 34,
   "who": "Jeanne",
   "en": "If you want to do something for\nme, then live. Fight!",
-  "fr": "Si tu veux faire quelque chose\npour moi, alors vis. Bas-toi !",
-  "src": "pinky"
+  "fr": "Si tu veux faire quelque chose\npour moi, alors vis. Bats-toi !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1070AB",
   "max": 34,
   "who": "Liane",
   "en": "*Yawn* Num, num, num...\nIs it morning yet...?",
-  "fr": "*Baillement* Num, num, num...\nC'est déjà le matin... ?",
-  "src": "pinky"
+  "fr": "*Bâillement* Num, num, num...\nC'est déjà le matin... ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1070AB",
@@ -876,16 +881,18 @@
   "max": 34,
   "who": "",
   "en": "You obtain the Gem of Gules!",
-  "fr": "Vous obtenez la gemme de\ngoule !",
-  "src": "pinky"
+  "fr": "Vous obtenez la Gemme de\ngueules !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2010AB",
   "max": 34,
   "who": "",
   "en": "The gem fuses to Jeanne's armlet.",
-  "fr": "La gemme fusionne ave le\nbracelet de Jeanne.",
-  "src": "pinky"
+  "fr": "La gemme fusionne avec le\nbracelet de Jeanne.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2010AB",
@@ -964,8 +971,9 @@
   "max": 34,
   "who": "Glasdale",
   "en": "Spare me your gibes, prithee.\fThese repeated losses torment \nme enough.",
-  "fr": "Epargnez-moi vos railleries,\npitié. Ces défaites \fà répétition me tracassent\nsuffisamment.",
-  "src": "pinky"
+  "fr": "Épargnez-moi vos railleries,\npitié. Ces défaites \fà répétition me tracassent\nsuffisamment.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2010AB",
@@ -988,8 +996,9 @@
   "max": 34,
   "who": "Talbot",
   "en": "If you just want to feign guilt, \nthen do it elsewhere.\fYou and your put-on penitence \nhave no place on the battlefield.",
-  "fr": "Si vous voulez juste feindre la\nculpabilité,\falors faites-le ailleurs. Vous et\nvotre repentance\fn'ont pas leur place sur le champ\nde bataille.",
-  "src": "pinky"
+  "fr": "Si vous voulez juste feindre la\nculpabilité,\falors faites-le ailleurs. Vous et\nvotre repentance\fn'avez pas votre place sur le champ\nde bataille.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2010AB",
@@ -1324,8 +1333,9 @@
   "max": 34,
   "who": "Roger",
   "en": "I'm...I'm not sure myself.\nWhy do I have that power...",
-  "fr": "Je... je n'en suis pas sûr moi même.\nNi pourquoi j'ai ce pouvoir...",
-  "src": "pinky"
+  "fr": "Je... je n'en suis pas sûr moi-même.\nNi pourquoi j'ai ce pouvoir...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2020BM",
@@ -1436,8 +1446,9 @@
   "max": 34,
   "who": "Talbot",
   "en": "What manner of monster...\fSo help me, this time I'll choke\nthe life out of her for good!",
-  "fr": "Quelle sorte de monstre...\fAide-moi, cette fois je lui hôterai\nsa vie pour de bon !",
-  "src": "pinky"
+  "fr": "Quelle sorte de monstre...\fAide-moi, cette fois je lui ôterai\nsa vie pour de bon !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2020BM",
@@ -1452,8 +1463,9 @@
   "max": 16,
   "who": "unité#174, unité#173",
   "en": "C'mon, show me\na miracle!",
-  "fr": "Allez, montre moi\nun miracle !",
-  "src": "pinky"
+  "fr": "Allez, montre-moi\nun miracle !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2020BT",
@@ -1548,8 +1560,9 @@
   "max": 16,
   "who": "",
   "en": "All right...\nLet's do this.",
-  "fr": "Très bien...\nFaisons le.",
-  "src": "pinky"
+  "fr": "Très bien...\nFaisons-le.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2020BT",
@@ -1836,8 +1849,9 @@
   "max": 34,
   "who": "Gilles",
   "en": "Besides, the troops are finally \nstarting to warm to her cause.",
-  "fr": "De plus, les troupes ont\nfinallement commencé\fà se rallier à sa cause.",
-  "src": "pinky"
+  "fr": "De plus, les troupes ont\nfinalement commencé\fà se rallier à sa cause.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2020AB",

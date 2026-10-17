@@ -668,8 +668,9 @@
   "max": 16,
   "who": "Jeanne",
   "en": "I'm surrounded!",
-  "fr": "Je suis encerclé !",
-  "src": "pinky"
+  "fr": "Je suis encerclée !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1010BT",
@@ -1012,8 +1013,9 @@
   "max": 16,
   "who": "Liane",
   "en": "Sorry, Jeanne...",
-  "fr": "Désolé, Jeanne...",
-  "src": "pinky"
+  "fr": "Désolée, Jeanne...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1010BT",
@@ -1228,8 +1230,9 @@
   "max": 16,
   "who": "Roger",
   "en": "Do it!",
-  "fr": "Fait-le !",
-  "src": "pinky"
+  "fr": "Fais-le !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1010BT",

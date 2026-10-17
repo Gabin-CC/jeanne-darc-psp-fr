@@ -148,8 +148,9 @@
   "max": 34,
   "who": "Duke of Lorraine",
   "en": "Let me see it.",
-  "fr": "Montrez-le moi.",
-  "src": "pinky"
+  "fr": "Montrez-le-moi.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1041BM",
@@ -188,8 +189,9 @@
   "max": 34,
   "who": "Duke of Lorraine",
   "en": "This armlet chose you, Jeanne.",
-  "fr": "Ce bracelet vous a choisi,\nJeanne.",
-  "src": "pinky"
+  "fr": "Ce bracelet vous a choisie,\nJeanne.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1041BM",
@@ -604,8 +606,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I couldn't protect my village \nor the townsmen or anything!",
-  "fr": "Je n'ai pas pu protéger mon\nvillage, ni les villageois,\fni quoique ce soit !",
-  "src": "pinky"
+  "fr": "Je n'ai pas pu protéger mon\nvillage, ni les villageois,\fni quoi que ce soit !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1041BM",
@@ -780,8 +783,9 @@
   "max": 34,
   "who": "Colet",
   "en": "I swear, ze old duke must have\nfinally gone gaga.",
-  "fr": "Ma parole, le vieux duc doit être\nfinallement devenu gaga.",
-  "src": "pinky"
+  "fr": "Ma parole, le vieux duc doit être\nfinalement devenu gaga.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050BM",
@@ -948,16 +952,18 @@
   "max": 34,
   "who": "Jeanne",
   "en": "If those two are soldiers, then\nit's no wonder France is losing.",
-  "fr": "Si ces deux là vont sur le\nchamps de bataille,\fil ne faut pas s'étonner que la\nFrance perde.",
-  "src": "pinky"
+  "fr": "Si ces deux-là vont sur le\nchamp de bataille,\fil ne faut pas s'étonner que la\nFrance perde.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050BM",
   "max": 34,
   "who": "Colet",
   "en": "Exqueez? What was zat you said?\nSay zat to my face!",
-  "fr": "Pardon ? Qu'avez-vous dit ?\nDites-le moi en face !",
-  "src": "pinky"
+  "fr": "Pardon ? Qu'avez-vous dit ?\nDites-le-moi en face !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050BM",
@@ -1132,8 +1138,9 @@
   "max": 16,
   "who": "Colet",
   "en": "Ay, must I do\neveryzing?",
-  "fr": "Aie, je dois\ntout faire ?",
-  "src": "pinky"
+  "fr": "Aïe, je dois\ntout faire ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050BT",
@@ -1324,32 +1331,36 @@
   "max": 16,
   "who": "Bertrand",
   "en": "You's about to\nget stomped!",
-  "fr": "Vous allez étre\nréduits en miettes !",
-  "src": "pinky"
+  "fr": "Vous allez être\nréduits en miettes !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050BT",
   "max": 16,
   "who": "Bertrand",
   "en": "Get the @#%$\noutta my way!",
-  "fr": "Otez ce @#%$\nde mon chemin !",
-  "src": "pinky"
+  "fr": "Ôtez ce @#%$\nde mon chemin !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050BT",
   "max": 16,
   "who": "Marcel",
   "en": "You'll never\nstop me!",
-  "fr": "Vous ne me\nstoperez jamais !",
-  "src": "pinky"
+  "fr": "Vous ne me\nstopperez jamais !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050BT",
   "max": 16,
   "who": "Marcel",
   "en": "We have to\nhurry!",
-  "fr": "Nous devons nous\ndêpécher !",
-  "src": "pinky"
+  "fr": "Nous devons nous\ndépêcher !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050BT",
@@ -1700,8 +1711,9 @@
   "max": 16,
   "who": "Colet",
   "en": "Foiled again?",
-  "fr": "Encore râté ?",
-  "src": "pinky"
+  "fr": "Encore raté ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050BT",
@@ -1748,8 +1760,9 @@
   "max": 16,
   "who": "Colet",
   "en": "Sacré bleu...",
-  "fr": "Sacre bleu...",
-  "src": "pinky"
+  "fr": "Sacré bleu...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050BT",
@@ -1852,8 +1865,9 @@
   "max": 16,
   "who": "Colet",
   "en": "Geet down!",
-  "fr": "Descend !",
-  "src": "pinky"
+  "fr": "Descends !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050BT",

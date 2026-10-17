@@ -12,8 +12,9 @@
   "max": 34,
   "who": "Roger",
   "en": "But don't get me wrong.\nI will kill you.",
-  "fr": "Mais ne te méprend pas.\nJe te tuerai.",
-  "src": "pinky"
+  "fr": "Mais ne te méprends pas.\nJe te tuerai.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3070BM",
@@ -132,8 +133,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "A reaper.",
-  "fr": "Un moissoneur.",
-  "src": "pinky"
+  "fr": "Un moissonneur.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3070BT",
@@ -212,8 +214,9 @@
   "max": 16,
   "who": "Gilles",
   "en": "Hurry! She's\nfacing a reaper!",
-  "fr": "Vite ! Elle affronte\nun moissoneur !",
-  "src": "pinky"
+  "fr": "Vite ! Elle affronte\nun moissonneur !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3070BT",
@@ -252,8 +255,9 @@
   "max": 16,
   "who": "La Hire",
   "en": "The Général\nneeds La Hire!",
-  "fr": "Le Général a\nbesoin de la Hire !",
-  "src": "pinky"
+  "fr": "Le Général a\nbesoin de La Hire !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3070BT",
@@ -284,8 +288,9 @@
   "max": 16,
   "who": "Richard",
   "en": "We've been\nhad...",
-  "fr": "Ils nous\nont eu...",
-  "src": "pinky"
+  "fr": "Ils nous\nont eus...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3070BT",
@@ -300,8 +305,9 @@
   "max": 16,
   "who": "Richard",
   "en": "A reaper, here?!",
-  "fr": "Un moissoneur, ici ?",
-  "src": "pinky"
+  "fr": "Un moissonneur,\nici ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3070BT",
@@ -340,8 +346,9 @@
   "max": 16,
   "who": "Colet",
   "en": "What eez zees\n\"reaper\" zing?",
-  "fr": "C'est quoi un\nmoissoneur ?",
-  "src": "pinky"
+  "fr": "C'est quoi un\nmoissonneur ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3070BT",
@@ -364,8 +371,9 @@
   "max": 16,
   "who": "Cuisses",
   "en": "So that's what\na reaper is...",
-  "fr": "Alors c'est ça,\nun moissoneur.",
-  "src": "pinky"
+  "fr": "Alors c'est ça,\nun moissonneur.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3070BT",
@@ -388,8 +396,9 @@
   "max": 16,
   "who": "Richard",
   "en": "We must stop\nthat reaper!",
-  "fr": "Il faut arrêter\nle moissoneur !",
-  "src": "pinky"
+  "fr": "Il faut arrêter\nle moissonneur !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3070BT",
@@ -404,8 +413,9 @@
   "max": 16,
   "who": "Rose",
   "en": "Is she\nstill safe?",
-  "fr": "Comment\nva-t'elle ?",
-  "src": "pinky"
+  "fr": "Comment\nva-t-elle ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3070BT",
@@ -524,8 +534,9 @@
   "max": 16,
   "who": "",
   "en": "How...by a pack\nof humans...",
-  "fr": "Comment... Par une\nbande d'humains..",
-  "src": "pinky"
+  "fr": "Comment... Par une\nbande d'humains...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3070BT",
@@ -724,8 +735,9 @@
   "max": 16,
   "who": "Bartolomeo",
   "en": "Sound alarum!\nJeanne is in peril! Make haste!",
-  "fr": "Sonnez le tocsin !\nJeanne est en péril\f! Faîtes vite !",
-  "src": "pinky"
+  "fr": "Sonnez le tocsin !\nJeanne est en péril\f! Faites vite !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3070BT",
@@ -972,8 +984,9 @@
   "max": 34,
   "who": "",
   "en": "You obtain the Gem of Retribution!",
-  "fr": "Vous recevez la gemme de\nRétribution !",
-  "src": "pinky"
+  "fr": "Vous recevez la Gemme de\nrétribution !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3070AB",
@@ -1020,8 +1033,9 @@
   "max": 34,
   "who": "Henry VI",
   "en": "You chased the reaper beastie\nout for me!",
-  "fr": "Vous avez terrassé ce\nmoissoneur démoniaque !",
-  "src": "pinky"
+  "fr": "Vous avez terrassé ce\nmoissonneur démoniaque !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3070AB",
@@ -1100,8 +1114,9 @@
   "max": 34,
   "who": "Duke of Burgundy",
   "en": "I cannot go on living without\nthe reaper's power...",
-  "fr": "Je ne peux pas survivre sans\nle pouvoir du moissoneur...",
-  "src": "pinky"
+  "fr": "Je ne peux pas survivre sans\nle pouvoir du moissonneur...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3070AB",
@@ -1180,8 +1195,9 @@
   "max": 34,
   "who": "Charles VII",
   "en": "Why have you not come to see\nme? Are my sins so many?",
-  "fr": "Pourquoi n'êtes-vous pas venu\nme voir ? \fMes pêchés sont-ils si\nnombreux ?",
-  "src": "pinky"
+  "fr": "Pourquoi n'êtes-vous pas venu\nme voir ? \fMes péchés sont-ils si\nnombreux ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3070AB",
@@ -1204,8 +1220,9 @@
   "max": 34,
   "who": "Georges",
   "en": "What? The Duke of Burgundy'th\nreaper hath awoken?",
-  "fr": "Quoi ? Le Duc de Bourgogne\nétait un moissoneur ?",
-  "src": "pinky"
+  "fr": "Quoi ? Le Duc de Bourgogne\nétait un moissonneur ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3071BM",
@@ -1452,8 +1469,9 @@
   "max": 34,
   "who": "Richemont",
   "en": "if Georges rips it up before\nthe king can see it.",
-  "fr": "si Georges le déchire avant\nque le roi n'ai pû le voir.",
-  "src": "pinky"
+  "fr": "si Georges le déchire avant\nque le roi n'ait pu le voir.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3071BM",
@@ -1540,8 +1558,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "What is this place?",
-  "fr": "Où sommes nous ?",
-  "src": "pinky"
+  "fr": "Où sommes-nous ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3080BM",
@@ -1572,8 +1591,9 @@
   "max": 34,
   "who": "Georges",
   "en": "I neffer imagined you were on\nour thide!\fYou'ff become quite famouth\nthince ethcaping the fathility\\u2014",
-  "fr": "Je n'aurai jamais imaginé que tu\nsois de notre côté !\fTu es devenu célèbre depuis ton\névasion...",
-  "src": "pinky"
+  "fr": "Je n'aurais jamais imaginé que tu\nsois de notre côté !\fTu es devenu célèbre depuis ton\névasion...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3080BM",
@@ -1612,8 +1632,9 @@
   "max": 34,
   "who": "Georges",
   "en": "Yipeth! No! No, I remember...\nI remember all too well.",
-  "fr": "Mon dieu ! Non ! Non, Je m'en\nsouviens...\fJe m'en souviens, de toutes.",
-  "src": "pinky"
+  "fr": "Mon dieu ! Non ! Non, je m'en\nsouviens...\fJe m'en souviens, de toutes.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3080BM",
@@ -1628,8 +1649,9 @@
   "max": 34,
   "who": "Georges",
   "en": "No one told me the reaper would\ndeffour my thoul!",
-  "fr": "Personne ne m'a dit que le\nmoissoneur\fme dévorerait mon âme !",
-  "src": "pinky"
+  "fr": "Personne ne m'a dit que le\nmoissonneur\fdévorerait mon âme !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3080BM",
@@ -1652,16 +1674,18 @@
   "max": 34,
   "who": "Roger",
   "en": "...So you heard about the Duke\nof Burgundy. Tough luck;\fit's only a matter of time before\nyour own reaper devours you.",
-  "fr": "... Alors tu as entendu parler du\nDuc de Bourgogne.\fPas de chance, ce n'est qu'une\nquestion de temps\favant que ton moissoneur ne\nte dévore.",
-  "src": "pinky"
+  "fr": "... Alors tu as entendu parler du\nDuc de Bourgogne.\fPas de chance, ce n'est qu'une\nquestion de temps\favant que ton moissonneur ne\nte dévore.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3080BM",
   "max": 34,
   "who": "Georges",
   "en": "Can't I thtop it thomehow?",
-  "fr": "Existe-t'il un moyen de l'en\nempêcher ?",
-  "src": "pinky"
+  "fr": "Existe-t-il un moyen de l'en\nempêcher ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3080BM",
@@ -1788,8 +1812,9 @@
   "max": 34,
   "who": "Roger",
   "en": "...Humph.\nYou and your righteous streak.",
-  "fr": "Pffff..\nToi et ton côté bonne soeur.",
-  "src": "pinky"
+  "fr": "Pffff...\nToi et ton côté bonne soeur.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3080BM",

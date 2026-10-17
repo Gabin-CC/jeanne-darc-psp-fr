@@ -108,8 +108,9 @@
   "max": 34,
   "who": "",
   "en": "The Gem of Portent fused with Roger's armlet!",
-  "fr": "La gemme d'augure fusionne avec le\nbracelet de Roger !",
-  "src": "pinky"
+  "fr": "La Gemme du présage fusionne avec le\nbracelet de Roger !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4080AB",
@@ -140,8 +141,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Wrong, Bedford! The reapers have\nplayed you false!",
-  "fr": "Faux, Bedford ! Les moissoneurs\nvous ont dupé !",
-  "src": "pinky"
+  "fr": "Faux, Bedford ! Les moissonneurs\nvous ont dupé !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4080AB",
@@ -156,8 +158,9 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "No reaper possesses the man\nbefore you...",
-  "fr": "Aucun moissoneur n'a possédé\nd'homme avant vous...",
-  "src": "pinky"
+  "fr": "Aucun moissonneur n'a possédé\nd'homme avant vous...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4080AB",
@@ -268,8 +271,9 @@
   "max": 34,
   "who": "Cuisses",
   "en": "*Sniff* *Sob...*",
-  "fr": "*sniff* *sanglotte*",
-  "src": "pinky"
+  "fr": "*sniff* *sanglote*",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4080AB",
@@ -324,8 +328,9 @@
   "max": 34,
   "who": "",
   "en": "The Gem of Portent fuses to \nRoger's armlet!",
-  "fr": "La gemme d'augure fusionne\navec le bracelet de Roger !",
-  "src": "pinky"
+  "fr": "La Gemme du présage fusionne\navec le bracelet de Roger !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4090BM",
@@ -476,8 +481,9 @@
   "max": 16,
   "who": "unité#144",
   "en": "Well...let's\nhave some fun.",
-  "fr": "Eh bien, amusons\nnous un peu !",
-  "src": "pinky"
+  "fr": "Eh bien, amusons-\nnous un peu !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4090BT",
@@ -596,8 +602,9 @@
   "max": 16,
   "who": "",
   "en": "You will kneel\nbefore me!",
-  "fr": "Tu plieras\navant moi !",
-  "src": "pinky"
+  "fr": "Tu plieras\ndevant moi !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4090BT",
@@ -780,8 +787,9 @@
   "max": 16,
   "who": "Jeanne",
   "en": "Hurry! Stop him before he can\nmake it back to Henry's body!",
-  "fr": "Vite ! Arrêtez-le\navant qu'il ne\fréintègre le corps\nd'Heny !",
-  "src": "pinky"
+  "fr": "Vite ! Arrêtez-le\navant qu'il ne\fréintègre le corps\nd'Henri !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4090BT",
@@ -1020,8 +1028,9 @@
   "max": 34,
   "who": "Roger",
   "en": "What's going on?",
-  "fr": "Que se passe t'il ?",
-  "src": "pinky"
+  "fr": "Que se passe-t-il ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4090AB",
@@ -1052,8 +1061,9 @@
   "max": 16,
   "who": "Rufus",
   "en": "R-rowsers...\nRet's get him!",
-  "fr": "Mes frères...\nSaississons-le !",
-  "src": "pinky"
+  "fr": "Mes frères...\nSaisissons-le !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4100BT",
@@ -1740,8 +1750,9 @@
   "max": 34,
   "who": "Gilles",
   "en": "And he may not break free today,\nor tomorrow...",
-  "fr": "Et il n'est pas prêt de se libérer\nni aujourd'hui ni demain...",
-  "src": "pinky"
+  "fr": "Et il n'est pas près de se libérer\nni aujourd'hui ni demain...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4100AB",
@@ -1796,8 +1807,9 @@
   "max": 34,
   "who": "Richard",
   "en": "the Fiend could be contained by a\nman with a strong enough heart.",
-  "fr": "le démon peut être emprisonné\ndans le coeur d'un humain\fsuffisament fort pour le\ncontenir.",
-  "src": "pinky"
+  "fr": "le démon peut être emprisonné\ndans le coeur d'un humain\fsuffisamment fort pour le\ncontenir.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4100AB",
@@ -1844,8 +1856,9 @@
   "max": 34,
   "who": "Roger",
   "en": "I already bested one of the\nreapers. I'm our best chance.",
-  "fr": "J'ai déjà vaincu un des\nmoissoneurs.\fJe suis notre meilleure option.",
-  "src": "pinky"
+  "fr": "J'ai déjà vaincu un des\nmoissonneurs.\fJe suis notre meilleure option.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4100AB",
@@ -1996,7 +2009,8 @@
   "max": 34,
   "who": "Gilles",
   "en": "And do it for Jeanne...",
-  "fr": "Et fais le pour Jeanne...",
-  "src": "pinky"
+  "fr": "Et fais-le pour Jeanne...",
+  "src": "pinky",
+  "relu": true
  }
 ]

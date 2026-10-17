@@ -116,8 +116,9 @@
   "max": 16,
   "who": "Jeanne",
   "en": "Maybe we\noverdid it...",
-  "fr": "On en a peut\nêtre trop fait...",
-  "src": "pinky"
+  "fr": "On en a peut-\nêtre trop fait...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST8904BT",
@@ -412,8 +413,9 @@
   "max": 34,
   "who": "",
   "en": "Obtained the Gem of Portent",
-  "fr": "Vous recevez la gemme\nd'augures.",
-  "src": "pinky"
+  "fr": "Vous recevez la Gemme du\nprésage.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST8904AB",
@@ -460,8 +462,9 @@
   "max": 34,
   "who": "",
   "en": "You obtain the Gem of Portent!",
-  "fr": "Vous recevez la gemme\nd'augures !",
-  "src": "pinky"
+  "fr": "Vous recevez la Gemme du\nprésage !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST8904AB",
@@ -708,8 +711,9 @@
   "max": 34,
   "who": "",
   "en": "You obtain the Gem of the Welkin!",
-  "fr": "Vous recevez la gemme céleste !",
-  "src": "pinky"
+  "fr": "Vous recevez la Gemme du firmament !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST8907BM",
@@ -732,16 +736,18 @@
   "max": 34,
   "who": "",
   "en": "Swap Liane for Cuisses?",
-  "fr": "Échanger Lianne avec Cuisses ?",
-  "src": "pinky"
+  "fr": "Échanger Liane avec Cuisses ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST8907BM",
   "max": 34,
   "who": "",
   "en": "Swap Cuisses for Liane?",
-  "fr": "Échanger Cuisses avec Lianne ?",
-  "src": "pinky"
+  "fr": "Échanger Cuisses avec Liane ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST8907BM",
@@ -812,8 +818,9 @@
   "max": 34,
   "who": "Liane",
   "en": "I want to fight at your side\nagain, with all my friends...",
-  "fr": "Je veux me battre à nouveau à\ntes coté, avec tous mes amis...",
-  "src": "pinky"
+  "fr": "Je veux me battre à nouveau à\ntes côtés, avec tous mes amis...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST8907BM",
@@ -852,8 +859,9 @@
   "max": 34,
   "who": "Liane",
   "en": "It's good to be back...at least\nfor a little while.",
-  "fr": "C'est bon d'être de retour. Au\nmoins pour quelques temps.",
-  "src": "pinky"
+  "fr": "C'est bon d'être de retour. Au\nmoins pour quelque temps.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST8907BM",
@@ -900,8 +908,9 @@
   "max": 34,
   "who": "Liane",
   "en": "Jeanne, I'll be here whenever\nyou need me.",
-  "fr": "Jeanne, je serai toujours là à tes\ncotés.",
-  "src": "pinky"
+  "fr": "Jeanne, je serai toujours là à tes\ncôtés.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST8907BM",

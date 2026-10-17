@@ -132,8 +132,9 @@
   "max": 16,
   "who": "Jeanne",
   "en": "What do you\nwant? Tell me!",
-  "fr": "Que voulez-vous ?\nDites-le moi !",
-  "src": "pinky"
+  "fr": "Que voulez-vous ?\nDites-le-moi !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1020BT",
@@ -436,8 +437,9 @@
   "max": 16,
   "who": "unité#150, unité#113, unité#166",
   "en": "There's still\nsome left!",
-  "fr": "Il en reste\nquelques uns !",
-  "src": "pinky"
+  "fr": "Il en reste\nquelques-uns !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1020BT",
@@ -620,8 +622,9 @@
   "max": 16,
   "who": "Bertrand",
   "en": "Eat this!",
-  "fr": "Prend ça !",
-  "src": "pinky"
+  "fr": "Prends ça !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1020BT",
@@ -884,8 +887,9 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Weak little maggots like them \nought to just shrivel up and die!",
-  "fr": "De faibles larves comme eux\nsont justes bons à mourir !",
-  "src": "pinky"
+  "fr": "De faibles larves comme eux\nsont juste bons à mourir !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1020AB",
@@ -1012,16 +1016,18 @@
   "max": 34,
   "who": "Roger",
   "en": "You obtain 2 Bucklers!",
-  "fr": "Vous obtenez deux boucliers !",
-  "src": "pinky"
+  "fr": "Vous obtenez deux bocles !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1020AB",
   "max": 34,
   "who": "Roger",
   "en": "You obtain 2 sets of\nLeather Clothing!",
-  "fr": "Vous obtenez 2 jeux de\nvêtements de cuir !",
-  "src": "pinky"
+  "fr": "Vous obtenez 2 jeux\nd'habits de cuir !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1020AB",
@@ -1132,8 +1138,9 @@
   "max": 34,
   "who": "Liane",
   "en": "I...I've got nothing else left. \nNone of us do.",
-  "fr": "Il... Il n'y a rien qui ne me\nretient ici.\fPour aucun de nous en fait.",
-  "src": "pinky"
+  "fr": "Il... Il n'y a rien qui me\nretienne ici.\fPour aucun de nous en fait.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1020AB",
@@ -1244,8 +1251,9 @@
   "max": 34,
   "who": "Captain Robert",
   "en": "You say a voice from heaven \ninspired you to defeat the \nEnglish?",
-  "fr": "Vous dites qu'une voix céleste\nvous a demandé\fde boutter les Anglais hors de\nFrance ?",
-  "src": "pinky"
+  "fr": "Vous dites qu'une voix céleste\nvous a demandé\fde bouter les Anglais hors de\nFrance ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1021BM",
@@ -1396,8 +1404,9 @@
   "max": 34,
   "who": "Captain Robert",
   "en": "...I'm sorry, but you and your \nvoice will have to wait.",
-  "fr": "... Je suis désolé, mais vous et\nvotre voix devront attendre.",
-  "src": "pinky"
+  "fr": "... Je suis désolé, mais vous et\nvotre voix devrez attendre.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1021BM",
@@ -1588,8 +1597,9 @@
   "max": 34,
   "who": "Jean",
   "en": "A thousand thanks are no match \nfor one smile from you, my sweet.",
-  "fr": "Mille mercis n'est rien comparé\nà un sourire de vous, ma douce.",
-  "src": "pinky"
+  "fr": "Mille mercis ne sont rien comparés\nà un sourire de vous, ma douce.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1030BM",

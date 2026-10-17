@@ -92,8 +92,9 @@
   "max": 16,
   "who": "Rose",
   "en": "Now what do\nwe have here?",
-  "fr": "Qu'avons\nnous là ?",
-  "src": "pinky"
+  "fr": "Qu'avons-nous\nlà ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2090BT",
@@ -436,8 +437,9 @@
   "max": 16,
   "who": "",
   "en": "What is it...\nPucelle?!",
-  "fr": "Qu'y a t'il...\nPucelle ?!",
-  "src": "pinky"
+  "fr": "Qu'y a-t-il...\nPucelle ?!",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2090BT",
@@ -740,8 +742,9 @@
   "max": 16,
   "who": "Roger",
   "en": "Ungh! Jeanne...I'm sorry...\nI couldn't protect Liane...",
-  "fr": "Ungh ! Jeanne... Je\nsuis désolé... Je\fn'ai pas pû protéger\nLiane...",
-  "src": "pinky"
+  "fr": "Ungh ! Jeanne... Je\nsuis désolé... Je\fn'ai pas pu protéger\nLiane...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2090BT",
@@ -876,8 +879,9 @@
   "max": 16,
   "who": "Mawra",
   "en": "How could I lose...\nTo a sham, no less! Ungh...",
-  "fr": "Comment ai-je pû\nperdre... C'est une\fplaisanterie !\nUngh...",
-  "src": "pinky"
+  "fr": "Comment ai-je pu\nperdre... C'est une\fplaisanterie !\nUngh...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2090AB",
@@ -1004,8 +1008,9 @@
   "max": 34,
   "who": "Liane",
   "en": "You were crying out in your\nsleep again.",
-  "fr": "Tu était encore en train de crier\nen dormant.",
-  "src": "pinky"
+  "fr": "Tu étais encore en train de crier\nen dormant.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2090AB",
@@ -1060,8 +1065,9 @@
   "max": 34,
   "who": "Roger",
   "en": "I still think of Jeanne.",
-  "fr": "Je pense touours à Jeanne.",
-  "src": "pinky"
+  "fr": "Je pense toujours à Jeanne.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2090AB",
@@ -1124,8 +1130,9 @@
   "max": 34,
   "who": "Gilles",
   "en": "Just make sure you look after\nLiane.",
-  "fr": "Assurez vous juste que c'est bien\nLiane que vous voulez.",
-  "src": "pinky"
+  "fr": "Assurez-vous juste que c'est bien\nLiane que vous voulez.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2100BM",
@@ -1292,8 +1299,9 @@
   "max": 16,
   "who": "Richard",
   "en": "We must guard\nthe dauphin!",
-  "fr": "Nous devons\nprotéger le daupin !",
-  "src": "pinky"
+  "fr": "Nous devons protéger\nle dauphin !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2100BT",
@@ -1716,16 +1724,18 @@
   "max": 34,
   "who": "Mawra",
   "en": "Hold it!\nOver my dead body!",
-  "fr": "Attendez !\nPar dessus mon cadavre !",
-  "src": "pinky"
+  "fr": "Attendez !\nPar-dessus mon cadavre !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2100AB",
   "max": 34,
   "who": "Blaze",
   "en": "Let it go, Mawra.",
-  "fr": "Laisse-tomber, Mawra.",
-  "src": "pinky"
+  "fr": "Laisse tomber, Mawra.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2100AB",
@@ -1868,8 +1878,9 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Oh, whatever. Might as well have\nasked what my carpet's named.",
-  "fr": "Pfft. Je pourrai tout aussi bien\nposer la même question\fà mon tapis, j'aurais une\nmeilleure réponse.",
-  "src": "pinky"
+  "fr": "Pfft. Je pourrais tout aussi bien\nposer la même question\fà mon tapis, j'aurais une\nmeilleure réponse.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2100AB",
@@ -1924,8 +1935,9 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Now run this to Chinon. And\ndon't you go getting shot down!",
-  "fr": "Mets toi en route pour Chinon.\nEt ne vas pas te faire abattre !",
-  "src": "pinky"
+  "fr": "Mets-toi en route pour Chinon.\nEt ne vas pas te faire abattre !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2100AB",
@@ -1972,8 +1984,9 @@
   "max": 34,
   "who": "Liane",
   "en": "We finally crowned the dauphin.\nYou and me...together!",
-  "fr": "Nous avons finallement\ncouronné le dauphin. \fToi et moi... ensemble !",
-  "src": "pinky"
+  "fr": "Nous avons finalement\ncouronné le dauphin. \fToi et moi... ensemble !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2100AB",

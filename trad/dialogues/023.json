@@ -532,8 +532,9 @@
   "max": 34,
   "who": "Robert",
   "en": "Ladies...gentlemen...and\nEnglishmen! WELCOME!!!",
-  "fr": "Mesdames.. Messieurs... et les\nanglais ! BIENVENUE !!",
-  "src": "pinky"
+  "fr": "Mesdames.. Messieurs... et les\nAnglais ! BIENVENUE !!",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST8811BM",
@@ -732,8 +733,9 @@
   "max": 34,
   "who": "Robert",
   "en": "Or will you retire now, with\nyour spirits still unbroken?",
-  "fr": "Ou souaitez-vous abandonner\nmaintenant\fet conserver votre âme pure ?",
-  "src": "pinky"
+  "fr": "Ou souhaitez-vous abandonner\nmaintenant\fet conserver votre âme pure ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST8814BM",
@@ -756,8 +758,9 @@
   "max": 34,
   "who": "Robert",
   "en": "Or will you retire now, with\nyour pants still unsoiled?",
-  "fr": "Ou voulez vous abandonner et\ngarder votre culotte propre ?",
-  "src": "pinky"
+  "fr": "Ou voulez-vous abandonner et\ngarder votre culotte propre ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST8815BM",
@@ -812,8 +815,9 @@
   "max": 34,
   "who": "Robert",
   "en": "Or will you retire now, with\nyour noses still in one piece?",
-  "fr": "Ou voulez-vous abandonnez et\ngarder votre nez à sa place ?",
-  "src": "pinky"
+  "fr": "Ou voulez-vous abandonner et\ngarder votre nez à sa place ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST8817BM",
@@ -972,8 +976,9 @@
   "max": 34,
   "who": "Robert",
   "en": "This is Bobby de Baudricourt,\nreminding you to spay your pets.",
-  "fr": "C'était Bobby de Baudricourt,\fet n'oubliez pas de stériliser vos\naminaux de compagnie !",
-  "src": "pinky"
+  "fr": "C'était Bobby de Baudricourt,\fet n'oubliez pas de stériliser vos\nanimaux de compagnie !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST8820AB",
@@ -1172,16 +1177,18 @@
   "max": 16,
   "who": "",
   "en": "I hope you're\nready to die!",
-  "fr": "Tu est prêt\nà mourir ?",
-  "src": "pinky"
+  "fr": "Tu es prêt\nà mourir ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST8827BT",
   "max": 16,
   "who": "",
   "en": "When did this\nhappen?!",
-  "fr": "Quand ça c'est\nproduit ?!",
-  "src": "pinky"
+  "fr": "Quand ça s'est\nproduit ?!",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST8827BT",
@@ -1564,8 +1571,9 @@
   "max": 16,
   "who": "Luther",
   "en": "Jeanne, you have grown stronger\nthan I ever imagined.",
-  "fr": "Jeanne, tu es\ndevenue plus forte\fque je ne l'aurai\njamais imaginé.",
-  "src": "pinky"
+  "fr": "Jeanne, tu es\ndevenue plus forte\fque je ne l'aurais\njamais imaginé.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST8830BT",
@@ -1604,8 +1612,9 @@
   "max": 34,
   "who": "Dominic",
   "en": "this absolutely heartbreaking\n<COL=3>Charred Pendant<COL=0>,",
-  "fr": "ce superbe <COL=3>pendentif\ncarbonisé<COL=0>",
-  "src": "pinky"
+  "fr": "ce superbe <COL=3>pendentif\ncalciné<COL=0>",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST8830AB",
@@ -1652,8 +1661,9 @@
   "max": 34,
   "who": "Robert",
   "en": "Ladies...gentlemen...and\nEnglishmen!",
-  "fr": "Mesdames... Messieurs... et\nanglais !",
-  "src": "pinky"
+  "fr": "Mesdames... Messieurs... et\nAnglais !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST8831BM",
@@ -1740,16 +1750,18 @@
   "max": 34,
   "who": "Dwarf",
   "en": "dey flew da coop!",
-  "fr": "Il ont pris leur envol !",
-  "src": "pinky"
+  "fr": "Ils ont pris leur envol !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST8904BM",
   "max": 34,
   "who": "Jeanne",
   "en": "You call THAT...",
-  "fr": "Tu appelle ÇA...",
-  "src": "pinky"
+  "fr": "Tu appelles ÇA...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST8904BM",
@@ -1820,8 +1832,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "...Are you trying to tell me\nsomething?",
-  "fr": "... Essayezvous de me dire\nquelque chose ?",
-  "src": "pinky"
+  "fr": "... Essayez-vous de me dire\nquelque chose ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST8904BT",

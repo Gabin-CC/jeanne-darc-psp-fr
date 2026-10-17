@@ -60,16 +60,18 @@
   "max": 34,
   "who": "Jeanne",
   "en": "You saved my life at Henry's\ncoronation, too.",
-  "fr": "Tu m'a aussi sauvé la vie au\ncouronnement d'Henry.",
-  "src": "pinky"
+  "fr": "Tu m'as aussi sauvé la vie au\ncouronnement d'Henri.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4041BM",
   "max": 34,
   "who": "Jeanne",
   "en": "Roger...\nAre you really a reaper?",
-  "fr": "Roger... Es-tu vraiment un\nmoissoneur ?",
-  "src": "pinky"
+  "fr": "Roger... Es-tu vraiment un\nmoissonneur ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4041BM",
@@ -372,8 +374,9 @@
   "max": 34,
   "who": "Village Dwarf",
   "en": "Woh, my! Dey made short work of\nda twaps, didn't dey?",
-  "fr": "Whaa ! Ils ont esquivé les piège\nen un rien de temps !",
-  "src": "pinky"
+  "fr": "Whaa ! Ils ont esquivé les pièges\nen un rien de temps !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4041AB",
@@ -388,8 +391,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I'm sorry.\nThe man from before stole it.",
-  "fr": "Navé. C'est l'homme qui est venu\nprécédemment qui l'a volée.",
-  "src": "pinky"
+  "fr": "Navré. C'est l'homme qui est venu\nprécédemment qui l'a volée.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4041AB",
@@ -428,8 +432,9 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Ye have to wecover da gem!\nQuickwy, while dere's still time!\fIf his weaper comes back to wife,\nwie's all doomed! ",
-  "fr": "Il faut qu''on récupère la gemme !\nVite, tant qu'il est encore temps !\fSi le moissoneur revient à la\nvie, il n'y aura plus aucun espoir.",
-  "src": "pinky"
+  "fr": "Il faut qu'on récupère la gemme !\nVite, tant qu'il est encore temps !\fSi le moissonneur revient à la\nvie, il n'y aura plus aucun espoir.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4041AB",
@@ -452,16 +457,18 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Aye, dat's what dey told him he\nwas. Twuth be told, though,\fde Engwish onwy wanted him for\ndeir vile expewiments.",
-  "fr": "Oui, c'est ce qu'ils ont dit qu'il\nétait. Pour être franc, les anglais\fne s'intéressaient à lui que pour\nleurs expériences.",
-  "src": "pinky"
+  "fr": "Oui, c'est ce qu'ils ont dit qu'il\nétait. Pour être franc, les Anglais\fne s'intéressaient à lui que pour\nleurs expériences.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4041AB",
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Dey killed thousands o' soldiers\ntwyin' to bwing back da weapers. ",
-  "fr": "Ils ont décimé des milliers de\nsoldats en essayant de ramener\fle moissoneur.",
-  "src": "pinky"
+  "fr": "Ils ont décimé des milliers de\nsoldats en essayant de ramener\fle moissonneur.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4041AB",
@@ -476,32 +483,36 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Why would the English do that?",
-  "fr": "Pourquoi les anglais feraient\nune telle chose ?",
-  "src": "pinky"
+  "fr": "Pourquoi les Anglais feraient\nune telle chose ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4041AB",
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Da wesearchers demselves were\npossessed by weapers, dat's why.",
-  "fr": "Les chercheurs eux-même\nétaient possédés par\fles moissoneurs, c'est pour ça.",
-  "src": "pinky"
+  "fr": "Les chercheurs eux-mêmes\nétaient possédés par\fles moissonneurs, c'est pour ça.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4041AB",
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Most o' da soldiers dey pwayed\nGod with wejected the weapers,\fand 'fore wong, Soldat was full\nto da bwim with human\nvegetables.",
-  "fr": "La plupart des soldats sur\nlesquels ils ont fait leurs\fexpérimentations ont rejeté le\nmoissoneur.\fLe Soldat s'est retrouvé plein\nd'unités à l'état de légumes.",
-  "src": "pinky"
+  "fr": "La plupart des soldats sur\nlesquels ils ont fait leurs\fexpérimentations ont rejeté le\nmoissonneur.\fLe Soldat s'est retrouvé plein\nd'unités à l'état de légumes.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4041AB",
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "But den, finawwy, a weaper's\nsoul took to one o' da soldiers.",
-  "fr": "Mais enfin, l'âme d'un\nmoissoneur s'est greffée\fdans le corps d'un soldat.",
-  "src": "pinky"
+  "fr": "Mais enfin, l'âme d'un\nmoissonneur s'est greffée\fdans le corps d'un soldat.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4041AB",
@@ -516,8 +527,9 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Da subject fwed da facility with\nda weaper still inside him.",
-  "fr": "Le cobaye s'est enfui du\nlaboratoire avec le moissoneur\fdans son propre corps.",
-  "src": "pinky"
+  "fr": "Le cobaye s'est enfui du\nlaboratoire avec le moissonneur\fdans son propre corps.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4041AB",
@@ -532,8 +544,9 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Wight now his good heart is\nkeepin' da weaper at bay, but...",
-  "fr": "Le bien qu'il a dans son coeur\ncontient le moissoneur mais...",
-  "src": "pinky"
+  "fr": "Le bien qu'il a dans son coeur\ncontient le moissonneur mais...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4041AB",
@@ -556,8 +569,9 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Ye've wery widdle time weft.\nIf ye want to save him,\fye'll have to chase him down and\nstop da weaper fwom wevivin'.",
-  "fr": "Il ne vous reste que très peu de\ntemps. Si vous voulez le sauver,\fvous allez devoir le retrouver et\narrêter le moissoneur\fqui le parasite.",
-  "src": "pinky"
+  "fr": "Il ne vous reste que très peu de\ntemps. Si vous voulez le sauver,\fvous allez devoir le retrouver et\narrêter le moissonneur\fqui le parasite.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4050BM",
@@ -700,8 +714,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Hey, hold on! A reaper like you\ncan't die!",
-  "fr": "Hé, une minute ! Les\nmoissoneurs sont immortels !",
-  "src": "pinky"
+  "fr": "Hé, une minute ! Les\nmoissonneurs sont immortels !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4050BM",
@@ -804,8 +819,9 @@
   "max": 16,
   "who": "",
   "en": "Is this how it\nwill end...?",
-  "fr": "Tout fini\nainsi... ?",
-  "src": "pinky"
+  "fr": "Tout finit\nainsi... ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4050BT",
@@ -1108,8 +1124,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Why did you sell our world away\nto the reapers?!",
-  "fr": "Pourquoi avoir vendu notre\nmonde aux moissoneurs ?",
-  "src": "pinky"
+  "fr": "Pourquoi avoir vendu notre\nmonde aux moissonneurs ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4050AB",
@@ -1228,8 +1245,9 @@
   "max": 34,
   "who": "",
   "en": "You obtain the Gem of Guidance!",
-  "fr": "Vous recevez la gemme de\nl'orientation !",
-  "src": "pinky"
+  "fr": "Vous recevez la Gemme de la\nVoie !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4050AB",
@@ -1300,8 +1318,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Then we'll invade the facility\nand get rid of our problem.",
-  "fr": "Nous pourrons alors attaquer le\nlaboratoire et nous débarasser\fde nos problèmes.",
-  "src": "pinky"
+  "fr": "Nous pourrons alors attaquer le\nlaboratoire et nous débarrasser\fde nos problèmes.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4050AB",
@@ -1412,8 +1431,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "What's...going on...",
-  "fr": "Que... se passe t'il...",
-  "src": "pinky"
+  "fr": "Que... se passe-t-il...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4060BM",
@@ -1588,8 +1608,9 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "As if I could be felled by a half-\nboiled reaper...",
-  "fr": "Comme si je pouvais être\nvaincu par un résidu de\fdemi-moissoneur...",
-  "src": "pinky"
+  "fr": "Comme si je pouvais être\nvaincu par un résidu de\fdemi-moissonneur...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4060AB",
@@ -1668,8 +1689,9 @@
   "max": 34,
   "who": "Richard",
   "en": "Blast! Has the reaper finally\nwon out?",
-  "fr": "Diantre ! Le moissoneur a\nfinalement pris le dessus ?",
-  "src": "pinky"
+  "fr": "Diantre ! Le moissonneur a\nfinalement pris le dessus ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4060AB",
@@ -1700,8 +1722,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "What...what on earth?",
-  "fr": "Mais... Mais que se passe t'il ?",
-  "src": "pinky"
+  "fr": "Mais... Mais que se passe-t-il ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4070BM",
@@ -1780,8 +1803,9 @@
   "max": 34,
   "who": "Jacques",
   "en": "Hmm? Now where on earth did\nJeanne run off to?",
-  "fr": "Hein ? Mais où Jeanne a-t'elle\nbien pu passer ?",
-  "src": "pinky"
+  "fr": "Hein ? Mais où Jeanne a-t-elle\nbien pu passer ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4070BM",
@@ -1796,8 +1820,9 @@
   "max": 34,
   "who": "Liane",
   "en": "Can you believe Roger? The\nsheep outsmarted him AGAIN!",
-  "fr": "Mais tu y crois ?\fRoger c'est ENCORE fait avoir\npar un mouton !",
-  "src": "pinky"
+  "fr": "Mais tu y crois ?\fRoger s'est ENCORE fait avoir\npar un mouton !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4070BM",
@@ -1940,16 +1965,18 @@
   "max": 16,
   "who": "Richard",
   "en": "The foul air\nhere oppresses.",
-  "fr": "L'atmosphère\nest opressant.",
-  "src": "pinky"
+  "fr": "L'atmosphère\nest oppressante.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4070BT",
   "max": 16,
   "who": "Jeanne",
   "en": "What...what\nis going on?",
-  "fr": "Que... Que se\npasse t'il ?",
-  "src": "pinky"
+  "fr": "Que... Que se\npasse-t-il ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4070BT",

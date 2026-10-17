@@ -115,7 +115,7 @@
 | Bare Hands | Mains nues |
 | Panther Claws | Griffes de panthère |
 | Golem Arms | Bras de golem |
-| The Fiend's Grip | Poigne du Malin |
+| The Fiend's Grip | Poigne du Démon |
 | Light Clothing | Habits légers |
 | Leather Clothing | Habits de cuir |
 | Leather Armor | Armure de cuir |
@@ -163,14 +163,14 @@
 | Jinni Shield | Bouclier du djinn |
 | Sylph Shield | Bouclier sylphide |
 | Holy Shield | Bouclier sacré |
-| Therion Shield | Bouclier thérion |
+| Therion Shield | Bouclier therion |
 | Snakeskin Lash | Fouet de serpent |
 | Metal Whip | Fouet de métal |
 | Blade Whip | Fouet à lames |
 | Torturer's Lash | Fouet du bourreau |
 | Hammer Whip | Fouet-marteau |
 | Rose Whip | Fouet de rose |
-| Healing Herb | Herbe médicinale |
+| Healing Herb | Herbe de soin |
 | Healing Seed | Graine médicinale |
 | Healing Fruit | Fruit médicinal |
 | Healing Extract | Extrait médicinal |

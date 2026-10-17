@@ -44,8 +44,9 @@
   "max": 34,
   "who": "Georges",
   "en": "Bathtard dauphin! He should haff\njutht done ath he wath told...",
-  "fr": "Bâtard de dauphin ! Il aurait\njuste du faire\fce qu'on lui avait demandé...",
-  "src": "pinky"
+  "fr": "Bâtard de dauphin ! Il aurait\njuste dû faire\fce qu'on lui avait demandé...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1061BM",
@@ -268,8 +269,9 @@
   "max": 34,
   "who": "Young Noble",
   "en": "Just breaking the English siege\nand entering the city\\u2014",
-  "fr": "Juste briser le siège anglais et\net entrer dans la ville",
-  "src": "pinky"
+  "fr": "Juste briser le siège anglais et\nentrer dans la ville",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1061BM",
@@ -508,16 +510,18 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Oh, so you've come to help.",
-  "fr": "Oh, donc vous êtes venu prêter\nmain forte.",
-  "src": "pinky"
+  "fr": "Oh, donc vous êtes venu prêter\nmain-forte.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1070BM",
   "max": 34,
   "who": "La Hire",
   "en": "Of courrrse! See how La Hire\naches for battle?",
-  "fr": "Bien sur !\fRegardez comment La Hire\nmeurt d'envie d'en découdre !",
-  "src": "pinky"
+  "fr": "Bien sûr !\fRegardez comment La Hire\nmeurt d'envie d'en découdre !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1070BM",
@@ -844,8 +848,9 @@
   "max": 16,
   "who": "Rufus",
   "en": "M-m-mayday...",
-  "fr": "A l'aide...",
-  "src": "pinky"
+  "fr": "À l'aide...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1070BT",
@@ -1188,8 +1193,9 @@
   "max": 16,
   "who": "La Hire",
   "en": "Lie down while\nLa Hire fights!",
-  "fr": "Couchez-vous,\nla Hire est là !",
-  "src": "pinky"
+  "fr": "Couchez-vous,\nLa Hire est là !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1070BT",
@@ -1228,8 +1234,9 @@
   "max": 16,
   "who": "La Hire",
   "en": "Many thanks...",
-  "fr": "Mille merci...",
-  "src": "pinky"
+  "fr": "Mille mercis...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1070BT",
@@ -1292,16 +1299,18 @@
   "max": 16,
   "who": "La Hire",
   "en": "You will whet\nLa Hire's axe!",
-  "fr": "Vous goûterez à la\nhâche de La Hire !",
-  "src": "pinky"
+  "fr": "Vous goûterez à la\nhache de La Hire !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1070BT",
   "max": 16,
   "who": "La Hire",
   "en": "Take this!",
-  "fr": "Prend ça !",
-  "src": "pinky"
+  "fr": "Prends ça !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1070BT",
@@ -1468,8 +1477,9 @@
   "max": 16,
   "who": "",
   "en": "Curse you...!",
-  "fr": "Maudis-sois tu !",
-  "src": "pinky"
+  "fr": "Maudit sois-tu !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1070BT",
@@ -1844,8 +1854,9 @@
   "max": 16,
   "who": "Gilles",
   "en": "Besides, the long siege has taken\nits toll on the English army's\ndiscipline and morale.",
-  "fr": "De plus, ce long\nsiège a entamé le\nmoral et la\fdiscipline\fde l'armée Anglaise.",
-  "src": "pinky"
+  "fr": "De plus, ce long\nsiège a entamé le\nmoral et la\fdiscipline\fde l'armée anglaise.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1070BT",
@@ -1876,8 +1887,9 @@
   "max": 16,
   "who": "Roger",
   "en": "One word could have shut those\nnobles up once and for all!",
-  "fr": "Un mot aurait suffit\nà faire taire ces\fnobles une bonne\nfois !",
-  "src": "pinky"
+  "fr": "Un mot aurait suffi\nà faire taire ces\fnobles une bonne\nfois !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1070BT",
@@ -1932,8 +1944,9 @@
   "max": 16,
   "who": "La Hire",
   "en": "La Hire has discoverrred the\nentrance! This way!",
-  "fr": "La Hire à découvert\nl'entrée ! Par ici !",
-  "src": "pinky"
+  "fr": "La Hire a découvert\nl'entrée ! Par ici !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1070BT",

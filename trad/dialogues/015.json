@@ -380,40 +380,45 @@
   "max": 34,
   "who": "Richard",
   "en": "...A reaper.",
-  "fr": "... Un moissoneur.",
-  "src": "pinky"
+  "fr": "... Un moissonneur.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3051BM",
   "max": 34,
   "who": "Richard",
   "en": "That thing...\nIt might be...a reaper...",
-  "fr": "Cette chose...\nCe doit être... un moissoneur...",
-  "src": "pinky"
+  "fr": "Cette chose...\nCe doit être... un moissonneur...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3051BM",
   "max": 34,
   "who": "Jeanne",
   "en": "What's a \"reaper\"?!",
-  "fr": "C'est quoi un \"moissoneur\" ?!",
-  "src": "pinky"
+  "fr": "C'est quoi un \"moissonneur\" ?!",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3051BM",
   "max": 34,
   "who": "Jeanne",
   "en": "Tell me! I want to know!",
-  "fr": "Dis-le moi ! Je veux savoir !",
-  "src": "pinky"
+  "fr": "Dis-le-moi ! Je veux savoir !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3051BM",
   "max": 34,
   "who": "Gilles",
   "en": "A reaper? That's absurd...\nNo, impossible!",
-  "fr": "Un moissoneur ? C'est absurde...\nNon, impossible !",
-  "src": "pinky"
+  "fr": "Un moissonneur ? C'est absurde...\nNon, impossible !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3051BM",
@@ -500,8 +505,9 @@
   "max": 34,
   "who": "La Hire",
   "en": "Géneral, forgive La Hire.",
-  "fr": "Géneral, pardonnez à La Hire.",
-  "src": "pinky"
+  "fr": "Général, pardonnez à La Hire.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3051BM",
@@ -524,8 +530,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "About myself.",
-  "fr": "Que dans mon propre intêret.",
-  "src": "pinky"
+  "fr": "Que dans mon propre intérêt.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3051BM",
@@ -644,8 +651,9 @@
   "max": 34,
   "who": "Henry VI",
   "en": "What what what? He's woken the\nreaper? Oh, do tell!",
-  "fr": "Quoi quoi quoi ? Il a réveillé\nle moissoneur ? Oh, raconte !",
-  "src": "pinky"
+  "fr": "Quoi quoi quoi ? Il a réveillé\nle moissonneur ? Oh, raconte !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3051BM",
@@ -772,16 +780,18 @@
   "max": 34,
   "who": "Cuisses",
   "en": "Take this \"Fiend\" character\nthat Luther defeated during\nthe War of the Reapers.",
-  "fr": "Prenez ce personnage\n\"Démoniaque\" \fque Luther a battu pendant\nla Guerre des moissoneurs.",
-  "src": "pinky"
+  "fr": "Prenez ce personnage\n\"Démoniaque\" \fque Luther a battu pendant\nla Guerre des moissonneurs.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3051BM",
   "max": 34,
   "who": "Cuisses",
   "en": "Well, supposedly he's found his\nway back into our world.",
-  "fr": "Eh bien, soit disant qu'il aurait\ntrouvé le moyen de revenir\fdans notre monde.",
-  "src": "pinky"
+  "fr": "Eh bien, soi-disant qu'il aurait\ntrouvé le moyen de revenir\fdans notre monde.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3051BM",
@@ -828,8 +838,9 @@
   "max": 34,
   "who": "Cuisses",
   "en": "his reaper servants are\nawakening, one by one.",
-  "fr": "Ses serviteurs les moissoneurs\nse réveillent,\fles uns après les autres.",
-  "src": "pinky"
+  "fr": "Ses serviteurs les moissonneurs\nse réveillent,\fles uns après les autres.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3051BM",
@@ -844,16 +855,18 @@
   "max": 34,
   "who": "Cuisses",
   "en": "Yes. One of the reapers was\nsleeping inside him all the while.",
-  "fr": "Oui. Un des moissoneurs était\nendormi en lui \fpendant tout ce temps.",
-  "src": "pinky"
+  "fr": "Oui. Un des moissonneurs était\nendormi en lui \fpendant tout ce temps.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3051BM",
   "max": 34,
   "who": "Cuisses",
   "en": "The others sleep inside France's\nnobility and other powerful folk.",
-  "fr": "Les autres sommeillent dans des\nnobles Français \fet d'autres personnalités\ninfluentes.",
-  "src": "pinky"
+  "fr": "Les autres sommeillent dans des\nnobles français \fet d'autres personnalités\ninfluentes.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3051BM",
@@ -884,8 +897,9 @@
   "max": 34,
   "who": "Cuisses",
   "en": "Only the armlets' holy power can\ndefeat the reapers\\u2014",
-  "fr": "Seul le saint pouvoir des\nbracelets\fpeut détruire les moissoneurs...",
-  "src": "pinky"
+  "fr": "Seul le saint pouvoir des\nbracelets\fpeut détruire les moissonneurs...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3051BM",
@@ -916,8 +930,9 @@
   "max": 34,
   "who": "Cuisses",
   "en": "Luther's armlet, which Jeanne\nwields;",
-  "fr": "Le bracelet de Luthert, celui que\nJeanne porte,",
-  "src": "pinky"
+  "fr": "Le bracelet de Luther, celui que\nJeanne porte,",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3051BM",
@@ -964,8 +979,9 @@
   "max": 34,
   "who": "Gilles",
   "en": "You should reconsider.\nThe reaper has been unleashed.",
-  "fr": "Tu devrais y réfléchir.\nLe moissoneur a été libéré.",
-  "src": "pinky"
+  "fr": "Tu devrais y réfléchir.\nLe moissonneur a été libéré.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3051BM",
@@ -980,8 +996,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "But...what else am I supposed to\ndo?!",
-  "fr": "Mais.. Qu'est-ce que je pourrais\nfaire d'autre alors ?",
-  "src": "pinky"
+  "fr": "Mais... Qu'est-ce que je pourrais\nfaire d'autre alors ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3051BM",
@@ -1092,16 +1109,18 @@
   "max": 34,
   "who": "Richemont",
   "en": "with the ultimate goal of ferreting\nthe reapers out of hiding.",
-  "fr": "dont le seul objectif est de\ntraquer les moissoneurs\foù qu'ils soient.",
-  "src": "pinky"
+  "fr": "dont le seul objectif est de\ntraquer les moissonneurs\foù qu'ils soient.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3052BM",
   "max": 34,
   "who": "Richemont",
   "en": "If the king thought relegating me\nto the middle of nowhere would",
-  "fr": "Si le Roi a cru qu'en m'envoyant\nau milieu de nulle part allait",
-  "src": "pinky"
+  "fr": "Si le Roi a cru que m'envoyer\nau milieu de nulle part allait",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3052BM",
@@ -1156,8 +1175,9 @@
   "max": 34,
   "who": "Richemont",
   "en": "Civil war in France needs to end\nif we are to oust the English.",
-  "fr": "Le guerre civile en France doit\ncesser\fsi nous voulons bouter les\nAnglais.",
-  "src": "pinky"
+  "fr": "La guerre civile en France doit\ncesser\fsi nous voulons bouter les\nAnglais.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3052BM",
@@ -1180,8 +1200,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "...As you wish, sir.",
-  "fr": "... A vos ordres, ser.",
-  "src": "pinky"
+  "fr": "... À vos ordres, ser.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3052BM",
@@ -1236,8 +1257,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "All right, then...",
-  "fr": "Très bient, dans ce cas...",
-  "src": "pinky"
+  "fr": "Très bien, dans ce cas...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3052BM",
@@ -1364,8 +1386,9 @@
   "max": 34,
   "who": "Man's Voice",
   "en": "What's your rush?",
-  "fr": "Pourqui es-tu si préssée ?",
-  "src": "pinky"
+  "fr": "Pourquoi es-tu si pressée ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3060BM",
@@ -1612,8 +1635,9 @@
   "max": 16,
   "who": "",
   "en": "How could this\nbe...?",
-  "fr": "Comment ça\na pû... ?",
-  "src": "pinky"
+  "fr": "Comment ça\na pu... ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3060BT",
@@ -1636,8 +1660,9 @@
   "max": 16,
   "who": "",
   "en": "How could this\nhappen to me...?",
-  "fr": "Comment ça a pû\nm'arriver... ?",
-  "src": "pinky"
+  "fr": "Comment ça a pu\nm'arriver... ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3060BT",
@@ -1868,8 +1893,9 @@
   "max": 16,
   "who": "Bertrand",
   "en": "Roger! Fight back! I ain't losin'\nmy buddy to some reaper creep!",
-  "fr": "Roger !\nRessaisis-toi ! Mon\fpote ne s'est pas\ntransformé\fen un foutu\nmoissoneur !",
-  "src": "pinky"
+  "fr": "Roger !\nRessaisis-toi ! Mon\fpote ne s'est pas\ntransformé\fen un foutu\nmoissonneur !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3060BT",
@@ -1916,8 +1942,9 @@
   "max": 16,
   "who": "Colet",
   "en": "Roger has completely lost heez\nmarbles! Ay...",
-  "fr": "Roger a complètement\nperdu la tête !\fAie...",
-  "src": "pinky"
+  "fr": "Roger a complètement\nperdu la tête !\fAïe...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3060BT",

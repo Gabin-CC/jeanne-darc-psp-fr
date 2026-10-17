@@ -108,8 +108,9 @@
   "max": 16,
   "who": "Jeanne",
   "en": "Look what\nI've caught.",
-  "fr": "Regardez ce que\nj'ai attrappé.",
-  "src": "pinky"
+  "fr": "Regardez ce que\nj'ai attrapé.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1030BT",
@@ -284,8 +285,9 @@
   "max": 16,
   "who": "Liane",
   "en": "Make me\nstronger!",
-  "fr": "Rends moi\nplus forte !",
-  "src": "pinky"
+  "fr": "Rends-moi\nplus forte !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1030BT",
@@ -516,8 +518,9 @@
   "max": 16,
   "who": "Jean",
   "en": "Save your\nstrength!",
-  "fr": "Economisez vos\nforces !",
-  "src": "pinky"
+  "fr": "Économisez vos\nforces !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1030BT",
@@ -1124,8 +1127,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I told myself I'd never fail my \ncountrymen again...",
-  "fr": "Je m'étais dit que je ne laisserai\nplus jamais tomber\fmes concitoyens...",
-  "src": "pinky"
+  "fr": "Je m'étais dit que je ne laisserais\nplus jamais tomber\fmes concitoyens...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1030AB",
@@ -1380,8 +1384,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Don't talk like that. Think of \nwhat the English did.",
-  "fr": "Ne parles pas comme ça.\fPense à ce que les Anglais ont\nfaits.",
-  "src": "pinky"
+  "fr": "Ne parle pas comme ça.\fPense à ce que les Anglais ont\nfait.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1040BM",

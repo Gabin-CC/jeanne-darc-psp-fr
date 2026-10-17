@@ -292,16 +292,18 @@
   "max": 34,
   "who": "Lady Bandit",
   "en": "Oh, never you mind, love.",
-  "fr": "Oh, oublie-ça, chérie.",
-  "src": "pinky"
+  "fr": "Oh, oublie ça, chérie.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3020AB",
   "max": 34,
   "who": "Lady Bandit",
   "en": "There are plenty of fish in the\nsea;\fyou can afford to let the fresh\nones go\\u2014if you get my meaning.",
-  "fr": "Un de perdu et dix de retrouvés !\fTu peux en laisser filer\nquelques uns...\fSi tu vois ce que je veux dire.",
-  "src": "pinky"
+  "fr": "Un de perdu et dix de retrouvés !\fTu peux en laisser filer\nquelques-uns...\fSi tu vois ce que je veux dire.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3020AB",
@@ -532,8 +534,9 @@
   "max": 34,
   "who": "Brigand Archer",
   "en": "So go an' get it!\fAnd be quick about it. The decor\n'ere gives me the willies.",
-  "fr": "Alors alors le chercher !\fEt vite fait. L'architecture d'ici\nme fiche la frousse.",
-  "src": "pinky"
+  "fr": "Alors allez le chercher !\fEt vite fait. L'architecture d'ici\nme fiche la frousse.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3021BM",
@@ -548,8 +551,9 @@
   "max": 34,
   "who": "Magician Girl",
   "en": "As if ragamuffins like you would\nknow diddlyspit about decor!",
-  "fr": "Comme si des vauriens comme\nvous y connaissiez \fquoi que ce soit !",
-  "src": "pinky"
+  "fr": "Comme si des vauriens comme\nvous y connaissaient \fquoi que ce soit !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3021BM",
@@ -644,8 +648,9 @@
   "max": 34,
   "who": "Claire",
   "en": "I'd like to see some upstart even\nTRY to vince me!",
-  "fr": "J'aimerai bien voir quelques\narrivistes ESSAYER\fde me vaincre !",
-  "src": "pinky"
+  "fr": "J'aimerais bien voir quelques\narrivistes ESSAYER\fde me vaincre !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3021BM",
@@ -724,8 +729,9 @@
   "max": 34,
   "who": "Claire",
   "en": "So you whippersnappers can just\nkeep your mangy mittens to\\u2014",
-  "fr": "Alors laissez vos mimines de\nfreluquets miteux où elle sont...",
-  "src": "pinky"
+  "fr": "Alors laissez vos mimines de\nfreluquets miteux où elles sont...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3021BM",
@@ -748,8 +754,9 @@
   "max": 34,
   "who": "Claire",
   "en": "Aaagh! Cripes!\nMe and my big blabby mouth!",
-  "fr": "Aaagh ! Mince !\fQuand apprendrais-je à tenir ma\nlangue !",
-  "src": "pinky"
+  "fr": "Aaagh ! Mince !\fQuand apprendrai-je à tenir ma\nlangue !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3021BM",
@@ -860,8 +867,9 @@
   "max": 16,
   "who": "Claire",
   "en": "If they break even one of the \ncrystals around town...",
-  "fr": "S'ils détruisent ne\nse serait-ce qu'un\fseul cristal de la\nville...",
-  "src": "pinky"
+  "fr": "S'ils détruisent ne\nserait-ce qu'un\fseul cristal de la\nville...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3021BT",
@@ -1028,16 +1036,18 @@
   "max": 34,
   "who": "Claire",
   "en": "What WHAAAT?! I missed?",
-  "fr": "Quoi QUOI ?! J'ai râté mon coup ?",
-  "src": "pinky"
+  "fr": "Quoi QUOI ?! J'ai raté mon coup ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3021AB",
   "max": 34,
   "who": "Claire",
   "en": "Ugh! How'd my magic bounce off\na scrawny brat like you?",
-  "fr": "Ugh ! Comment ma magie a pû\nlouper une gamine comme toi ?",
-  "src": "pinky"
+  "fr": "Ugh ! Comment ma magie a pu\nlouper une gamine comme toi ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3021AB",
@@ -1244,8 +1254,9 @@
   "max": 34,
   "who": "Sellsword",
   "en": "There, see?\nYou got the bulk of it.",
-  "fr": "Tiens, tu vois ? Tu t'es fais une\nsacrée place.",
-  "src": "pinky"
+  "fr": "Tiens, tu vois ? Tu t'es fait une\nsacrée place.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3030BM",
@@ -1540,8 +1551,9 @@
   "max": 16,
   "who": "Richard",
   "en": "Armlet,\nfail me not...",
-  "fr": "Bracelet, ne me\nfait pas défaut...",
-  "src": "pinky"
+  "fr": "Bracelet, ne me\nfais pas défaut...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3030BT",
@@ -1812,8 +1824,9 @@
   "max": 16,
   "who": "Colet",
   "en": "Oof! What eez ze beeg idea?!\nDo I look like ze bad guy? NON!",
-  "fr": "Ouch ! Mais quelle\nidée ! Ai-je l'ai\fd'un ennemi ?! NON !",
-  "src": "pinky"
+  "fr": "Ouch ! Mais quelle\nidée ! Ai-je l'air\fd'un ennemi ?! NON !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3030BT",
@@ -1860,8 +1873,9 @@
   "max": 16,
   "who": "Bartolomeo",
   "en": "Alack... Our foes have already\nthe town walls breach'd...",
-  "fr": "Hélas... Nos ennemis\nont déjà franchit\fles murs de la\nville...",
-  "src": "pinky"
+  "fr": "Hélas... Nos ennemis\nont déjà franchi\fles murs de la\nville...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3030BT",

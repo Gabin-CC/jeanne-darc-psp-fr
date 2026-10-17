@@ -468,8 +468,9 @@
   "max": 16,
   "who": "",
   "en": "Savior, my foot!",
-  "fr": "Sauveur, mon il !",
-  "src": "pinky"
+  "fr": "Sauveur, mon oeil !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2070BT",
@@ -492,8 +493,9 @@
   "max": 16,
   "who": "",
   "en": "All right! Clear\nthem out!",
-  "fr": "Très bien ! Faites\nles disparaître !",
-  "src": "pinky"
+  "fr": "Très bien ! Faites-\nles disparaître !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2070BT",
@@ -548,8 +550,9 @@
   "max": 16,
   "who": "",
   "en": "Clear them\nout, now!",
-  "fr": "Faites-les\ndisparaître sur de\fchamps !",
-  "src": "pinky"
+  "fr": "Faites-les\ndisparaître\fsur-le-champ !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2070BT",
@@ -652,8 +655,9 @@
   "max": 16,
   "who": "Richard",
   "en": "Fight with me\\u2014for this\ncountry's future!",
-  "fr": "Combattez à mes\ncotés, pour l'avenir\fde cette nation !",
-  "src": "pinky"
+  "fr": "Combattez à mes\ncôtés, pour l'avenir\fde cette nation !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2070BT",
@@ -788,8 +792,9 @@
   "max": 34,
   "who": "Richard",
   "en": "The English royal family descends\nfrom a people exiled from France;",
-  "fr": "La famille royale Anglaise sont\ndes descendants de personnes\fexilées de France;",
-  "src": "pinky"
+  "fr": "La famille royale anglaise\ndescend de personnes\fexilées de France;",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2070AB",
@@ -1028,8 +1033,9 @@
   "max": 34,
   "who": "Richard",
   "en": "this city comprises dissenters who\nanswer to the Duke of Burgundy.",
-  "fr": "cette ville s'est rangée du côté des\ndissidents qui répondent\fdu Duc de Bourgogne.",
-  "src": "pinky"
+  "fr": "cette ville s'est rangée du côté des\ndissidents qui répondent\fau Duc de Bourgogne.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2080BM",
@@ -1092,8 +1098,9 @@
   "max": 34,
   "who": "Young Man",
   "en": "That was an impostor!\nA minion of the enemy!",
-  "fr": "C'était un imposteur !\nUn suppot de l'ennemi !",
-  "src": "pinky"
+  "fr": "C'était un imposteur !\nUn suppôt de l'ennemi !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2080BM",

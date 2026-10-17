@@ -52,8 +52,9 @@
   "max": 16,
   "who": "Jeanne",
   "en": "How could this have happened...\nEveryone, follow me!",
-  "fr": "Comment cela a-t-il\npû arriver... Tout\fle monde, suivez-moi\n!",
-  "src": "pinky"
+  "fr": "Comment cela a-t-il\npu arriver... Tout\fle monde, suivez-moi\n!",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2080BT",
@@ -68,8 +69,9 @@
   "max": 16,
   "who": "Roger",
   "en": "All right...\nWe can escape here! Run!",
-  "fr": "Très bien...\nPar ici ! Courrez !",
-  "src": "pinky"
+  "fr": "Très bien...\nPar ici ! Courez !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2080BT",
@@ -220,8 +222,9 @@
   "max": 16,
   "who": "Bertrand",
   "en": "Everybody else took off; what am\nI draggin' my armored arse for?",
-  "fr": "Tous les autres sont\npartis,\fqu'est-ce je fais à\ntraîner ma carcasse\fencore ici ?",
-  "src": "pinky"
+  "fr": "Tous les autres sont\npartis,\fqu'est-ce que je\nfais à traîner\fma carcasse encore\nici ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2080BT",
@@ -316,8 +319,9 @@
   "max": 34,
   "who": "Mawra",
   "en": "What's the matter?\nUse the armlet an' transform.\fI thought that was yer favorite \ntrick, girl-pup!",
-  "fr": "Quel est le problème ?\fUtilisez le bracelet et\ntransformez-vous.\fJe pensais que c'était votre tour\nfavoris !",
-  "src": "pinky"
+  "fr": "Quel est le problème ?\fUtilisez le bracelet et\ntransformez-vous.\fJe pensais que c'était votre tour\nfavori !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2080AB",
@@ -524,8 +528,9 @@
   "max": 34,
   "who": "Marcel",
   "en": "they were all lies! Nothing but\na crock!",
-  "fr": "n'étaient que mensonges ! Rien\nqu'un tissus de mensonges !",
-  "src": "pinky"
+  "fr": "n'étaient que mensonges ! Rien\nqu'un tissu de mensonges !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2080AB",
@@ -1292,8 +1297,9 @@
   "max": 16,
   "who": "Claire",
   "en": "Pretty good,\nkiddo.",
-  "fr": "Plutot pas mal,\ngamin.",
-  "src": "pinky"
+  "fr": "Plutôt pas mal,\ngamin.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2090BT",
@@ -1516,8 +1522,9 @@
   "max": 16,
   "who": "Liane",
   "en": "P-protect me!",
-  "fr": "P-protégez moi !",
-  "src": "pinky"
+  "fr": "P-protégez-moi !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2090BT",
@@ -1644,8 +1651,9 @@
   "max": 16,
   "who": "La Hire",
   "en": "Many thanks!",
-  "fr": "Mille merci !",
-  "src": "pinky"
+  "fr": "Mille mercis !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2090BT",
@@ -1900,8 +1908,9 @@
   "max": 16,
   "who": "Claire",
   "en": "Are they all\ndead yet?",
-  "fr": "Sont-ils tous\nmort ?",
-  "src": "pinky"
+  "fr": "Sont-ils tous\nmorts ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2090BT",
@@ -1948,8 +1957,9 @@
   "max": 16,
   "who": "Claire",
   "en": "Who's taking\nout the trash?",
-  "fr": "Qui sort la\npoublelle ?",
-  "src": "pinky"
+  "fr": "Qui sort la\npoubelle ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2090BT",
@@ -1988,8 +1998,9 @@
   "max": 16,
   "who": "Claire",
   "en": "Who asked you\nfor help!",
-  "fr": "Qui t'as demandé\nde l'aide ?",
-  "src": "pinky"
+  "fr": "Qui t'a demandé\nde l'aide ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2090BT",

@@ -4,8 +4,9 @@
   "max": 16,
   "who": "Bartolomeo",
   "en": "Kill we must...",
-  "fr": "Tuez, il nous\nfaut...",
-  "src": "pinky"
+  "fr": "Tuer, il nous\nfaut...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3080BT",
@@ -76,8 +77,9 @@
   "max": 16,
   "who": "Beatrix",
   "en": "We may\nmake it...",
-  "fr": "On pouvons\ny arriver...",
-  "src": "pinky"
+  "fr": "Nous pouvons\ny arriver...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3080BT",
@@ -92,8 +94,9 @@
   "max": 16,
   "who": "Claire",
   "en": "Let's just\nfinish this!",
-  "fr": "Finnisons-en !",
-  "src": "pinky"
+  "fr": "Finissons-en !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3080BT",
@@ -340,8 +343,9 @@
   "max": 16,
   "who": "",
   "en": "Damn youuuu!",
-  "fr": "Maudis-sois tu !",
-  "src": "pinky"
+  "fr": "Maudit sois-tu !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3080BT",
@@ -420,8 +424,9 @@
   "max": 16,
   "who": "Georges",
   "en": "Ancient dragon!\nAnther my thummonth!",
-  "fr": "Dragon ancestral !\nEntend mon appel !",
-  "src": "pinky"
+  "fr": "Dragon ancestral !\nEntends mon appel !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3080BT",
@@ -468,8 +473,9 @@
   "max": 16,
   "who": "Jeanne",
   "en": "...A reaper!\n(That explains a lot.)",
-  "fr": "... Un moissoneur !\n(Ça explique tout.)",
-  "src": "pinky"
+  "fr": "... Un moissonneur !\n(Ça explique tout.)",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3080BT",
@@ -508,8 +514,9 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Oh, my! You're just smacking\ndown reapers left and right!",
-  "fr": "Oh, oh ! Vous exterminez des\nmoissoneurs à tours de bras !",
-  "src": "pinky"
+  "fr": "Oh, oh ! Vous exterminez des\nmoissonneurs à tours de bras !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3080AB",
@@ -564,8 +571,9 @@
   "max": 34,
   "who": "Richemont",
   "en": "Ahem... What matters most, Sire,\nis that we have gained a\ntemporary reprieve from civil\nwar on French soil.",
-  "fr": "Ahem... Ce qui importe le plus,\nSire,\fc'est que nous ayons gagné un\nsursis temporaire\fdans la guerre civile sur le sol\nFrançais.",
-  "src": "pinky"
+  "fr": "Ahem... Ce qui importe le plus,\nSire,\fc'est que nous ayons gagné un\nsursis temporaire\fdans la guerre civile sur le sol\nfrançais.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3081BM",
@@ -852,8 +860,9 @@
   "max": 34,
   "who": "Richemont",
   "en": "We cannot sit back and let him.\nWe must act accordingly.",
-  "fr": "Nous ne pouvons rester assis et\nle laisser faire.\fNous devons agir en\nconséquences.",
-  "src": "pinky"
+  "fr": "Nous ne pouvons rester assis et\nle laisser faire.\fNous devons agir en\nconséquence.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3081BM",
@@ -1068,8 +1077,9 @@
   "max": 34,
   "who": "Isabeau",
   "en": "and I get to feast on fresh\nhors d'oeuvres!",
-  "fr": "et je vais me délecter de\ndélicieux hors d'oeuvres !",
-  "src": "pinky"
+  "fr": "et je vais me délecter de\ndélicieux hors-d'oeuvre !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3090BM",
@@ -1196,32 +1206,36 @@
   "max": 16,
   "who": "unité#147",
   "en": "I will give you\neternal peace...",
-  "fr": "je vais vous donner\nle repos éternel...",
-  "src": "pinky"
+  "fr": "Je vais vous donner\nle repos éternel...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "",
   "en": "Let me make this\neasy for you...",
-  "fr": "Lairrez-moi vous\nfacilitez les\fchoses...",
-  "src": "pinky"
+  "fr": "Laissez-moi vous\nfaciliter les\fchoses...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "",
   "en": "All will be\ndarkness...",
-  "fr": "Tout ne sera plus\nque ténnèbres...",
-  "src": "pinky"
+  "fr": "Tout ne sera plus\nque ténèbres...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3090BT",
   "max": 16,
   "who": "",
   "en": "You'll be eaten\nsoon enough...",
-  "fr": "Tu va vite finir\ndévoré...",
-  "src": "pinky"
+  "fr": "Tu vas vite finir\ndévoré...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3090BT",
@@ -1420,8 +1434,9 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Would you mind terribly if I\nscrapped this puny body now?",
-  "fr": "Cela vous ennuirait-il beaucoup\nsi j'abandonnais\fce corps chétif ?",
-  "src": "pinky"
+  "fr": "Cela vous ennuierait-il beaucoup\nsi j'abandonnais\fce corps chétif ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3090AB",
@@ -1460,8 +1475,9 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Won't you miss this cute widdle\nbody of yours once I BREAK it?",
-  "fr": "Cet adorable petit corps va vous\nmanquer\fquand je l'aurais DÉTRUIT ?",
-  "src": "pinky"
+  "fr": "Cet adorable petit corps va vous\nmanquer\fquand je l'aurai DÉTRUIT ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3090AB",
@@ -1508,8 +1524,9 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Ohh, you wouldn't dream of\nchallenging me in THAT body\\u2014",
-  "fr": "Ohh, tu ne voudrais quand même\npas m'affronter, CE corps...",
-  "src": "pinky"
+  "fr": "Ohh, tu ne voudrais quand même\npas m'affronter dans CE corps...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3090AB",
@@ -1732,8 +1749,9 @@
   "max": 34,
   "who": "Cuisses",
   "en": "One thing I never understood\nwhen I was a human boy...",
-  "fr": "Une des choses que je n'ai jamais\ncomprise lorsque j'étais humain,",
-  "src": "pinky"
+  "fr": "Une des choses que je n'ai jamais\ncomprises lorsque j'étais humain,",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3090AB",
@@ -1772,8 +1790,9 @@
   "max": 34,
   "who": "Cuisses",
   "en": "He was willing to make a pact\nwith Gilvaroth to keep me safe\\u2014",
-  "fr": "ll souhaitait faire un pacte avec\nGilvaroth pour me protéger...",
-  "src": "pinky"
+  "fr": "Il souhaitait faire un pacte avec\nGilvaroth pour me protéger...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3090AB",
@@ -1796,8 +1815,9 @@
   "max": 34,
   "who": "Cuisses",
   "en": "with every reaper he devours.",
-  "fr": "avec tous les moissoneurs qu'il\nengloutit.",
-  "src": "pinky"
+  "fr": "avec tous les moissonneurs qu'il\nengloutit.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3090AB",
@@ -1900,8 +1920,9 @@
   "max": 34,
   "who": "Roger",
   "en": "I told you I won't take orders\nfrom you!",
-  "fr": "Je t'ai déjà dit que n'étais pas à\ntes ordres !",
-  "src": "pinky"
+  "fr": "Je t'ai déjà dit que je n'étais pas à\ntes ordres !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3090AB",

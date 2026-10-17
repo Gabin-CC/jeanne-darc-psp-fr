@@ -1,6 +1,6 @@
 """Import de la traduction humaine de l'équipe PSP Traduction (Pinky & Bleachy, scripts du 24/02/2019).
 
-Format des fichiers « Scripts FR 24 02 2019/STxxxxYY.txt » (Latin-1, CRLF) :
+Format des fichiers « Scripts FR 24 02 2019/STxxxxYY.txt » (Windows-1252, CRLF) :
     <PT0128>            numéros de pointeurs (= index de table + 1), plusieurs par bloc
     <PT0129>
     Texte français      une ou plusieurs lignes ; [Clear Screen] = nouvelle boîte ; [Code14] = \\x14
@@ -27,7 +27,9 @@ PT = re.compile(r'^<PT(\d+)>$')
 
 def parse(path):
     """[(indices, texte)] pour un fichier de script."""
-    lines = open(path, encoding='latin-1').read().replace('\r\n', '\n').split('\n')
+    # Windows-1252 (et non Latin-1) : 0x92 = ’, 0x9C = œ… ; apostrophe typographique -> '
+    raw = open(path, 'rb').read().decode('cp1252', errors='replace').replace('\u2019', "'")
+    lines = raw.replace('\r\n', '\n').split('\n')
     blocks, idx, text = [], [], []
     for ln in lines:
         m = PT.match(ln.strip())

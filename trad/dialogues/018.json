@@ -76,8 +76,9 @@
   "max": 34,
   "who": "Cuisses",
   "en": "a trip to the Warren in Paris\nwill yield some answers.",
-  "fr": "si nous allions à la tanière de\nParis, nous y trouverons\fquelques réponses à nos\nquestions.",
-  "src": "pinky"
+  "fr": "si nous allions à la tanière de\nParis, nous y trouverions\fquelques réponses à nos\nquestions.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3091BM",
@@ -100,8 +101,9 @@
   "max": 34,
   "who": "La Hire",
   "en": "Rrrar?\nLa Hire's birthplace?",
-  "fr": "Rrraar ? Là où est né la Hire ?",
-  "src": "pinky"
+  "fr": "Rrraar ? Là où est né La Hire ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3091BM",
@@ -124,8 +126,9 @@
   "max": 34,
   "who": "La Hire",
   "en": "What? You are pulling La Hire's\nmane.",
-  "fr": "Quoi ? Vous tirez sur la crinière\nde la Hire !",
-  "src": "pinky"
+  "fr": "Quoi ? Vous tirez sur la crinière\nde La Hire !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3091BM",
@@ -212,8 +215,9 @@
   "max": 34,
   "who": "Gilles",
   "en": "for as far back as I can\nremember,\fI was a slave to money, power,\nnobiliary obligations.",
-  "fr": "Aussi loin que je m'en souvienne,\nj'étais esclave de l'argent, \fdu pouvoir et des obligation dûes\nà mon rang.",
-  "src": "pinky"
+  "fr": "Aussi loin que je m'en souvienne,\nj'étais esclave de l'argent, \fdu pouvoir et des obligations dues\nà mon rang.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3091BM",
@@ -308,8 +312,9 @@
   "max": 34,
   "who": "La Hire",
   "en": "When La Hire was a cub,\fhe used this canal many times,\nto sneak in and out of town.",
-  "fr": "Quand la Hire était un lionceau,\nil empruntait souvent ce passage\fpour se faufiler hors de la ville.",
-  "src": "pinky"
+  "fr": "Quand La Hire était un lionceau,\nil empruntait souvent ce passage\fpour se faufiler hors de la ville.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4010BM",
@@ -388,8 +393,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "You must like picking on folk\nhalf your size.",
-  "fr": "Tu dois aimer piller les plus\npetit que toi, hein.",
-  "src": "pinky"
+  "fr": "Tu dois aimer piller les plus\npetits que toi, hein.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4010BM",
@@ -548,8 +554,9 @@
   "max": 34,
   "who": "Therion Grunt",
   "en": "To disgrace the therions is a\nshameful act, punishable by death!",
-  "fr": "Mettre les therions en disgrace\nest un acte terrible,\fpunissable de mort !",
-  "src": "pinky"
+  "fr": "Mettre les therions en disgrâce\nest un acte terrible,\fpunissable de mort !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4010BM",
@@ -652,8 +659,9 @@
   "max": 16,
   "who": "La Hire",
   "en": "Here comes\nLa Hire!",
-  "fr": "Voilà\nla Hire !",
-  "src": "pinky"
+  "fr": "Voilà\nLa Hire !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4010BT",
@@ -668,8 +676,9 @@
   "max": 16,
   "who": "Beatrix",
   "en": "Remove your-\nselves, ruffians!",
-  "fr": "Bougez-vous,\nruffiens !",
-  "src": "pinky"
+  "fr": "Bougez-vous,\nruffians !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4010BT",
@@ -804,8 +813,9 @@
   "max": 16,
   "who": "",
   "en": "Prepare to die,\ninvaders!",
-  "fr": "Prépare toi à\nmourir, envahisseur\f!",
-  "src": "pinky"
+  "fr": "Prépare-toi à\nmourir, envahisseur\f!",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4010BT",
@@ -1060,8 +1070,9 @@
   "max": 16,
   "who": "Colet",
   "en": "Oh, non! Good thing zere eez\nanother boat across ze water!",
-  "fr": "Oh non !\nHeureusement qu'il y\fa encore un bateau\nde l'autre coté.",
-  "src": "pinky"
+  "fr": "Oh non !\nHeureusement qu'il y\fa encore un bateau\nde l'autre côté.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4010BT",
@@ -1356,8 +1367,9 @@
   "max": 16,
   "who": "Colet",
   "en": "Sacré bleu!\nZees boat eez feelthy!",
-  "fr": "Sacre bleu ! Que ce\nbateau est sale !",
-  "src": "pinky"
+  "fr": "Sacré bleu ! Que ce\nbateau est sale !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4010BT",
@@ -1412,8 +1424,9 @@
   "max": 16,
   "who": "Bartolomeo",
   "en": "Go; for I am last to board!\nThou shalt row this wobbly craft!",
-  "fr": "C'est bon, il n'y a\nplus personne,\ffaisont avancer ce\nrafiot !",
-  "src": "pinky"
+  "fr": "C'est bon, il n'y a\nplus personne,\ffaisons avancer ce\nrafiot !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4010BT",
@@ -1564,8 +1577,9 @@
   "max": 34,
   "who": "Elder",
   "en": "Is that so? The English are\nstirring up trouble again...\fPesky, aren't they?",
-  "fr": "C'est vrai ? Les anglais sèment à\nnouveau le trouble...\fQu'ils sont pénibles...",
-  "src": "pinky"
+  "fr": "C'est vrai ? Les Anglais sèment à\nnouveau le trouble...\fQu'ils sont pénibles...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4020BM",
@@ -1604,8 +1618,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Whose side are you on: that of\nthe English, or the French?",
-  "fr": "De quel coté êtes-vous, des\nanglais ou des français ?",
-  "src": "pinky"
+  "fr": "De quel côté êtes-vous, des\nAnglais ou des Français ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4020BM",
@@ -1636,8 +1651,9 @@
   "max": 34,
   "who": "Elder",
   "en": "Perhaps you mean to ask whose\nside the therions are NOT on:\fthat of the humans...or the Fiend.",
-  "fr": "Peut-être devriez-vous\ndemander de quel coté les\ftherions ne sont pas. Celui du\ndémon ou celui des humains.",
-  "src": "pinky"
+  "fr": "Peut-être devriez-vous\ndemander de quel côté les\ftherions ne sont pas. Celui du\ndémon ou celui des humains.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4020BM",
@@ -1660,8 +1676,9 @@
   "max": 34,
   "who": "Elder",
   "en": "Once, we and the humans joined\nforces against the reapers.",
-  "fr": "Autrefois, nous nous sommes\nalliés aux humains contre les\fmoissoneurs.",
-  "src": "pinky"
+  "fr": "Autrefois, nous nous sommes\nalliés aux humains contre les\fmoissonneurs.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4020BM",
@@ -1676,16 +1693,18 @@
   "max": 34,
   "who": "Elder",
   "en": "In time, the War of the Reapers\nwas won,",
-  "fr": "Puis, nous avons remporté la\nguerre des moissoneurs,",
-  "src": "pinky"
+  "fr": "Puis, nous avons remporté la\nguerre des moissonneurs,",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4020BM",
   "max": 34,
   "who": "Elder",
   "en": "and that was the beginning of\nthe therions' troubles.",
-  "fr": "et ce fût le commencement des\nennuis pour les therions.",
-  "src": "pinky"
+  "fr": "et ce fut le commencement des\nennuis pour les therions.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4020BM",
@@ -1724,16 +1743,18 @@
   "max": 34,
   "who": "Elder",
   "en": "Most therions hate mankind;\fsome, swayed by the Fiend's\nhoneyed words, \nhave gone so far as to take\nvengeance on humanity. ",
-  "fr": "Les plupart des therions\nhaïssent les humains,\fCertains, amadoués par les\nparoles mielleuses du démon\fon voulu se venger des humains.",
-  "src": "pinky"
+  "fr": "La plupart des therions\nhaïssent les humains,\fCertains, amadoués par les\nparoles mielleuses du démon\font voulu se venger des humains.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4020BM",
   "max": 34,
   "who": "Elder",
   "en": "They believe they have a chance\nto reclaim their lost kingdom...\fso they fight for the English.",
-  "fr": "Il croient pouvoir reprendrent\nleur royaume perdu...\falors ils combattent aux cotés\ndes anglais.",
-  "src": "pinky"
+  "fr": "Ils croient pouvoir reprendre\nleur royaume perdu...\falors ils combattent aux côtés\ndes Anglais.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4020BM",
@@ -1796,8 +1817,9 @@
   "max": 16,
   "who": "unité#113",
   "en": "Don't let the\nspies get away!",
-  "fr": "Ne laissez-pas les\nespions s'enfuir !",
-  "src": "pinky"
+  "fr": "Ne laissez pas les\nespions s'enfuir !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4020BT",
@@ -1972,8 +1994,9 @@
   "max": 34,
   "who": "Elder",
   "en": "They, too, once populated the\nentire continent,\fand fought alongside us in the\nWar of the Reapers.",
-  "fr": "Eux aussi, autrefois, peuplaient\nle vieux continent,\fet ont combattu à nos cotés lors\nde la guerre des moissoneurs.",
-  "src": "pinky"
+  "fr": "Eux aussi, autrefois, peuplaient\nle vieux continent,\fet ont combattu à nos côtés lors\nde la guerre des moissonneurs.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4020AB",

@@ -364,8 +364,9 @@
   "max": 34,
   "who": "Liane",
   "en": "This thing isn't me!\fThe reaper is trying to fool you!",
-  "fr": "Cette chose n'est pas moi !\fLe moissoneur essaie de te\nmanipuler !",
-  "src": "pinky"
+  "fr": "Cette chose n'est pas moi !\fLe moissonneur essaie de te\nmanipuler !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4072BM",
@@ -396,8 +397,9 @@
   "max": 16,
   "who": "Jeanne",
   "en": "Go away,\nimpostor!",
-  "fr": "Disparait,\nimposteur !",
-  "src": "pinky"
+  "fr": "Disparais,\nimposteur !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4072BT",
@@ -428,8 +430,9 @@
   "max": 16,
   "who": "unité#31",
   "en": "I'm fighting\nwith you!",
-  "fr": "Je suis à\nvos cotés !",
-  "src": "pinky"
+  "fr": "Je suis à\nvos côtés !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4072BT",
@@ -452,8 +455,9 @@
   "max": 16,
   "who": "Jeanne",
   "en": "Liane,\nfight with me!",
-  "fr": "Liane, bas-toi\nà mes cotés !",
-  "src": "pinky"
+  "fr": "Liane, bats-toi\nà mes côtés !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4072BT",
@@ -492,8 +496,9 @@
   "max": 16,
   "who": "unité#31",
   "en": "Defeat the\nreaper!",
-  "fr": "Éliminez le\nmoissoneur !",
-  "src": "pinky"
+  "fr": "Éliminez le\nmoissonneur !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4072BT",
@@ -764,8 +769,9 @@
   "max": 34,
   "who": "Liane",
   "en": "Jeanne, I've missed you...",
-  "fr": "Jeanne, tu m'as manquée...",
-  "src": "pinky"
+  "fr": "Jeanne, tu m'as manqué...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4072AB",
@@ -780,8 +786,9 @@
   "max": 34,
   "who": "Liane",
   "en": "No. Don't you dare say you're\nsorry.",
-  "fr": "Non. Tu n'as pas intêret à dire\nque tu es désolée.",
-  "src": "pinky"
+  "fr": "Non. Tu n'as pas intérêt à dire\nque tu es désolée.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4072AB",
@@ -820,8 +827,9 @@
   "max": 34,
   "who": "Liane",
   "en": "Jeanne... Roger's heart is being\nheld captive by the reaper.",
-  "fr": "Jeanne... Le coeur de Roger est\ndétenu par le moissoneur.",
-  "src": "pinky"
+  "fr": "Jeanne... Le coeur de Roger est\ndétenu par le moissonneur.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4073BM",
@@ -836,8 +844,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "...Liane! Behind you!",
-  "fr": "... Liane ! Derrière-toi !",
-  "src": "pinky"
+  "fr": "... Liane ! Derrière toi !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4073BT",
@@ -1036,8 +1045,9 @@
   "max": 34,
   "who": "Liane",
   "en": "Be careful, Jeanne!\nThat's Roger's reaper!",
-  "fr": "Attention, Jeanne !\nC'est le moissoneur de Roger !",
-  "src": "pinky"
+  "fr": "Attention, Jeanne !\nC'est le moissonneur de Roger !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4075BM",
@@ -1060,8 +1070,9 @@
   "max": 34,
   "who": "Liane",
   "en": "And you and the others will be\nable to return to your world.",
-  "fr": "Et toi et les autres pourront\nretourner dans votre monde.",
-  "src": "pinky"
+  "fr": "Et toi et les autres pourrez\nretourner dans votre monde.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4075BM",
@@ -1084,8 +1095,9 @@
   "max": 16,
   "who": "Jeanne",
   "en": "Die, reaper!",
-  "fr": "Meurs,\nmoissoneur !",
-  "src": "pinky"
+  "fr": "Meurs,\nmoissonneur !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4075BT",
@@ -1172,8 +1184,9 @@
   "max": 16,
   "who": "unité#31",
   "en": "I WILL stop\nthe reaper!",
-  "fr": "Je vais arrêter\nle moissoneur !",
-  "src": "pinky"
+  "fr": "Je vais arrêter\nle moissonneur !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4075BT",
@@ -1212,8 +1225,9 @@
   "max": 16,
   "who": "Richard",
   "en": "Away with you,\nreaper!",
-  "fr": "Dégage,\nmoissoneur !",
-  "src": "pinky"
+  "fr": "Dégage,\nmoissonneur !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4075BT",
@@ -1252,8 +1266,9 @@
   "max": 34,
   "who": "",
   "en": "To save the world...invade Paris Castle!",
-  "fr": "Pour sauver le monde... Prenez-le\nchâteau de Paris !",
-  "src": "pinky"
+  "fr": "Pour sauver le monde... Prenez le\nchâteau de Paris !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4075AB",
@@ -1316,8 +1331,9 @@
   "max": 34,
   "who": "Cuisses",
   "en": "But she said she would wait for\nyou in Domrémy.\fFor you and Roger.",
-  "fr": "Mais elle a dit qu'elle t'attendrai\nà Domrémy.\fToi et Roger.",
-  "src": "pinky"
+  "fr": "Mais elle a dit qu'elle t'attendrait\nà Domrémy.\fToi et Roger.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4075AB",
@@ -1348,8 +1364,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "The reaper...",
-  "fr": "Le moissoneur...",
-  "src": "pinky"
+  "fr": "Le moissonneur...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4075AB",
@@ -1380,8 +1397,9 @@
   "max": 34,
   "who": "Roger",
   "en": "My reaper\\u2014",
-  "fr": "Mon moissoneur...",
-  "src": "pinky"
+  "fr": "Mon moissonneur...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4075AB",
@@ -1524,8 +1542,9 @@
   "max": 34,
   "who": "Roger",
   "en": "The English made this device,\fto transfer the reapers into the\nbodies of their subjects.",
-  "fr": "Ce sont les anglais qui l'ont\nconçu pour transférer\fles moissoneurs dans le corps de\nleurs cobayes.",
-  "src": "pinky"
+  "fr": "Ce sont les Anglais qui l'ont\nconçu pour transférer\fles moissonneurs dans le corps de\nleurs cobayes.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4075AB",
@@ -1556,8 +1575,9 @@
   "max": 34,
   "who": "Richard",
   "en": "But Gilvaroth has absorbed the\nother reapers' power.",
-  "fr": "Mais Gilvaroth a absorbé la\npuissance de l'autre moissoneur.",
-  "src": "pinky"
+  "fr": "Mais Gilvaroth a absorbé la\npuissance de l'autre moissonneur.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4075AB",
@@ -1572,8 +1592,9 @@
   "max": 34,
   "who": "Roger",
   "en": "Then we'll have to use the device\nto strip the reapers away first,\fone by one.",
-  "fr": "Alors, d'abord nous utiliserons\nla machine pour affaiblir\fles moissoneurs, un par un.",
-  "src": "pinky"
+  "fr": "Alors, d'abord nous utiliserons\nla machine pour affaiblir\fles moissonneurs, un par un.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4075AB",

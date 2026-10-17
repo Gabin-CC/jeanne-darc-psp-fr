@@ -140,8 +140,9 @@
   "max": 16,
   "who": "",
   "en": "Damned human...",
-  "fr": "Maudits humain...",
-  "src": "pinky"
+  "fr": "Maudit humain...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050BT",
@@ -268,8 +269,9 @@
   "max": 16,
   "who": "Bertrand",
   "en": "Heh, nothin' to it. I eats me\nbattles like this'un for breakfast!",
-  "fr": "Hé, que neni.\fCe genre de\nbatailles, j'en\fmange pour le petit\ndéjeuner !",
-  "src": "pinky"
+  "fr": "Hé, que nenni.\fCe genre de\nbatailles, j'en\fmange pour le petit\ndéjeuner !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050BT",
@@ -300,8 +302,9 @@
   "max": 16,
   "who": "Talbot",
   "en": "After her!\nDon't let her escape!",
-  "fr": "Suivez-là ! Ne la\nlaissez pas\fs'échapper !",
-  "src": "pinky"
+  "fr": "Suivez-la ! Ne la\nlaissez pas\fs'échapper !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050BT",
@@ -340,8 +343,9 @@
   "max": 16,
   "who": "Jean",
   "en": "Sorry, but you know what they\nsay about \"knights\"...",
-  "fr": "Désolé, mais vous\nsavez ce qu'on\fracontent sur les\n\"chevaliers\"...",
-  "src": "pinky"
+  "fr": "Désolé, mais vous\nsavez ce qu'on\fraconte sur les\n\"chevaliers\"...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050BT",
@@ -388,8 +392,9 @@
   "max": 16,
   "who": "Liane",
   "en": "Whew... I made it, huff...\nBetter keep moving...",
-  "fr": "Pfiou... J'ai\nréussi, huff... Mais\fmieux vaux ne pas\nrester là...",
-  "src": "pinky"
+  "fr": "Pfiou... J'ai\nréussi, huff... Mais\fmieux vaut ne pas\nrester là...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050BT",
@@ -436,8 +441,9 @@
   "max": 34,
   "who": "",
   "en": "Who was that man...? Let us hurry to Chinon for now.",
-  "fr": "Qui était cet homme... ? Allons\nvite à Chinon pour le momentt.",
-  "src": "pinky"
+  "fr": "Qui était cet homme... ? Allons\nvite à Chinon pour le moment.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050AB",
@@ -580,16 +586,18 @@
   "max": 34,
   "who": "Charles VII",
   "en": "You can spout all the tactics\nyou want,",
-  "fr": "Vous pouvez échaffauder toutes\nles tactiques que vous voudrez,",
-  "src": "pinky"
+  "fr": "Vous pouvez échafauder toutes\nles tactiques que vous voudrez,",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050AB",
   "max": 34,
   "who": "Charles VII",
   "en": "but no victories will come of\nthem so long as I am just the\ndauphin.",
-  "fr": "mais ils ne remporteront aucune\nvictoire\ftant que je serai le dauphin.",
-  "src": "pinky"
+  "fr": "mais elles ne remporteront aucune\nvictoire\ftant que je serai le dauphin.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050AB",
@@ -716,8 +724,9 @@
   "max": 34,
   "who": "Georges",
   "en": "And I know jutht the way.\nLithen clothely...",
-  "fr": "Et je connais un moyen.\nEcoutez bien...",
-  "src": "pinky"
+  "fr": "Et je connais un moyen.\nÉcoutez bien...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1060BM",
@@ -812,8 +821,9 @@
   "max": 34,
   "who": "Talbot",
   "en": "...Got you now.",
-  "fr": "... Enfin rattrappés.",
-  "src": "pinky"
+  "fr": "... Enfin rattrapés.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1060BM",
@@ -1052,8 +1062,9 @@
   "max": 16,
   "who": "Colet",
   "en": "Have eet\nyour way...",
-  "fr": "Tiens, pour\nla routie...",
-  "src": "pinky"
+  "fr": "Tiens, pour\nla routine...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1060BT",
@@ -1220,8 +1231,9 @@
   "max": 16,
   "who": "Jeanne",
   "en": "Now I'm ready.",
-  "fr": "Maintenant, je suis\nprêt.",
-  "src": "pinky"
+  "fr": "Maintenant, je suis\nprête.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1060BT",
@@ -1740,8 +1752,9 @@
   "max": 34,
   "who": "Gilles",
   "en": "Tell me, did you bring the armlet \nhere? Or did it bring you?",
-  "fr": "Dites-moi, est-ce vous qui avez\napporté le bracelet ici,\fou est-ce lui qui vous-y a\nguidée ?",
-  "src": "pinky"
+  "fr": "Dites-moi, est-ce vous qui avez\napporté le bracelet ici,\fou est-ce lui qui vous y a\nguidée ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1060AB",
@@ -1876,8 +1889,9 @@
   "max": 34,
   "who": "Colet",
   "en": "Go een zere and you weel be ze\nlaughing stock of ze town!",
-  "fr": "Si vous allez là-bas, vous serez\nla tête de turc de la ville !",
-  "src": "pinky"
+  "fr": "Si vous allez là-bas, vous serez\nla tête de Turc de la ville !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1061BM",
@@ -1900,8 +1914,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Dauphin!\nPlease listen to me!",
-  "fr": "Dauphin ! Je vous en prie !\nEcoutez-moi !",
-  "src": "pinky"
+  "fr": "Dauphin ! Je vous en prie !\nÉcoutez-moi !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1061BM",

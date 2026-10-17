@@ -4,8 +4,9 @@
   "max": 34,
   "who": "Liane",
   "en": "Don't be silly, Roger.\fI only fought as hard as I did\nbecause of you!",
-  "fr": "Ne sois pas idiot, Roger.\fJe me suis battue aussi\nvaillament grâce à toi !",
-  "src": "pinky"
+  "fr": "Ne sois pas idiot, Roger.\fJe me suis battue aussi\nvaillamment grâce à toi !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2100AB",
@@ -116,8 +117,9 @@
   "max": 34,
   "who": "Liane",
   "en": "The English army is still on\nFrench soil!",
-  "fr": "L'armée Anglaise est toujours\nsur le territoire Français !",
-  "src": "pinky"
+  "fr": "L'armée anglaise est toujours\nsur le territoire français !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2100AB",
@@ -324,8 +326,9 @@
   "max": 34,
   "who": "Charles VII",
   "en": "and not just some bastard for\nbored nobles to gossip about?",
-  "fr": "Et pas juste un batârd aux yeux\nde nobles ennuyeux\favides de cancan ?",
-  "src": "pinky"
+  "fr": "Et pas juste un bâtard aux yeux\nde nobles ennuyeux\favides de cancan ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2101BM",
@@ -468,8 +471,9 @@
   "max": 34,
   "who": "Richemont",
   "en": "any chance to avoid the gold\nand blood costs of battle lies\nin our best interests.",
-  "fr": "Toutes chances de ne pas avoir\nde batailles coûteuses\fen sang et en or est dans notre\nintérêt.",
-  "src": "pinky"
+  "fr": "Toute chance de ne pas avoir\nde batailles coûteuses\fen sang et en or est dans notre\nintérêt.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2101BM",
@@ -620,16 +624,18 @@
   "max": 34,
   "who": "Liane",
   "en": "God above, grant us a swift\nvictory!",
-  "fr": "Dieu, accorde nous une victoire\nrapide !",
-  "src": "pinky"
+  "fr": "Dieu, accorde-nous une victoire\nrapide !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3010BT",
   "max": 16,
   "who": "",
   "en": "You will not\ntake Paris!",
-  "fr": "vous ne prendrez\npas Paris !",
-  "src": "pinky"
+  "fr": "Vous ne prendrez\npas Paris !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3010BT",
@@ -740,16 +746,18 @@
   "max": 16,
   "who": "Alain",
   "en": "A-as you command, Pucelle! It's\nan honor to f-f-fight with you!",
-  "fr": "À-à vos ordres,\nPucelle !\fC'est un honneur de\nc-c-combattre à vos\fcotés !",
-  "src": "pinky"
+  "fr": "À-à vos ordres,\nPucelle !\fC'est un honneur de\nc-c-combattre à vos\fcôtés !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3010BT",
   "max": 16,
   "who": "Liane",
   "en": "Forward! Strike down anyone who\nstands in our path!",
-  "fr": "En avant ! Abattez\nquiconque se\ftrouvant sur votre\nroute !",
-  "src": "pinky"
+  "fr": "En avant ! Abattez\nquiconque se\ftrouve sur votre\nroute !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3010BT",
@@ -836,8 +844,9 @@
   "max": 16,
   "who": "Paris Militiaman",
   "en": "Kill the king's slattern and\nall her minions!",
-  "fr": "Tuez la catin du roi\net et tous ses\fsous-fifres !",
-  "src": "pinky"
+  "fr": "Tuez la catin du roi\net tous ses\fsous-fifres !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3010AB",
@@ -1012,8 +1021,9 @@
   "max": 34,
   "who": "Richard",
   "en": "Liane, wake up!\nWe are to return to Chinon.",
-  "fr": "Liane, réveille toi !\nNous repartons pour Chinon.",
-  "src": "pinky"
+  "fr": "Liane, réveille-toi !\nNous repartons pour Chinon.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3010AB",
@@ -1100,8 +1110,9 @@
   "max": 34,
   "who": "Liane",
   "en": "No one stands in our way now!\nTake the fort!",
-  "fr": "La voie est libre !\nPrenez lè fort !",
-  "src": "pinky"
+  "fr": "La voie est libre !\nPrenez le fort !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3010AB",
@@ -1204,8 +1215,9 @@
   "max": 34,
   "who": "Liane",
   "en": "Why didn't you all fight harder?!",
-  "fr": "Pourquoi n'avez-vous pas\ncombattu plus vaillament ?",
-  "src": "pinky"
+  "fr": "Pourquoi n'avez-vous pas\ncombattu plus vaillamment ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3010AB",
@@ -1356,8 +1368,9 @@
   "max": 34,
   "who": "Georges",
   "en": "How ith it that you failed to\nrethtrain her?",
-  "fr": "Comment se fait-il que vous\nn'ayez pû l'en empêcher ?",
-  "src": "pinky"
+  "fr": "Comment se fait-il que vous\nn'ayez pu l'en empêcher ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3011BM",
@@ -1380,8 +1393,9 @@
   "max": 34,
   "who": "Richard",
   "en": "I am sorry, Your Highness. She\nis too...confused...to attend\\u2014",
-  "fr": "Je suis désolé, Votre Altesse. Elle\nest trop... perturbée...\fpour être présente parmis nous.",
-  "src": "pinky"
+  "fr": "Je suis désolé, Votre Altesse. Elle\nest trop... perturbée...\fpour être présente parmi nous.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3011BM",
@@ -1428,8 +1442,9 @@
   "max": 34,
   "who": "Charles VII",
   "en": "We only did as you counseled,\nleading to present consequences.",
-  "fr": "Nous avons agi selon vos\nconseils,\fce qui nous a conduit à la\nsituation actuelle.",
-  "src": "pinky"
+  "fr": "Nous avons agi selon vos\nconseils,\fce qui nous a conduits à la\nsituation actuelle.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3011BM",
@@ -1444,8 +1459,9 @@
   "max": 34,
   "who": "Liane",
   "en": "None of this happened according\nto my wishes!",
-  "fr": "Je n'ai jamais voulu ce qui c'est\npassé !",
-  "src": "pinky"
+  "fr": "Je n'ai jamais voulu ce qui s'est\npassé !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3011BM",
@@ -1532,8 +1548,9 @@
   "max": 34,
   "who": "Richard",
   "en": "The first: quell a rebellion\ntearing apart the land.",
-  "fr": "Le premier : étouffer une\nrebellion qui secoue la région.",
-  "src": "pinky"
+  "fr": "Le premier : étouffer une\nrébellion qui secoue la région.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3011BM",
@@ -1548,8 +1565,9 @@
   "max": 34,
   "who": "Richard",
   "en": "Were we to go there, we could\nprobably cripple a significant\nanti-royal movement.",
-  "fr": "En nous rendons là-bas, nous\npourrons probablement écraser\fl'insurrection anti-royaliste.",
-  "src": "pinky"
+  "fr": "En nous rendant là-bas, nous\npourrons probablement écraser\fl'insurrection anti-royaliste.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3011BM",
@@ -1572,8 +1590,9 @@
   "max": 34,
   "who": "Richard",
   "en": "is a frequent target of the\nbrigands.",
-  "fr": "est la cible récurente des\nbrigands.",
-  "src": "pinky"
+  "fr": "est la cible récurrente des\nbrigands.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3011BM",
@@ -1708,8 +1727,9 @@
   "max": 34,
   "who": "Lady Bandit",
   "en": "Ooh, get outta the way, before\nthey catch me!",
-  "fr": "Ooh, tirons-nous d'ici, avant\nqu'ils ne m'attrappent !",
-  "src": "pinky"
+  "fr": "Ooh, tirons-nous d'ici, avant\nqu'ils ne m'attrapent !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3020BM",

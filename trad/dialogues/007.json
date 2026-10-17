@@ -20,8 +20,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I couldn't have seized the fort\nif it weren't for you.",
-  "fr": "Je n'aurai jamais pu prendre le\nfort si ça n'avait pas été pour toi.",
-  "src": "pinky"
+  "fr": "Je n'aurais jamais pu prendre le\nfort si ça n'avait pas été pour toi.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2030BM",
@@ -76,8 +77,9 @@
   "max": 34,
   "who": "Noble in Black",
   "en": "Indeed! Not even these \nimpregnable walls could stop her.",
-  "fr": "C'est vrai ! Même ces murs\nimprenables n'ont pû l'arrêter.",
-  "src": "pinky"
+  "fr": "C'est vrai ! Même ces murs\nimprenables n'ont pu l'arrêter.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2030BM",
@@ -188,8 +190,9 @@
   "max": 16,
   "who": "Jeanne",
   "en": "Are you mad we stole your fort?",
-  "fr": "Etes-vous vexé que\nnous ayons pris\fvotre fort ?",
-  "src": "pinky"
+  "fr": "Êtes-vous vexé que\nnous ayons pris\fvotre fort ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2030BT",
@@ -276,8 +279,9 @@
   "max": 34,
   "who": "Talbot",
   "en": "If the tale could be recounted\nin a few short minutes,\nI would have told it long ago.",
-  "fr": "Si l'histoire avait pû être racontée\nen quelques minutes,\fje l'aurais fait depuis longtemps.",
-  "src": "pinky"
+  "fr": "Si l'histoire avait pu être racontée\nen quelques minutes,\fje l'aurais fait depuis longtemps.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2030AB",
@@ -340,8 +344,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "H-hey, stop that!\nDon't eat those!",
-  "fr": "H-hey, arrête-ça !\nÇa ne se mange pas !",
-  "src": "pinky"
+  "fr": "H-hey, arrête ça !\nÇa ne se mange pas !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2030AB",
@@ -356,16 +361,18 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Yick... What?\nWhat's this skill stone?",
-  "fr": "Yick... Quoi ? Une gemme ?",
-  "src": "pinky"
+  "fr": "Yick... Quoi ? Une pierre de\ncompétence ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2030AB",
   "max": 34,
   "who": "Jeanne",
   "en": "Did you make this out of those\ntwo skill stones that were here?",
-  "fr": "Tu l'as faite avec ces deux\ngemmes qui étaient ici ?",
-  "src": "pinky"
+  "fr": "Tu l'as faite avec ces deux\npierres qui étaient ici ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2030AB",
@@ -388,16 +395,18 @@
   "max": 34,
   "who": "",
   "en": "You created \"Sniper\" by combining\n\"Accuracy +5\" and \"Force Down.\"",
-  "fr": "Fusion de Précision +5 et\nBaisse de Force = Sniper !",
-  "src": "pinky"
+  "fr": "Fusion de Précision +5 et\nForce - = Tireur d'élite !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2030AB",
   "max": 34,
   "who": "",
   "en": "Skillbinding is now at your disposal!",
-  "fr": "Vous pouvez accédez à l'option\nFusion !",
-  "src": "pinky"
+  "fr": "Vous pouvez accéder à l'option\nFusion !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2040BM",
@@ -412,8 +421,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "And now, with all of you at my\nside, \nI believe I can win the coming\nbattle as well.",
-  "fr": "Et maintenant, vous êtes\ntoujours à mes côtés.\fJe suis certains que nous allons\nremporter celle-là.",
-  "src": "pinky"
+  "fr": "Et maintenant, vous êtes\ntoujours à mes côtés.\fJe suis certaine que nous allons\nremporter celle-là.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2040BM",
@@ -692,8 +702,9 @@
   "max": 16,
   "who": "Roger",
   "en": "That's the last question I'd\nexpect out of your mouth.",
-  "fr": "C'est le dernière\nquestion que je\fm'attendais à voir\nsortir\fde ta bouche.",
-  "src": "pinky"
+  "fr": "C'est la dernière\nquestion que je\fm'attendais à voir\nsortir\fde ta bouche.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2040BT",
@@ -764,8 +775,9 @@
   "max": 16,
   "who": "Roger",
   "en": "and the English don't stand a\nchance against you and me.",
-  "fr": "et les anglais n'ont\naucune chance contre\ftoi et moi.",
-  "src": "pinky"
+  "fr": "et les Anglais n'ont\naucune chance contre\ftoi et moi.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2040BT",
@@ -852,8 +864,9 @@
   "max": 34,
   "who": "Talbot",
   "en": "but only, I am convinced,\fout of sheer determination to\nnot be on Glasdale's.",
-  "fr": "Mais je suis convaincu que sa\nvéritable intention\fest de se débarasser de\nGlasdale.",
-  "src": "pinky"
+  "fr": "Mais je suis convaincu que sa\nvéritable intention\fest de se débarrasser de\nGlasdale.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2050BM",
@@ -908,8 +921,9 @@
   "max": 16,
   "who": "unité#175",
   "en": "Stop them, no\nmatter what!",
-  "fr": "Arrêtez les, quoi\nqu'il en coûte !",
-  "src": "pinky"
+  "fr": "Arrêtez-les, quoi\nqu'il en coûte !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2050BT",
@@ -1316,8 +1330,9 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Bah, that's dull. I'm sick of\nmen and monsters alike.\fThey're all so bloody useless!",
-  "fr": "Bah, c'est ennuyeux. Je suis\necoeuré des hommes \fet des monstres. Ils sont\ntous si inutiles !",
-  "src": "pinky"
+  "fr": "Bah, c'est ennuyeux. Je suis\nécoeuré des hommes \fet des monstres. Ils sont\ntous si inutiles !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2050AB",
@@ -1420,8 +1435,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "He cannot accede to the throne\nwithout a proper coronation at\nthe Cathedral of Reims!",
-  "fr": "Il ne peut pas accéder au trône\nsans avoir été solennellement\fcourroné à la cathédrale de\nReims !",
-  "src": "pinky"
+  "fr": "Il ne peut pas accéder au trône\nsans avoir été solennellement\fcouronné à la cathédrale de\nReims !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2051BM",
@@ -1668,8 +1684,9 @@
   "max": 34,
   "who": "Georges",
   "en": "Oh? Is my prethenth here a\nhindranth?",
-  "fr": "Oh ? Ma présence vous pose\nt'elle problème ?",
-  "src": "pinky"
+  "fr": "Oh ? Ma présence vous\npose-t-elle problème ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2051BM",
@@ -1780,8 +1797,9 @@
   "max": 34,
   "who": "Mawra",
   "en": "Spare us, you mawkish oaf.",
-  "fr": "Epargnez-nous ça, balourd\nsentimental.",
-  "src": "pinky"
+  "fr": "Épargnez-nous ça, balourd\nsentimental.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2060BM",
@@ -1868,8 +1886,9 @@
   "max": 34,
   "who": "Mawra",
   "en": "You down there! Yer that girl-\npup they call \"Pucelle,\" right?",
-  "fr": "Vous en-bas ! Vous êtes la\ngamine qu'ils appellent\f\"Pucelle\", non ?",
-  "src": "pinky"
+  "fr": "Vous en bas ! Vous êtes la\ngamine qu'ils appellent\f\"Pucelle\", non ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2060BM",
@@ -1908,8 +1927,9 @@
   "max": 16,
   "who": "Beatrix",
   "en": "Horror among\nhorrors!",
-  "fr": "Horreur parmis\nles horreurs !",
-  "src": "pinky"
+  "fr": "Horreur parmi\nles horreurs !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2060BT",
