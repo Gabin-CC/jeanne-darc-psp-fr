@@ -82,8 +82,8 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 .venv/bin/python tools/iso_extract.py "Jeanne d'Arc (USA).iso" extract
 
 # 1 bis. Vidéos sous-titrées de l'équipe PSP Traduction (non versionnées : contenu du jeu)
-#        à partir de leurs quatre patchs alpha de 2013, voir tools/import_equipe2013.py
-.venv/bin/python tools/import_equipe2013.py chemin/vers/patchs_2013
+#        à partir de leurs quatre patchs alpha de 2013 (patch-alpha-*.xdelta), joints à la Release
+.venv/bin/python tools/import_equipe2013.py dossier/des/patchs
 
 # 2. Vérifier les traductions puis construire "Jeanne d'Arc (FR).iso"
 .venv/bin/python tools/check_trad.py
@@ -154,7 +154,7 @@ Pour signaler un problème en jeu, ouvrez une *issue* avec une capture et le con
 ## Crédits
 
 **Équipe PSP Traduction** — traduction des dialogues : Pinky & Bleachy ; graphismes : Raven ;
-avec Lyan, Alb_à_tort, Loki, Mardhor, Messis, BahaBulle et Luchien.
+avec Lyan, Alb_à_tort, Loki, Mardhor, Messis et BahaBulle.
 <!-- À compléter avec les rôles confirmés par Pinky avant la fusion dans main. -->
 
 Intégration, outils, objets/menus et relecture : ce dépôt.
