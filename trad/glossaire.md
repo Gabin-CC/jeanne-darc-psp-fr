@@ -115,20 +115,12 @@ dans les dialogues, réutiliser **exactement** la traduction qui s'y trouve.
 - Wyvern → wyverne. Qrow → Qrow. sol / luna / stella (éléments) → identiques.
 - Durendal → Durandal. Armlet → Bracelet.
 
-## Règle des accents par nationalité (DÉCISION DE L'UTILISATEUR)
+## Dialogues de l'équipe PSP Traduction
 
-- **Les Français parlent un français correct**, sans accent. Y compris **Colet** (accent français dans la VO
-  anglaise → en VF il parle normalement ; il garde sa personnalité vantarde/précieuse, ses « mon ami »,
-  « voilà », « sacrebleu » sont naturels en français).
-- **Les Anglais parlent avec un accent anglais LÉGER** : quelques « oune » pour « une/un » (pas partout),
-  anglicismes ponctuels (« my dear », « Damn it », « Oh my God », « bloody », « indeed »), tournure maladroite
-  occasionnelle. Toujours lisible ; les méchants restent menaçants et crédibles.
-  Exemple Talbot : « Tu es oune petite fille courageuse... mais ta guerre est finie, my dear. »
-  Exemple soldat : « Les Français attaquent ! Damn it ! »
-- Anglais = Talbot, Glasdale (William), le duc de Bedford, Henry VI (et Cuisses = Henry VI dans un corps
-  de crapaud), soldats/officiers/capitaine/armée anglais, le geôlier de Rouen, tout ennemi qui se dit anglais.
-- Ne sont PAS anglais : le duc de Bourgogne et les Bourguignons, Isabeau, Richard, Richemont, les démons,
-  les thérions, les nains (qui gardent leur zozotement en « w »).
+- Les dialogues sont la traduction de Pinky & Bleachy, reprise **telle quelle** : pas d'accent anglais
+  ajouté (la règle d'accent de la v1 est abandonnée), seules l'orthographe et les contre-sens validés par
+  Pinky ont été corrigés.
+- Le vocabulaire des objets, menus et cartes est aligné sur le leur (voir `termes_logic.md`).
 
 ## Tics de langage (indépendants de la nationalité)
 

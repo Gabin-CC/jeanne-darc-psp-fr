@@ -1,6 +1,5 @@
-"""Détection et remplacement de mots dans les atlas de texte GIM (interface).
+"""Remplacement de mots dans les atlas de texte GIM (interface).
 
-- detect_words(im) : cadres des mots (composantes connexes regroupées par ligne).
 - render_word(im, box, text, font, ...) : efface le mot d'origine et dessine `text` dans
   le même cadre, en reprenant les couleurs (dégradé vertical du remplissage, contour) du mot
   d'origine. Le texte est resserré horizontalement si nécessaire pour tenir dans le cadre.
@@ -8,13 +7,7 @@
 from PIL import Image, ImageFilter, ImageFont, ImageDraw, ImageChops
 
 FONTS = {
-    'serif': '/System/Library/Fonts/Supplemental/Georgia Bold.ttf',
-    'times': '/System/Library/Fonts/Supplemental/Times New Roman Bold.ttf',
-    'sans': ('/System/Library/Fonts/Optima.ttc', 1),  # Optima Bold
-    'helv': ('/System/Library/Fonts/Helvetica.ttc', 1),  # Helvetica Bold
-    'optima': ('/System/Library/Fonts/Optima.ttc', 0),  # Optima Regular
-    'sans_it': ('/System/Library/Fonts/Optima.ttc', 3),  # Optima Bold Italic
-    'black': ('/System/Library/Fonts/Optima.ttc', 4),  # Optima ExtraBlack
+    'sans': ('/System/Library/Fonts/Optima.ttc', 1),  # Optima Bold (police système macOS)
 }
 
 
@@ -23,61 +16,6 @@ def _font(name, size):
     if isinstance(f, tuple):
         return ImageFont.truetype(f[0], size, index=f[1])
     return ImageFont.truetype(f, size)
-
-
-def detect_words(im, alpha_min=40, gap=4, region=None):
-    """Renvoie une liste de cadres (x0, y0, x1, y1) exclusifs."""
-    a = im.getchannel('A')
-    W, H = im.size
-    px = a.load()
-    x0r, y0r, x1r, y1r = region or (0, 0, W, H)
-    seen = set()
-    comps = []
-    for y in range(y0r, y1r):
-        for x in range(x0r, x1r):
-            if px[x, y] >= alpha_min and (x, y) not in seen:
-                stack = [(x, y)]
-                seen.add((x, y))
-                bx0 = bx1 = x
-                by0 = by1 = y
-                while stack:
-                    cx, cy = stack.pop()
-                    bx0, bx1, by0, by1 = min(bx0, cx), max(bx1, cx), min(by0, cy), max(by1, cy)
-                    for nx, ny in ((cx + 1, cy), (cx - 1, cy), (cx, cy + 1), (cx, cy - 1),
-                                   (cx + 1, cy + 1), (cx - 1, cy - 1), (cx + 1, cy - 1), (cx - 1, cy + 1)):
-                        if x0r <= nx < x1r and y0r <= ny < y1r and (nx, ny) not in seen and px[nx, ny] >= alpha_min:
-                            seen.add((nx, ny))
-                            stack.append((nx, ny))
-                comps.append([bx0, by0, bx1 + 1, by1 + 1])
-    # regroupe les composantes proches sur la même ligne
-    merged = True
-    while merged:
-        merged = False
-        comps.sort()
-        out = []
-        for c in comps:
-            for o in out:
-                vov = min(o[3], c[3]) - max(o[1], c[1])
-                hgap = max(c[0] - o[2], o[0] - c[2])
-                if vov > 0.4 * min(o[3] - o[1], c[3] - c[1]) and hgap <= gap:
-                    o[:] = [min(o[0], c[0]), min(o[1], c[1]), max(o[2], c[2]), max(o[3], c[3])]
-                    merged = True
-                    break
-            else:
-                out.append(c)
-        comps = out
-    return [tuple(c) for c in sorted(comps, key=lambda c: (c[1], c[0]))]
-
-
-def annotate(im, boxes, scale=3):
-    bg = Image.new('RGBA', im.size, (70, 70, 90, 255))
-    bg.alpha_composite(im)
-    big = bg.resize((im.width * scale, im.height * scale), Image.NEAREST)
-    d = ImageDraw.Draw(big)
-    for i, (x0, y0, x1, y1) in enumerate(boxes):
-        d.rectangle((x0 * scale, y0 * scale, x1 * scale - 1, y1 * scale - 1), outline=(255, 0, 0, 255))
-        d.text((x0 * scale + 1, y0 * scale), str(i), fill=(255, 255, 0, 255))
-    return big
 
 
 def _style(im, box):
@@ -218,51 +156,4 @@ def render_word(im, box, text, font='sans', cap=None, base=None, outline_px=1, s
                 fp[x, y] = c + (255,)
         out.paste(fill, (0, 0), layer_mask)
     im.alpha_composite(out, (x0, y0))
-    return im
-
-
-def render_curve_letters(im, centers, text, font='times', cap=11, radius=8, src=None):
-    """Remplace des lettres espacées le long d'une courbe (inscription de carte) :
-    efface les lettres d'origine (inpainting OpenCV) puis répartit `text` sur la même courbe."""
-    import numpy as np
-    import cv2
-    src = src or im
-    arr = np.array(src.convert('RGBA'))
-    rgb = arr[:, :, :3].copy()
-    lum = rgb.astype(int).sum(axis=2)
-    mask = np.zeros(lum.shape, np.uint8)
-    ink = []
-    for cx, cy in centers:
-        y0, y1 = max(0, cy - radius), min(lum.shape[0], cy + radius + 1)
-        x0, x1 = max(0, cx - radius), min(lum.shape[1], cx + radius + 1)
-        patch = lum[y0:y1, x0:x1]
-        thr = np.percentile(patch, 70) - 60
-        sel = patch < thr
-        mask[y0:y1, x0:x1][sel] = 255
-        ink.append(rgb[y0:y1, x0:x1][sel])
-    mask = cv2.dilate(mask, np.ones((3, 3), np.uint8))
-    rgb = cv2.inpaint(np.ascontiguousarray(rgb), mask, 3, cv2.INPAINT_TELEA)
-    allink = np.concatenate(ink) if ink else np.array([[80, 50, 20]])
-    dark = allink[allink.astype(int).sum(axis=1) <= np.percentile(allink.astype(int).sum(axis=1), 25)]
-    color = tuple(int(v) for v in np.median(dark if len(dark) else allink, axis=0))
-    # courbe : polyligne par les centres d'origine, rééchantillonnée pour len(text) lettres
-    pts = np.array(centers, float)
-    seg = np.r_[0, np.cumsum(np.hypot(*np.diff(pts, axis=0).T))]
-    tgt = np.linspace(0, seg[-1], len(text))
-    xs, ys = np.interp(tgt, seg, pts[:, 0]), np.interp(tgt, seg, pts[:, 1])
-    base = Image.fromarray(np.dstack([rgb, arr[:, :, 3]]), 'RGBA')
-    S = 4
-    f = _font(font, cap * S * 2)
-    hb = f.getbbox('H')
-    f = _font(font, max(6, int(cap * S * 2 * cap * S / (hb[3] - hb[1]))))
-    layer = Image.new('L', (im.width * S, im.height * S), 0)
-    d = ImageDraw.Draw(layer)
-    for ch, x, y in zip(text, xs, ys):
-        bb = f.getbbox(ch)
-        d.text((x * S - (bb[0] + bb[2]) / 2, y * S - (bb[1] + bb[3]) / 2), ch, font=f, fill=255,
-               stroke_width=S // 2, stroke_fill=255)
-    layer = layer.resize(im.size, Image.LANCZOS).filter(ImageFilter.GaussianBlur(0.4))
-    ink_img = Image.new('RGBA', im.size, color + (255,))
-    base.paste(ink_img, (0, 0), layer)
-    im.paste(base, (0, 0))
     return im

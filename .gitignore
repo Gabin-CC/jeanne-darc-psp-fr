@@ -4,18 +4,18 @@
 *.cso
 extract/
 iso_listing.txt
+trad/equipe2013/*.PMF
 # Patchs : publiés dans les Releases GitHub, pas dans le dépôt
 *.xdelta
+release/
 # Python
 __pycache__/
 *.pyc
 .venv/
 venv/
 .DS_Store
-release/
+# Dossiers de travail locaux
 a_valider/
 promo/
 trad officielle/
-.venv/
 trad/revision/
-trad/equipe2013/*.PMF

@@ -15,6 +15,12 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 CODES = re.compile(r'%[0-9.]*[dsxf]|\\u[0-9a-fA-F]{4}')
 
 
+def trad_files():
+    """Fichiers de traduction : dialogues + chaînes à taille fixe (objets, cartes, interface, menus)."""
+    return (sorted(glob.glob(os.path.join(ROOT, 'trad/dialogues/*.json'))) +
+            [os.path.join(ROOT, 'trad', n) for n in ('logic.json', 'cartes.json', 'interface.json', 'menus.json')])
+
+
 def check_entry(e, fixed):
     err = []
     en, fr = e['en'], e['fr']
@@ -52,7 +58,7 @@ def check_entry(e, fixed):
 
 
 def check_file(path):
-    fixed = 'dialogues' not in path and '/revision/' not in path
+    fixed = 'dialogues' not in path
     try:
         data = json.load(open(path, encoding='utf-8'))
     except Exception as x:
@@ -72,8 +78,7 @@ def check_file(path):
 
 
 def main():
-    paths = sys.argv[1:] or sorted(p for p in glob.glob(os.path.join(ROOT, 'trad/**/*.json'), recursive=True)
-                                   if '/revision/' not in p and '/pinky/' not in p and not p.endswith('images.json'))
+    paths = sys.argv[1:] or trad_files()
     tot_err = tot_done = tot = 0
     for p in paths:
         e, d, n = check_file(p)

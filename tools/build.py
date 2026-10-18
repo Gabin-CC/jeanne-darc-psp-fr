@@ -35,9 +35,7 @@ def check():
     """Vérifie toutes les traductions (même règles que check_trad.py)."""
     import check_trad
     tot_err = 0
-    for p in sorted(glob.glob(os.path.join(ROOT, 'trad/**/*.json'), recursive=True)):
-        if '/revision/' in p or '/pinky/' in p or p.endswith('images.json'):
-            continue
+    for p in check_trad.trad_files():
         tot_err += check_trad.check_file(p)[0]
     print(f'{tot_err} erreur(s) de traduction')
 

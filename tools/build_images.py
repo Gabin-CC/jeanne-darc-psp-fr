@@ -1,4 +1,8 @@
-"""Applique trad/images.json aux images GIM : renvoie {chemin_relatif_DATA: octets GIM}.
+"""Textures françaises : renvoie {chemin_relatif_DATA: octets GIM/GMO}.
+
+- trad/raven/ : textures et pages d'aide de Raven (équipe PSP Traduction), reprises telles quelles ;
+- trad/images.json : nos retouches restantes (carte du monde WMAP.SPF, icônes WMICON04).
+Les copies exactes de ces textures dans les archives SPF sont remplacées aussi.
 
 Usage direct : python3 tools/build_images.py [dossier_apercu]  -> écrit des PNG d'aperçu.
 """
@@ -9,10 +13,9 @@ import sys
 sys.path.insert(0, os.path.dirname(__file__))
 from gim import Gim
 from gimtext import render_word
-from gimbanner import render_location, render_chapter, render_caption
 import gimwm
 import re
-from PIL import Image, ImageDraw
+from PIL import Image
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 DATA = os.path.join(ROOT, 'extract/PSP_GAME/USRDIR/DATA')
@@ -30,32 +33,6 @@ def _extend(im, box, up=2, down=4):
         if empty(y1):
             y1 += 1
     return x0, y0, x1, y1
-
-
-def _ring(im, box):
-    """Dessine un « O » en anneau (contour sombre, plein clair, centre transparent) dans `box`,
-    avec les couleurs de la lettre voisine à gauche."""
-    x0, y0, x1, y1 = box
-    p = im.load()
-    ref = [p[x, y] for y in range(y0, y1) for x in range(x0 - 9, x0) if p[x, y][3] > 200]
-    lum = lambda c: sum(c[:3])
-    ref.sort(key=lum)
-    dark = ref[0][:3] if ref else (20, 20, 20)
-    light = ref[-len(ref) // 4][:3] if ref else (200, 200, 200)
-    im.paste(Image.new('RGBA', (x1 - x0, y1 - y0), (0, 0, 0, 0)), (x0, y0))
-    # lettre O : ovale vertical, plus étroit que haut, centré dans la case
-    ow = min(x1 - x0, max(5, round((y1 - y0) * 0.95)))
-    x0 = x0 + ((x1 - x0) - ow) // 2
-    x1 = x0 + ow
-    S = 8
-    w, h = (x1 - x0) * S, (y1 - y0) * S
-    big = Image.new('RGBA', (w, h), (0, 0, 0, 0))
-    d = ImageDraw.Draw(big)
-    for inset, col in ((0, dark + (255,)), (S, light + (255,)), (S * 5 // 2, dark + (255,)),
-                       (S * 3, (0, 0, 0, 0))):
-        if w - 1 - 2 * inset > 0 and h - 1 - 2 * inset > 0:
-            d.ellipse((inset, inset, w - 1 - inset, h - 1 - inset), fill=col)
-    im.alpha_composite(big.resize((x1 - x0, y1 - y0), Image.LANCZOS), (x0, y0))
 
 
 def _gim_spans(data):
@@ -98,7 +75,6 @@ RAVEN = os.path.join(ROOT, 'trad/raven')
 def raven_textures():
     """Textures refaites par Raven (équipe PSP Traduction) : GIM tels quels, pages d'aide PNG
     converties en GIM avec une palette recalculée."""
-    from PIL import Image
     out = {}
     gdir = os.path.join(RAVEN, 'gim')
     for root, _, files in os.walk(gdir):
@@ -138,41 +114,11 @@ def build(preview_dir=None):
         assert len(new) == b - a
         data[a:b] = new
         _preview(im, rel + idx, preview_dir, 2)
-    import helppage
-    for rel, ops in spec.pop('_help', {}).items():
-        g = Gim(open(os.path.join(DATA, rel), 'rb').read())
-        im = g.to_image()
-        helppage.render_page(im, ops)
-        out[rel] = g.from_image(im)
-        _preview(im, rel, preview_dir, 2)
-    for rel, it in spec.pop('_banners', {}).items():
-        g = Gim(open(os.path.join(DATA, rel), 'rb').read())
-        im = g.to_image()
-        if it['kind'] == 'location':
-            render_location(im, it['fr'])
-        elif it['kind'] == 'chapter':
-            render_chapter(im, it['line1'], it['fr'])
-        else:
-            render_caption(im, it['fr'])
-        out[rel] = g.from_image(im)
-        _preview(im, rel, preview_dir)
     for rel, items in spec.items():
         g = Gim(open(os.path.join(DATA, rel), 'rb').read())
         im = g.to_image()
         orig = im.copy()
         for it in items:
-            if it.get('draw') == 'clear':
-                x0, y0, x1, y1 = it['box']
-                im.paste(Image.new('RGBA', (x1 - x0, y1 - y0), (0, 0, 0, 0)), (x0, y0))
-                continue
-            if it.get('draw') == 'curve':
-                from gimtext import render_curve_letters
-                render_curve_letters(im, [tuple(c) for c in it['centers']], it['fr'], src=orig,
-                                     cap=it.get('cap', 11), radius=it.get('radius', 8))
-                continue
-            if it.get('draw') == 'ring':
-                _ring(im, tuple(it['box']))
-                continue
             it = dict(it)
             it['box'] = list(_extend(orig, it['box'], up=it.get('ext_up', 2), down=it.get('ext_down', 4)))
             it.pop('ext_up', None)
@@ -191,7 +137,6 @@ def build(preview_dir=None):
 def _preview(im, rel, preview_dir, scale=1):
     if not preview_dir:
         return
-    from PIL import Image
     os.makedirs(preview_dir, exist_ok=True)
     base = Image.new('RGBA', im.size, (70, 70, 90, 255))
     base.alpha_composite(im)

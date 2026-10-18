@@ -11,7 +11,8 @@
 **👉 [Télécharger le patch](https://github.com/Gabin-CC/jeanne-darc-psp-fr/releases/latest)** — instructions d'installation [plus bas](#installer-le-patch-joueurs).
 
 Traduction amateur intégrale en français de **Jeanne d'Arc** (Level-5, PSP, 2007), à partir de la
-version américaine. Le jeu n'est jamais sorti officiellement en français (la réédition PS4/PS5 de
+version américaine. Les dialogues et les graphismes sont l'œuvre de l'équipe **PSP Traduction**
+(voir [Crédits](#crédits)). Le jeu n'est jamais sorti officiellement en français (la réédition PS4/PS5 de
 2024 est en anglais et en japonais uniquement).
 
 > *Fan translation of the PSP game Jeanne d'Arc into French. Apply the `.xdelta` patch from the
@@ -21,18 +22,19 @@ version américaine. Le jeu n'est jamais sorti officiellement en français (la r
 
 | | |
 |---|---|
-| Dialogues (toute l'histoire, colisée et stages annexes) | ✅ ~6 100 répliques |
+| Dialogues (toute l'histoire, colisée et stages annexes) | ✅ ~6 100 répliques, traduction de l'équipe PSP Traduction |
 | Objets, armes, armures, sorts, compétences et descriptions | ✅ |
 | Menus, sauvegarde, options, aide textuelle | ✅ |
 | Titres de chapitres, objectifs, noms de lieux, carte du monde | ✅ |
-| Textures : écran titre, interface de combat, menus, carte du monde, bandeaux de lieux, cartons de chapitre | ✅ |
-| Pages d'aide illustrées (`HELP/*.GIM`) | ⚠️ page « Combat » traduite, les autres en anglais |
-| Vidéos | (pas de texte à traduire) |
+| Textures : écran titre, interface de combat, menus, bandeaux de lieux, cartons de chapitre, bannières de compétences | ✅ |
+| Pages d'aide illustrées (`HELP/*.GIM`) | ✅ les 35 pages |
+| Vidéos | ✅ sous-titrées (20 cinématiques) |
 
 Partis pris de traduction :
-- noms historiques et géographiques sous leur forme française (Domrémy, Orléans, duc de Bourgogne, Henri VI…) ;
-- les Français parlent un français correct, **les Anglais parlent avec un léger accent anglais** ;
-- les tics de langage des personnages sont conservés (La Hire roule les r, Rufus remplace ses consonnes par des R, les nains zozotent…).
+- noms historiques et géographiques sous leur forme française (Domrémy, Orléans, duc de Bourgogne…),
+  sauf les rois anglais qui gardent leur nom (Henry V, Henry VI) ;
+- les tics de langage des personnages sont conservés (La Hire roule les r, Rufus remplace ses consonnes par des R, les nains zozotent…) ;
+- la carte parchemin du monde garde ses inscriptions d'origine.
 
 Le glossaire complet est dans [`trad/glossaire.md`](trad/glossaire.md).
 
@@ -65,17 +67,13 @@ Compatible **PPSSPP** et **PSP avec custom firmware** (l'exécutable est fourni 
 
 ## Limites connues
 
-- « LEVEL UP! », « STAGE CLEARED » et les bannières de compétences « Burning Aura » /
-  « Unified Guard » restent en anglais : le jeu les compose lettre par lettre et aucun mot français
-  ne correspond au même motif de lettres. « GAME OVER » est conservé (usage courant en français).
 - La police système de la PSP n'a pas de tiret court : les traits d'union utilisent le caractère
   U+2012, le plus fin disponible.
-- Seule la première page d'aide illustrée (« Combat ») est traduite ; les 34 autres restent en anglais.
 
 ## Reconstruire le patch depuis les sources
 
-Prérequis : Python 3.10+, `xdelta3`, et **macOS** pour les textures (les images sont rendues avec les
-polices système Optima, Georgia, Times New Roman et Helvetica — voir `tools/gimtext.py`).
+Prérequis : Python 3.10+, `xdelta3`, et **macOS** pour les textures (les noms de la carte du monde
+sont rendus avec la police système Optima — voir `tools/gimtext.py`).
 
 ```sh
 python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
@@ -98,30 +96,40 @@ xdelta3 -e -9 -S none -s "Jeanne d'Arc (USA).iso" "Jeanne d'Arc (FR).iso" Jeanne
 ## Organisation
 
 ```
-trad/
-  dialogues/NNN.json   mémoire de traduction des dialogues (ordre de l'histoire)
-                       {ctx: fichier source, max: largeur de ligne, who: locuteur, en, fr}
+trad/                  tout ce qui est traduit (c'est ici qu'on corrige)
+  dialogues/NNN.json   dialogues, dans l'ordre de l'histoire
+                       {ctx: script source, max: largeur, who: locuteur, en, fr, src, relu}
   logic.json           objets, sorts, compétences, ennemis (champs de taille fixe, max = octets)
   cartes.json          titres de chapitres, objectifs, noms d'unités
   menus.json           textes de l'exécutable (menus, sauvegarde…)
   interface.json       libellés d'interface et noms de lieux de la carte du monde
-  images.json          textures retouchées (cadres, texte français, police)
-  raven/               textures et pages d'aide de Raven (équipe PSP Traduction)
-  equipe2013/          MENU_03, MENU_TEX et vidéos (*.PMF, non versionnées) de l'équipe PSP Traduction
+  raven/               textures (gim/, gmo/) et pages d'aide (help/*.png) de Raven
+  equipe2013/          textures MENU_03 et MENU_TEX + vidéos *.PMF (non versionnées) de l'équipe
+  images.json          nos retouches de textures restantes (carte du monde, icônes)
   glossaire.md         noms, termes, tutoiement/vouvoiement, règles de style
   termes_logic.md      noms officiels des objets, sorts et compétences
 tools/
-  build.py             construit l'ISO français
+  build.py             construit l'ISO français (point d'entrée)
+  check_trad.py        vérifie longueurs de ligne, codes de contrôle, octets
+  iso_extract.py       extrait l'ISO US (nécessaire au build)
   import_equipe2013.py récupère les vidéos sous-titrées depuis les patchs 2013 de l'équipe
-  check_trad.py        vérifie longueurs, codes de contrôle, octets
-  jda_event.py         format des scripts de dialogue (EVENT/ST*.BIN)
-  jda_fixed.py         chaînes en champs de taille fixe
   iso_patch.py         réécriture de l'ISO + table FILEINFO.DAT du jeu
+  jda_event.py         format des scripts de dialogue (EVENT/ST*.BIN)
+  jda_fixed.py         chaînes en champs de taille fixe ; extract_fixed.py : leurs emplacements
+  build_images.py      textures : celles de Raven et de l'équipe + nos retouches
   gim.py               lecture/écriture des textures GIM de la PSP
-  gimtext.py, gimbanner.py, gimwm.py, helppage.py, build_images.py   rendu du texte français dans les textures
-  speakers.py          attribution des répliques aux personnages (lecture du bytecode)
-  extract_*.py         extraction des textes depuis l'ISO
+  gimtext.py, gimwm.py rendu du texte français dans les textures (icônes, carte du monde)
+docs/                  images du README
 ```
+
+### D'où vient quoi
+
+| Contenu | Source |
+|---|---|
+| Dialogues | équipe PSP Traduction (Pinky & Bleachy), `src: "pinky"` ; relecture orthographique `relu: true` ; quelques répliques absentes de leurs scripts traduites par nous (`src: "ia"`) |
+| Textures, bandeaux, pages d'aide | Raven (équipe PSP Traduction), `trad/raven/` |
+| Vidéos sous-titrées, écrans NIVEAU FINI / NIVEAU + ! | ISO patché de l'équipe du 12/04/2013, `trad/equipe2013/` |
+| Objets, sorts, menus, cartes, carte du monde | ce dépôt, vocabulaire aligné sur celui de l'équipe |
 
 ### Notes techniques
 
@@ -142,6 +150,14 @@ Les corrections sont les bienvenues (coquilles, tournures, débordements à l'é
 4. Ouvrez une *pull request*, idéalement avec une capture d'écran.
 
 Pour signaler un problème en jeu, ouvrez une *issue* avec une capture et le contexte (chapitre, scène).
+
+## Crédits
+
+**Équipe PSP Traduction** — traduction des dialogues : Pinky & Bleachy ; graphismes : Raven ;
+avec Lyan, Alb_à_tort, Loki, Mardhor, Messis, BahaBulle et Luchien.
+<!-- À compléter avec les rôles confirmés par Pinky avant la fusion dans main. -->
+
+Intégration, outils, objets/menus et relecture : ce dépôt.
 
 ## Licences et mentions légales
 
