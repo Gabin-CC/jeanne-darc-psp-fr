@@ -85,8 +85,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I don't even hear the Voice\nthat much. Just now and then!",
-  "fr": "Je n'ai même jamais vraiment\nentendu cette voix.\fÀ part maintenant !",
-  "src": "pinky"
+  "fr": "Je n'ai même jamais vraiment\nentendu cette voix.\fÀ part de temps en temps !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1061BM",
@@ -985,8 +986,9 @@
   "max": 16,
   "who": "Rufus",
   "en": "Ry thought I\nruz done for!",
-  "fr": "Je pensais\nl'avoir fait !",
-  "src": "pinky"
+  "fr": "Je me croyais\nfichu !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1070BT",
@@ -1185,8 +1187,9 @@
   "max": 16,
   "who": "La Hire",
   "en": "Be right there!",
-  "fr": "Venez là !",
-  "src": "pinky"
+  "fr": "J'arrive !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1070BT",
@@ -1325,8 +1328,9 @@
   "max": 16,
   "who": "La Hire",
   "en": "Stampede!",
-  "fr": "On se tire !",
-  "src": "pinky"
+  "fr": "À l'assaut !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1070BT",

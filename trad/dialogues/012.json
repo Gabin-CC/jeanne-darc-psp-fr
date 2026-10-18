@@ -238,8 +238,9 @@
   "max": 34,
   "who": "Gilles",
   "en": "Look after \"Jeanne.\"\nFarewell.",
-  "fr": "Retrouve \"Jeanne.\"\nAdieu.",
-  "src": "pinky"
+  "fr": "Veille sur \"Jeanne.\"\nAdieu.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2101BM",
@@ -431,8 +432,9 @@
   "max": 34,
   "who": "Charles VII",
   "en": "\"The King of Heaven commands\nwe stay our swords for the\nnonce.\" Were those not your\nexact words?",
-  "fr": "\"Le Roi des Cieux commande\nque nous tenions nos épées\fà disposition.\" N'étais-ce\npas vos mots exacts ?",
-  "src": "pinky"
+  "fr": "\"Le Roi des Cieux commande\nque nous retenions nos épées\fpour l'heure.\" N'était-ce\npas vos mots exacts ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2101BM",
@@ -1574,8 +1576,9 @@
   "max": 34,
   "who": "Richard",
   "en": "Your other choice:\fsubjugate a group of sellswords-\nturned-brigands.",
-  "fr": "Le second :\fFaire capituler un groupe de\nmarchands d'armes devenus\fbrigands.",
-  "src": "pinky"
+  "fr": "Le second :\fFaire capituler un groupe de\nmercenaires devenus\fbrigands.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3011BM",

@@ -223,8 +223,9 @@
   "max": 16,
   "who": "Talbot",
   "en": "I, for one, have not!",
-  "fr": "Je n'y suis pour\nrien !",
-  "src": "pinky"
+  "fr": "Moi, je n'ai\npas oublié !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2030BT",
@@ -873,8 +874,9 @@
   "max": 34,
   "who": "Talbot",
   "en": "Luck will save you no more.\fIt's time you learned that power\ntrumps all!",
-  "fr": "La chance ne vous sauvera plus.\nIl est temps que vous appreniez\fque le pouvoir se joue de nous\ntous !",
-  "src": "pinky"
+  "fr": "La chance ne vous sauvera plus.\nIl est temps que vous appreniez\fque le pouvoir l'emporte sur\ntout !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2050BT",
@@ -1596,8 +1598,9 @@
   "max": 34,
   "who": "Richemont",
   "en": "Bad blood between you and I\nwould hardly be anything new.",
-  "fr": "L'animosité entre vous et moi\nne fera pas avancer le débat.",
-  "src": "pinky"
+  "fr": "L'animosité entre vous et moi\nn'aurait rien de nouveau.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2051BM",
@@ -1660,8 +1663,9 @@
   "max": 34,
   "who": "Richemont",
   "en": "I can still recall the days you\nwere just a squire.",
-  "fr": "Je ne me rappelle même plus du\ntemps où vous n'étiez\fqu'un simple écuyer.",
-  "src": "pinky"
+  "fr": "Je me rappelle encore le\ntemps où vous n'étiez\fqu'un simple écuyer.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2051BM",
@@ -1911,8 +1915,9 @@
   "max": 34,
   "who": "Mawra",
   "en": "We boss types have got bossier \nmatters to attend to.",
-  "fr": "Nous les Boss, avons des moyens\nde boss\fpour régler votre compte.",
-  "src": "pinky"
+  "fr": "Nous les Boss, avons des affaires\nde boss\fplus importantes à régler.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2060BM",

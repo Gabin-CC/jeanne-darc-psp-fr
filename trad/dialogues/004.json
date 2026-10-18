@@ -132,8 +132,9 @@
   "max": 16,
   "who": "Gilles",
   "en": "Now you've\ndone it...",
-  "fr": "Maintenant,\nvous avez réussi.",
-  "src": "pinky"
+  "fr": "Cette fois,\nc'en est trop...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050BT",
@@ -213,8 +214,9 @@
   "max": 16,
   "who": "Jeanne",
   "en": "Come on, let's make a break for\nthe northern border!",
-  "fr": "Viens, nous ferons\nune pause à la\ffrontière nord !",
-  "src": "pinky"
+  "fr": "Viens, fuyons\nvers la\ffrontière nord !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050BT",
@@ -237,8 +239,9 @@
   "max": 16,
   "who": "Jeanne",
   "en": "Everyone's accounted for...but\njust who was that man?",
-  "fr": "Tout le monde à\nl'aire de le\fconnaitre... Mais\nqui est-il ?",
-  "src": "pinky"
+  "fr": "Tout le monde est\nlà... Mais qui\fétait cet homme ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050BT",
@@ -620,8 +623,9 @@
   "max": 34,
   "who": "Georges",
   "en": "I thay we leaff the warring to\nthe \"thavior.\"",
-  "fr": "Je dis que nous allons faire la\nguéguerre au \"sauveur.\"",
-  "src": "pinky"
+  "fr": "Je dis que nous laissons la\nguéguerre au \"sauveur.\"",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050AB",
@@ -668,8 +672,9 @@
   "max": 34,
   "who": "Georges",
   "en": "Why, thertainly!",
-  "fr": "Pourquoi, certainement !",
-  "src": "pinky"
+  "fr": "Mais certainement !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050AB",
@@ -1320,24 +1325,27 @@
   "max": 16,
   "who": "Gilles",
   "en": "Let us put this\nwretch down.",
-  "fr": "Laissez-nous panser\ncette douleur.",
-  "src": "pinky"
+  "fr": "Achevons ce\nmisérable.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1060BT",
   "max": 16,
   "who": "Gilles",
   "en": "You make this\nalmost too easy.",
-  "fr": "C'est tellement\nfacile pour toi.",
-  "src": "pinky"
+  "fr": "Tu me facilites\nla tâche.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1060BT",
   "max": 16,
   "who": "Gilles",
   "en": "Careless me...",
-  "fr": "Oublie moi...",
-  "src": "pinky"
+  "fr": "Quelle\nimprudence...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1060BT",
@@ -1456,8 +1464,9 @@
   "max": 16,
   "who": "Gilles",
   "en": "Do not stay\nyour hand!",
-  "fr": "Ne laisse pas\ntrainer tes mains !",
-  "src": "pinky"
+  "fr": "Ne retiens\npas tes coups !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1060BT",
@@ -1568,8 +1577,9 @@
   "max": 16,
   "who": "unité#175, unité#174, unité#172",
   "en": "Some Pucelle you\nare! Hah!",
-  "fr": "Vous n'êtes qu'une\nPucelle ! Hah !",
-  "src": "pinky"
+  "fr": "Belle Pucelle\nque voilà ! Hah !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1060BT",
@@ -1777,16 +1787,18 @@
   "max": 34,
   "who": "Gilles",
   "en": "Come join me in Chinon \nwhen you're ready. \nSafe journey, Jeanne.",
-  "fr": "Rejoingnez-moi à Chinon\nquand vous serez prête. \fBonne journée, Jeanne.",
-  "src": "pinky"
+  "fr": "Rejoignez-moi à Chinon\nquand vous serez prête. \fBonne route, Jeanne.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1060AB",
   "max": 34,
   "who": "Jeanne",
   "en": "...All right.\nYou too, Gilles.",
-  "fr": "...D'accord.\nBonne journée aussi, Gilles.",
-  "src": "pinky"
+  "fr": "...D'accord.\nBonne route à vous aussi, Gilles.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1061BM",

@@ -110,8 +110,9 @@
   "max": 34,
   "who": "Cuisses",
   "en": "Some of its residents actually\nlived through the reaper war\\u2014",
-  "fr": "Certains de ses habitants on\nvécu grâce à la guerre\fdes moissoneurs...",
-  "src": "pinky"
+  "fr": "Certains de ses habitants ont\nvécu la guerre\fdes moissonneurs...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3091BM",
@@ -207,8 +208,9 @@
   "max": 34,
   "who": "Gilles",
   "en": "I was blessed with a good home.\nI wanted for nothing...and yet...",
-  "fr": "J'ai eu la chance d'avoir une\nbonne famille...\fJe n'ai rien demandé...\nEt maintenant...",
-  "src": "pinky"
+  "fr": "J'ai eu la chance d'avoir une\nbonne famille...\fJe ne manquais de rien...\nEt maintenant...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3091BM",
@@ -321,8 +323,9 @@
   "max": 34,
   "who": "La Hire",
   "en": "Back then, La Hire had Mawra\nand Blaze to sneak with...",
-  "fr": "À l'époque, la Hire devait\nesquiver Mawra et Blaze...",
-  "src": "pinky"
+  "fr": "À l'époque, La Hire se faufilait\navec Mawra et Blaze...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4010BM",
@@ -538,8 +541,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Aren't you from the Warren?\nThis child is no enemy of yours!",
-  "fr": "N'êtes-vous pas de la tanière ?\fCet enfant n'est pas notre\nennemi !",
-  "src": "pinky"
+  "fr": "N'êtes-vous pas de la tanière ?\fCet enfant n'est pas votre\nennemi !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4010BM",

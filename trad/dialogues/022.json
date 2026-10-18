@@ -191,7 +191,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "The late king Henry V's sudden\npassing...",
-  "fr": "Le dernier roi, Henri V, est mort\nbrutalement...",
+  "fr": "Le dernier roi, Henry V, est mort\nbrutalement...",
   "src": "pinky"
  },
  {
@@ -787,7 +787,7 @@
   "max": 16,
   "who": "Jeanne",
   "en": "Hurry! Stop him before he can\nmake it back to Henry's body!",
-  "fr": "Vite ! Arrêtez-le\navant qu'il ne\fréintègre le corps\nd'Henri !",
+  "fr": "Vite ! Arrêtez-le\navant qu'il ne\fréintègre le corps\nd'Henry !",
   "src": "pinky",
   "relu": true
  },
@@ -1246,8 +1246,9 @@
   "max": 16,
   "who": "Bertrand",
   "en": "I ain't pullin'\nany punches!",
-  "fr": "Je ne frappe\npas !",
-  "src": "pinky"
+  "fr": "Je ne retiens\npas mes coups !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4100BT",

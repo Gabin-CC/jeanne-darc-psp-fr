@@ -111,8 +111,9 @@
   "max": 16,
   "who": "Claire",
   "en": "Phew!\nI smell evil!",
-  "fr": "Pfiou ! Je pue\nle démon !",
-  "src": "pinky"
+  "fr": "Pfiou ! Ça pue\nle démon !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3080BT",
@@ -547,7 +548,7 @@
   "max": 34,
   "who": "",
   "en": "Stop Henry VI's coronation! To Reims!",
-  "fr": "Arrêter le couronnement d'Henri VI à\nReims !",
+  "fr": "Arrêter le couronnement d'Henry VI à\nReims !",
   "src": "pinky"
  },
  {
@@ -973,8 +974,9 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Oh, now really. Do I look the sort\nto go through all that trouble?",
-  "fr": "Oh, il me semble bien. Pourquoi\ndois-je subir tout ça ?",
-  "src": "pinky"
+  "fr": "Oh, voyons. Ai-je l'air du genre\nà me donner tant de peine ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3090BM",
@@ -1338,8 +1340,9 @@
   "max": 16,
   "who": "",
   "en": "...We can do\nthis.",
-  "fr": "... On ne peut\npas faire ça.",
-  "src": "pinky"
+  "fr": "... On peut\ny arriver.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3090BT",
@@ -1581,8 +1584,9 @@
   "max": 34,
   "who": "Roger",
   "en": "...You don't scare me. And no\none kills Jeanne before I do.",
-  "fr": "... Vous ne me faites pas peur.\fEt personne n'a tué Jeanne avant\nmoi.",
-  "src": "pinky"
+  "fr": "... Vous ne me faites pas peur.\fEt personne ne tuera Jeanne avant\nmoi.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3090AB",
@@ -1725,8 +1729,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Why hide the fact that you're\nHenry?",
-  "fr": "Pourquoi nous cacher\nta véritable identité,\fque tu es Henri IV ?",
-  "src": "pinky"
+  "fr": "Pourquoi nous cacher\nta véritable identité,\fque tu es Henry VI ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3090AB",
@@ -1782,8 +1787,9 @@
   "max": 34,
   "who": "Cuisses",
   "en": "My uncle must have known people\nwanted me dead.",
-  "fr": "Mon oncle aurait dû savoir que le\npeuple souhaitait ma mort.",
-  "src": "pinky"
+  "fr": "Mon oncle devait savoir que le\npeuple souhaitait ma mort.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3090AB",

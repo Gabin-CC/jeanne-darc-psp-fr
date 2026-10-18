@@ -108,8 +108,9 @@
   "max": 16,
   "who": "Gilles",
   "en": "Keep at it!",
-  "fr": "Gardez-le !",
-  "src": "pinky"
+  "fr": "Continuez !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4071BT",

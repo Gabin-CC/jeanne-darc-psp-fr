@@ -141,8 +141,9 @@
   "max": 16,
   "who": "Jeanne",
   "en": "We have to turn\nthis around...",
-  "fr": "Nous devons le\ncontourner...",
-  "src": "pinky"
+  "fr": "Nous devons\ninverser la donne...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1030BT",
@@ -703,8 +704,9 @@
   "max": 16,
   "who": "Bertrand",
   "en": "Yipes!",
-  "fr": "Youpi !",
-  "src": "pinky"
+  "fr": "Aïe !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1030BT",
@@ -751,8 +753,9 @@
   "max": 16,
   "who": "Bertrand",
   "en": "Now we're\ntalkin'!",
-  "fr": "Parlons\nmaintenant !",
-  "src": "pinky"
+  "fr": "Voilà qui\nest mieux !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1030BT",
@@ -1216,8 +1219,9 @@
   "max": 34,
   "who": "Bertrand",
   "en": "Hmm, you don't say...",
-  "fr": "Hmm, tu ne dis rien...",
-  "src": "pinky"
+  "fr": "Hmm, sans blague...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1030AB",
@@ -1529,8 +1533,9 @@
   "max": 16,
   "who": "",
   "en": "Moove forward!\nStrike back!",
-  "fr": "Reculez !\nDéfendez-vous !",
-  "src": "pinky"
+  "fr": "Avancez !\nDéfendez-vous !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1040BT",
@@ -1729,16 +1734,18 @@
   "max": 16,
   "who": "",
   "en": "This just isn't\nlike me...",
-  "fr": "Ce n'est pas\ncomme moi...",
-  "src": "pinky"
+  "fr": "Ça ne me\nressemble pas...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1040BT",
   "max": 16,
   "who": "",
   "en": "How does this\ngrab you?",
-  "fr": "Comment est-ce\nqu'il t'a eu ?",
-  "src": "pinky"
+  "fr": "Qu'en dis-tu ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1040BT",

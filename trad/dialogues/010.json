@@ -231,8 +231,9 @@
   "max": 16,
   "who": "Marcel",
   "en": "Yipes!\nWait for me, everybody!",
-  "fr": "Youpi ! Attendez-moi\ntout le monde !",
-  "src": "pinky"
+  "fr": "Aïe ! Attendez-moi\ntout le monde !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2080BT",
@@ -1281,8 +1282,9 @@
   "max": 16,
   "who": "Richard",
   "en": "To the beyond\nwith you!",
-  "fr": "J'irais au ciel\navec vous !",
-  "src": "pinky"
+  "fr": "Direction\nl'au-delà !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2090BT",

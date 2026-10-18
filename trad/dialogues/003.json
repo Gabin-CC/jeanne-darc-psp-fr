@@ -1066,8 +1066,9 @@
   "max": 34,
   "who": "Talbot",
   "en": "Let alone a woman of such high\nstation!",
-  "fr": "Laisser seule une femme de si\nhaute importance !",
-  "src": "pinky"
+  "fr": "Encore moins une femme de si\nhaute importance !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050BM",
@@ -1599,8 +1600,9 @@
   "max": 16,
   "who": "Marcel",
   "en": "Run for it!",
-  "fr": "Courrez après !",
-  "src": "pinky"
+  "fr": "Fuyez !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050BT",
@@ -1647,16 +1649,18 @@
   "max": 16,
   "who": "Marcel",
   "en": "Now you're\nasking for it!",
-  "fr": "Tu pouvais pas le\ndemander avant ?",
-  "src": "pinky"
+  "fr": "Tu l'auras\ncherché !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050BT",
   "max": 16,
   "who": "Marcel",
   "en": "Ahh!\nHow MEAN!",
-  "fr": "Aah !\nComment ça ?",
-  "src": "pinky"
+  "fr": "Aah ! Quelle\nméchanceté !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050BT",
@@ -1801,8 +1805,9 @@
   "max": 16,
   "who": "Colet",
   "en": "Good gweef...",
-  "fr": "Bien joué...",
-  "src": "pinky"
+  "fr": "Misère...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050BT",
@@ -2002,8 +2007,9 @@
   "max": 16,
   "who": "unité#171",
   "en": "Hmph...That it?",
-  "fr": "Oumpf... Qu'est-ce\nque ?",
-  "src": "pinky"
+  "fr": "Oumpf... C'est\ntout ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1050BT",

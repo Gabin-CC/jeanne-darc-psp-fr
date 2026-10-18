@@ -1062,8 +1062,9 @@
   "max": 34,
   "who": "Claire",
   "en": "But just you wait, missy!\nI'm going to FOLLOW you.",
-  "fr": "Mais tu t'y attendais, mam'zelle !\nJe vais te suivre.",
-  "src": "pinky"
+  "fr": "Mais tu vas voir, mam'zelle !\nJe vais te suivre.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3021AB",

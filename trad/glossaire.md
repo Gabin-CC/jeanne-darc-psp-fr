@@ -40,7 +40,7 @@ historiques et géographiques reprennent leur forme française.
 |---|---|
 | Jeanne, Liane, Roger, Jacques, La Hire, Gilles, Colet, Cuisses, Marcel, Jean, Richard, Richemont, Bertrand, Georges, Pierre, René, Claire, Beatrix, Bartolomeo, Dominic, Rufus, Alain, Mawra, Rose, Blaze, Luther, Talbot, Glasdale, Isabeau, Aldric, William, Warren | identiques |
 | Charles VII / Charles | Charles VII / Charles |
-| Henry / Henry VI | Henri / Henri VI |
+| Henry / Henry VI | Henry / Henry VI |
 | Captain Robert | le capitaine Robert |
 | Duke of Bedford / Burgundy / Lorraine | duc de Bedford / de Bourgogne / de Lorraine |
 | the Dauphin | le Dauphin |
@@ -125,7 +125,7 @@ dans les dialogues, réutiliser **exactement** la traduction qui s'y trouve.
   occasionnelle. Toujours lisible ; les méchants restent menaçants et crédibles.
   Exemple Talbot : « Tu es oune petite fille courageuse... mais ta guerre est finie, my dear. »
   Exemple soldat : « Les Français attaquent ! Damn it ! »
-- Anglais = Talbot, Glasdale (William), le duc de Bedford, Henri VI (et Cuisses = Henri VI dans un corps
+- Anglais = Talbot, Glasdale (William), le duc de Bedford, Henry VI (et Cuisses = Henry VI dans un corps
   de crapaud), soldats/officiers/capitaine/armée anglais, le geôlier de Rouen, tout ennemi qui se dit anglais.
 - Ne sont PAS anglais : le duc de Bourgogne et les Bourguignons, Isabeau, Richard, Richemont, les démons,
   les thérions, les nains (qui gardent leur zozotement en « w »).
@@ -136,7 +136,7 @@ dans les dialogues, réutiliser **exactement** la traduction qui s'y trouve.
 - **Georges** : zézaie — s/ch/j → z (« Précizément », « Z'ai touzours voulu »).
 - **La Hire** : r roulés (« Parrrdonne »), parle de lui à la 3e personne, tutoie tout le monde, appelle Jeanne « Général ».
 - **Rufus** (guerrier-bête) : consonnes initiales → « R » (« Rerci », « Ron nom est Rufus »), « Ouaf ».
-- **Henri VI** : « Nous » royal.
+- **Henry VI** : « Nous » royal.
 - **Rose** : « mes chéris ! » (tic « loves! »).
 - Talbot tutoie Jeanne (« petite »), elle le vouvoie ; Gilles vouvoie La Hire ; Roger et Gilles se vouvoient.
 - frogs (insulte anglaise) → bouffeurs de grenouilles ; harlot/wench → gueuse ; Savior → salvatrice ;

@@ -150,8 +150,9 @@
   "max": 34,
   "who": "Beatrix",
   "en": "I... My loyalties lie with my\nlifelong love alone.",
-  "fr": "Je... Ma loyauté repose avec mon\namour pour la vie solitaire.",
-  "src": "pinky"
+  "fr": "Je... Ma loyauté va uniquement\nà mon amour de toujours.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4030BM",
@@ -166,8 +167,9 @@
   "max": 34,
   "who": "La Hire",
   "en": "Gah ha ha! Your \"lifelong love\"\nlooks mortified!",
-  "fr": "Hahaha ! Ton \"amour pour la vie\nsolitaire\" me semble agonisant !",
-  "src": "pinky"
+  "fr": "Hahaha ! Ton \"amour de toujours\"\nme semble mortifié !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4030BM",
@@ -1390,16 +1392,18 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Yer a wot stwonger dan I\nthought...",
-  "fr": "T'en as pas autant dans les bras\nque je ne le pensais...",
-  "src": "pinky"
+  "fr": "T'en as plus dans les bras\nque je ne le pensais...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4031AB",
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "What a wamentable day,\fwhen a dwarf woozes to a pack\nof wobbers... ACHOO!",
-  "fr": "Quelle pitoyable journée, quand\nun nain tire sur un groupe\fde brigands...\nATCHOUM !",
-  "src": "pinky"
+  "fr": "Quelle pitoyable journée, quand\nun nain perd face à un groupe\fde brigands...\nATCHOUM !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4031AB",
@@ -1871,8 +1875,9 @@
   "max": 34,
   "who": "Elder",
   "en": "of the very fool who forced you\nto fly your home in infamy?",
-  "fr": "du fou qui vous a contraint à\nvoler votre propre maison ?",
-  "src": "pinky"
+  "fr": "du fou qui vous a contraint à\nfuir votre propre maison ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4040AB",
@@ -1977,8 +1982,9 @@
   "max": 34,
   "who": "Elder",
   "en": "Legatee of Luther's armlet...",
-  "fr": "L'héritage du bracelet de\nLuther...",
-  "src": "pinky"
+  "fr": "L'héritière du bracelet de\nLuther...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4040AB",

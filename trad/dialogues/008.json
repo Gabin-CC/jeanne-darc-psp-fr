@@ -77,8 +77,9 @@
   "max": 16,
   "who": "Beatrix",
   "en": "What a priceless\npredicament...",
-  "fr": "Quel superbe\nsermont...",
-  "src": "pinky"
+  "fr": "Quel superbe\npétrin...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2060BT",
@@ -205,8 +206,9 @@
   "max": 16,
   "who": "Beatrix",
   "en": "I feel far fairer!",
-  "fr": "Quelle justice !",
-  "src": "pinky"
+  "fr": "Je me sens\nmieux !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2060BT",
@@ -1003,8 +1005,9 @@
   "max": 34,
   "who": "Richard",
   "en": "(Return here later, after\nevenfall.) ",
-  "fr": "(Revenez ici plus tard, à\nl'aube.)",
-  "src": "pinky"
+  "fr": "(Revenez ici plus tard, à la\ntombée de la nuit.)",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2070BM",
@@ -1239,8 +1242,9 @@
   "max": 16,
   "who": "Bartolomeo",
   "en": "Imprudence was\nthy greatest foe.",
-  "fr": "L'imprudence était\nnotre plus grand\fennemi.",
-  "src": "pinky"
+  "fr": "L'imprudence était\nvotre plus grand\fennemi.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2070BT",
@@ -1455,8 +1459,9 @@
   "max": 16,
   "who": "La Hire",
   "en": "Oh, well!",
-  "fr": "Oh, bien !",
-  "src": "pinky"
+  "fr": "Tant pis !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2070BT",
@@ -1658,8 +1663,9 @@
   "max": 16,
   "who": "Colet",
   "en": "Let us geet\nzees over with.",
-  "fr": "Laissez nous\ntranquilles.",
-  "src": "pinky"
+  "fr": "Finissons-en.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2070BT",

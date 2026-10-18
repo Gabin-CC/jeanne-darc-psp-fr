@@ -264,8 +264,9 @@
   "max": 16,
   "who": "Jean",
   "en": "A reaper,\nroaming loose...",
-  "fr": "Un moissoneur,\nlâchez-vous...",
-  "src": "pinky"
+  "fr": "Un moissonneur,\nen liberté...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3070BT",

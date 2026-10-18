@@ -120,6 +120,10 @@ def main():
     for rel, data in build_images.build().items():
         for ip in by_name[os.path.basename(rel)]:
             repl[ip] = data
+    # Vidéos sous-titrées, MENU_03 (NIVEAU FINI) et MENU_TEX (NIVEAU + !) tirés de l'ISO patché de l'équipe (12/04/2013)
+    for path in sorted(glob.glob(os.path.join(ROOT, 'trad/equipe2013/*'))):
+        for ip in by_name[os.path.basename(path)]:
+            repl[ip] = open(path, 'rb').read()
     print(f'Écriture de {os.path.basename(DST_ISO)}...')
     iso_patch.patch(SRC_ISO, DST_ISO, repl)
 

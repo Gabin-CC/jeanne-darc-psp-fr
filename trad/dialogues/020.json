@@ -60,7 +60,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "You saved my life at Henry's\ncoronation, too.",
-  "fr": "Tu m'as aussi sauvé la vie au\ncouronnement d'Henri.",
+  "fr": "Tu m'as aussi sauvé la vie au\ncouronnement d'Henry.",
   "src": "pinky",
   "relu": true
  },
@@ -475,8 +475,9 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "And dey made us help. Not wery\npweasant times for us dwarfs...",
-  "fr": "Et ils nous sont venus en aide.\fCe ne sont pas des jours\nheureux pour les nains.",
-  "src": "pinky"
+  "fr": "Et ils nous ont forcés à les\naider.\fCe ne sont pas des jours\nheureux pour les nains.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST4041AB",

@@ -1298,8 +1298,9 @@
   "max": 34,
   "who": "La Hire",
   "en": "Is La Hire the only one who\nthinks she stands out even more?",
-  "fr": "La Hire est le seul à penser\nqu'elle est beaucoup plus\fà son avantage ?",
-  "src": "pinky"
+  "fr": "La Hire est le seul à penser\nqu'on la remarque encore plus\fcomme ça ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3052BM",
@@ -1419,8 +1420,9 @@
   "max": 34,
   "who": "Roger",
   "en": "Shyeah, well...you might want\nto hold judgment.",
-  "fr": "Fffffoutaise... tu voudrais\npeut-être faire justice toi-même ?",
-  "src": "pinky"
+  "fr": "Fffffoutaise... tu devrais\npeut-être réserver ton jugement.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3060BM",
@@ -1539,8 +1541,9 @@
   "max": 16,
   "who": "Rose",
   "en": "No... I can't\ndie now...",
-  "fr": "Je peux... mourir\nà... présent...",
-  "src": "pinky"
+  "fr": "Je ne peux...\nmourir à présent...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3060BT",

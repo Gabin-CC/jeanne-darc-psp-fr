@@ -1219,8 +1219,9 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I just hope the English give me \nan excuse. I dare them!",
-  "fr": "J'espère que les anglais\nimploreront mon pardon.\fQu'ils viennent !",
-  "src": "pinky"
+  "fr": "J'espère que les Anglais\nme donneront une raison.\fQu'ils viennent !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1021BM",
@@ -1694,8 +1695,9 @@
   "max": 16,
   "who": "Bertrand",
   "en": "Yipes.",
-  "fr": "Youpi.",
-  "src": "pinky"
+  "fr": "Aïe.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1030BT",
@@ -1902,8 +1904,9 @@
   "max": 16,
   "who": "Roger",
   "en": "Look alive!",
-  "fr": "Il est vivant !",
-  "src": "pinky"
+  "fr": "Du nerf !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1030BT",
@@ -1958,8 +1961,9 @@
   "max": 16,
   "who": "Bertrand",
   "en": "Now you're\nin for it!",
-  "fr": "Vous êtes\nlà pour ça !",
-  "src": "pinky"
+  "fr": "Vous allez\nle regretter !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1030BT",

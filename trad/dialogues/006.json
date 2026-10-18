@@ -350,8 +350,9 @@
   "max": 34,
   "who": "Talbot",
   "en": "I know your enemy better than\nyou.",
-  "fr": "Je sais que vos ennemis sont\nmeilleurs que vous.",
-  "src": "pinky"
+  "fr": "Je connais vos ennemis mieux\nque vous.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1070AB",
@@ -382,8 +383,9 @@
   "max": 34,
   "who": "Talbot",
   "en": "Har! We'll just have to see. In\nthe meantime, stop screwing up.",
-  "fr": "Ha ! Nous verrons bien. En\nattendant, arrêtez de fantasmer.",
-  "src": "pinky"
+  "fr": "Ha ! Nous verrons bien. En\nattendant, arrêtez de tout gâcher.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1070AB",
@@ -463,8 +465,9 @@
   "max": 34,
   "who": "Rufus",
   "en": "Gawoooooo!\n(She ruzzn't ruv me...)",
-  "fr": "Gawouuuuuuuuuuuuu !\n(Elle ne m'a pas rejeté...)",
-  "src": "pinky"
+  "fr": "Gawouuuuuuuuuuuuu !\n(Elle ne m'aime pas...)",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1070AB",
@@ -617,8 +620,9 @@
   "max": 34,
   "who": "English Army",
   "en": "LOOSE!",
-  "fr": "LÂCHES !",
-  "src": "pinky"
+  "fr": "LÂCHEZ !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2010BM",
@@ -988,8 +992,9 @@
   "max": 34,
   "who": "Talbot",
   "en": "Or are you?",
-  "fr": "Ou est-ce vous ?",
-  "src": "pinky"
+  "fr": "Ou pas ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2010AB",
@@ -1117,8 +1122,9 @@
   "max": 34,
   "who": "La Hire",
   "en": "You will tell La Hire!",
-  "fr": "Vous demanderez à La Hire !",
-  "src": "pinky"
+  "fr": "Dites-le à La Hire !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2020BM",
@@ -1761,8 +1767,9 @@
   "max": 34,
   "who": "Roger",
   "en": "...Oh she does, huh?",
-  "fr": "... Oh elle l'a fait, hein ?",
-  "src": "pinky"
+  "fr": "... Ah oui, elle les a, hein ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2020AB",
@@ -1858,8 +1865,9 @@
   "max": 34,
   "who": "Gilles",
   "en": "I'd only be getting in the way.",
-  "fr": "J'ai seulement aidé à la mettre\nsur la voie.",
-  "src": "pinky"
+  "fr": "Je ne ferais que la gêner.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2020AB",

@@ -83,6 +83,10 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 # 1. Placer "Jeanne d'Arc (USA).iso" à la racine du dépôt, puis l'extraire
 .venv/bin/python tools/iso_extract.py "Jeanne d'Arc (USA).iso" extract
 
+# 1 bis. Vidéos sous-titrées de l'équipe PSP Traduction (non versionnées : contenu du jeu)
+#        à partir de leurs quatre patchs alpha de 2013, voir tools/import_equipe2013.py
+.venv/bin/python tools/import_equipe2013.py chemin/vers/patchs_2013
+
 # 2. Vérifier les traductions puis construire "Jeanne d'Arc (FR).iso"
 .venv/bin/python tools/check_trad.py
 .venv/bin/python tools/build.py
@@ -102,10 +106,13 @@ trad/
   menus.json           textes de l'exécutable (menus, sauvegarde…)
   interface.json       libellés d'interface et noms de lieux de la carte du monde
   images.json          textures retouchées (cadres, texte français, police)
+  raven/               textures et pages d'aide de Raven (équipe PSP Traduction)
+  equipe2013/          MENU_03, MENU_TEX et vidéos (*.PMF, non versionnées) de l'équipe PSP Traduction
   glossaire.md         noms, termes, tutoiement/vouvoiement, règles de style
   termes_logic.md      noms officiels des objets, sorts et compétences
 tools/
   build.py             construit l'ISO français
+  import_equipe2013.py récupère les vidéos sous-titrées depuis les patchs 2013 de l'équipe
   check_trad.py        vérifie longueurs, codes de contrôle, octets
   jda_event.py         format des scripts de dialogue (EVENT/ST*.BIN)
   jda_fixed.py         chaînes en champs de taille fixe

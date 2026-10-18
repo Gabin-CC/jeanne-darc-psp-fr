@@ -12,8 +12,9 @@
   "max": 16,
   "who": "Bartolomeo",
   "en": "I shall fight\nin thy stead!",
-  "fr": "Je dois me battre\nà sa place !",
-  "src": "pinky"
+  "fr": "Je dois me battre\nà ta place !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2070BT",
@@ -52,8 +53,9 @@
   "max": 16,
   "who": "Beatrix",
   "en": "Lie low!",
-  "fr": "Mensonge !",
-  "src": "pinky"
+  "fr": "À couvert !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2070BT",
@@ -477,8 +479,9 @@
   "max": 16,
   "who": "",
   "en": "Just a common\nmurderer!",
-  "fr": "Juste un petit\nmeurtre !",
-  "src": "pinky"
+  "fr": "Juste une vulgaire\nmeurtrière !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2070BT",
@@ -1243,8 +1246,9 @@
   "max": 16,
   "who": "Roger",
   "en": "Leave no\nman behind!",
-  "fr": "Ne baissez pas\nvotre garde !",
-  "src": "pinky"
+  "fr": "N'abandonnez\npersonne !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2080BT",
@@ -1331,8 +1335,9 @@
   "max": 16,
   "who": "Jean",
   "en": "I'd rather not\nright you.",
-  "fr": "Je préfère ne\npas vous suivre.",
-  "src": "pinky"
+  "fr": "Je préfère ne\npas vous combattre.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2080BT",
@@ -1603,8 +1608,9 @@
   "max": 16,
   "who": "",
   "en": "You fell for\nit...",
-  "fr": "Vous le\npaierez...",
-  "src": "pinky"
+  "fr": "Vous êtes\ntombés dans\fle piège...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2080BT",
@@ -1819,8 +1825,9 @@
   "max": 16,
   "who": "Jeanne",
   "en": "We can escape this way!",
-  "fr": "Impossible de fuir\npar ici !",
-  "src": "pinky"
+  "fr": "Nous pouvons fuir\npar ici !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2080BT",
@@ -1843,8 +1850,9 @@
   "max": 16,
   "who": "Roger",
   "en": "Humph, nice knowing you.",
-  "fr": "Mpfff, ravi de faire\nvotre connaissance.",
-  "src": "pinky"
+  "fr": "Mpfff, ravi de\nvous avoir connu.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2080BT",
@@ -1971,8 +1979,9 @@
   "max": 16,
   "who": "Marcel",
   "en": "Hah! That's for making Jeannette\nupset!",
-  "fr": "Hah ! C'est pour\nfaire enrager\fJeannette !",
-  "src": "pinky"
+  "fr": "Hah ! C'est pour\navoir fait enrager\fJeannette !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2080BT",

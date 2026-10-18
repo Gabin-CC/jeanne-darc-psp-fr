@@ -100,8 +100,9 @@
   "max": 34,
   "who": "Luther",
   "en": "After my inglorious end at the\nhands of the Duke of Bedford,\fI became a prisoner of these\nlands, and this state...",
-  "fr": "Après ma fin peu glorieuse au\nservice du Duc de Bedford,\fje suis devenu prisonnier de ces\nterres, dans cet état...",
-  "src": "pinky"
+  "fr": "Après ma fin peu glorieuse aux\nmains du Duc de Bedford,\fje suis devenu prisonnier de ces\nterres, dans cet état...",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3040BM",
@@ -327,8 +328,9 @@
   "max": 34,
   "who": "Colet",
   "en": "eef such a twansaction has not\nalready occurred.",
-  "fr": "à moins bien sûr que la\ntransaction\fne se soit pas encore produite.",
-  "src": "pinky"
+  "fr": "à moins bien sûr que la\ntransaction\fne se soit déjà produite.",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3040BM",
@@ -594,8 +596,9 @@
   "max": 34,
   "who": "Slinker",
   "en": "...Of course, it means the world\nto some of us! Ni-hee!",
-  "fr": "... Bien sûr, ça signifie que le\nmonde est à nous ! Ni hi hi !",
-  "src": "pinky"
+  "fr": "... Bien sûr, pour certains\nd'entre nous, ça compte ! Ni hi hi !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3040BT",
@@ -1753,8 +1756,9 @@
   "max": 16,
   "who": "Claire",
   "en": "Ugh! Get lost!",
-  "fr": "Ugh ! Perdu !",
-  "src": "pinky"
+  "fr": "Ugh ! Du vent !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST3050BT",
