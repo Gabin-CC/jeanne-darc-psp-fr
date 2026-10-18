@@ -14,7 +14,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 from jda_event import EventFile
 import iso_patch
 import jda_fixed
-from extract_fixed import logic_fields, map_fields, gui_fields, basemap_fields, boot_fields, BOOT
+from extract_fixed import logic_fields, map_fields, gui_fields, basemap_fields, bracelet_fields, boot_fields, BOOT
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 SRC_ISO = os.path.join(ROOT, "Jeanne d'Arc (USA).iso")
@@ -104,6 +104,7 @@ def main():
     repl.update(build_events(mem, by_name))
     logic = load_fixed('logic.json')
     build_fixed(os.path.join(DATA, 'LOGIC/LOGIC.PAC'), logic_fields(), logic, by_name, repl)
+    build_fixed(os.path.join(DATA, 'LOGIC/BRACELET.DAT'), bracelet_fields(), logic, by_name, repl)
     cartes = load_fixed('cartes.json')
     for name, fields in map_fields().items():
         build_fixed(os.path.join(DATA, 'MAP', name), fields, cartes, by_name, repl)
@@ -118,7 +119,8 @@ def main():
     for rel, data in build_images.build().items():
         for ip in by_name[os.path.basename(rel)]:
             repl[ip] = data
-    # Vidéos sous-titrées, MENU_03 (NIVEAU FINI) et MENU_TEX (NIVEAU + !) tirés de l'ISO patché de l'équipe (12/04/2013)
+    # Fichiers tirés de l'ISO patché de l'équipe (12/04/2013) : vidéos sous-titrées, MENU_03, MENU_TEX,
+    # PIC1.PNG (fond du menu PSP), ICONPACK.SPF (icônes de sauvegarde)
     for path in sorted(glob.glob(os.path.join(ROOT, 'trad/equipe2013/*'))):
         for ip in by_name[os.path.basename(path)]:
             repl[ip] = open(path, 'rb').read()

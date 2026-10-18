@@ -95,6 +95,13 @@ def basemap_fields():
     return out
 
 
+def bracelet_fields():
+    """{pos: (texte, capacité)} : noms des bracelets (LOGIC/BRACELET.DAT), mêmes chaînes et même
+    capacité (25 octets) que dans LOGIC.PAC."""
+    data = open(os.path.join(DATA, 'LOGIC/BRACELET.DAT'), 'rb').read()
+    return {p: (s, min(g, 25)) for p, s, g in find_strings(data) if s.endswith('Armlet')}
+
+
 def write_memory(path, items, min_len=3):
     """items : [(texte, capacité, contexte)] dans l'ordre."""
     old = {}

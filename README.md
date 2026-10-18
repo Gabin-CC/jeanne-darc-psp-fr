@@ -104,7 +104,8 @@ trad/                  tout ce qui est traduit (c'est ici qu'on corrige)
   menus.json           textes de l'exécutable (menus, sauvegarde…)
   interface.json       libellés d'interface et noms de lieux de la carte du monde
   raven/               textures (gim/, gmo/) et pages d'aide (help/*.png) de Raven
-  equipe2013/          textures MENU_03 et MENU_TEX + vidéos *.PMF (non versionnées) de l'équipe
+  equipe2013/          de l'ISO de l'équipe : MENU_03, MENU_TEX, PIC1 (fond du menu PSP),
+                       ICONPACK (icônes de sauvegarde), vidéos *.PMF (non versionnées)
   images.json          nos retouches de textures restantes (carte du monde, icônes)
   glossaire.md         noms, termes, tutoiement/vouvoiement, règles de style
   termes_logic.md      noms officiels des objets, sorts et compétences
@@ -128,7 +129,7 @@ docs/                  images du README
 |---|---|
 | Dialogues | équipe PSP Traduction (Pinky & Bleachy), `src: "pinky"` ; relecture orthographique `relu: true` ; quelques répliques absentes de leurs scripts traduites par nous (`src: "ia"`) |
 | Textures, bandeaux, pages d'aide | Raven (équipe PSP Traduction), `trad/raven/` |
-| Vidéos sous-titrées, écrans NIVEAU FINI / NIVEAU + ! | ISO patché de l'équipe du 12/04/2013, `trad/equipe2013/` |
+| Vidéos sous-titrées, écrans NIVEAU FINI / NIVEAU + !, fond du menu PSP, icônes de sauvegarde | ISO patché de l'équipe du 12/04/2013, `trad/equipe2013/` |
 | Objets, sorts, menus, cartes, carte du monde | ce dépôt, vocabulaire aligné sur celui de l'équipe |
 
 ### Notes techniques

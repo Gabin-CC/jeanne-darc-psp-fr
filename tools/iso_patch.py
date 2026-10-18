@@ -80,7 +80,7 @@ def patch(src_iso, dst_iso, replacements, log=print):
                     + struct.pack('<I', len(data)) + struct.pack('>I', len(data)))
             for pos in fi_by_lba.get(lba, []):
                 struct.pack_into('<II', fileinfo, pos + 0x0C, len(data), new_lba)
-            if lba not in fi_by_lba and not path.startswith('/PSP_GAME/SYSDIR'):
+            if lba not in fi_by_lba and path.startswith('/PSP_GAME/USRDIR/'):  # SYSDIR, PIC1… : lus par la PSP
                 log('  ! absent de FILEINFO : ' + path)
 
         f.seek(fi_lba * SECTOR)
