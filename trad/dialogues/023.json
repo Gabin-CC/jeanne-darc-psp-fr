@@ -89,7 +89,7 @@
  },
  {
   "ctx": "ST8110BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Berkyahhh!",
   "fr": "Berkyahhh !",
@@ -97,7 +97,7 @@
  },
  {
   "ctx": "ST8140BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Brhghaa!",
   "fr": "Brhghaa !",
@@ -177,10 +177,10 @@
  },
  {
   "ctx": "ST8210BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Kneel before\nour power!",
-  "fr": "À genoux devant\nnotre puissance !",
+  "fr": "À genoux devant notre\npuissance !",
   "src": "pinky"
  },
  {
@@ -257,7 +257,7 @@
  },
  {
   "ctx": "ST8250BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Groooorrrhh...",
   "fr": "Groooorrrhh...",
@@ -265,7 +265,7 @@
  },
  {
   "ctx": "ST8250BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Brh!!",
   "fr": "Brh !!",
@@ -489,10 +489,10 @@
  },
  {
   "ctx": "ST8450BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "We're...we're\nstill in this!",
-  "fr": "Nous sommes\ntoujours là !",
+  "fr": "Nous sommes toujours là !",
   "src": "pinky"
  },
  {
@@ -796,7 +796,7 @@
  },
  {
   "ctx": "ST8816BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Mrrrrnnn!!",
   "fr": "Mrrrrnnn !!",
@@ -829,10 +829,10 @@
  },
  {
   "ctx": "ST8817BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I can see our\nvictory ahead!",
-  "fr": "La victoire\nest proche !",
+  "fr": "La victoire est proche !",
   "src": "pinky"
  },
  {
@@ -1102,10 +1102,10 @@
  },
  {
   "ctx": "ST8823BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You'll need more\nthan that!",
-  "fr": "Il t'en faut plus\nque ça !",
+  "fr": "Il t'en faut plus que ça !",
   "src": "pinky"
  },
  {
@@ -1134,7 +1134,7 @@
  },
  {
   "ctx": "ST8826BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Gah...not again.",
   "fr": "Argh... Encore...",
@@ -1142,26 +1142,26 @@
  },
  {
   "ctx": "ST8826BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Hmph! I'm not\nout of this!",
-  "fr": "Ouch, je suis\nencore en course !",
+  "fr": "Ouch, je suis encore en course !",
   "src": "pinky"
  },
  {
   "ctx": "ST8826BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Your time is up,\nmy dear...",
-  "fr": "Ton heure est finie,\nchéri...",
+  "fr": "Ton heure est finie, chéri...",
   "src": "pinky"
  },
  {
   "ctx": "ST8826BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Victory is mine\nthis time!",
-  "fr": "La victoire est\nmienne, enfin !",
+  "fr": "La victoire est mienne, enfin !",
   "src": "pinky"
  },
  {
@@ -1174,73 +1174,73 @@
  },
  {
   "ctx": "ST8827BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I hope you're\nready to die!",
-  "fr": "Tu es prêt\nà mourir ?",
+  "fr": "Tu es prêt à mourir ?",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST8827BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "When did this\nhappen?!",
-  "fr": "Quand ça s'est\nproduit ?!",
+  "fr": "Quand ça s'est produit ?!",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST8827BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I'm still going\nstrong!",
-  "fr": "Je deviens\nplus fort !",
+  "fr": "Je deviens plus fort !",
   "src": "pinky"
  },
  {
   "ctx": "ST8827BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I won't give up!",
-  "fr": "Je n'abandonnerai\npas !",
+  "fr": "Je n'abandonnerai pas !",
   "src": "pinky"
  },
  {
   "ctx": "ST8827BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Heh heh...You're\nmine now!",
-  "fr": "Hé hé... Tu es\nà moi !!",
+  "fr": "Hé hé... Tu es à moi !!",
   "src": "pinky"
  },
  {
   "ctx": "ST8827BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "We can win this!",
-  "fr": "Nous pouvons\ngagner !",
+  "fr": "Nous pouvons gagner !",
   "src": "pinky"
  },
  {
   "ctx": "ST8827BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Just a little\nbit more!",
-  "fr": "Encore un\npeu plus !",
+  "fr": "Encore un peu plus !",
   "src": "pinky"
  },
  {
   "ctx": "ST8827BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I'm going to\nfinish this!",
-  "fr": "Je vais\nl'achever !",
+  "fr": "Je vais l'achever !",
   "src": "pinky"
  },
  {
   "ctx": "ST8827BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Hang in there!",
   "fr": "Tiens bon !",
@@ -1248,15 +1248,15 @@
  },
  {
   "ctx": "ST8827BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Whew, I needed\nthat!",
-  "fr": "Ah, j'en avais\nbesoin !",
+  "fr": "Ah, j'en avais besoin !",
   "src": "pinky"
  },
  {
   "ctx": "ST8827BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "What the...!",
   "fr": "Mais que... !",
@@ -1264,7 +1264,7 @@
  },
  {
   "ctx": "ST8827BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Hi-yahh!",
   "fr": "Hi-yahh !",
@@ -1272,7 +1272,7 @@
  },
  {
   "ctx": "ST8827BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Check this out!",
   "fr": "Attention !",
@@ -1288,31 +1288,31 @@
  },
  {
   "ctx": "ST8828BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "This strength...\nI knew it.",
-  "fr": "Cette force...\nJe le savais.",
+  "fr": "Cette force... Je le savais.",
   "src": "pinky"
  },
  {
   "ctx": "ST8828BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Victory will be\nours this time!",
-  "fr": "La victoire\nsera nôtre !",
+  "fr": "La victoire sera nôtre !",
   "src": "pinky"
  },
  {
   "ctx": "ST8828BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Damn it!\nNot again!",
-  "fr": "Bon sang !\nPas encore !",
+  "fr": "Bon sang ! Pas encore !",
   "src": "pinky"
  },
  {
   "ctx": "ST8828BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Hee hee hee...!!",
   "fr": "Hi hi hi... !!",
@@ -1320,26 +1320,26 @@
  },
  {
   "ctx": "ST8828BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I...I'm not\ngiving up!",
-  "fr": "Je n'abandonne\npas... !",
+  "fr": "Je n'abandonne pas... !",
   "src": "pinky"
  },
  {
   "ctx": "ST8828BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Oh, my...what's\nthe matter?",
-  "fr": "C'est quoi\nle problème ?",
+  "fr": "C'est quoi le problème ?",
   "src": "pinky"
  },
  {
   "ctx": "ST8828BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Where's the bold\nhero of before?",
-  "fr": "Où est passé le\nhéros d'autrefois ?",
+  "fr": "Où est passé le héros d'autrefois ?",
   "src": "pinky"
  },
  {
@@ -1376,71 +1376,71 @@
  },
  {
   "ctx": "ST8830BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Ooh...you're\ngood...",
-  "fr": "Ohh...\nPas mal !",
+  "fr": "Ohh... Pas mal !",
   "src": "pinky"
  },
  {
   "ctx": "ST8830BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You won't win...\nthat easily...!",
-  "fr": "Tu ne gagneras\npas si facilement !",
+  "fr": "Tu ne gagneras pas si facilement !",
   "src": "pinky"
  },
  {
   "ctx": "ST8830BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I'm getting too\nold for this...",
-  "fr": "Je suis trop vieux\npour ça...",
+  "fr": "Je suis trop vieux pour ça...",
   "src": "pinky"
  },
  {
   "ctx": "ST8830BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "What's wrong,\nyoung hero?",
-  "fr": "Ça ne va pas,\njeune héros ?",
+  "fr": "Ça ne va pas, jeune héros ?",
   "src": "pinky"
  },
  {
   "ctx": "ST8830BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Hah! Such lax\ntraining!",
-  "fr": "Hah ! Si piètre\nentrainement !",
+  "fr": "Hah ! Si piètre entrainement !",
   "src": "pinky"
  },
  {
   "ctx": "ST8830BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Hook, line,\nand sinker!",
-  "fr": "À la fin de l'envoi,\nje touche !",
+  "fr": "À la fin de l'envoi, je touche !",
   "src": "pinky"
  },
  {
   "ctx": "ST8830BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Heh...you've\nimproved...",
-  "fr": "Hé, tu as fait\ndes progrès...",
+  "fr": "Hé, tu as fait des progrès...",
   "src": "pinky"
  },
  {
   "ctx": "ST8830BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Give me every-\nthing you got!",
-  "fr": "Donne-moi tout\nce que tu as !",
+  "fr": "Donne-moi tout ce que tu as !",
   "src": "pinky"
  },
  {
   "ctx": "ST8830BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Well done,\nthere!",
   "fr": "Bien joué !",
@@ -1448,47 +1448,47 @@
  },
  {
   "ctx": "ST8830BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I see I was\nwrong about you.",
-  "fr": "Je me suis trompé\nsur ton compte.",
+  "fr": "Je me suis trompé sur ton compte.",
   "src": "pinky"
  },
  {
   "ctx": "ST8830BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "That's all you\nhave?",
-  "fr": "C'est tout\nce que tu as ?",
+  "fr": "C'est tout ce que tu as ?",
   "src": "pinky"
  },
  {
   "ctx": "ST8830BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Don't hold back\non me, you!",
-  "fr": "Ne retiens pas\ntes coups !",
+  "fr": "Ne retiens pas tes coups !",
   "src": "pinky"
  },
  {
   "ctx": "ST8830BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You still have a\nlot to learn...",
-  "fr": "Tu as encore\nà apprendre...",
+  "fr": "Tu as encore à apprendre...",
   "src": "pinky"
  },
  {
   "ctx": "ST8830BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Come on! Stand\nup!",
-  "fr": "Allez ! Debout !",
+  "fr": "Allez ! Debout !",
   "src": "pinky"
  },
  {
   "ctx": "ST8830BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "What...? Done\nalready?",
   "fr": "Quoi ? Déjà ?",
@@ -1496,15 +1496,15 @@
  },
  {
   "ctx": "ST8830BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Is that all the\npower you have?!",
-  "fr": "C'est tout ce\nque tu as ?",
+  "fr": "C'est tout ce que tu as ?",
   "src": "pinky"
  },
  {
   "ctx": "ST8830BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "This is nothing!",
   "fr": "Ce n'est rien !",
@@ -1512,23 +1512,23 @@
  },
  {
   "ctx": "ST8830BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Feast your eyes\non this!",
-  "fr": "Prends-en plein\nles mirettes !",
+  "fr": "Prends-en plein les mirettes !",
   "src": "pinky"
  },
  {
   "ctx": "ST8830BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Behold...my\ninner skill!",
-  "fr": "Voilà ma\nbotte secrète !",
+  "fr": "Voilà ma botte secrète !",
   "src": "pinky"
  },
  {
   "ctx": "ST8830BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "L-Luther?",
   "fr": "L-Luther ?",
@@ -1536,31 +1536,31 @@
  },
  {
   "ctx": "ST8830BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "What are you doing here?",
-  "fr": "Que faites-vous ici\n?",
+  "fr": "Que faites-vous ici ?",
   "src": "pinky"
  },
  {
   "ctx": "ST8830BT",
-  "max": 16,
+  "max": 34,
   "who": "Luther",
   "en": "I have come to see what sort of\nwarrior you have become.",
-  "fr": "Je devais venir pour\nvoir quel guerrier\ftu étais devenue.",
+  "fr": "Je devais venir pour voir quel\nguerrier tu étais devenue.",
   "src": "pinky"
  },
  {
   "ctx": "ST8830BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "I swear I won't fail to rise to\nyour expectations!",
-  "fr": "J'espère ne pas\ndécevoir vos\fattentes !",
+  "fr": "J'espère ne pas décevoir vos\nattentes !",
   "src": "pinky"
  },
  {
   "ctx": "ST8830BT",
-  "max": 16,
+  "max": 34,
   "who": "Luther",
   "en": "...Well done.",
   "fr": "... Bien joué.",
@@ -1568,24 +1568,24 @@
  },
  {
   "ctx": "ST8830BT",
-  "max": 16,
+  "max": 34,
   "who": "Luther",
   "en": "Jeanne, you have grown stronger\nthan I ever imagined.",
-  "fr": "Jeanne, tu es\ndevenue plus forte\fque je ne l'aurais\njamais imaginé.",
+  "fr": "Jeanne, tu es devenue plus forte\nque je ne l'aurais jamais imaginé.",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST8830BT",
-  "max": 16,
+  "max": 34,
   "who": "Luther",
   "en": "You have proven yourself worthy\nof the Creator's Armlet.",
-  "fr": "Tu as prouvé que tu\nétais digne du\fcréateur des\nbracelets.",
+  "fr": "Tu as prouvé que tu étais digne du\ncréateur des bracelets.",
   "src": "pinky"
  },
  {
   "ctx": "ST8830BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "Thank you, Luther.",
   "fr": "Merci, Luther.",
@@ -1699,10 +1699,10 @@
  },
  {
   "ctx": "ST8901BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Ergh...I can't\nlose this...!",
-  "fr": "Argh... Je ne peux\npas perdre ici...",
+  "fr": "Argh... Je ne peux pas perdre ici...",
   "src": "pinky"
  },
  {

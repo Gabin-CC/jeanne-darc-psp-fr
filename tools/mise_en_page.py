@@ -66,7 +66,10 @@ def layout(text):
             fit = 0         # en coupant après la dernière virgule qui tient dans la boîte
             while fit < len(s) and len(lines_of(s[:fit + 1])) <= 2:
                 fit += 1
-            cut = next((k for k in range(fit, 0, -1) if re.search(r'[,;:]$', s[k - 1])), fit)
+            nbox = lambda rest: -(-len(lines_of(rest)) // 2)
+            # dernière virgule qui tient, à condition que couper là n'ajoute pas de boîte
+            cut = next((k for k in range(fit, 0, -1)
+                        if re.search(r'[,;:]$', s[k - 1]) and nbox(s[k:]) <= nbox(s[fit:])), fit)
             boxes.append(lines_of(s[:cut]))
             s = s[cut:]
             ls = lines_of(s)
@@ -102,12 +105,16 @@ def segments(fr, en):
 
 def reflow(e):
     fr, en = e['fr'], e['en']
-    if e.get('max') != 34 or not fr or fr.startswith('&') or '\x14' in fr:
+    if e.get('max') != 34 or not fr or fr.startswith('&'):
+        return None
+    cut = fr.endswith('\x14')  # \x14 final : réplique interrompue, le code reste en fin de texte
+    body = fr[:-1] if cut else fr
+    if '\x14' in body:
         return None
     boxes = []
-    for seg in segments(fr, en):
+    for seg in segments(body, en.rstrip('\x14')):
         boxes += layout(re.sub(r'\s+', ' ', seg).strip())
-    new = '\f'.join(boxes)
+    new = '\f'.join(boxes) + ('\x14' if cut else '')
     return new if new != fr else None
 
 if __name__ == '__main__':

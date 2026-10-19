@@ -4,7 +4,7 @@
   "max": 34,
   "who": "Roger",
   "en": "A score of them! I slew the few \nI could and made my escape\u0014",
-  "fr": "Un grand nombre !\fJ'en ai tué autant que j'ai pu\npour pouvoir m'enfuir.\u0014",
+  "fr": "Un grand nombre !\fJ'en ai tué autant que j'ai pu pour\npouvoir m'enfuir.\u0014",
   "src": "pinky"
  },
  {
@@ -12,7 +12,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "So then what we saw\u0014",
-  "fr": "Alors ce que nous avons\nvu...\u0014",
+  "fr": "Alors ce que nous avons vu...\u0014",
   "src": "pinky"
  }
 ]

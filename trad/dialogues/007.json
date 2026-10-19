@@ -123,132 +123,132 @@
  },
  {
   "ctx": "ST2030BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Dammit! I can't\ngive up yet!",
-  "fr": "Non ! Je ne peux\nabandonner !",
+  "fr": "Non ! Je ne peux abandonner !",
   "src": "pinky"
  },
  {
   "ctx": "ST2030BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I refuse to be\ndefeated twice!",
-  "fr": "Je ne perdrai\npas deux fois !",
+  "fr": "Je ne perdrai pas deux fois !",
   "src": "pinky"
  },
  {
   "ctx": "ST2030BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "This mere girl!\nHow...?!",
-  "fr": "Cette gamine !\nComment... ?!",
+  "fr": "Cette gamine ! Comment... ?!",
   "src": "pinky"
  },
  {
   "ctx": "ST2030BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "We're taking the\nfortress back!",
-  "fr": "Nous reprendrons\nla forteresse !",
+  "fr": "Nous reprendrons la forteresse !",
   "src": "pinky"
  },
  {
   "ctx": "ST2030BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Too bad...my\ndear.",
-  "fr": "Dommage...\nMon cher.",
+  "fr": "Dommage... Mon cher.",
   "src": "pinky"
  },
  {
   "ctx": "ST2030BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Now, time for\nthe death blow!",
-  "fr": "C'est l'heure du\ncoup de grâce !",
+  "fr": "C'est l'heure du coup de grâce !",
   "src": "pinky"
  },
  {
   "ctx": "ST2030BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Can you stand\nthis attack?",
-  "fr": "Pouvez-vous\nsurvivre à ça ?",
+  "fr": "Pouvez-vous survivre à ça ?",
   "src": "pinky"
  },
  {
   "ctx": "ST2030BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "You're a sore loser, Talbot!",
-  "fr": "Vous êtes un mauvais\nperdant, Talbot !",
+  "fr": "Vous êtes un mauvais perdant,\nTalbot !",
   "src": "pinky"
  },
  {
   "ctx": "ST2030BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "Are you mad we stole your fort?",
-  "fr": "Êtes-vous vexé que\nnous ayons pris\fvotre fort ?",
+  "fr": "Êtes-vous vexé que nous ayons\npris votre fort ?",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST2030BT",
-  "max": 16,
+  "max": 34,
   "who": "Talbot",
   "en": "Har! I'm simply taking back what\nwas stolen.",
-  "fr": "Har ! Je reprends\nsimplement ce qui\fm'appartient.",
+  "fr": "Har ! Je reprends simplement ce\nqui m'appartient.",
   "src": "pinky"
  },
  {
   "ctx": "ST2030BT",
-  "max": 16,
+  "max": 34,
   "who": "Talbot",
   "en": "First the fort.\nThen all the lands of France.",
-  "fr": "D'abord le fort.\fEt ensuite toutes\nles terres de\fFrance.",
+  "fr": "D'abord le fort. Et ensuite toutes\nles terres de France.",
   "src": "pinky"
  },
  {
   "ctx": "ST2030BT",
-  "max": 16,
+  "max": 34,
   "who": "Talbot",
   "en": "Have you forgotten how foully\nyou once treated my motherland?",
-  "fr": "Avez-vous oublié\ncomment vous avez\ftraité ma patrie ?",
+  "fr": "Avez-vous oublié comment vous\navez traité ma patrie ?",
   "src": "pinky"
  },
  {
   "ctx": "ST2030BT",
-  "max": 16,
+  "max": 34,
   "who": "Talbot",
   "en": "I, for one, have not!",
-  "fr": "Moi, je n'ai\npas oublié !",
+  "fr": "Moi, je n'ai pas oublié !",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST2030BT",
-  "max": 16,
+  "max": 34,
   "who": "Talbot",
   "en": "You French hens have interfered\nfor the last time!",
-  "fr": "C'est la dernière\nfois que vous vous\fen mêlez, maudits\nFrançais !",
+  "fr": "C'est la dernière fois que vous\nvous en mêlez, maudits Français !",
   "src": "pinky"
  },
  {
   "ctx": "ST2030BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "What are you talking about?",
-  "fr": "Mais de quoi\nparlez-vous ?",
+  "fr": "Mais de quoi parlez-vous ?",
   "src": "pinky"
  },
  {
   "ctx": "ST2030BT",
-  "max": 16,
+  "max": 34,
   "who": "Talbot",
   "en": "What cruel joke is this...",
-  "fr": "Quelle cruelle\nmascarade...",
+  "fr": "Quelle cruelle mascarade...",
   "src": "pinky"
  },
  {
@@ -532,7 +532,7 @@
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Enemy reinforcements!",
   "fr": "Renforts ennemis !",
@@ -588,47 +588,47 @@
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Dammit...how\ncould this be...",
-  "fr": "Impossible...\nComment...",
+  "fr": "Impossible... Comment...",
   "src": "pinky"
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I can't believe\nthis...",
-  "fr": "Je ne peux pas\ny croire...",
+  "fr": "Je ne peux pas y croire...",
   "src": "pinky"
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I'll never let\nyou past!",
-  "fr": "Vous ne\npasserez pas !",
+  "fr": "Vous ne passerez pas !",
   "src": "pinky"
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "This shall be\nyour grave!",
-  "fr": "Ce sera\nvotre tombe !",
+  "fr": "Ce sera votre tombe !",
   "src": "pinky"
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Time to face\nyour fates!",
-  "fr": "Faites face à\nvotre destin !",
+  "fr": "Faites face à votre destin !",
   "src": "pinky"
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Hah...figures.",
   "fr": "Ha, pitoyables.",
@@ -636,31 +636,31 @@
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I'll kill you in\none stroke!",
-  "fr": "Je vous tuerai\nen un coup !",
+  "fr": "Je vous tuerai en un coup !",
   "src": "pinky"
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Now! Do it!",
-  "fr": "Vas-y,\nmaintenant !",
+  "fr": "Vas-y, maintenant !",
   "src": "pinky"
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I'm...not out\nyet...",
-  "fr": "Je... n'ai pas\nencore perdu...",
+  "fr": "Je... n'ai pas encore perdu...",
   "src": "pinky"
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Yahh!",
   "fr": "Yahh !",
@@ -668,7 +668,7 @@
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "How about this!",
   "fr": "Et ça ?",
@@ -676,7 +676,7 @@
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "Hey, Roger...",
   "fr": "Hé, Roger...",
@@ -684,64 +684,64 @@
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "This battle... Do you really think\nwe can win it?",
-  "fr": "Cette bataille...\nPenses-tu vraiment\fque nous pouvons\fla remporter ?",
+  "fr": "Cette bataille...\fPenses-tu vraiment que nous\npouvons la remporter ?",
   "src": "pinky"
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger",
   "en": "What's gotten into you?",
-  "fr": "Qu'est-ce qu'il\nt'arrive ?",
+  "fr": "Qu'est-ce qu'il t'arrive ?",
   "src": "pinky"
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger",
   "en": "That's the last question I'd\nexpect out of your mouth.",
-  "fr": "C'est la dernière\nquestion que je\fm'attendais à voir\nsortir\fde ta bouche.",
+  "fr": "C'est la dernière question que je\nm'attendais à voir sortir de ta\fbouche.",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "So much pressure comes with\npeople believing in me.",
-  "fr": "Trop de pression\némane des gens qui\fcroient en moi.",
+  "fr": "Trop de pression émane des gens\nqui croient en moi.",
   "src": "pinky"
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "Do you believe in me, Roger?",
-  "fr": "Crois-tu en moi,\nRoger ?",
+  "fr": "Crois-tu en moi, Roger ?",
   "src": "pinky"
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "I want you fighting at my side.",
-  "fr": "Je veux que tu te\nbattes à mes côtés.",
+  "fr": "Je veux que tu te battes à mes\ncôtés.",
   "src": "pinky"
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "...You're my best friend.",
-  "fr": "... Tu es mon\nmeilleur ami.",
+  "fr": "... Tu es mon meilleur ami.",
   "src": "pinky"
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger",
   "en": "Your...friend...",
   "fr": "Ton... ami...",
@@ -749,40 +749,40 @@
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "I know, I make for poor company.\nBut stick with me, all right?",
-  "fr": "Je sais, je fais\npâle figure. Mais\freste avec moi,\nd'accord ?",
+  "fr": "Je sais, je fais pâle figure.\nMais reste avec moi, d'accord ?",
   "src": "pinky"
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger",
   "en": "...Don't be stupid, Jeanne.",
-  "fr": "... Ne sois pas\nstupide Jeanne.",
+  "fr": "... Ne sois pas stupide Jeanne.",
   "src": "pinky"
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger",
   "en": "I'm not going anywhere\\u2014",
-  "fr": "Je ne vais nulle\npart...",
+  "fr": "Je ne vais nulle part...",
   "src": "pinky"
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger",
   "en": "and the English don't stand a\nchance against you and me.",
-  "fr": "et les Anglais n'ont\naucune chance contre\ftoi et moi.",
+  "fr": "et les Anglais n'ont aucune\nchance contre toi et moi.",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "...Right!",
   "fr": "... Bien vrai !",
@@ -790,7 +790,7 @@
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "Glasdale",
   "en": "Agh...!",
   "fr": "Agh... !",
@@ -798,7 +798,7 @@
  },
  {
   "ctx": "ST2040BT",
-  "max": 16,
+  "max": 34,
   "who": "Glasdale",
   "en": "Bloody monster!",
   "fr": "Maudit monstre !",
@@ -929,31 +929,31 @@
  },
  {
   "ctx": "ST2050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Keep it going!\nFull-on attack!",
-  "fr": "Encore !\nAttaquez !",
+  "fr": "Encore ! Attaquez !",
   "src": "pinky"
  },
  {
   "ctx": "ST2050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Fight on! We\nmust not lose!",
-  "fr": "À l'attaque ! Nous\nne pouvons pas\fperdre !",
+  "fr": "À l'attaque !\nNous ne pouvons pas perdre !",
   "src": "pinky"
  },
  {
   "ctx": "ST2050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Savior? Don't\nmake me laugh!",
-  "fr": "Sauveur ? Ne me\nfaites pas rire !",
+  "fr": "Sauveur ? Ne me faites pas rire !",
   "src": "pinky"
  },
  {
   "ctx": "ST2050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Such a shame...",
   "fr": "Quelle honte...",
@@ -961,39 +961,39 @@
  },
  {
   "ctx": "ST2050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Give it up,\nlittle lady...",
-  "fr": "Capitulez,\npetite dame...",
+  "fr": "Capitulez, petite dame...",
   "src": "pinky"
  },
  {
   "ctx": "ST2050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "This fortress\nis impregnable!",
-  "fr": "Cette forteresse\nest imprenable !",
+  "fr": "Cette forteresse est imprenable !",
   "src": "pinky"
  },
  {
   "ctx": "ST2050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Still think you\ncan win this?",
-  "fr": "Vous pensez toujours\npouvoir gagner ?",
+  "fr": "Vous pensez toujours pouvoir\ngagner ?",
   "src": "pinky"
  },
  {
   "ctx": "ST2050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Do not be\ndaunted!",
-  "fr": "Ne soyez pas\nintimidés !",
+  "fr": "Ne soyez pas intimidés !",
   "src": "pinky"
  },
  {
   "ctx": "ST2050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Yaaaaahhhh!!",
   "fr": "Yaaaaahhhh !!",
@@ -1001,7 +1001,7 @@
  },
  {
   "ctx": "ST2050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Pitiful!",
   "fr": "Pitoyable !",
@@ -1009,10 +1009,10 @@
  },
  {
   "ctx": "ST2050BT",
-  "max": 16,
+  "max": 34,
   "who": "Talbot",
   "en": "Ngahhh!\nI'm through...",
-  "fr": "Ngaaaah...\nJe suis perdu...",
+  "fr": "Ngaaaah... Je suis perdu...",
   "src": "pinky"
  },
  {
@@ -1502,7 +1502,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "when the girl's victory at Orléans\nhas given us ground to stand on.",
-  "fr": "Certainement pas maintenant,\falors que la victoire de cette fille à\nOrléans nous a donné une raison\fde continuer le combat.",
+  "fr": "Certainement pas maintenant,\nalors que la victoire de cette fille à\fOrléans nous a donné une raison\nde continuer le combat.",
   "src": "pinky"
  },
  {

@@ -402,10 +402,10 @@
  },
  {
   "ctx": "ST8904BT",
-  "max": 16,
+  "max": 34,
   "who": "Dwarf",
   "en": "Woh, nooo!\nWhat have ye wijits done?",
-  "fr": "Oh noooon !\nQu'avons-nous fait ?",
+  "fr": "Oh noooon ! Qu'avons-nous fait ?",
   "src": "pinky"
  },
  {
@@ -876,7 +876,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Now you can switch freely between\nLiane and Cuisses at the cemetery!",
-  "fr": "À présent,\fvous pouvez intervertir Liane et\nCuisses au cimetière quand bon\fvous semble.",
+  "fr": "À présent, vous pouvez\nintervertir Liane et Cuisses au\fcimetière quand bon vous semble.",
   "src": "pinky"
  },
  {

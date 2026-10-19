@@ -292,7 +292,7 @@
  },
  {
   "ctx": "ST2060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Man-spawn!",
   "fr": "Menu fretin !",
@@ -340,7 +340,7 @@
  },
  {
   "ctx": "ST2060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I must not lose!",
   "fr": "Je ne perdrai pas !",
@@ -348,18 +348,18 @@
  },
  {
   "ctx": "ST2060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I must\npersevere!",
-  "fr": "Je dois\npersévérer !",
+  "fr": "Je dois persévérer !",
   "src": "pinky"
  },
  {
   "ctx": "ST2060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Prepare to die,\nman-spawn!",
-  "fr": "Préparez-vous\nà mourir !",
+  "fr": "Préparez-vous à mourir !",
   "src": "pinky"
  },
  {
@@ -372,18 +372,18 @@
  },
  {
   "ctx": "ST2060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Thou cannot\nwin!",
-  "fr": "Vous ne gagnerez\npas !",
+  "fr": "Vous ne gagnerez pas !",
   "src": "pinky"
  },
  {
   "ctx": "ST2060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Stand fast,\nsluggard!",
-  "fr": "Du nerf,\nfainéant !",
+  "fr": "Du nerf, fainéant !",
   "src": "pinky",
   "relu": true
  },
@@ -479,23 +479,23 @@
  },
  {
   "ctx": "ST2060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "How 'bout this?!",
-  "fr": "Que dites-vous de ça\n?",
+  "fr": "Que dites-vous de ça ?",
   "src": "pinky"
  },
  {
   "ctx": "ST2060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I...I can still\ngo on...",
-  "fr": "Je... Je peux...\ncontinuer...",
+  "fr": "Je... Je peux... continuer...",
   "src": "pinky"
  },
  {
   "ctx": "ST2060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Graaaagh!",
   "fr": "Graaaah !",
@@ -503,7 +503,7 @@
  },
  {
   "ctx": "ST2060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Nnngh...",
   "fr": "Gnnn...",
@@ -511,7 +511,7 @@
  },
  {
   "ctx": "ST2060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Hrrnnhh...",
   "fr": "Rnnnhhh...",
@@ -519,23 +519,23 @@
  },
  {
   "ctx": "ST2060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "...more...more\npain...",
-  "fr": "Encore... de la\nsouffrance...",
+  "fr": "Encore... de la souffrance...",
   "src": "pinky"
  },
  {
   "ctx": "ST2060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Now...go...",
-  "fr": "Vas-y...\nMaintenant...",
+  "fr": "Vas-y... Maintenant...",
   "src": "pinky"
  },
  {
   "ctx": "ST2060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Hit...you...",
   "fr": "Frappe...",
@@ -543,7 +543,7 @@
  },
  {
   "ctx": "ST2060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Orrhh...",
   "fr": "Orrhh...",
@@ -551,7 +551,7 @@
  },
  {
   "ctx": "ST2060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Gngh...",
   "fr": "Gngh...",
@@ -559,7 +559,7 @@
  },
  {
   "ctx": "ST2060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Ooooh...",
   "fr": "Ooooh...",
@@ -567,7 +567,7 @@
  },
  {
   "ctx": "ST2060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Graaahhh!!",
   "fr": "Graaahhh !!",
@@ -575,10 +575,10 @@
  },
  {
   "ctx": "ST2060BT",
-  "max": 16,
+  "max": 34,
   "who": "Beatrix",
   "en": "Oh, bother... Bartolomeo...",
-  "fr": "Oh non,\nBartolomeo...",
+  "fr": "Oh non, Bartolomeo...",
   "src": "pinky"
  },
  {
@@ -591,66 +591,66 @@
  },
  {
   "ctx": "ST2060BT",
-  "max": 16,
+  "max": 34,
   "who": "Lady Elf",
   "en": "Huff, huff... Lo!\nAt long last! He looms near.",
-  "fr": "Pfff, pfff... Enfin\n! Nous y voilà.",
+  "fr": "Pfff, pfff... Enfin ! Nous y voilà.",
   "src": "pinky"
  },
  {
   "ctx": "ST2060BT",
-  "max": 16,
+  "max": 34,
   "who": "Bartolomeo",
   "en": "Soft, what interloper arriveth\non yonder horizon?\f...'Tis Beatrix!",
-  "fr": "Doucement. Quel\nintrus approche à\fl'horizon ?\f... C'est Beatrix !",
+  "fr": "Doucement.\nQuel intrus approche à l'horizon ?\f... C'est Beatrix !",
   "src": "pinky"
  },
  {
   "ctx": "ST2060BT",
-  "max": 16,
+  "max": 34,
   "who": "Beatrix",
   "en": "Hail, Pucelle! You are not,\nby chance, beleaguered...\fby that bothersome, beastly brute\nand his belligerent band of boors?",
-  "fr": "Bonjour, Pucelle. Ne\nseriez vous pas\fmaltraitée par cette\fabominable bête\nbrutale et sa bande\fde rustres ?",
+  "fr": "Bonjour, Pucelle.\nNe seriez vous pas\fmaltraitée par cette abominable\nbête brutale et sa bande de\frustres ?",
   "src": "pinky"
  },
  {
   "ctx": "ST2060BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "...Buh?",
-  "fr": "... Gné ?",
+  "fr": "... Gné ?",
   "src": "pinky"
  },
  {
   "ctx": "ST2060BT",
-  "max": 16,
+  "max": 34,
   "who": "Beatrix",
   "en": "Please, permit me to prove my\nprowess to you at this point\\u2014",
-  "fr": "Permettez-moi, ma\ndame, de vous\fprésenter mes\nprouesses...",
+  "fr": "Permettez-moi, ma dame, de vous\nprésenter mes prouesses...",
   "src": "pinky"
  },
  {
   "ctx": "ST2060BT",
-  "max": 16,
+  "max": 34,
   "who": "Beatrix",
   "en": "for that pusillanimous prat is\nMY prey to pummel into\nprostration!",
-  "fr": "En rouant de coups\ncet imbécile\npusillanime...",
+  "fr": "En rouant de coups cet imbécile\npusillanime...",
   "src": "pinky"
  },
  {
   "ctx": "ST2060BT",
-  "max": 16,
+  "max": 34,
   "who": "Bartolomeo",
   "en": "Tut, thou art one fool of an elf\nto so doggedly chase me!",
-  "fr": "Chh... Quelle\nstupide elfe, à me\ftraquer sans relâche\n!",
+  "fr": "Chh... Quelle stupide elfe, à me\ntraquer sans relâche !",
   "src": "pinky"
  },
  {
   "ctx": "ST2060BT",
-  "max": 16,
+  "max": 34,
   "who": "Bartolomeo",
   "en": "Ungh...\nWoman-born whelps...",
-  "fr": "Gnnn... Sauvageonne\nhumaine...",
+  "fr": "Gnnn... Sauvageonne humaine...",
   "src": "pinky"
  },
  {

@@ -8,6 +8,7 @@ import glob
 import json
 import os
 import sys
+import unicodedata
 
 sys.path.insert(0, os.path.dirname(__file__))
 from jda_event import EventFile
@@ -85,6 +86,30 @@ def build_fixed(path, fields, mem, by_name, repl, targets=None):
             repl[ip] = new
 
 
+def no_accents(text):
+    """Domrémy -> Domremy (le menu de sauvegarde convertit en Shift-JIS, sans lettres accentuées)."""
+    return unicodedata.normalize('NFKD', text).encode('ascii', 'ignore').decode()
+
+
+# Écran de sauvegarde de la PSP (texte converti en Shift-JIS : pas d'accents ; \x81\x40 = espace japonais).
+# Remplacement en place, longueur <= anglais.
+SAVE_DETAIL = {
+    b'%sWORLD MAP\x81@%s': b'%sCARTE\x81@%s',
+    b'%sSTAGE %02d\x81@%s': b'%sETAPE %02d\x81@%s',
+    b'%sFREE MAP\x81@%s': b'%sLIBRE\x81@%s',
+    b'%s \n%s Level %02d\nPlay Time: %03d:%02d:%02d': b'%s \n%s Nv %02d\nTemps : %03d:%02d:%02d',
+}
+
+
+def patch_save_detail(data):
+    out = bytearray(data)
+    for en, fr in SAVE_DETAIL.items():
+        assert out.count(en + b'\0') == 1 and len(fr) <= len(en), en
+        i = out.index(en + b'\0')
+        out[i:i + len(en)] = fr + b'\0' * (len(en) - len(fr))
+    return bytes(out)
+
+
 def main():
     mem = load_dialogues()
     check()
@@ -101,10 +126,14 @@ def main():
         build_fixed(os.path.join(DATA, 'MAP', name), fields, cartes, by_name, repl)
     interface = load_fixed('interface.json')
     build_fixed(os.path.join(DATA, 'GUI/GUISHT.SPF'), gui_fields(), interface, by_name, repl)
-    build_fixed(os.path.join(DATA, 'LOGIC/BASEMAP.DAT'), basemap_fields(), interface, by_name, repl)
+    # Noms de lieux de BASEMAP.DAT : affichés seulement dans le menu de sauvegarde (Shift-JIS) -> sans accents
+    build_fixed(os.path.join(DATA, 'LOGIC/BASEMAP.DAT'), basemap_fields(),
+                {k: no_accents(v) for k, v in interface.items()}, by_name, repl)
     # Exécutable : la version modifiée (ELF non chiffré) remplace aussi EBOOT.BIN
     build_fixed(BOOT, boot_fields(), load_fixed('menus.json'), by_name, repl,
                 targets=['/PSP_GAME/SYSDIR/BOOT.BIN', '/PSP_GAME/SYSDIR/EBOOT.BIN'])
+    for ip in ('/PSP_GAME/SYSDIR/BOOT.BIN', '/PSP_GAME/SYSDIR/EBOOT.BIN'):
+        repl[ip] = patch_save_detail(repl[ip])
     # Images (textures d'interface)
     import build_images
     for rel, data in build_images.build().items():

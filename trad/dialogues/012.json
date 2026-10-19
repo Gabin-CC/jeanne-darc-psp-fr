@@ -632,24 +632,24 @@
  },
  {
   "ctx": "ST3010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You will not\ntake Paris!",
-  "fr": "Vous ne prendrez\npas Paris !",
+  "fr": "Vous ne prendrez pas Paris !",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST3010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "This rabble...\nNo...!",
-  "fr": "Cette foule...\nNon... !",
+  "fr": "Cette foule... Non... !",
   "src": "pinky"
  },
  {
   "ctx": "ST3010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Paris is ours!",
   "fr": "Paris est à nous !",
@@ -657,23 +657,23 @@
  },
  {
   "ctx": "ST3010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "We have no use\nfor you!",
-  "fr": "Vous n'avez\naucune utilité !",
+  "fr": "Vous n'avez aucune utilité !",
   "src": "pinky"
  },
  {
   "ctx": "ST3010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You won't go in\nthat easily!",
-  "fr": "Vous n'entrerez\npas si facilement !",
+  "fr": "Vous n'entrerez pas si\nfacilement !",
   "src": "pinky"
  },
  {
   "ctx": "ST3010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "This is fate...",
   "fr": "C'est la vie...",
@@ -681,26 +681,26 @@
  },
  {
   "ctx": "ST3010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Must be hard\nfor you...",
-  "fr": "Ça doit être dur\npour vous...",
+  "fr": "Ça doit être dur pour vous...",
   "src": "pinky"
  },
  {
   "ctx": "ST3010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Taste the force\nof my magic!",
-  "fr": "Goûtez donc\nà ma magie !",
+  "fr": "Goûtez donc à ma magie !",
   "src": "pinky"
  },
  {
   "ctx": "ST3010BT",
-  "max": 16,
+  "max": 34,
   "who": "Liane",
   "en": "Listen well! Kill everyone here! \nClear a way to the castle!",
-  "fr": "Ecoutez\nattentivement ! Tuez\ftout le monde !\fFrayez-vous un\nchemin jusqu'au\fchâteau !",
+  "fr": "Ecoutez attentivement !\nTuez tout le monde !\fFrayez-vous un chemin jusqu'au\nchâteau !",
   "src": "pinky"
  },
  {
@@ -713,57 +713,57 @@
  },
  {
   "ctx": "ST3010BT",
-  "max": 16,
+  "max": 34,
   "who": "Alain",
   "en": "A-a-as you command!",
-  "fr": "À... à vos... ordres\n!",
+  "fr": "À... à vos... ordres !",
   "src": "pinky"
  },
  {
   "ctx": "ST3010BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "Is this your first time in battle?",
-  "fr": "C'est votre première\nbataille ?",
+  "fr": "C'est votre première bataille ?",
   "src": "pinky"
  },
  {
   "ctx": "ST3010BT",
-  "max": 16,
+  "max": 34,
   "who": "Alain",
   "en": "Yes...but it's an honor to\nf-f-fight with the Pucelle!",
-  "fr": "Oui... Mais c'est un\nhonneur de combattre\favec la Pucelle !",
+  "fr": "Oui... Mais c'est un honneur de\ncombattre avec la Pucelle !",
   "src": "pinky"
  },
  {
   "ctx": "ST3010BT",
-  "max": 16,
+  "max": 34,
   "who": "Liane",
   "en": "Forward! Strike down anyone\nwho stands in our path!",
-  "fr": "En avant ! Éliminez\nquiconque se trouve\fsur votre route !",
+  "fr": "En avant ! Éliminez quiconque se\ntrouve sur votre route !",
   "src": "pinky"
  },
  {
   "ctx": "ST3010BT",
-  "max": 16,
+  "max": 34,
   "who": "Alain",
   "en": "A-as you command, Pucelle! It's\nan honor to f-f-fight with you!",
-  "fr": "À-à vos ordres,\nPucelle !\fC'est un honneur de\nc-c-combattre à vos\fcôtés !",
+  "fr": "À-à vos ordres, Pucelle !\fC'est un honneur de\nc-c-combattre à vos côtés !",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST3010BT",
-  "max": 16,
+  "max": 34,
   "who": "Liane",
   "en": "Forward! Strike down anyone who\nstands in our path!",
-  "fr": "En avant ! Abattez\nquiconque se\ftrouve sur votre\nroute !",
+  "fr": "En avant ! Abattez quiconque se\ntrouve sur votre route !",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST3010BT",
-  "max": 16,
+  "max": 34,
   "who": "Alain",
   "en": "Nyaaaarrrg!",
   "fr": "Nyaaaarrrg !",
@@ -779,7 +779,7 @@
  },
  {
   "ctx": "ST3010BT",
-  "max": 16,
+  "max": 34,
   "who": "Pierre",
   "en": "Aaaaaagggh!",
   "fr": "Aaaaaagggh !",
@@ -795,7 +795,7 @@
  },
  {
   "ctx": "ST3010BT",
-  "max": 16,
+  "max": 34,
   "who": "René",
   "en": "Ergwaaaaah!",
   "fr": "Ergwaaaaah !",
@@ -803,26 +803,26 @@
  },
  {
   "ctx": "ST3010BT",
-  "max": 16,
+  "max": 34,
   "who": "Liane",
   "en": "We did it!\nNow, on to the castle!",
-  "fr": "Nous avons réussi !\nMaintenant,\fdirection le château\n!",
+  "fr": "Nous avons réussi !\nMaintenant, direction le château !",
   "src": "pinky"
  },
  {
   "ctx": "ST3010BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger",
   "en": "Liane! Wait!\nThe battle's not over!",
-  "fr": "Liane ! Attends ! La\nbataille n'est pas\ffinie !",
+  "fr": "Liane ! Attends !\nLa bataille n'est pas finie !",
   "src": "pinky"
  },
  {
   "ctx": "ST3010BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "No...\nThe enemy are too great!",
-  "fr": "Non... L'ennemi est\ntrop fort !",
+  "fr": "Non... L'ennemi est trop fort !",
   "src": "pinky"
  },
  {
@@ -835,18 +835,18 @@
  },
  {
   "ctx": "ST3010BT",
-  "max": 16,
+  "max": 34,
   "who": "Paris Militiaman",
   "en": "Charles VII has betrayed us!",
-  "fr": "Charles VII nous a\ntrahis !",
+  "fr": "Charles VII nous a trahis !",
   "src": "pinky"
  },
  {
   "ctx": "ST3010BT",
-  "max": 16,
+  "max": 34,
   "who": "Paris Militiaman",
   "en": "Kill the king's slattern and\nall her minions!",
-  "fr": "Tuez la catin du roi\net tous ses\fsous-fifres !",
+  "fr": "Tuez la catin du roi et tous ses\nsous-fifres !",
   "src": "pinky",
   "relu": true
  },
@@ -1567,7 +1567,7 @@
   "max": 34,
   "who": "Richard",
   "en": "Were we to go there, we could\nprobably cripple a significant\nanti-royal movement.",
-  "fr": "En nous rendant là-bas,\fnous pourrons probablement\nécraser l'insurrection\fanti-royaliste.",
+  "fr": "En nous rendant là-bas, nous\npourrons probablement écraser\fl'insurrection anti-royaliste.",
   "src": "pinky",
   "relu": true
  },
@@ -1928,7 +1928,7 @@
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Ergh...!",
   "fr": "Argh... !",
@@ -1936,90 +1936,90 @@
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Ugh...who are\nyou people...",
-  "fr": "Gnn... Qui\nêtes-vous... ?",
+  "fr": "Gnn... Qui êtes-vous... ?",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Damn...I can't\nstand to lose!",
-  "fr": "J'ai horreur\nde perdre !",
+  "fr": "J'ai horreur de perdre !",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Hang in there,\nyou bastards!",
-  "fr": "Tenez bon,\nles gars !",
+  "fr": "Tenez bon, les gars !",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Guess you under-\nestimated me...",
-  "fr": "Vous m'avez\nsous-estimé...",
+  "fr": "Vous m'avez sous-estimé...",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Hmph...bunch of\npetty thieves.",
-  "fr": "Mpff... Bande\nde racaille...",
+  "fr": "Mpff... Bande de racaille...",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "It won't be\nthat easy!",
-  "fr": "Ça ne sera\npas si facile !",
+  "fr": "Ça ne sera pas si facile !",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Die for me,\nwould you...",
-  "fr": "Mourez,\nvoulez-vous...",
+  "fr": "Mourez, voulez-vous...",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Get as many as\nyou can!",
-  "fr": "Prenez-en le\nplus possible !",
+  "fr": "Prenez-en le plus possible !",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "No...the main\nforce!",
-  "fr": "Non... Le gros\ndes troupes !",
+  "fr": "Non... Le gros des troupes !",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I'll protect\nthe hideout!",
-  "fr": "Je protègerai\nle repaire !",
+  "fr": "Je protègerai le repaire !",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Didn't expect\nthis, huh?",
-  "fr": "Vous n'attendiez\npas ça, hein ?",
+  "fr": "Vous n'attendiez pas ça, hein ?",
   "src": "pinky"
  }
 ]

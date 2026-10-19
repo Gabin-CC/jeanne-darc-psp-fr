@@ -463,7 +463,7 @@
  },
  {
   "ctx": "ST4030BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Hah...useless.",
   "fr": "Haha... Inutile.",
@@ -471,137 +471,137 @@
  },
  {
   "ctx": "ST4030BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "That gem is\nmine...",
-  "fr": "Cette gemme\nest à moi...",
+  "fr": "Cette gemme est à moi...",
   "src": "pinky"
  },
  {
   "ctx": "ST4030BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "Don't let them anywhere near the\nelder's hut!",
-  "fr": "Ne les laissez pas\napprocher de la\fdemeure de l'ancien\n!",
+  "fr": "Ne les laissez pas approcher de la\ndemeure de l'ancien !",
   "src": "pinky"
  },
  {
   "ctx": "ST4030BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "I have to ask you something,\nRoger.",
-  "fr": "Je dois te poser une\nquestion, Roger.",
+  "fr": "Je dois te poser une question,\nRoger.",
   "src": "pinky"
  },
  {
   "ctx": "ST4030BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "Why did you save me at Henry's\ncoronation?",
-  "fr": "Pourquoi avoir sauvé\nma vie au\fcouronnement d'Henry\n?",
+  "fr": "Pourquoi avoir sauvé ma vie au\ncouronnement d'Henry ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4030BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger",
   "en": "Save you?\nDon't be arrogant.\fI have no reason to help you.",
-  "fr": "Sauver ta vie ?\nQuelle arrogance.\fJe n'ai aucune\nraison de te venir\fen aide.",
+  "fr": "Sauver ta vie ? Quelle arrogance.\fJe n'ai aucune raison de te venir\nen aide.",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST4030BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "Are you really a reaper?",
-  "fr": "Es-tu vraiment un\nmoissonneur ?",
+  "fr": "Es-tu vraiment un moissonneur ?",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST4030BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "Why won't you answer?",
-  "fr": "Pourquoi tu ne\nréponds pas ?",
+  "fr": "Pourquoi tu ne réponds pas ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4030BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger",
   "en": "Heh... I'll let my sword do the\nanswering.",
-  "fr": "Hé... Mon épée va\nrépondre pour moi.",
+  "fr": "Hé...\nMon épée va répondre pour moi.",
   "src": "pinky"
  },
  {
   "ctx": "ST4030BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne, Gilles, Richard",
   "en": "No!\nThey've reached the hut!",
-  "fr": "Non ! Ils ont\natteint sa maison !",
+  "fr": "Non ! Ils ont atteint sa maison !",
   "src": "pinky"
  },
  {
   "ctx": "ST4030BT",
-  "max": 16,
+  "max": 34,
   "who": "La Hire",
   "en": "No!\nLa Hire has failed!",
-  "fr": "Non !\nLa Hire a échoué !",
+  "fr": "Non ! La Hire a échoué !",
   "src": "pinky"
  },
  {
   "ctx": "ST4030BT",
-  "max": 16,
+  "max": 34,
   "who": "Marcel",
   "en": "Oh, no! They're attacking the elf\nleader's hut!",
-  "fr": "Oh non ! Ils\nattaquent la demeure\fdu chef des elfes !",
+  "fr": "Oh non ! Ils attaquent la demeure\ndu chef des elfes !",
   "src": "pinky"
  },
  {
   "ctx": "ST4030BT",
-  "max": 16,
+  "max": 34,
   "who": "Colet",
   "en": "Oh...\nZat eez not good.",
-  "fr": "Oh...\nÇa craint du boudin.",
+  "fr": "Oh... Ça craint du boudin.",
   "src": "pinky"
  },
  {
   "ctx": "ST4030BT",
-  "max": 16,
+  "max": 34,
   "who": "Rufus",
   "en": "Awooo!\nRut do we roo?!",
-  "fr": "Ahouuuuh ! Que\ndevons-nous faire ?",
+  "fr": "Ahouuuuh !\nQue devons-nous faire ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4030BT",
-  "max": 16,
+  "max": 34,
   "who": "Beatrix",
   "en": "No!\nThe elder!",
-  "fr": "Non !\nL'ancien !",
+  "fr": "Non ! L'ancien !",
   "src": "pinky"
  },
  {
   "ctx": "ST4030BT",
-  "max": 16,
+  "max": 34,
   "who": "Bartolomeo",
   "en": "Alas...\nThe fight is lost!",
-  "fr": "Hélas.... La\nbataille est\fperdue...",
+  "fr": "Hélas.... La bataille est perdue...",
   "src": "pinky"
  },
  {
   "ctx": "ST4030BT",
-  "max": 16,
+  "max": 34,
   "who": "Bertrand",
   "en": "Damn it!\nThey're in the hut!",
-  "fr": "Diantre !\nIls sont entrés !",
+  "fr": "Diantre ! Ils sont entrés !",
   "src": "pinky"
  },
  {
   "ctx": "ST4030BT",
-  "max": 16,
+  "max": 34,
   "who": "Cuisses",
   "en": "Oh, no, coa coa!",
   "fr": "Oh, non, croa croa !",
@@ -609,15 +609,15 @@
  },
  {
   "ctx": "ST4030BT",
-  "max": 16,
+  "max": 34,
   "who": "Rose",
   "en": "Oh, bugger!\nThey're inside the hut!",
-  "fr": "Oh, la vermine !\nIls sont entrés !",
+  "fr": "Oh, la vermine ! Ils sont entrés !",
   "src": "pinky"
  },
  {
   "ctx": "ST4030BT",
-  "max": 16,
+  "max": 34,
   "who": "Claire",
   "en": "Ugh! Darn it!",
   "fr": "Uff ! Bon sang !",
@@ -810,7 +810,7 @@
   "max": 34,
   "who": "Elder",
   "en": "Resolving to release the reclusive\nreapers from the gems,\fthe English essayed to accelerate\nsaid emancipation via humans.",
-  "fr": "Résolus à libérer les moissonneurs\nemprisonnés\fdans les gemmes,\fles Anglais tentèrent de maîtriser\nladite émancipation par leur\fpropre compte.",
+  "fr": "Résolus à libérer les moissonneurs\nemprisonnés\fdans les gemmes, les Anglais\ntentèrent de maîtriser ladite\fémancipation par leur propre\ncompte.",
   "src": "pinky",
   "relu": true
  },
@@ -837,7 +837,7 @@
   "max": 34,
   "who": "Elder",
   "en": "With their dear reaper deserted\nand distasteful dreams dashed,\fthe English drew their\nexperiments to an embarrassing\nend.",
-  "fr": "Avec leur cher moissonneur\nayant déserté et leurs rêves\fs'évanouissant par là-même,\fles Anglais tirèrent un trait sur\nleurs expériences avec une\fcertaine honte.",
+  "fr": "Avec leur cher moissonneur\nayant déserté et leurs rêves\fs'évanouissant par là-même, les\nAnglais tirèrent un trait sur leurs\fexpériences avec une certaine\nhonte.",
   "src": "pinky"
  },
  {
@@ -967,7 +967,7 @@
   "max": 34,
   "who": "Elder",
   "en": "If you are to halt Gilvaroth's\nhavoc, and save France's scions,\fthen you must procure the\narmlets' prodigious power.",
-  "fr": "Si vous êtes ici pour stopper les\nravages de Gilvaroth, et sauver\fl'avenir de la France,\falors vous devez vous procurer la\nprodigieuse puissance des\fbracelets.",
+  "fr": "Si vous êtes ici pour stopper les\nravages de Gilvaroth, et sauver\fl'avenir de la France, alors vous\ndevez vous procurer la prodigieuse\fpuissance des bracelets.",
   "src": "pinky"
  },
  {
@@ -1145,15 +1145,15 @@
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Am I losing my\ntouch...?",
-  "fr": "Ai-je perdu\nma cible... ?",
+  "fr": "Ai-je perdu ma cible... ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Youuu...",
   "fr": "Vouuuus...",
@@ -1161,106 +1161,106 @@
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Some respect for\nthe aged, you!",
-  "fr": "Respecte tes\naînés !",
+  "fr": "Respecte tes aînés !",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "How pathetic\nof me...",
-  "fr": "Que suis-je\npathétique...",
+  "fr": "Que suis-je pathétique...",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Prepare to meet\nyour fate!",
-  "fr": "Affronte\nton destin !",
+  "fr": "Affronte ton destin !",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "What on earth\nis this?!",
-  "fr": "Mais bordel,\nc'est quoi ça ?!",
+  "fr": "Mais bordel, c'est quoi ça ?!",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "My age...it's\ndragging me.",
-  "fr": "Mon âge...\nÇa me perdra.",
+  "fr": "Mon âge... Ça me perdra.",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Errrgh...I\ncan't lose this!",
-  "fr": "Arrgh... Je ne peux\npas perdre ainsi.",
+  "fr": "Arrgh...\nJe ne peux pas perdre ainsi.",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "They're good,\nthey are...",
-  "fr": "Ils sont bons,\nils sont...",
+  "fr": "Ils sont bons, ils sont...",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Come on! Dig\nin, everyone!",
-  "fr": "Venez ! Mettez-\nvous à creuser !",
+  "fr": "Venez ! Mettez- vous à creuser !",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I'm not gonna\nretire yet!",
-  "fr": "Je ne vais pas\nabandonner !",
+  "fr": "Je ne vais pas abandonner !",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You're out-\nclassed here.",
-  "fr": "Vous n'avez rien\nà faire ici !",
+  "fr": "Vous n'avez rien à faire ici !",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Nice try,\nyoungster!",
-  "fr": "Bien essayé,\ngamin !",
+  "fr": "Bien essayé, gamin !",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You, beat me?\nPah!",
-  "fr": "Toi, me vaincre ?\nSans rire...",
+  "fr": "Toi, me vaincre ? Sans rire...",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You all right?!",
   "fr": "Ça va ?",
@@ -1268,31 +1268,31 @@
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You've got to\ntake it easy!",
-  "fr": "Il faut te\ncalmer !",
+  "fr": "Il faut te calmer !",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Don't over-\nexert yourself.",
-  "fr": "Ménage-toi\nun peu plus !",
+  "fr": "Ménage-toi un peu plus !",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Have you thought\nabout surrender?",
-  "fr": "Penses-tu à\nte rendre ?",
+  "fr": "Penses-tu à te rendre ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "My thanks.",
   "fr": "Mes remerciements.",
@@ -1300,7 +1300,7 @@
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Hahhh!",
   "fr": "Hahhh !",
@@ -1308,39 +1308,39 @@
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "A brutal\nmistake...",
-  "fr": "Quelle grossière\nerreur...",
+  "fr": "Quelle grossière erreur...",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Losing...to\nthese humans...",
-  "fr": "Perdre face à\nces humains...",
+  "fr": "Perdre face à ces humains...",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I won't give up\n'til the end!",
-  "fr": "Je me battrai\njusqu'au bout !",
+  "fr": "Je me battrai jusqu'au bout !",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Where's your\ndwarven pride?!",
-  "fr": "Où est votre fierté\nde nains ?!",
+  "fr": "Où est votre fierté de nains ?!",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Take a rest!",
   "fr": "Reposez-vous !",
@@ -1348,23 +1348,23 @@
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You! You'll pay\nfor that!",
-  "fr": "Toi ! Tu vas payer\npour ça !",
+  "fr": "Toi ! Tu vas payer pour ça !",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Take it like a\nsoldier!",
-  "fr": "Encaisse comme\nun soldat !",
+  "fr": "Encaisse comme un soldat !",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Haaahhhhh!",
   "fr": "Haaahhhhh !",
@@ -1372,19 +1372,19 @@
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "Wait! You don't understand!\nWe're not\\u2014",
-  "fr": "Attends ! Tu ne\ncomprends pas ! Nous\fne sommes pas...",
+  "fr": "Attends ! Tu ne comprends pas !\nNous ne sommes pas...",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST4031BT",
-  "max": 16,
+  "max": 34,
   "who": "Dwarf Doyen",
   "en": "Shut yer twap! All ye intwuders\nawe gettin' fwom us is de axe!\f...ACHOO!",
-  "fr": "Ferme ton\nclaque-merde ! Tout\fc'que des intrus\ncomme vous\fméritent, c'est\ngoûter à nos haches\f! ... ATCHOUUM !",
+  "fr": "Ferme ton claque-merde ! Tout\fc'que des intrus comme vous\nméritent,\fc'est goûter à nos haches ! ...\nATCHOUUM !",
   "src": "pinky"
  },
  {
@@ -1760,31 +1760,31 @@
  },
  {
   "ctx": "ST4040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I'll never give\nup the gem!",
-  "fr": "Je n'abandonnerai\npas la gemme !",
+  "fr": "Je n'abandonnerai pas la gemme !",
   "src": "pinky"
  },
  {
   "ctx": "ST4040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Hah, pathetic!",
-  "fr": "Tellement\npathétique !",
+  "fr": "Tellement pathétique !",
   "src": "pinky"
  },
  {
   "ctx": "ST4040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Well...? All\ntalk, huh?",
-  "fr": "Alors, fini\nde causer ?",
+  "fr": "Alors, fini de causer ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Sssss!",
   "fr": "Shhh !",

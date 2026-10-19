@@ -943,7 +943,7 @@
  },
  {
   "ctx": "ST1030BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Curse you...",
   "fr": "Maudit sois-tu...",
@@ -951,10 +951,10 @@
  },
  {
   "ctx": "ST1030BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "What...who is\nthat?!",
-  "fr": "Quoi... qui\nest-ce ?!",
+  "fr": "Quoi... qui est-ce ?!",
   "src": "pinky"
  },
  {
@@ -967,15 +967,15 @@
  },
  {
   "ctx": "ST1030BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Victory is ours!",
-  "fr": "La victoire est\nnôtre !",
+  "fr": "La victoire est nôtre !",
   "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Fshhh...",
   "fr": "Fshhh...",
@@ -983,7 +983,7 @@
  },
  {
   "ctx": "ST1030BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Shhnnhh...",
   "fr": "Shhnnhh...",
@@ -991,7 +991,7 @@
  },
  {
   "ctx": "ST1030BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Shnn...",
   "fr": "Shnn...",
@@ -999,7 +999,7 @@
  },
  {
   "ctx": "ST1030BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Shrrhh...",
   "fr": "Shrrhh...",
@@ -1007,7 +1007,7 @@
  },
  {
   "ctx": "ST1030BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Shrrhh!!",
   "fr": "Shrrhh !!",
@@ -1015,7 +1015,7 @@
  },
  {
   "ctx": "ST1030BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Uggrrhh!",
   "fr": "Uggrrhh !",
@@ -1023,7 +1023,7 @@
  },
  {
   "ctx": "ST1030BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Sssssss!",
   "fr": "Sssssss !",
@@ -1031,7 +1031,7 @@
  },
  {
   "ctx": "ST1030BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Ssssssssss!!",
   "fr": "Ssssssssss !!",
@@ -1039,15 +1039,15 @@
  },
  {
   "ctx": "ST1030BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "All right! This time I transformed!",
-  "fr": "Parfait ! Cette fois\nje me suis\ftransformée !",
+  "fr": "Parfait !\nCette fois je me suis transformée !",
   "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "That explains it...",
   "fr": "Tout s'explique...",
@@ -1055,18 +1055,18 @@
  },
  {
   "ctx": "ST1030BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "I have to store up power before \nthe armlet will work!",
-  "fr": "Je dois stocker de\nla puissance avant\fque le bracelet\fne fonctionne !",
+  "fr": "Je dois stocker de la puissance\navant que le bracelet ne\ffonctionne !",
   "src": "pinky"
  },
  {
   "ctx": "ST1030BT",
-  "max": 16,
+  "max": 34,
   "who": "English Officer",
   "en": "Ngaaah...!\nBloody French...",
-  "fr": "Ngaaah... !\nMaudits Français...",
+  "fr": "Ngaaah... ! Maudits Français...",
   "src": "pinky"
  },
  {
@@ -1474,7 +1474,7 @@
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Moohh...",
   "fr": "Meuh...",
@@ -1490,7 +1490,7 @@
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Gotcha!",
   "fr": "Je t'ai !",
@@ -1498,7 +1498,7 @@
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Don't moove!",
   "fr": "Ne bougez pas !",
@@ -1506,7 +1506,7 @@
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Mooh!",
   "fr": "Meuuuh !",
@@ -1514,7 +1514,7 @@
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Mooh?!",
   "fr": "Meuh ?!",
@@ -1530,32 +1530,32 @@
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Moove forward!\nStrike back!",
-  "fr": "Avancez !\nDéfendez-vous !",
+  "fr": "Avancez ! Défendez-vous !",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Don't let them\nmoove away!",
-  "fr": "Ne les laissez\npas filer !",
+  "fr": "Ne les laissez pas filer !",
   "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "It's our battle\nto win!",
-  "fr": "C'est une bataille\nà gagner !",
+  "fr": "C'est une bataille à gagner !",
   "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Grnnhh...",
   "fr": "Grnnhh...",
@@ -1563,31 +1563,31 @@
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You will pay\nfor this...",
-  "fr": "Vous allez\nme le payer.",
+  "fr": "Vous allez me le payer.",
   "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Moo mooh! Did\nyou see that?!",
-  "fr": "Meuh meuh !\nVous avez vu ça ?",
+  "fr": "Meuh meuh ! Vous avez vu ça ?",
   "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Let me make it\neasy for you...",
-  "fr": "Laisse-moi te\nfaciliter la tâche.",
+  "fr": "Laisse-moi te faciliter la tâche.",
   "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Moo, thank you!",
   "fr": "Meuh, merci.",
@@ -1595,7 +1595,7 @@
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Sorry...moo.",
   "fr": "Désolé... Meuh.",
@@ -1603,7 +1603,7 @@
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Mooohh!!",
   "fr": "Meuuuuuhhhh !!",
@@ -1611,7 +1611,7 @@
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Grooh...",
   "fr": "Grouhh...",
@@ -1619,7 +1619,7 @@
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Moohh!!",
   "fr": "Meuhh !!",
@@ -1627,7 +1627,7 @@
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Mmmoooohh!",
   "fr": "Mmmmmeuhhhh !!!",
@@ -1635,7 +1635,7 @@
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "Duke of Bedford",
   "en": "Now...",
   "fr": "Maintenant...",
@@ -1643,31 +1643,31 @@
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You cannot\nescape...",
-  "fr": "Vous ne pouvez\nplus fuir.",
+  "fr": "Vous ne pouvez plus fuir.",
   "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "How silly\nof you.",
-  "fr": "Bande\nd'idiots.",
+  "fr": "Bande d'idiots.",
   "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Ugh, this is so\ndepressing...",
-  "fr": "Arf, c'est si\ndéprimant.",
+  "fr": "Arf, c'est si déprimant.",
   "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Such strength...",
   "fr": "Quelle force...",
@@ -1675,55 +1675,55 @@
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "The end is in\nsight...",
-  "fr": "La fin\napproche...",
+  "fr": "La fin approche...",
   "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "We've taken the\nadvantage...",
-  "fr": "Nous avons pris\nl'avantage...",
+  "fr": "Nous avons pris l'avantage...",
   "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Let's settle\nthis...",
-  "fr": "Arrangeons\ntout ça...",
+  "fr": "Arrangeons tout ça...",
   "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Let's get this\nover with...",
-  "fr": "Finissons-en\navec...",
+  "fr": "Finissons-en avec...",
   "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I'll be right\nover...",
-  "fr": "J'arrive\nimmédiatement.",
+  "fr": "J'arrive immédiatement.",
   "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Want me to end\nthe pain?",
-  "fr": "Voulez-vous que\nj'abrège votre peine\f?",
+  "fr": "Voulez-vous que j'abrège votre\npeine ?",
   "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I needed that...",
   "fr": "J'en avais besoin...",
@@ -1731,16 +1731,16 @@
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "This just isn't\nlike me...",
-  "fr": "Ça ne me\nressemble pas...",
+  "fr": "Ça ne me ressemble pas...",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "How does this\ngrab you?",
   "fr": "Qu'en dis-tu ?",
@@ -1749,23 +1749,23 @@
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Power...come\nto me!",
-  "fr": "Pouvoir...\nViens à moi !",
+  "fr": "Pouvoir... Viens à moi !",
   "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "The power of\ndarkness...",
-  "fr": "Le pouvoir des\nténèbres...",
+  "fr": "Le pouvoir des ténèbres...",
   "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Haahhh!",
   "fr": "Haahhh !",
@@ -1773,7 +1773,7 @@
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Brr...",
   "fr": "Brr...",
@@ -1781,7 +1781,7 @@
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Byaaahh!!",
   "fr": "Byaaahh !!",
@@ -1789,7 +1789,7 @@
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "Nobleman, Gilles",
   "en": "My God...",
   "fr": "Mon Dieu...",
@@ -1797,34 +1797,34 @@
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "Nobleman",
   "en": "She has the same power!",
-  "fr": "Elle a le même\npouvoir !",
+  "fr": "Elle a le même pouvoir !",
   "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "English Officer",
   "en": "Our troops, defeated?\nThat can't...urg...be right...",
-  "fr": "Nos troupes, battues\n? Imp... Impossible\f!",
+  "fr": "Nos troupes, battues ? Imp...\nImpossible !",
   "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "English Officer",
   "en": "Ngaah... Don't go celebratin' yet, \nfroggies...",
-  "fr": "Graaah... Ne vous\nréjouissez pas trop\fvite, froggies...",
+  "fr": "Graaah... Ne vous réjouissez pas\ntrop vite, froggies...",
   "src": "pinky"
  },
  {
   "ctx": "ST1040BT",
-  "max": 16,
+  "max": 34,
   "who": "English Officer",
   "en": "Our demon horde is on your tail.\nYour grave's good as dug...",
-  "fr": "Notre horde\ndémoniaque est à vos\ftrousses.\fVotre tombe est déjà\ncreusée.",
+  "fr": "Notre horde démoniaque est à vos\ntrousses.\fVotre tombe est déjà creusée.",
   "src": "pinky"
  },
  {

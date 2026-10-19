@@ -491,7 +491,7 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You bastard...",
   "fr": "Salauds...",
@@ -499,7 +499,7 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Village swine...!",
   "fr": "Gros porc... !",
@@ -507,31 +507,31 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "No...\nNot like this...",
-  "fr": "Non...\nPas comme ça...",
+  "fr": "Non... Pas comme ça...",
   "src": "pinky"
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You will pay...\nMark my words...",
-  "fr": "Vous le paierez...\nN'oubliez pas mes\fparoles...",
+  "fr": "Vous le paierez...\nN'oubliez pas mes paroles...",
   "src": "pinky"
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You can't\nescape!",
-  "fr": "Vous ne pouvez\npas fuir !",
+  "fr": "Vous ne pouvez pas fuir !",
   "src": "pinky"
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Imbeciles!",
   "fr": "Imbéciles !",
@@ -547,7 +547,7 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Impossible...",
   "fr": "Impossible...",
@@ -555,7 +555,7 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "This can't be...",
   "fr": "Impossible...",
@@ -563,23 +563,23 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You're fools to\ndefy us!",
-  "fr": "Vous avez tort de\nnous défier !",
+  "fr": "Vous avez tort de nous défier !",
   "src": "pinky"
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You and your\nhovels can burn!",
-  "fr": "Vous et vos cahutes\npouvez brûler !",
+  "fr": "Vous et vos cahutes pouvez\nbrûler !",
   "src": "pinky"
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Useless worm!",
   "fr": "Ver insignifiant !",
@@ -587,15 +587,15 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I'll make the\npain go away...",
-  "fr": "J'effacerai la\nsouffrance...",
+  "fr": "J'effacerai la souffrance...",
   "src": "pinky"
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You idiot!",
   "fr": "Idiot !",
@@ -611,7 +611,7 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You...!",
   "fr": "Vous... !",
@@ -636,7 +636,7 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Surrounded.",
   "fr": "Encerclé.",
@@ -644,7 +644,7 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Uh oh...",
   "fr": "Oh oh...",
@@ -652,31 +652,31 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I'd like this\nover with.",
-  "fr": "J'aurais préféré\nautrement.",
+  "fr": "J'aurais préféré autrement.",
   "src": "pinky"
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Oh, dear, what\na bother.",
-  "fr": "Oh bon sang, quelle\npoisse.",
+  "fr": "Oh bon sang, quelle poisse.",
   "src": "pinky"
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Does it hurt,\nI wonder?",
-  "fr": "Est-ce que ça fait\nmal ? Je me le\fdemande.",
+  "fr": "Est-ce que ça fait mal ?\nJe me le demande.",
   "src": "pinky"
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Healed.",
   "fr": "Soigné.",
@@ -692,7 +692,7 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Behold my power!",
   "fr": "Voyez ma puissance !",
@@ -700,31 +700,31 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "I swore I'd protect everyone...\nI have to keep...my promise...!",
-  "fr": "J'ai juré de\nprotéger tout le\fmonde...\fJe dois respecter...\nma promesse... !",
+  "fr": "J'ai juré de protéger tout le\nmonde... Je dois respecter...\fma promesse... !",
   "src": "pinky"
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "Liane",
   "en": "Jeanne... Roger...\nSave me...",
-  "fr": "Jeanne... Roger...\nSauvez-moi...",
+  "fr": "Jeanne... Roger... Sauvez-moi...",
   "src": "pinky"
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger",
   "en": "Ungh! Jeanne...\nI won't let them...hurt you...",
-  "fr": "Ungh ! Jeanne...\fJe ne les laisserai\npas... te blesser...",
+  "fr": "Ungh ! Jeanne...\nJe ne les laisserai pas... te blesser...",
   "src": "pinky"
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne, Roger, Elder",
   "en": "What?",
   "fr": "Quoi ?",
@@ -732,7 +732,7 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "The armlet?!",
   "fr": "Le bracelet ?!",
@@ -740,15 +740,15 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "FOR YOUR FRIENDS' SAKE... \nSET ITS POWER FREE......",
-  "fr": "PAR AMOUR POUR TES\nAMIS... LIBÈRE SON\fPOUVOIR......",
+  "fr": "PAR AMOUR POUR TES AMIS...\nLIBÈRE SON POUVOIR......",
   "src": "pinky"
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "Orc",
   "en": "Grrrawooo!",
   "fr": "Grrraaaoorrrr !!",
@@ -756,23 +756,24 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "Help me protect my friends! \nLiane, Roger... Everyone!",
-  "fr": "Aide-moi à protéger\nmes amis ! Liane,\fRoger... Tout le\nmonde !",
-  "src": "pinky"
+  "fr": "Aide-moi à protéger mes amis !\nLiane, Roger... Tout le monde !",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "What happened...?",
-  "fr": "Que s'est-il\npassé... ?",
+  "fr": "Que s'est-il passé... ?",
   "src": "pinky"
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger",
   "en": "That armor...",
   "fr": "Cette armure...",
@@ -780,34 +781,34 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "English Officer",
   "en": "...?! \nThat girl... She couldn't have!",
-  "fr": "... ?! Cette\nfille... C'est\fimpossible !",
+  "fr": "... ?! Cette fille... C'est impossible !",
   "src": "pinky"
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "This...power? \nWhere is it all coming from?",
-  "fr": "Ce... pouvoir ?\nD'où vient-il ?",
+  "fr": "Ce... pouvoir ? D'où vient-il ?",
   "src": "pinky"
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "I can do this! \nI'm ready!",
-  "fr": "Je peux le faire !\nJe suis prête !",
+  "fr": "Je peux le faire ! Je suis prête !",
   "src": "pinky"
  },
  {
   "ctx": "ST1020BT",
-  "max": 16,
+  "max": 34,
   "who": "English Officer",
   "en": "How... \nIt was right within my grasp...",
-  "fr": "Comment... Je\nn'aurais pas dû\féchouer...",
+  "fr": "Comment...\nJe n'aurais pas dû échouer...",
   "src": "pinky"
  },
  {
@@ -960,7 +961,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "Why, the next step of your \nbrilliant plan is nigh underway.",
-  "fr": "Et pour cause,\fla prochaine étape de votre plan\nbrillant est sur le point de se\fréaliser.",
+  "fr": "Et pour cause, la prochaine étape\nde votre plan brillant est sur le\fpoint de se réaliser.",
   "src": "pinky"
  },
  {

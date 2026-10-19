@@ -1,23 +1,23 @@
 [
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Death to the\ninvaders!",
-  "fr": "Éliminez les\nintrus !",
+  "fr": "Éliminez les intrus !",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You won't\nescape!",
-  "fr": "Vous ne\nfuirez pas !",
+  "fr": "Vous ne fuirez pas !",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Ka ha ha...",
   "fr": "Ka ha ha...",
@@ -25,7 +25,7 @@
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Surrounded...",
   "fr": "Encerclés...",
@@ -33,26 +33,26 @@
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Death...\nto them.",
-  "fr": "Tuez-les...\nTous...",
+  "fr": "Tuez-les... Tous...",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Death...to\nall...",
-  "fr": "Qu'ils...\nCrèvent...",
+  "fr": "Qu'ils... Crèvent...",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "One final\nblow...",
-  "fr": "Le coup\nde grâce...",
+  "fr": "Le coup de grâce...",
   "src": "pinky"
  },
  {
@@ -65,23 +65,23 @@
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "My power...\nBehold...",
-  "fr": "Mon pouvoir...\nRegardez...",
+  "fr": "Mon pouvoir... Regardez...",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "The power...of\ndarkness...",
-  "fr": "Le pouvoir...\nDe l'ombre...",
+  "fr": "Le pouvoir... De l'ombre...",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Blow...",
   "fr": "Ahh...",
@@ -89,7 +89,7 @@
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "What on...",
   "fr": "Mais que...",
@@ -97,42 +97,42 @@
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Don't take me\nlightly, now!",
-  "fr": "Prenez-moi\nau sérieux !",
+  "fr": "Prenez-moi au sérieux !",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "No going back\nfor you now...",
-  "fr": "C'en est fini\nde vous...",
+  "fr": "C'en est fini de vous...",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Sorry 'bout\nthat.",
-  "fr": "Vous m'en voyez\nnavré...",
+  "fr": "Vous m'en voyez navré...",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "Lady Bandit",
   "en": "The walkways can get to be a\nbit complicated here.\fWe'll just have to build us some\nbridges!",
-  "fr": "Le chemin devient\npeu praticable par\fici.\fIl nous faudra\nconstruire des ponts\f!",
+  "fr": "Le chemin devient peu praticable\npar ici.\fIl nous faudra construire des\nponts !",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "Colet",
   "en": "Do not forget about moi!\nBweedges are my forté, ho-hoh!",
-  "fr": "Ne m'oubliez pas !\nLes ponts, c'est mon\fcréneau, ho-hoh !",
+  "fr": "Ne m'oubliez pas ! Les ponts, c'est\nmon créneau, ho-hoh !",
   "src": "pinky"
  },
  {
@@ -145,10 +145,10 @@
  },
  {
   "ctx": "ST3020BT",
-  "max": 16,
+  "max": 34,
   "who": "Rebel Leader",
   "en": "How'd a pack o' thieves...like\nyou...get to be so...strong...",
-  "fr": "Comment une bande de\nvoleurs... comme\fvous...\fpeuvent être... si\nforts..",
+  "fr": "Comment une bande de voleurs...\ncomme vous... peuvent être...\fsi forts..",
   "src": "pinky"
  },
  {
@@ -204,7 +204,7 @@
   "max": 34,
   "who": "Lady Bandit",
   "en": "See, I fence what I filch and\nthen give the money to poor folk.",
-  "fr": "Tu vois,\fj'amasse ce que je vole et le\nredistribue ensuite aux pauvres\fgens.",
+  "fr": "Tu vois, j'amasse ce que je vole et\nle redistribue ensuite aux pauvres\fgens.",
   "src": "pinky"
  },
  {
@@ -776,31 +776,31 @@
  },
  {
   "ctx": "ST3021BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I'll tear you\nlimb from limb!",
-  "fr": "Je vais te\ndépecer !",
+  "fr": "Je vais te dépecer !",
   "src": "pinky"
  },
  {
   "ctx": "ST3021BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "What a windfall\nthis will be!",
-  "fr": "Quelle aubaine\nce serait !",
+  "fr": "Quelle aubaine ce serait !",
   "src": "pinky"
  },
  {
   "ctx": "ST3021BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Don't leave any\nof them alive!",
-  "fr": "Ne les laissez\npas fuir !",
+  "fr": "Ne les laissez pas fuir !",
   "src": "pinky"
  },
  {
   "ctx": "ST3021BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "How pathetic.",
   "fr": "Si pathétique...",
@@ -808,23 +808,23 @@
  },
  {
   "ctx": "ST3021BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Don't get in\nmy way...",
-  "fr": "Hors de mon\npassage !",
+  "fr": "Hors de mon passage !",
   "src": "pinky"
  },
  {
   "ctx": "ST3021BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "The crystals\nare mine!",
-  "fr": "À moi les\ncristaux !",
+  "fr": "À moi les cristaux !",
   "src": "pinky"
  },
  {
   "ctx": "ST3021BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "It's all mine!",
   "fr": "C'est à MOI !",
@@ -832,15 +832,15 @@
  },
  {
   "ctx": "ST3021BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "OK, let's sweep\n'em all up!",
-  "fr": "Faisons-les\ndéguerpir !",
+  "fr": "Faisons-les déguerpir !",
   "src": "pinky"
  },
  {
   "ctx": "ST3021BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Who is...",
   "fr": "Qui...",
@@ -848,7 +848,7 @@
  },
  {
   "ctx": "ST3021BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Sss!",
   "fr": "Sss !",
@@ -856,7 +856,7 @@
  },
  {
   "ctx": "ST3021BT",
-  "max": 16,
+  "max": 34,
   "who": "Claire",
   "en": "Ugh! Not good!",
   "fr": "Gnn ! Ça craint !",
@@ -864,56 +864,56 @@
  },
  {
   "ctx": "ST3021BT",
-  "max": 16,
+  "max": 34,
   "who": "Claire",
   "en": "If they break even one of the \ncrystals around town...",
-  "fr": "S'ils détruisent ne\nserait-ce qu'un\fseul cristal de la\nville...",
+  "fr": "S'ils détruisent ne serait-ce qu'un\nseul cristal de la ville...",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST3021BT",
-  "max": 16,
+  "max": 34,
   "who": "Brigand Sellsword",
   "en": "Did you 'ear that, you louts?\nLet's nab us 'em crystals!",
-  "fr": "Vous avez entendu ?\nAllons récupérer ces\fcristaux !",
+  "fr": "Vous avez entendu ?\nAllons récupérer ces cristaux !",
   "src": "pinky"
  },
  {
   "ctx": "ST3021BT",
-  "max": 16,
+  "max": 34,
   "who": "Claire",
   "en": "Aaaaaagh! That's it.\nLess talky, more fighty!",
-  "fr": "Ahah ! C'est ça !\nMoins de blabla, des\frésultats !",
+  "fr": "Ahah ! C'est ça !\nMoins de blabla, des résultats !",
   "src": "pinky"
  },
  {
   "ctx": "ST3021BT",
-  "max": 16,
+  "max": 34,
   "who": "Liane, Roger, Jean",
   "en": "Oh, no... The crystal!",
-  "fr": "Oh non... Le cristal\n!",
+  "fr": "Oh non... Le cristal !",
   "src": "pinky"
  },
  {
   "ctx": "ST3021BT",
-  "max": 16,
+  "max": 34,
   "who": "Claire",
   "en": "Ugh, those runts...\nThey've doomed us all...",
-  "fr": "Ugh, ces avortons...\nIls nous ont tous\fcondamnés...",
+  "fr": "Ugh, ces avortons...\nIls nous ont tous condamnés...",
   "src": "pinky"
  },
  {
   "ctx": "ST3021BT",
-  "max": 16,
+  "max": 34,
   "who": "La Hire",
   "en": "Currrses!\nLa Hire has failed!",
-  "fr": "Malédictions !\nLa Hire a échoué !",
+  "fr": "Malédictions ! La Hire a échoué !",
   "src": "pinky"
  },
  {
   "ctx": "ST3021BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "No... The crystal!",
   "fr": "Non... Le cristal !",
@@ -921,50 +921,50 @@
  },
  {
   "ctx": "ST3021BT",
-  "max": 16,
+  "max": 34,
   "who": "Colet",
   "en": "Oh, non!\nWe are feenished!",
-  "fr": "Oh, non !\nNous sommes finis !",
+  "fr": "Oh, non ! Nous sommes finis !",
   "src": "pinky"
  },
  {
   "ctx": "ST3021BT",
-  "max": 16,
+  "max": 34,
   "who": "Marcel",
   "en": "Oh, no!\nThey smashed it!",
-  "fr": "Oh, non !\nIls l'ont brisé !",
+  "fr": "Oh, non ! Ils l'ont brisé !",
   "src": "pinky"
  },
  {
   "ctx": "ST3021BT",
-  "max": 16,
+  "max": 34,
   "who": "Rufus",
   "en": "Ruh-oh!\nRey broke the sparkly!",
-  "fr": "Ruh-oh ! Il est en\nmille morceaux !",
+  "fr": "Ruh-oh ! Il est en mille morceaux !",
   "src": "pinky"
  },
  {
   "ctx": "ST3021BT",
-  "max": 16,
+  "max": 34,
   "who": "Bartolomeo",
   "en": "Alas...\nAll hopes are lost...",
-  "fr": "Hélas... Il n'y a\nplus d'espoir...",
+  "fr": "Hélas... Il n'y a plus d'espoir...",
   "src": "pinky"
  },
  {
   "ctx": "ST3021BT",
-  "max": 16,
+  "max": 34,
   "who": "Beatrix",
   "en": "The crystal has cracked!",
-  "fr": "Le cristal a explosé\n!",
+  "fr": "Le cristal a explosé !",
   "src": "pinky"
  },
  {
   "ctx": "ST3021BT",
-  "max": 16,
+  "max": 34,
   "who": "Bertrand",
   "en": "Yuh-oh! It's all over now.",
-  "fr": "Yuh-oh ! Tout est\nfini.",
+  "fr": "Yuh-oh ! Tout est fini.",
   "src": "pinky"
  },
  {
@@ -1678,7 +1678,7 @@
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Gah...!",
   "fr": "Gha... !",
@@ -1686,31 +1686,31 @@
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "We're still in\nthis! Forward!",
-  "fr": "On est encore\ndans la course !",
+  "fr": "On est encore dans la course !",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Heh heh...It's\nmine now.",
-  "fr": "Héhé... C'est à moi,\nmaintenant !",
+  "fr": "Héhé... C'est à moi, maintenant !",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "That's not about\nto stop me!",
-  "fr": "Ça ne va pas\nm'arrêter !",
+  "fr": "Ça ne va pas m'arrêter !",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "All right,\nlet's go!",
   "fr": "C'est parti !",
@@ -1718,15 +1718,15 @@
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Now! Plow in\nthere!",
-  "fr": "Taillez dans\nle tas !",
+  "fr": "Taillez dans le tas !",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Ergh!",
   "fr": "Argh !",
@@ -1734,212 +1734,212 @@
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "Liane",
   "en": "Stay vigilant! We can't let the\nenemy inside town!",
-  "fr": "Restez vigilants !\nVidons la ville des\ftroupes ennemies !",
+  "fr": "Restez vigilants ! Vidons la ville\ndes troupes ennemies !",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "Sellsword",
   "en": "Right! Now's our chance!\nMake a run for the town!",
-  "fr": "Maintenant ! C'est\nnotre chance !\fFonçons vers la\nville !",
+  "fr": "Maintenant ! C'est notre chance !\nFonçons vers la ville !",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "Liane",
   "en": "What are you doing?\nI-I'm JEANNE!",
-  "fr": "Mais que faites-vous\n? Je... Je suis\fJEANNE !",
+  "fr": "Mais que faites-vous ? Je...\nJe suis JEANNE !",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "Rufus",
   "en": "Awooo!\nRy'm not a rad guy!",
-  "fr": "Ahouuuu ! J'suis pas\nun méchant !",
+  "fr": "Ahouuuu ! J'suis pas un méchant !",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "La Hire",
   "en": "Rrrar, what are you doing?!\nYou will tell La Hire!",
-  "fr": "Rrraar, mais que\nfaites-vous ?!\fExpliquez-vous à La\nHire !",
+  "fr": "Rrraar, mais que faites-vous ?!\nExpliquez-vous à La Hire !",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "Bartolomeo",
   "en": "Ngaaah! What treachery dost thou\npractice?",
-  "fr": "Gnaaah ! Mais quelle\ntrahison est-ce là ?",
+  "fr": "Gnaaah !\nMais quelle trahison est-ce là ?",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "Jean",
   "en": "Ungh! Wh-what on earth...\nWhat are you doing?!",
-  "fr": "Gnn... Dieux du\nciel, que\ffaites-vous ?!",
+  "fr": "Gnn...\nDieux du ciel, que faites-vous ?!",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "Bertrand",
   "en": "Draaagh!\nWhat the hell are you doin'?!",
-  "fr": "Draaagh ! Mais que\nfaites-vous ?!",
+  "fr": "Draaagh ! Mais que faites-vous ?!",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "Marcel",
   "en": "Waaah!\nI thought we were friends!",
-  "fr": "Whaaa ! Je croyais\nque nous étions amis\f!",
+  "fr": "Whaaa !\nJe croyais que nous étions amis !",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "Beatrix",
   "en": "Ack!\nYou are attacking an ally!",
-  "fr": "Argh ! Vous attaquez\nun allié !",
+  "fr": "Argh ! Vous attaquez un allié !",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "Ungh! You wretches...plotted\nagainst us?",
-  "fr": "Gnnn... Espèce de\nmisérable... Se\fretourner contre\nnous ?",
+  "fr": "Gnnn... Espèce de misérable...\nSe retourner contre nous ?",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "Colet",
   "en": "Oof! What eez ze beeg idea?!\nDo I look like ze bad guy? NON!",
-  "fr": "Ouch ! Mais quelle\nidée ! Ai-je l'air\fd'un ennemi ?! NON !",
+  "fr": "Ouch ! Mais quelle idée !\nAi-je l'air d'un ennemi ?! NON !",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "Claire",
   "en": "What?! How dare you!\nDon't you know who I am?! Ugh!",
-  "fr": "Quoi ?! Comment\nosez-vous !\fAvez-vous oublié qui\nje suis ?!",
+  "fr": "Quoi ?! Comment osez-vous !\nAvez-vous oublié qui je suis ?!",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "Rose",
   "en": "Hey...what're you playin' at,\nyou backstabbers?!",
-  "fr": "Hé... À quoi\njouez-vous, traitres\f?!",
+  "fr": "Hé... À quoi jouez-vous, traitres ?!",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "Liane",
   "en": "Oh, no!\nThey're inside the town walls!",
-  "fr": "Oh non ! Ils sont\nentrés dans la ville\f!",
+  "fr": "Oh non !\nIls sont entrés dans la ville !",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "Rufus",
   "en": "Awooo!\nRut do we roo?",
-  "fr": "Ahouuu ! Que\ndevons-nous faire ?",
+  "fr": "Ahouuu ! Que devons-nous faire ?",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "La Hire",
   "en": "Rrrar, no!\nThey have eluded La Hire!",
-  "fr": "Roarrrr, non ! Ils\nont échappé à La\fHire !",
+  "fr": "Roarrrr, non !\nIls ont échappé à La Hire !",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "Bartolomeo",
   "en": "Alack... Our foes have already\nthe town walls breach'd...",
-  "fr": "Hélas... Nos ennemis\nont déjà franchi\fles murs de la\nville...",
+  "fr": "Hélas... Nos ennemis ont déjà\nfranchi les murs de la ville...",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "Jean",
   "en": "Grr...\nThey've broken through!",
-  "fr": "Grrr... Ils ont\nréussi à passer !",
+  "fr": "Grrr... Ils ont réussi à passer !",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "Bertrand",
   "en": "Damn it!\nThey're inside the walls!",
-  "fr": "Diantre ! Ils sont\nentrés dans la ville\f!",
+  "fr": "Diantre !\nIls sont entrés dans la ville !",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "Marcel",
   "en": "Oh, no! The bad guys have\nreached the town!",
-  "fr": "Oh non ! Les vilains\nsont entrés en ville\f!",
+  "fr": "Oh non !\nLes vilains sont entrés en ville !",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "Beatrix",
   "en": "Oh, terror!\nThey're targeting the town!",
-  "fr": "Oh, c'est affreux !\nIls visent la ville\f!",
+  "fr": "Oh, c'est affreux !\nIls visent la ville !",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "Grr...\nWe were outmanned...",
-  "fr": "Grr... Nous étions\ntrop peu nombreux...",
+  "fr": "Grr...\nNous étions trop peu nombreux...",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "Claire",
   "en": "They're inside the town!\nUGH!",
-  "fr": "Ils sont entrés dans\nla ville ! UFF !",
+  "fr": "Ils sont entrés dans la ville ! UFF !",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "Colet",
   "en": "Non!\nWe are all feenished...",
-  "fr": "Non ! Nous sommes\nperdus...",
+  "fr": "Non ! Nous sommes perdus...",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 16,
+  "max": 34,
   "who": "Rose",
   "en": "Bugger!\nThey're inside the town!",
-  "fr": "Ah bordel ! Ils ont\natteint la ville !",
+  "fr": "Ah bordel ! Ils ont atteint la ville !",
   "src": "pinky"
  },
  {

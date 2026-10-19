@@ -1,23 +1,23 @@
 [
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Colet",
   "en": "Time to make like ze baguettes\\u2014\nand get our buns on a roll!",
-  "fr": "Il est temps de\nfaire comme les\fmauviettes...\fet de prendre nos\njambes à notre cou !",
+  "fr": "Il est temps de faire comme les\nmauviettes...\fet de prendre nos jambes à notre\ncou !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Slinker",
   "en": "You'll never escape, ni!",
-  "fr": "Vous vous échapperez\npas, ni !",
+  "fr": "Vous vous échapperez pas, ni !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Slinker",
   "en": "After them!",
   "fr": "Après eux !",
@@ -25,7 +25,7 @@
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Slinker",
   "en": "...Ni-yaaarg!",
   "fr": "...Ni-yaaarg !",
@@ -33,97 +33,97 @@
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Slinker",
   "en": "Grr... Who did that?!",
-  "fr": "Grr... Qui a fait ça\n?!",
+  "fr": "Grr... Qui a fait ça ?!",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Slinker",
   "en": "Ungh, n-n-no fair...",
-  "fr": "Ouch, q-quelle\ntraîtrise...",
+  "fr": "Ouch, q-quelle traîtrise...",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "How could this have happened...\nEveryone, follow me!",
-  "fr": "Comment cela a-t-il\npu arriver... Tout\fle monde, suivez-moi\n!",
+  "fr": "Comment cela a-t-il pu arriver...\nTout le monde, suivez-moi !",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Liane",
   "en": "We can get out this way!\nCome on, there's no time!",
-  "fr": "Nous pouvons sortir\npar là ! Venez, on a\fpas le temps !",
+  "fr": "Nous pouvons sortir par là !\nVenez, on a pas le temps !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger",
   "en": "All right...\nWe can escape here! Run!",
-  "fr": "Très bien...\nPar ici ! Courez !",
+  "fr": "Très bien... Par ici ! Courez !",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Gilles",
   "en": "We've overstayed our welcome.\nThis way, if you want to live!",
-  "fr": "Nous avons abusé de\nleur hospitalité...\fPar ici, si vous\nvoulez survivre !",
+  "fr": "Nous avons abusé de leur\nhospitalité...\fPar ici, si vous voulez survivre !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Rufus",
   "en": "Arr-ruff!\nWe raff to ret out of here!",
-  "fr": "Arr-ruff ! Nous\ndevons fuir d'ici !",
+  "fr": "Arr-ruff ! Nous devons fuir d'ici !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "La Hire",
   "en": "Rrrar!\nLa Hire has found a way out!",
-  "fr": "Rrroar ! La Hire a\ntrouvé une sortie !",
+  "fr": "Rrroar !\nLa Hire a trouvé une sortie !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Bartolomeo",
   "en": "Lo! An exit from our thorny\nplight. Make haste, you all!",
-  "fr": "Oh ! Une issue à\nnotre épineux\fproblème. Hâtez-vous\n!",
+  "fr": "Oh ! Une issue à notre épineux\nproblème. Hâtez-vous !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Jean",
   "en": "Come, my friends!\nWe can exit this way!",
-  "fr": "Venez mes amis !\nNous pouvons sortir\fpar ici !",
+  "fr": "Venez mes amis !\nNous pouvons sortir par ici !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Bertrand",
   "en": "He who fights and runs away...\nWell, you know the rest, heh!",
-  "fr": "Celui qui se bat et\nqui fuit...\fEh bien vous\nconnaissez la suite,\fhéhé !",
+  "fr": "Celui qui se bat et qui fuit...\fEh bien vous connaissez la suite,\nhéhé !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Marcel",
   "en": "We have to get away!",
   "fr": "Nous devons fuir !",
@@ -131,39 +131,39 @@
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Beatrix",
   "en": "Move fast, friends!\nWe must flee this fracas.",
-  "fr": "Plus vite les amis !\nNous devons nous\fsortir de là.",
+  "fr": "Plus vite les amis !\nNous devons nous sortir de là.",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "Quickly!\nWe can escape through here.",
-  "fr": "Vite ! Nous pouvons\nfuir par là.",
+  "fr": "Vite ! Nous pouvons fuir par là.",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Colet",
   "en": "Tsk...\nWhat a world, eh?",
-  "fr": "Tss...\nC'est dingue, hein ?",
+  "fr": "Tss... C'est dingue, hein ?",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "That should be everyone.\nTime to go!",
-  "fr": "Tout le monde est\nlà. Il est temps de\fpartir !",
+  "fr": "Tout le monde est là.\nIl est temps de partir !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Liane",
   "en": "Ahh! Wait for me!",
   "fr": "Ahh ! Attendez-moi !",
@@ -171,92 +171,92 @@
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger",
   "en": "Good, that's all of us!",
-  "fr": "C'est bon tout le\nmonde est là !",
+  "fr": "C'est bon tout le monde est là !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Gilles",
   "en": "Good, the rest are safe.\nNow, my turn...",
-  "fr": "Parfait, tout le\nmonde va bien.\fMaintenant à moi...",
+  "fr": "Parfait, tout le monde va bien.\nMaintenant à moi...",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Rufus",
   "en": "Awooo!\nRy've got the rear!",
-  "fr": "Awooou ! Je prends\nl'arrière !",
+  "fr": "Awooou ! Je prends l'arrière !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "La Hire",
   "en": "Rrrar! No one runs faster than\nLa Hire!",
-  "fr": "Rrrar ! Personne ne\ncourt plus vite que\fLa Hire !",
+  "fr": "Rrrar ! Personne ne court plus\nvite que La Hire !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Bartolomeo",
   "en": "My fellows are away, I trow, and\nnow I must escape withal.",
-  "fr": "Mes compagnons sont\npartis, je pense,\fmaintenant c'est à\nmoi de sortir.",
+  "fr": "Mes compagnons sont partis, je\npense,\fmaintenant c'est à moi de sortir.",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Jean",
   "en": "The others are safely away...\nI had better catch up!",
-  "fr": "Les autres sont\nsains et saufs... Je\fferais mieux de\nfaire pareil !",
+  "fr": "Les autres sont sains et saufs...\nJe ferais mieux de faire pareil !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Bertrand",
   "en": "Everybody else took off; what am\nI draggin' my armored arse for?",
-  "fr": "Tous les autres sont\npartis,\fqu'est-ce que je\nfais à traîner\fma carcasse encore\nici ?",
+  "fr": "Tous les autres sont partis,\fqu'est-ce que je fais à traîner ma\ncarcasse encore ici ?",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Marcel",
   "en": "Yipes!\nWait for me, everybody!",
-  "fr": "Aïe ! Attendez-moi\ntout le monde !",
+  "fr": "Aïe !\nAttendez-moi tout le monde !",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Beatrix",
   "en": "My friends have all flown... \nI must follow forthwith.",
-  "fr": "Mes amis ont tous\nfui... Je devrais\ffaire de même.",
+  "fr": "Mes amis ont tous fui...\nJe devrais faire de même.",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "The others are safe.\nI had best join them.",
-  "fr": "Les autres sont\nsauvés. Je ferais\fmieux de les\nrejoindre.",
+  "fr": "Les autres sont sauvés.\nJe ferais mieux de les rejoindre.",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Colet",
   "en": "Last one out eez a rotten oeuf!\n...Oh la la, c'est moi!",
-  "fr": "Le dernier sorti est\nun oeuf pourri !\f... Oh la la, c'est\nmoi !",
+  "fr": "Le dernier sorti est un oeuf\npourri ! ... Oh la la, c'est moi !",
   "src": "pinky"
  },
  {

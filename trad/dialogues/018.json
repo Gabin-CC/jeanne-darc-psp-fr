@@ -774,7 +774,7 @@
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Cheeky little...",
   "fr": "Petit impertinent...",
@@ -782,7 +782,7 @@
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "...Got you.",
   "fr": "... Je te tiens.",
@@ -790,7 +790,7 @@
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "...You're mine.",
   "fr": "... Tu es à moi.",
@@ -798,40 +798,40 @@
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "...Don't let\nthem escape!",
-  "fr": "Ne les laissez\npas s'échapper !",
+  "fr": "Ne les laissez pas s'échapper !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Chase after the\ninvaders!",
-  "fr": "Sus à\nl'envahisseur !",
+  "fr": "Sus à l'envahisseur !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Prepare to die,\ninvaders!",
-  "fr": "Prépare-toi à\nmourir, envahisseur\f!",
+  "fr": "Prépare-toi à mourir,\nenvahisseur !",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Prepare to meet\nyour maker.",
-  "fr": "Tu vas rencontrer\nton créateur.",
+  "fr": "Tu vas rencontrer ton créateur.",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "...Get 'em!",
   "fr": "Attrapez-les !",
@@ -839,7 +839,7 @@
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Nrrngh...",
   "fr": "Nrrngh...",
@@ -847,7 +847,7 @@
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "...Take this!",
   "fr": "Prends ça !",
@@ -855,79 +855,79 @@
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Therion Cub",
   "en": "Hurry, human girl!\nThe boats will leave soon!",
-  "fr": "Vite, humaine ! Les\nbateaux vont partir\f!",
+  "fr": "Vite, humaine !\nLes bateaux vont partir !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "La Hire",
   "en": "La Hire and his friends can\nreach the Warren by boat\\u2014",
-  "fr": "La Hire et ses amis\npeuvent atteindre la\fTanière avec\fles bateaux...",
+  "fr": "La Hire et ses amis peuvent\natteindre la Tanière avec les\fbateaux...",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "La Hire",
   "en": "you are sure, little cub?",
-  "fr": "En es-tu sûr petit\nlionceau ?",
+  "fr": "En es-tu sûr petit lionceau ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Therion Cub",
   "en": "Ruh-huh!\nVery sure!",
-  "fr": "Ruh-huh !\nSûr certain !",
+  "fr": "Ruh-huh ! Sûr certain !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Therion Cub",
   "en": "I will take you to my\ngrandp...er, the elder!",
-  "fr": "Je vais vous\nconduire à mon\fpap... euh, l'ancien\n!",
+  "fr": "Je vais vous conduire à mon pap...\neuh, l'ancien !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "I don't know if we can stop\nGilvaroth,",
-  "fr": "Je ne sais pas si je\npourrais arrêter\fGilvaroth,",
+  "fr": "Je ne sais pas si je pourrais arrêter\nGilvaroth,",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "but we have to try. Let's hurry\non to the Warren.",
-  "fr": "mais nous devons\nessayer. Vite, à la\fTanière.",
+  "fr": "mais nous devons essayer.\nVite, à la Tanière.",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "La Hire",
   "en": "Mawra... Blaze...\nLa Hire is on his way home.",
-  "fr": "Mawra... Blaze... La\nHire rentre à la\fmaison.",
+  "fr": "Mawra... Blaze...\nLa Hire rentre à la maison.",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "The longer we stay here, the\nmore powerful the Fiend\nbecomes...",
-  "fr": "Plus nous restons\nici, plus le Démon\ndevient puissant...",
+  "fr": "Plus nous restons ici, plus le\nDémon devient puissant...",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "We must make haste.",
   "fr": "Il faut faire vite.",
@@ -935,63 +935,63 @@
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Gilles",
   "en": "Everyone is accounted for...\nLet's be on our way.",
-  "fr": "Tout le monde est\nreprésenté.\fAllons-y.",
+  "fr": "Tout le monde est représenté.\nAllons-y.",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Jean",
   "en": "Everyone safely aboard?\nLet's shove off, then!",
-  "fr": "Tout le monde est à\nbord ? Alors levons\fl'ancre !",
+  "fr": "Tout le monde est à bord ?\nAlors levons l'ancre !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Marcel",
   "en": "All right, weigh the mizzenmast!\nShove anchor! Put sail! Yahoo!",
-  "fr": "Hissez la grand\nvoile ! Levez\fl'ancre ! En avant\ntoute !",
+  "fr": "Hissez la grand voile !\nLevez l'ancre ! En avant toute !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Colet",
   "en": "All right. Let us get ze going,\ntout de suite!",
-  "fr": "D'accord. En route,\nimmédiatement.",
+  "fr": "D'accord.\nEn route, immédiatement.",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Rufus",
   "en": "Ret's go...urr...rarf...\nRetting dizzy... Urrrrrp!",
-  "fr": "En rroute... urr...\nrarf... Et que ça\fsaute... Urrrrrp !",
+  "fr": "En rroute... urr... rarf...\nEt que ça saute... Urrrrrp !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Bertrand",
   "en": "Actually...urp...I'm not so\ngood...urp...with boats...",
-  "fr": "En fait... urp...\nLes bateaux...\furp... ne me\nréussissent pas...",
+  "fr": "En fait... urp... Les bateaux... urp...\nne me réussissent pas...",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Beatrix",
   "en": "Swiftly!\nWe must set sail!",
-  "fr": "Vite !\nLevez les voiles !",
+  "fr": "Vite ! Levez les voiles !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Bartolomeo",
   "en": "Let us depart forthwith!",
   "fr": "Levons l'ancre !",
@@ -999,208 +999,208 @@
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Cuisses",
   "en": "We're all here!\nTime to set sail, coa!",
-  "fr": "Tout le monde est\nlà, appareillons,\fcroa !",
+  "fr": "Tout le monde est là, appareillons,\ncroa !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Claire",
   "en": "All right, everybody's aboard.\nYou there\\u2014start rowing!",
-  "fr": "Bon, tout le monde\nest à bord. Levons\fl'ancre !",
+  "fr": "Bon, tout le monde est à bord.\nLevons l'ancre !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Rose",
   "en": "The Warren is a poor town, ain't\nit?",
-  "fr": "La Tanière est une\nville pauvre, non ?",
+  "fr": "La Tanière est une ville pauvre,\nnon ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Rose",
   "en": "Maybe Red-Handed Rose should\ngive them a cut of her loot...",
-  "fr": "Peut-être que\nRose-aux-mains\frouges devrait leur\ndonner\fun peu de son\nbutin...",
+  "fr": "Peut-être que Rose-aux-mains\nrouges devrait leur donner un peu\fde son butin...",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "Agh... Hurry! The boat on the\nother bank hasn't left yet!",
-  "fr": "Vite ! Le bateau sur\nl'autre rive n'est\fpas encore parti !",
+  "fr": "Vite ! Le bateau sur l'autre rive\nn'est pas encore parti !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "La Hire",
   "en": "Rrrar, quickly! The boat on the\nother bank has not left yet!",
-  "fr": "Roar ! Vite ! Le\nbateau sur l'autre\frive n'est pas\nencore parti !",
+  "fr": "Roar ! Vite ! Le bateau sur l'autre\nrive n'est pas encore parti !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard, Gilles",
   "en": "Agh... To the boat on the other\nbank! Hurry!",
-  "fr": "Vite ! Au bateau sur\nl'autre rive !",
+  "fr": "Vite ! Au bateau sur l'autre rive !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Jean",
   "en": "Agh... Wait! There's a boat on\nthe other bank! Hurry!",
-  "fr": "Il y a encore un\nbateau sur l'autre\frive ! Vite !",
+  "fr": "Il y a encore un bateau sur l'autre\nrive ! Vite !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Marcel",
   "en": "Hurry up! We can still catch the\nboat on the other bank!",
-  "fr": "Vite ! Nous pouvons\nencore avoir le\fbateau sur l'autre\nrive !",
+  "fr": "Vite ! Nous pouvons encore avoir\nle bateau sur l'autre rive !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Colet",
   "en": "Oh, non! Good thing zere eez\nanother boat across ze water!",
-  "fr": "Oh non !\nHeureusement qu'il y\fa encore un bateau\nde l'autre côté.",
+  "fr": "Oh non ! Heureusement qu'il y a\nencore un bateau de l'autre côté.",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Rufus",
   "en": "Rurry! Ruh boat on the ruther\nbank rasn't reft yet!",
-  "fr": "Vite ! Le bateau\nd'en face n'est pas\fencore parti !",
+  "fr": "Vite ! Le bateau d'en face n'est pas\nencore parti !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Bertrand",
   "en": "Yuh-oh! Not good... Quick!\nThere's a boat on the other bank!",
-  "fr": "Oh non... Il faut\nfaire vite ! Prenons\fl'autre bateau !",
+  "fr": "Oh non... Il faut faire vite !\nPrenons l'autre bateau !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Beatrix",
   "en": "Take heart! A better boat is\nbound up on the other bank!",
-  "fr": "Quelle chance ! Un\nmeilleur bateau\fappareille en face !",
+  "fr": "Quelle chance ! Un meilleur\nbateau appareille en face !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Bartolomeo",
   "en": "Take heart! I spy another boat\nmoor'd on yonder bank!",
-  "fr": "Quelle chance ! Un\nmeilleur bateau\fappareille en face !",
+  "fr": "Quelle chance ! Un meilleur\nbateau appareille en face !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Cuisses",
   "en": "Oh, no... But look! Across the\nwater! There's one more boat!",
-  "fr": "Oh non... Regardez !\nSur l'autre rive !\fUn autre bateau !",
+  "fr": "Oh non... Regardez !\nSur l'autre rive ! Un autre bateau !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Claire",
   "en": "H-hey!\nHow dare you leave without me!",
-  "fr": "H-Hé ! Comment\nosez-vous partir\fsans moi !",
+  "fr": "H-Hé ! Comment osez-vous partir\nsans moi !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Claire",
   "en": "Ugh! At least that boat on the\nother bank has some manners.",
-  "fr": "Arf ! Il reste au\nmoins un bateau sur\fl'autre rive.",
+  "fr": "Arf ! Il reste au moins un bateau\nsur l'autre rive.",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Rose",
   "en": "H-hey! Wait for me!",
-  "fr": "H-hé ! Attendez-moi\n!",
+  "fr": "H-hé ! Attendez-moi !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Rose",
   "en": "Oh, well. We can hitch a ride\nin that boat across the water!",
-  "fr": "Oh, bien. Nous\npourrons embarquer\fsur l'autre bateau.",
+  "fr": "Oh, bien. Nous pourrons\nembarquer sur l'autre bateau.",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "No!\nWe're too late...",
-  "fr": "Non ! C'est trop\ntard...",
+  "fr": "Non ! C'est trop tard...",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "La Hire",
   "en": "Rrrar!\nThe boats have left!",
-  "fr": "Rroar ! Les bateaux\nsont partis !",
+  "fr": "Rroar ! Les bateaux sont partis !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "No, we're trapped!",
-  "fr": "Non, nous sommes\npris au piège !",
+  "fr": "Non, nous sommes pris au piège !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Gilles",
   "en": "No!\nWe are too late...",
-  "fr": "Non !\nC'est trop tard...",
+  "fr": "Non ! C'est trop tard...",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Jean",
   "en": "Whoops!\nThere go the boats...",
-  "fr": "Oups ! Les bateaux\npartent...",
+  "fr": "Oups ! Les bateaux partent...",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Marcel",
   "en": "Oh, no!\nThe boats sailed without us!",
-  "fr": "Oh non ! Les bateaux\npartent sans nous !",
+  "fr": "Oh non !\nLes bateaux partent sans nous !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Colet",
   "en": "Merde et double merde!\nWe are too late!",
   "fr": "Merde et remerde !\nC'est trop tard !",
@@ -1208,55 +1208,55 @@
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Rufus",
   "en": "Ruh boats reft rithout us!\nAwooo...",
-  "fr": "Les bateaux sont\npartis sans nous !\fAwouuuuh !",
+  "fr": "Les bateaux sont partis sans nous !\nAwouuuuh !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Bertrand",
   "en": "Zoinks!\nWe wasn't fast enough!",
-  "fr": "Flûte ! Nous n'avons\npas été assez\frapides !",
+  "fr": "Flûte ! Nous n'avons pas été assez\nrapides !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Beatrix",
   "en": "The boats! Oh, bother...",
-  "fr": "Les bateaux ! Quelle\npanade...",
+  "fr": "Les bateaux ! Quelle panade...",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Bartolomeo",
   "en": "Alas!\nWe are too late.",
-  "fr": "Quel dommage !\nC'est trop tard !",
+  "fr": "Quel dommage ! C'est trop tard !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Cuisses",
   "en": "Coaaa!\nWe're too late!",
-  "fr": "Croaaa !\nOn l'a raté !",
+  "fr": "Croaaa ! On l'a raté !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Claire",
   "en": "Hey! Hold on! Ugh, you cretins\nforgot to wait for ME!",
-  "fr": "Hé ! Attendez !\nCrétins, vous êtes\fen train de\nm'oublier !",
+  "fr": "Hé ! Attendez ! Crétins, vous êtes\nen train de m'oublier !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Claire",
   "en": "Sheesh!",
   "fr": "Shiiiish !",
@@ -1264,244 +1264,244 @@
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Rose",
   "en": "Now hold on!\nWhere are you going?!",
-  "fr": "Minute !\nTu crois aller où ?!",
+  "fr": "Minute ! Tu crois aller où ?!",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Rose",
   "en": "You blokes forgot to take ME\nalong!",
-  "fr": "Vous avez oublié de\nme prendre !",
+  "fr": "Vous avez oublié de me prendre !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "All right, I'm aboard.\nHurry, everyone!",
-  "fr": "C'est bon, je suis à\nbord. Vite !",
+  "fr": "C'est bon, je suis à bord. Vite !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Gilles",
   "en": "The boat will be leaving any\nminute... Hurry, friends!",
-  "fr": "Le bateau va partir\nd'un instant à\fl'autre ! Faites\nvite !",
+  "fr": "Le bateau va partir d'un instant à\nl'autre ! Faites vite !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Rufus",
   "en": "Awooo, roo's rocking ruh boat?!\nYip, yip...urp.",
-  "fr": "Awouuuh ! Qui pilote\nle bateau ? Yip\fyip... urp.",
+  "fr": "Awouuuh ! Qui pilote le bateau ?\nYip yip... urp.",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "La Hire",
   "en": "Rrrar!\nLa Hire has conquered the boat!",
-  "fr": "Roarr ! La Hire a\npris le navire !",
+  "fr": "Roarr ! La Hire a pris le navire !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Bartolomeo",
   "en": "Harrumph... I dread this vessel\nmay a coffin make...",
-  "fr": "Arf... J'ai peur que\nce bateau soit notre\fcercueil.",
+  "fr": "Arf... J'ai peur que ce bateau soit\nnotre cercueil.",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Jean",
   "en": "Quickly, friends!\nThe boat is this way!",
-  "fr": "Vite les amis ! Le\nbateau est par là !",
+  "fr": "Vite les amis !\nLe bateau est par là !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Bertrand",
   "en": "Urp...\nI'm not so good...with boats...",
-  "fr": "Urp... C'est pas mon\nfort, les bateaux...",
+  "fr": "Urp...\nC'est pas mon fort, les bateaux...",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Marcel",
   "en": "Yippee!\nThis is my first boat ride!",
-  "fr": "Youpi !! C'est mon\npremier tour en\fbateau !",
+  "fr": "Youpi !!\nC'est mon premier tour en bateau !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Beatrix",
   "en": "I'm aboard!\nBe swift, I beg of you!",
-  "fr": "Je suis à bord !\nFaites vite, je\fcompte sur vous !",
+  "fr": "Je suis à bord !\nFaites vite, je compte sur vous !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "Everyone to the boats, quickly!",
-  "fr": "Tout le monde, aux\nbateaux, vite !",
+  "fr": "Tout le monde, aux bateaux, vite !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Claire",
   "en": "All right, I'm in!\n...What? We can't go yet? Ugh!",
-  "fr": "C'est bon, je suis\nlà ! Quoi ? On ne\fpeut pas encore\npartir ?",
+  "fr": "C'est bon, je suis là ! Quoi ?\nOn ne peut pas encore partir ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Colet",
   "en": "Sacré bleu!\nZees boat eez feelthy!",
-  "fr": "Sacré bleu ! Que ce\nbateau est sale !",
+  "fr": "Sacré bleu !\nQue ce bateau est sale !",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Rose",
   "en": "In we go, whee!\nForgot how much I like boats!",
-  "fr": "Et voilà ! J'avais\noublié à quel point\fj'aime naviguer !",
+  "fr": "Et voilà ! J'avais oublié à quel point\nj'aime naviguer !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Cuisses",
   "en": "I made it aboard, coa coa!",
-  "fr": "Je suis à bord !\nCroa croa !",
+  "fr": "Je suis à bord ! Croa croa !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "All right!\nShove off!",
-  "fr": "C'est bon ! Levez\nl'ancre !",
+  "fr": "C'est bon ! Levez l'ancre !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Gilles",
   "en": "Am I the last to board?",
-  "fr": "Je suis le dernier à\nembarquer ?",
+  "fr": "Je suis le dernier à embarquer ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Rufus",
   "en": "Awooo!\nRy'm the rast aboard, ruff!",
-  "fr": "Awouuuh ! Je suis le\ndernier !",
+  "fr": "Awouuuh ! Je suis le dernier !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "La Hire",
   "en": "Rrrar!\nLa Hire is ready to leave!",
-  "fr": "Roar ! La Hire est\nprêt à partir !",
+  "fr": "Roar ! La Hire est prêt à partir !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Bartolomeo",
   "en": "Go; for I am last to board!\nThou shalt row this wobbly craft!",
-  "fr": "C'est bon, il n'y a\nplus personne,\ffaisons avancer ce\nrafiot !",
+  "fr": "C'est bon, il n'y a plus personne,\nfaisons avancer ce rafiot !",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Jean",
   "en": "Time to leave this battle behind!",
-  "fr": "Il est temps de\nquitter cette\fbataille !",
+  "fr": "Il est temps de quitter cette\nbataille !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Bertrand",
   "en": "Hoo-ah!\nThat's everybody!",
-  "fr": "Ho-ah ! Tout le\nmonde est là !",
+  "fr": "Ho-ah ! Tout le monde est là !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Marcel",
   "en": "Huff, huff...\nDon't leave me heeeeeere!",
-  "fr": "Huff huff... Ne me\nlaissez pas iciiiiii\f!",
+  "fr": "Huff huff...\nNe me laissez pas iciiiiii !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Beatrix",
   "en": "I should be the last... Let us\nlaunch and leave this levee! ",
-  "fr": "Je dois être le\ndernier... Mettons\fvite les voiles !",
+  "fr": "Je dois être le dernier...\nMettons vite les voiles !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "Everyone is aboard.\nLet us be on our way!",
-  "fr": "Tout le monde est à\nbord. Allons-y !",
+  "fr": "Tout le monde est à bord.\nAllons-y !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Claire",
   "en": "WHAT?!\nWhy am I last? Ugh!",
-  "fr": "QUOI ?! Pourquoi\nsuis-je le dernier ?\fUgh !",
+  "fr": "QUOI ?!\nPourquoi suis-je le dernier ? Ugh !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Colet",
   "en": "Everyone een a boat? Good!",
-  "fr": "Tout le monde est là\n? Bien !",
+  "fr": "Tout le monde est là ? Bien !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Rose",
   "en": "All right, loves, shove off!",
-  "fr": "Allez mes chéris,\nhissez les voiles !",
+  "fr": "Allez mes chéris, hissez les voiles !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 16,
+  "max": 34,
   "who": "Cuisses",
   "en": "Coa? It looks like I'm the last\naboard.",
-  "fr": "Croa ? Je suis le\ndernier à embarquer.",
+  "fr": "Croa ?\nJe suis le dernier à embarquer.",
   "src": "pinky"
  },
  {
@@ -1747,7 +1747,7 @@
   "max": 34,
   "who": "Elder",
   "en": "Most therions hate mankind;\fsome, swayed by the Fiend's\nhoneyed words, \nhave gone so far as to take\nvengeance on humanity. ",
-  "fr": "La plupart des therions haïssent\nles humains,\fCertains,\famadoués par les paroles\nmielleuses du démon ont voulu se\fvenger des humains.",
+  "fr": "La plupart des therions haïssent\nles humains,\fCertains, amadoués par les paroles\nmielleuses du démon ont voulu se\fvenger des humains.",
   "src": "pinky",
   "relu": true
  },
@@ -1843,39 +1843,39 @@
  },
  {
   "ctx": "ST4020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You can't get\naway!",
-  "fr": "Vous ne pouvez\nvous enfuir !",
+  "fr": "Vous ne pouvez vous enfuir !",
   "src": "pinky"
  },
  {
   "ctx": "ST4020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "What on...who\nare these?!",
-  "fr": "Mais... Qui\nsont-ils ?",
+  "fr": "Mais... Qui sont-ils ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Geh...I won't\ngive up!",
-  "fr": "Je n'abandonnerai\npas... Gah....",
+  "fr": "Je n'abandonnerai pas... Gah....",
   "src": "pinky"
  },
  {
   "ctx": "ST4020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Weren't expect-\ning that, no?",
-  "fr": "Ça n'était pas\nprévu, hein ?",
+  "fr": "Ça n'était pas prévu, hein ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Haaaaahh!",
   "fr": "Haaaaahh !",
@@ -1883,7 +1883,7 @@
  },
  {
   "ctx": "ST4020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Forget it!",
   "fr": "Oublie ça !",
@@ -1891,26 +1891,26 @@
  },
  {
   "ctx": "ST4020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I won't take it\nsitting down!",
-  "fr": "Je ne vais pas\nattendre assis !",
+  "fr": "Je ne vais pas attendre assis !",
   "src": "pinky"
  },
  {
   "ctx": "ST4020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Spies! Chase\nthem!",
-  "fr": "Espions !\nAprès eux !",
+  "fr": "Espions ! Après eux !",
   "src": "pinky"
  },
  {
   "ctx": "ST4020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Damned spies...\nPrepare to die!",
-  "fr": "Maudits espions...\nTu vas mourir !",
+  "fr": "Maudits espions... Tu vas mourir !",
   "src": "pinky"
  },
  {

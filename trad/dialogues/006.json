@@ -730,7 +730,7 @@
  },
  {
   "ctx": "ST2010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "What the...",
   "fr": "Qu'est-ce...",
@@ -738,15 +738,15 @@
  },
  {
   "ctx": "ST2010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You have no\nescape!",
-  "fr": "Vous ne pouvez\nfuir !",
+  "fr": "Vous ne pouvez fuir !",
   "src": "pinky"
  },
  {
   "ctx": "ST2010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Fend them off!",
   "fr": "Repoussez-les !",
@@ -754,18 +754,18 @@
  },
  {
   "ctx": "ST2010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Do something!",
-  "fr": "Faites\nquelque chose !",
+  "fr": "Faites quelque chose !",
   "src": "pinky"
  },
  {
   "ctx": "ST2010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Everything here\nis ours!",
-  "fr": "Tout ici nous\nappartient !",
+  "fr": "Tout ici nous appartient !",
   "src": "pinky"
  },
  {
@@ -778,7 +778,7 @@
  },
  {
   "ctx": "ST2010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "God damn it...",
   "fr": "Bon sang...",
@@ -786,39 +786,39 @@
  },
  {
   "ctx": "ST2010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "What a terrible\nturn of events.",
-  "fr": "Comme c'est\nfâcheux.",
+  "fr": "Comme c'est fâcheux.",
   "src": "pinky"
  },
  {
   "ctx": "ST2010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "The death blow\nis near!",
-  "fr": "Le coup de\ngrâce arrive !",
+  "fr": "Le coup de grâce arrive !",
   "src": "pinky"
  },
  {
   "ctx": "ST2010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I let my\nguard down...",
-  "fr": "J'ai baissé\nma garde...",
+  "fr": "J'ai baissé ma garde...",
   "src": "pinky"
  },
  {
   "ctx": "ST2010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "We can still\ndo this!",
-  "fr": "Nous pouvons\ntoujours le faire !",
+  "fr": "Nous pouvons toujours le faire !",
   "src": "pinky"
  },
  {
   "ctx": "ST2010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Grrngh...",
   "fr": "Grrngh...",
@@ -826,15 +826,15 @@
  },
  {
   "ctx": "ST2010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "How did you even\nget near me...",
-  "fr": "Comment avez-vous\npu me toucher...",
+  "fr": "Comment avez-vous pu me\ntoucher...",
   "src": "pinky"
  },
  {
   "ctx": "ST2010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Enjoy my arrows!",
   "fr": "Goûtez mes flèches !",
@@ -842,7 +842,7 @@
  },
  {
   "ctx": "ST2010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Fly!",
   "fr": "Vole !",
@@ -850,23 +850,23 @@
  },
  {
   "ctx": "ST2010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You'll pay for\nthis...!",
-  "fr": "Vous paierez\npour cela... !",
+  "fr": "Vous paierez pour cela... !",
   "src": "pinky"
  },
  {
   "ctx": "ST2010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "We've got to\nstop them!",
-  "fr": "Nous devons\nles arrêter !",
+  "fr": "Nous devons les arrêter !",
   "src": "pinky"
  },
  {
   "ctx": "ST2010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Oh, my God...",
   "fr": "Oh, mon dieu...",
@@ -1491,26 +1491,26 @@
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Dammit...you\nmonster...",
-  "fr": "Bon sang...\nSale monstre...",
+  "fr": "Bon sang... Sale monstre...",
   "src": "pinky"
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You cannot have\nthis...!",
-  "fr": "Vous ne\nl'aurez pas !",
+  "fr": "Vous ne l'aurez pas !",
   "src": "pinky"
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Today you shall\ndie for sure!",
-  "fr": "Aujourd'hui vous\nallez mourir !",
+  "fr": "Aujourd'hui vous allez mourir !",
   "src": "pinky"
  },
  {
@@ -1523,15 +1523,15 @@
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Can you survive\nthis one?!",
-  "fr": "Pouvez-vous\nsurvivre à ça ?!",
+  "fr": "Pouvez-vous survivre à ça ?!",
   "src": "pinky"
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Take this!!",
   "fr": "Prends ça !!",
@@ -1539,23 +1539,23 @@
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Your time is\nnear...",
-  "fr": "Votre fin\nest proche...",
+  "fr": "Votre fin est proche...",
   "src": "pinky"
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "No...this is\nabsurd...",
-  "fr": "Non... C'est\nabsurde...",
+  "fr": "Non... C'est absurde...",
   "src": "pinky"
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "We cannot lose!",
   "fr": "Nous vaincrons !",
@@ -1563,16 +1563,16 @@
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "All right...\nLet's do this.",
-  "fr": "Très bien...\nFaisons-le.",
+  "fr": "Très bien... Faisons-le.",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Grgh...",
   "fr": "Grgh...",
@@ -1580,7 +1580,7 @@
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Die!!",
   "fr": "Meurs !!",
@@ -1588,138 +1588,138 @@
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "Colet",
   "en": "Leave zeez pesky walls to moi!",
-  "fr": "Laissez-moi ces\nmaudits murs !",
+  "fr": "Laissez-moi ces maudits murs !",
   "src": "pinky"
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "Talbot",
   "en": "You dare call...THIS...\n\"God's power\"?",
-  "fr": "Vous osez appeler...\nCELA... \"Pouvoir de\fDieu\" ?",
+  "fr": "Vous osez appeler... CELA...\n\"Pouvoir de Dieu\" ?",
   "src": "pinky"
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "Urg! It's too thick!",
-  "fr": "Urg ! C'est trop\ngros !",
+  "fr": "Urg ! C'est trop gros !",
   "src": "pinky"
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "I wonder if there's not some \nbetter way to crash these gates...",
-  "fr": "Il doit y avoir une\nmeilleure façon de\ffranchir ces portes.",
+  "fr": "Il doit y avoir une meilleure façon\nde franchir ces portes.",
   "src": "pinky"
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "Colet",
   "en": "Ho-hoh, quite ze portly porte,\neez eet not?",
-  "fr": "Ho-hoh, c'est une\ngrosse porte,\fn'est-ce pas ?",
+  "fr": "Ho-hoh, c'est une grosse porte,\nn'est-ce pas ?",
   "src": "pinky"
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "Colet",
   "en": "No matter! Zere must be a \nsweetch for ze gates somewhere!",
-  "fr": "Diantre ! Il doit y\navoir un levier\fquelque part pour la\nporte !",
+  "fr": "Diantre ! Il doit y avoir un levier\nquelque part pour la porte !",
   "src": "pinky"
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "Marcel",
   "en": "Aww. I hardly even dented it.",
-  "fr": "Ouch. À peine une\négratignure.",
+  "fr": "Ouch. À peine une égratignure.",
   "src": "pinky"
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "Marcel",
   "en": "...Hey, what if we just found the \ncontraption that opens the gates?",
-  "fr": "... Hé, et si nous\ncherchions\fsimplement ce qui\nouvre\fles portes ?",
+  "fr": "...\fHé,\fet si nous cherchions simplement\nce qui ouvre les portes ?",
   "src": "pinky"
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "Gilles",
   "en": "We'll never be able to force our\nway through. Hmm...",
-  "fr": "Nous ne serons\njamais en mesure de\fpasser par là.\f Hmm...",
+  "fr": "Nous ne serons jamais en mesure\nde passer par là. Hmm...",
   "src": "pinky"
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "Gilles",
   "en": "Shouldn't they have a winch\nsomewhere that opens the gates?",
-  "fr": "Ne devraient-ils pas\navoir une manivelle\fquelque part\fpour ouvrir ces\nportes ?",
+  "fr": "Ne devraient-ils pas avoir une\nmanivelle quelque part pour\fouvrir ces portes ?",
   "src": "pinky"
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "La Hire",
   "en": "Rrrar! La Hire wants to tear the \ngates down all by himself,",
-  "fr": "Rrrar ! La Hire veut\nentendre s'écrouler\fles portes\fsous ses mains,",
+  "fr": "Rrrar !\fLa Hire veut entendre s'écrouler\nles portes sous ses mains,",
   "src": "pinky"
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "La Hire",
   "en": "but maybe you will find another\nway to open them.",
-  "fr": "mais peut-être\ntrouveras-tu un\fautre moyen de les\nouvrir.",
+  "fr": "mais peut-être trouveras-tu un\nautre moyen de les ouvrir.",
   "src": "pinky"
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "Jean",
   "en": "Hmm, don't suppose knocking\nwould work.",
-  "fr": "Hmm, je ne pense pas\nque toquer à la\fporte puisse\nfonctionner.",
+  "fr": "Hmm, je ne pense pas que toquer à\nla porte puisse fonctionner.",
   "src": "pinky"
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "Jean",
   "en": "Oh ho, I jest! But still, there's \nmore than one way to skin a cat.",
-  "fr": "Oh ho, je plaisante\n! Mais bon, chaque\fproblème a forcément\fune solution.",
+  "fr": "Oh ho, je plaisante !\fMais bon, chaque problème a\nforcément une solution.",
   "src": "pinky"
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "Bertrand",
   "en": "Damn! This thing's thick!\fYa think it opens from the other \nside?",
-  "fr": "Flûte ! Ce truc est\népais !\fÇa doit s'ouvrir\ndepuis l'autre côté\f!",
+  "fr": "Flûte ! Ce truc est épais !\fÇa doit s'ouvrir depuis l'autre\ncôté !",
   "src": "pinky"
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "Rufus",
   "en": "Awooo!\nRow do we get in?",
-  "fr": "Ahouuuuu ! Comment\nallons-nous entrer ?",
+  "fr": "Ahouuuuu !\nComment allons-nous entrer ?",
   "src": "pinky"
  },
  {
   "ctx": "ST2020BT",
-  "max": 16,
+  "max": 34,
   "who": "Rufus",
   "en": "Raybe the gates r'open from the \nruther side.",
-  "fr": "Peut-être que les\nportes s'ouvrent de\fl'autre côté.",
+  "fr": "Peut-être que les portes s'ouvrent\nde l'autre côté.",
   "src": "pinky"
  },
  {

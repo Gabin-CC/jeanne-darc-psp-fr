@@ -186,50 +186,50 @@
  },
  {
   "ctx": "ST4071BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I'll kill you...\nI must...",
-  "fr": "Je vais te tuer...\nJe le dois...",
+  "fr": "Je vais te tuer... Je le dois...",
   "src": "pinky"
  },
  {
   "ctx": "ST4071BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I'll kill you...\nJeanne...",
-  "fr": "Je vais te tuer...\nJeanne...",
+  "fr": "Je vais te tuer... Jeanne...",
   "src": "pinky"
  },
  {
   "ctx": "ST4071BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Hah...prepare\nto die...",
-  "fr": "Hah... Prépare-toi\nà mourir...",
+  "fr": "Hah... Prépare-toi à mourir...",
   "src": "pinky"
  },
  {
   "ctx": "ST4071BT",
-  "max": 16,
+  "max": 34,
   "who": "Liane",
   "en": "Forgive me...\nI can't do this anymore...",
-  "fr": "Pardonne-moi...\nJ'abandonne...",
+  "fr": "Pardonne-moi... J'abandonne...",
   "src": "pinky"
  },
  {
   "ctx": "ST4071BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger",
   "en": "You think a miserable woman like\nyou can kill me?",
-  "fr": "Tu penses qu'une\npitoyable femme\ftelle que toi\fpeut me vaincre ?",
+  "fr": "Tu penses qu'une pitoyable femme\ntelle que toi peut me vaincre ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4071BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger",
   "en": "Bothersome flies! This time I\nwill swat you for good!",
-  "fr": "Sale vermine ! Cette\nfois je vais me\fdébarrasser de toi !",
+  "fr": "Sale vermine ! Cette fois je vais\nme débarrasser de toi !",
   "src": "pinky"
  },
  {
@@ -639,7 +639,7 @@
  },
  {
   "ctx": "ST4072BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Well? Now what?",
   "fr": "Bon, et maintenant ?",
@@ -647,15 +647,15 @@
  },
  {
   "ctx": "ST4072BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Get out of my\nway...!",
-  "fr": "Hors de mon\nchemin !",
+  "fr": "Hors de mon chemin !",
   "src": "pinky"
  },
  {
   "ctx": "ST4072BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Tch...!",
   "fr": "Tch... !",
@@ -663,15 +663,15 @@
  },
  {
   "ctx": "ST4072BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You...? Kill me?\nAgain?!",
-  "fr": "Toi ? Me tuer ?!\nEncore ?!",
+  "fr": "Toi ? Me tuer ?! Encore ?!",
   "src": "pinky"
  },
  {
   "ctx": "ST4072BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "How dare you...!",
   "fr": "Comment oses-tu ?",
@@ -679,39 +679,39 @@
  },
  {
   "ctx": "ST4072BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Heh heh heh...\nWhat's wrong?",
-  "fr": "Hé hé hé... Quelque\nchose ne va pas ?",
+  "fr": "Hé hé hé...\nQuelque chose ne va pas ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4072BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Oh, dear, giving\nup already?",
-  "fr": "Oh, tu abandonnes\ndéjà, ma chère ?",
+  "fr": "Oh, tu abandonnes déjà, ma\nchère ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4072BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Roger is mine...\nand mine alone.",
-  "fr": "Roger est à moi,\net à moi seule.",
+  "fr": "Roger est à moi, et à moi seule.",
   "src": "pinky"
  },
  {
   "ctx": "ST4072BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Hee hee...\nPainful, yes?",
-  "fr": "Hi hi...\nÇa fait mal, hein ?",
+  "fr": "Hi hi... Ça fait mal, hein ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4072BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Did that hurt?!",
   "fr": "Ça fait mal ?!",
@@ -719,42 +719,42 @@
  },
  {
   "ctx": "ST4072BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Oh, now you've\ndone it...",
-  "fr": "Maintenant que\ntu l'as fait...",
+  "fr": "Maintenant que tu l'as fait...",
   "src": "pinky"
  },
  {
   "ctx": "ST4072BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Let me show you\nmy power!",
-  "fr": "Regarde ma\npuissance !",
+  "fr": "Regarde ma puissance !",
   "src": "pinky"
  },
  {
   "ctx": "ST4072BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Don't under-\nestimate me...",
-  "fr": "Ne me sous-\nestime pas !",
+  "fr": "Ne me sous- estime pas !",
   "src": "pinky"
  },
  {
   "ctx": "ST4072BT",
-  "max": 16,
+  "max": 34,
   "who": "Liane",
   "en": "Fight with me, Jeanne.",
-  "fr": "Affronte-moi,\nJeanne.",
+  "fr": "Affronte-moi, Jeanne.",
   "src": "pinky"
  },
  {
   "ctx": "ST4072BT",
-  "max": 16,
+  "max": 34,
   "who": "Liane",
   "en": "I won't slow you down this time.\nI'll pull my fair share!",
-  "fr": "Je ne te ralentirai\npas cette fois. Je\fvais faire ma part !",
+  "fr": "Je ne te ralentirai pas cette fois.\nJe vais faire ma part !",
   "src": "pinky"
  },
  {
@@ -923,7 +923,7 @@
  },
  {
   "ctx": "ST4073BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Heh heh.",
   "fr": "Hé hé.",
@@ -931,7 +931,7 @@
  },
  {
   "ctx": "ST4073BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Heh heh heh!",
   "fr": "Hé hé hé !",
@@ -939,7 +939,7 @@
  },
  {
   "ctx": "ST4073BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Kah kah!",
   "fr": "Kah kah !",
@@ -987,31 +987,31 @@
  },
  {
   "ctx": "ST4074BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I'll wipe all of\nyou out...",
-  "fr": "Je vais tout\nnettoyer...",
+  "fr": "Je vais tout nettoyer...",
   "src": "pinky"
  },
  {
   "ctx": "ST4074BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Prepare to be\nextinct...",
-  "fr": "Prépare-toi à\ndisparaitre...",
+  "fr": "Prépare-toi à disparaitre...",
   "src": "pinky"
  },
  {
   "ctx": "ST4074BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Ooh, that's\nvery nice...",
-  "fr": "Ohh, c'est\nchouette...",
+  "fr": "Ohh, c'est chouette...",
   "src": "pinky"
  },
  {
   "ctx": "ST4074BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Here we go!!",
   "fr": "Nous y sommes !",
@@ -1256,7 +1256,7 @@
  },
  {
   "ctx": "ST4075BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Guraaahhh!",
   "fr": "Guraaahhh !",

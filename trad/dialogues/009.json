@@ -267,7 +267,7 @@
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Hee hee hee!",
   "fr": "Hin hin hin !",
@@ -275,7 +275,7 @@
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You bastards...!",
   "fr": "Salauds... !",
@@ -283,7 +283,7 @@
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Erp...!",
   "fr": "Arf... !",
@@ -291,7 +291,7 @@
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You...damn you!",
   "fr": "Soyez maudits !",
@@ -299,15 +299,15 @@
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Gah...everyone,\nstay on target!",
-  "fr": "Grah... Gardez\nvotre cible !",
+  "fr": "Grah... Gardez votre cible !",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Nrrrrrngh...",
   "fr": "Nrrrrrngh...",
@@ -315,31 +315,31 @@
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Hee hee...!\nPrepare to die!",
-  "fr": "Hi hi... !!!\nMourez !",
+  "fr": "Hi hi... !!! Mourez !",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "We don't need\na savior!",
-  "fr": "Nous n'avons pas\nbesoin d'un sauveur\f!",
+  "fr": "Nous n'avons pas besoin d'un\nsauveur !",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Hee hee! Push\nforward!",
-  "fr": "Hi hi !\nEn avant !",
+  "fr": "Hi hi ! En avant !",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Hmph...",
   "fr": "Oumpf...",
@@ -355,23 +355,23 @@
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Hee hee...\nWrithe in pain!",
-  "fr": "Hi hi...\nSouffre !",
+  "fr": "Hi hi... Souffre !",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Want me to make\nit all better?",
-  "fr": "Besoin de\nmes soins ?",
+  "fr": "Besoin de mes soins ?",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Pahh!",
   "fr": "Pahh !",
@@ -379,7 +379,7 @@
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Gah!",
   "fr": "Gah !",
@@ -387,31 +387,31 @@
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I'll run\nyou over!",
-  "fr": "Je vais vous\nécraser.",
+  "fr": "Je vais vous écraser.",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Tell me how\nthis tastes!",
-  "fr": "Dites-moi si\nc'est bon !",
+  "fr": "Dites-moi si c'est bon !",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You...are my\nenemy!",
-  "fr": "Vous... êtes\nmon ennemi !",
+  "fr": "Vous... êtes mon ennemi !",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Damn you...",
   "fr": "Bon sang...",
@@ -419,55 +419,55 @@
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You will not\ndestroy us!",
-  "fr": "Vous ne nous\nvaincrez pas !",
+  "fr": "Vous ne nous vaincrez pas !",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Dammit...we\ncan't take 'em.",
-  "fr": "Bon sang... Nous\nn'y arriverons pas.",
+  "fr": "Bon sang...\nNous n'y arriverons pas.",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Why did you\ncome here?!",
-  "fr": "Pourquoi être\nvenus ici ?",
+  "fr": "Pourquoi être venus ici ?",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "We'll protect\nthis town!",
-  "fr": "Nous protégerons\ncette ville !",
+  "fr": "Nous protégerons cette ville !",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "We have no need\nfor a savior!",
-  "fr": "Nous n'avons pas\nbesoin de sauveur.",
+  "fr": "Nous n'avons pas besoin de\nsauveur.",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Go back to\nwhence you came!",
-  "fr": "Retourne d'où\ntu viens !",
+  "fr": "Retourne d'où tu viens !",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Savior, my foot!",
   "fr": "Sauveur, mon oeil !",
@@ -476,27 +476,27 @@
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Just a common\nmurderer!",
-  "fr": "Juste une vulgaire\nmeurtrière !",
+  "fr": "Juste une vulgaire meurtrière !",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "No regrets,\nI hope.",
-  "fr": "Pas de regrets,\nj'espère.",
+  "fr": "Pas de regrets, j'espère.",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "All right! Clear\nthem out!",
-  "fr": "Très bien ! Faites-\nles disparaître !",
+  "fr": "Très bien ! Faites- les disparaître !",
   "src": "pinky",
   "relu": true
  },
@@ -510,23 +510,23 @@
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Ergh...I cannot\nlose!",
-  "fr": "Ergh... Je ne\npeux pas perdre !",
+  "fr": "Ergh... Je ne peux pas perdre !",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Agh...you...\nHow are you...?",
-  "fr": "Agh... toi...\nComment... ?",
+  "fr": "Agh... toi... Comment... ?",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Raaagh!",
   "fr": "Raaagh !",
@@ -534,32 +534,32 @@
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I'll handle\nthis!",
-  "fr": "Je m'en\noccupe !",
+  "fr": "Je m'en occupe !",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Face your shame!",
-  "fr": "Contemple ton échec\n!",
+  "fr": "Contemple ton échec !",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Clear them\nout, now!",
-  "fr": "Faites-les\ndisparaître\fsur-le-champ !",
+  "fr": "Faites-les disparaître\nsur-le-champ !",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "Gilles",
   "en": "Richard! Why?",
   "fr": "Richard ! Pourquoi ?",
@@ -567,55 +567,55 @@
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "Gilles",
   "en": "A righteous man like you\\u2014",
-  "fr": "Un homme droit tel\nque vous...",
+  "fr": "Un homme droit tel que vous...",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "Not all men wish for the same\nfuture as you.",
-  "fr": "Tous les hommes\nn'ont pas les mêmes\frêves d'avenir que\nvous !",
+  "fr": "Tous les hommes n'ont pas les\nmêmes rêves d'avenir que vous !",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "It is well past time you learnt\nthat lesson.",
-  "fr": "Il est plus que\ntemps de retenir\fcette leçon.",
+  "fr": "Il est plus que temps de retenir\ncette leçon.",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "Gilles",
   "en": "...Look, his arm!",
-  "fr": "... Regardez, son\nbras !",
+  "fr": "... Regardez, son bras !",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "Another armlet wielder?!",
-  "fr": "Un autre porteur de\nbracelet ?!",
+  "fr": "Un autre porteur de bracelet ?!",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "As I said, not all men wish for\nthe same future as you.",
-  "fr": "Comme je l'ai dit,\ntout le monde ne\fsouhaite pas cet\navenir.",
+  "fr": "Comme je l'ai dit, tout le monde ne\nsouhaite pas cet avenir.",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "But I have faith...",
   "fr": "Mais j'ai la foi...",
@@ -623,7 +623,7 @@
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "I have faith:",
   "fr": "J'ai foi :",
@@ -631,23 +631,23 @@
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "that the peaceful world I wish for\nlies in a unified France!",
-  "fr": "en un monde de paix,\nje rêve d'une France\funifiée !",
+  "fr": "en un monde de paix, je rêve d'une\nFrance unifiée !",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "Slinker",
   "en": "Ni-niii!\nWhat are you doing?!",
-  "fr": "Ni-niii !\nQue faites-vous ?!",
+  "fr": "Ni-niii ! Que faites-vous ?!",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne, Liane",
   "en": "Richard!",
   "fr": "Richard !",
@@ -655,40 +655,40 @@
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "Fight with me\\u2014for this\ncountry's future!",
-  "fr": "Combattez à mes\ncôtés, pour l'avenir\fde cette nation !",
+  "fr": "Combattez à mes côtés, pour\nl'avenir de cette nation !",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "Richard joins your ranks!",
-  "fr": "Richard rejoint vos\nrangs !",
+  "fr": "Richard rejoint vos rangs !",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "Richard!\nExplain yourself!",
-  "fr": "Richard !\nExpliquez-vous !",
+  "fr": "Richard ! Expliquez-vous !",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "How could you deceive me?",
-  "fr": "Comment avez-vous pu\nme trahir ?",
+  "fr": "Comment avez-vous pu me\ntrahir ?",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "...Your arm!",
   "fr": "... Votre bras !",
@@ -696,34 +696,34 @@
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "Richard wields an armlet, like\nus...",
-  "fr": "Richard porte un\nbracelet, comme\fnous...",
+  "fr": "Richard porte un bracelet, comme\nnous...",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "But then why?",
-  "fr": "Mais alors pourquoi\n?",
+  "fr": "Mais alors pourquoi ?",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "Slinker",
   "en": "Ni-aaaaaagh!\nHow d-d-dare youuuu, ni!",
-  "fr": "Ni-aaaaaagh !\nComment osez-vous,\fni !",
+  "fr": "Ni-aaaaaagh !\nComment osez-vous, ni !",
   "src": "pinky"
  },
  {
   "ctx": "ST2070BT",
-  "max": 16,
+  "max": 34,
   "who": "Slinker",
   "en": "Next time...you won't be so\nlucky!",
-  "fr": "La prochaine fois...\nVous ne serez pas si\fchanceuse !",
+  "fr": "La prochaine fois...\nVous ne serez pas si chanceuse !",
   "src": "pinky"
  },
  {
@@ -1541,7 +1541,7 @@
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Hah, beautiful!",
   "fr": "Hah, c'est beau !",
@@ -1549,15 +1549,15 @@
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Ergh...you'll\npay...",
-  "fr": "Argh... Vous\nle paierez...",
+  "fr": "Argh... Vous le paierez...",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Cursed witch...",
   "fr": "Maudite sorcière...",
@@ -1565,15 +1565,15 @@
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You'll pay for\nyour deeds!",
-  "fr": "Vous paierez\npour ça !",
+  "fr": "Vous paierez pour ça !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Kill the witch!",
   "fr": "Tuez la sorcière !",
@@ -1581,15 +1581,15 @@
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "She's a witch!\nI knew it!",
-  "fr": "C'est une sorcière !\nJe le savais !",
+  "fr": "C'est une sorcière ! Je le savais !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Murderer...!",
   "fr": "Assassin !",
@@ -1597,7 +1597,7 @@
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Grgh...!",
   "fr": "Grgh... !",
@@ -1605,56 +1605,56 @@
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You fell for\nit...",
-  "fr": "Vous êtes\ntombés dans\fle piège...",
+  "fr": "Vous êtes tombés dans le piège...",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Prepare to die.",
-  "fr": "Prépare-toi à\nmourir.",
+  "fr": "Prépare-toi à mourir.",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "When did this\nhappen...",
-  "fr": "Quand est-ce\narrivé...",
+  "fr": "Quand est-ce arrivé...",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You...haven't\nwon this...!",
-  "fr": "Vous... n'avez\npas gagné...",
+  "fr": "Vous... n'avez pas gagné...",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "No escape!",
-  "fr": "Vous ne pouvez fuir\n!",
+  "fr": "Vous ne pouvez fuir !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Don't let any of\nthem escape!!",
-  "fr": "Ne les laissez pas\ns'échapper !",
+  "fr": "Ne les laissez pas s'échapper !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "It cannot be...",
   "fr": "Impossible...",
@@ -1662,39 +1662,39 @@
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Don't let any of\nthem escape!",
-  "fr": "N'en laissez aucun\ns'échapper !",
+  "fr": "N'en laissez aucun s'échapper !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Die like the\nwitch you are!",
-  "fr": "Meurs, sorcière\nque tu es !",
+  "fr": "Meurs, sorcière que tu es !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I want them all\ncaptured!",
-  "fr": "Capturez-les\ntous !",
+  "fr": "Capturez-les tous !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "That's it!\nChase 'em down!",
-  "fr": "C'est ça !\nPourchassez-les !",
+  "fr": "C'est ça ! Pourchassez-les !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Krh...",
   "fr": "Krh...",
@@ -1702,7 +1702,7 @@
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Let's go!",
   "fr": "Allons-y !",
@@ -1710,7 +1710,7 @@
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Power!!",
   "fr": "Force !!!",
@@ -1718,7 +1718,7 @@
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Haahh!!",
   "fr": "Haahh !!",
@@ -1726,63 +1726,63 @@
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "This is for the\nmayor!!",
-  "fr": "Pour le\nmaire !!",
+  "fr": "Pour le maire !!",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "We need no\nsavior!",
-  "fr": "Nul besoin\nde sauveur !",
+  "fr": "Nul besoin de sauveur !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Citizen",
   "en": "Attack!\nStrike down the witch!",
-  "fr": "À l'attaque !\nAbattez cette\fsorcière !",
+  "fr": "À l'attaque !\nAbattez cette sorcière !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Gilles",
   "en": "...We haven't the time to sort\nthis mess out.",
-  "fr": "... Nous n'avons pas\nle temps de gérer ce\fproblème.",
+  "fr": "... Nous n'avons pas le temps de\ngérer ce problème.",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "Forgive me, my brothers.",
-  "fr": "Pardonnez-moi, mes\nfrères.",
+  "fr": "Pardonnez-moi, mes frères.",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "...I have a higher cause now.",
-  "fr": "Il faut que j'aille\nfaire quelque chose\fde plus important.",
+  "fr": "Il faut que j'aille faire quelque\nchose de plus important.",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "Please, stop...",
-  "fr": "Je vous en prie,\narrêtez...",
+  "fr": "Je vous en prie, arrêtez...",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "...RUN, JEANNE...",
   "fr": "... COURS, JEANNE...",
@@ -1790,7 +1790,7 @@
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "FLEE THE TOWN......",
   "fr": "FUIS LA VILLE......",
@@ -1798,7 +1798,7 @@
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Slinker",
   "en": "Ni?",
   "fr": "Ni ?",
@@ -1806,15 +1806,15 @@
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Slinker",
   "en": "You ni-ni-ninny!\nUrg...",
-  "fr": "Vous ni-ni-ninni !\nUrg...",
+  "fr": "Vous ni-ni-ninni ! Urg...",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "All right, quickly!",
   "fr": "Parfait, plus vite !",
@@ -1822,97 +1822,97 @@
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "We can escape this way!",
-  "fr": "Nous pouvons fuir\npar ici !",
+  "fr": "Nous pouvons fuir par ici !",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Liane",
   "en": "I can't stay here...",
-  "fr": "Je ne peux rester\nici...",
+  "fr": "Je ne peux rester ici...",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Liane",
   "en": "I have to find some way to\nescape!",
-  "fr": "Je dois trouver un\nmoyen de quitter cet\fendroit !",
+  "fr": "Je dois trouver un moyen de\nquitter cet endroit !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger",
   "en": "Humph, nice knowing you.",
-  "fr": "Mpfff, ravi de\nvous avoir connu.",
+  "fr": "Mpfff, ravi de vous avoir connu.",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger",
   "en": "Now, time to find a way out.",
-  "fr": "Il est temps de\ntrouver un moyen de\fse sortir de là.",
+  "fr": "Il est temps de trouver un moyen\nde se sortir de là.",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Gilles",
   "en": "Now, to find a way out...",
-  "fr": "Cherchons une\nissue...",
+  "fr": "Cherchons une issue...",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Gilles",
   "en": "before I overstay my welcome.",
-  "fr": "avant d'abuser de\nleur hospitalité.",
+  "fr": "avant d'abuser de leur hospitalité.",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Rufus",
   "en": "Ruff! Awooo!\nRat one's for yooooo, Pucelle!",
-  "fr": "Ruff ! Awooo ! En\nvoilà une, Pucelle !",
+  "fr": "Ruff ! Awooo !\nEn voilà une, Pucelle !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Rufus",
   "en": "...Ruh-oh!\nRow what do I roo?!",
-  "fr": "... Ruh-oh !\nQue dois-je faire ?!",
+  "fr": "... Ruh-oh ! Que dois-je faire ?!",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "La Hire",
   "en": "La Hire has trampled the puny\npeon, rrrar!",
-  "fr": "La Hire a écrasé le\nnabot ! Roar !",
+  "fr": "La Hire a écrasé le nabot ! Roar !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "La Hire",
   "en": "Now he must find an exit and\ntrrrample out of here!",
-  "fr": "Maintenant il doit\ntrouver une sortie\fet filer d'ici !",
+  "fr": "Maintenant il doit trouver une\nsortie et filer d'ici !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Bartolomeo",
   "en": "Harrumph...",
   "fr": "Harrumph...",
@@ -1920,72 +1920,72 @@
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Bartolomeo",
   "en": "Methinks it wise to fast an\negress find,\fere this warlike town becometh\nmy grave.",
-  "fr": "Il serait préférable\nde trouver une\fsortie,\fcette ville à feu et\nà sang ne deviendra\fpas ma tombe.",
+  "fr": "Il serait préférable de trouver une\fsortie, cette ville à feu et à sang\nne deviendra pas ma tombe.",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Jean",
   "en": "Splendid! Now, time to take leave\nof this place.",
-  "fr": "Splendide ! Il est\ntemps de quitter cet\fendroit.",
+  "fr": "Splendide !\nIl est temps de quitter cet endroit.",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Jean",
   "en": "You know what they say about\n\"knights,\" after all:",
-  "fr": "Vous savez ce qu'on\ndit sur les\f\"chevaliers,\" après\ntout :",
+  "fr": "Vous savez ce qu'on dit sur les\n\"chevaliers,\" après tout :",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Jean",
   "en": "the skies grow dark whenever\none falls!",
-  "fr": "Le ciel s'obscurcit\nà chaque fois que\fl'un d'eux tombe !",
+  "fr": "Le ciel s'obscurcit à chaque fois\nque l'un d'eux tombe !",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Bertrand",
   "en": "Meh heh heh! Now, I better see\nabout savin' my knightly hide...",
-  "fr": "Meh heh heh ! Je\nvais plutôt sauver\fma peau\nchevaleresque...",
+  "fr": "Meh heh heh ! Je vais plutôt\nsauver ma peau chevaleresque...",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Beatrix",
   "en": "Poor, pitiful brute...",
-  "fr": "Pauvre brute\npitoyable...",
+  "fr": "Pauvre brute pitoyable...",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Beatrix",
   "en": "Mayhap your mother was miserly\nwhen meting out the hugs...",
-  "fr": "Peut-être que votre\nmère était avare en\fcâlins...",
+  "fr": "Peut-être que votre mère était\navare en câlins...",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Marcel",
   "en": "Hah! That's for making Jeannette\nupset!",
-  "fr": "Hah ! C'est pour\navoir fait enrager\fJeannette !",
+  "fr": "Hah ! C'est pour avoir fait enrager\nJeannette !",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Marcel",
   "en": "Have a nice day.",
   "fr": "Bonne journée.",
@@ -1993,7 +1993,7 @@
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "Sinner!",
   "fr": "Pécheur !",
@@ -2001,18 +2001,18 @@
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "Pray that God takes you.",
-  "fr": "Puisse Dieu vous\ngarder.",
+  "fr": "Puisse Dieu vous garder.",
   "src": "pinky"
  },
  {
   "ctx": "ST2080BT",
-  "max": 16,
+  "max": 34,
   "who": "Colet",
   "en": "Ze whole town ees against us?\nWe weel never ween!",
-  "fr": "La ville entière est\ncontre nous ? Nous\fne gagnerons jamais\n!",
+  "fr": "La ville entière est contre nous ?\nNous ne gagnerons jamais !",
   "src": "pinky"
  }
 ]

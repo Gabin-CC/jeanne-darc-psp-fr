@@ -1276,7 +1276,7 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Brrsshhh...",
   "fr": "Brrsshhh...",
@@ -1284,7 +1284,7 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Bsshh...",
   "fr": "Bsshh...",
@@ -1292,7 +1292,7 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Kaff...",
   "fr": "Kaff...",
@@ -1300,7 +1300,7 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Burr hrr hrr!",
   "fr": "Burr hrr hrr !",
@@ -1308,7 +1308,7 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Grble...",
   "fr": "Grble...",
@@ -1316,7 +1316,7 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Grr hrr hrr!",
   "fr": "Grr hrr hrr !",
@@ -1324,7 +1324,7 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Bshh...",
   "fr": "Bshh...",
@@ -1332,7 +1332,7 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Ba ha ha!",
   "fr": "Ba ha ha !",
@@ -1340,7 +1340,7 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Bagh!",
   "fr": "Bagh !",
@@ -1348,7 +1348,7 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Baaaghh!",
   "fr": "Baaaghh !",
@@ -1356,18 +1356,18 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "Agh... Why...\nOh, Papa... Liane...",
-  "fr": "Agh... Pourquoi...\nOh, Papa... Liane...",
+  "fr": "Agh... Pourquoi... Oh, Papa...\nLiane...",
   "src": "pinky"
  },
  {
   "ctx": "ST1010BT",
-  "max": 16,
+  "max": 34,
   "who": "Liane",
   "en": "Jeanne...it hurts...\nSave me...",
-  "fr": "Jeanne... Ça fait\nmal... Sauve-moi...",
+  "fr": "Jeanne... Ça fait mal... Sauve-moi...",
   "src": "pinky"
  },
  {
@@ -1380,18 +1380,18 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger",
   "en": "Unnngh... It's too soon...",
-  "fr": "Gnn... C'est trop\ntôt...",
+  "fr": "Gnn... C'est trop tôt...",
   "src": "pinky"
  },
  {
   "ctx": "ST1010BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger",
   "en": "Ha! Destiny strikes again...",
-  "fr": "Ha ! Le destin\nfrappe encore...",
+  "fr": "Ha ! Le destin frappe encore...",
   "src": "pinky"
  },
  {
@@ -1404,10 +1404,10 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger, Rufus",
   "en": "Pucelle...\nRy'm sorry... Woof.",
-  "fr": "Pucelle... Je suis\ndésolé... Wouf.",
+  "fr": "Pucelle... Je suis désolé... Wouf.",
   "src": "pinky"
  },
  {
@@ -1420,10 +1420,10 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 16,
+  "max": 34,
   "who": "La Hire",
   "en": "Grrrar! No! Keep fighting, \nfriends...for La Hire.",
-  "fr": "Grrrar ! Non !\nContinuez à vous\fbattre, mes amis...\f... pour La Hire.",
+  "fr": "Grrrar ! Non ! Continuez à vous\nbattre, mes amis... ... pour La Hire.",
   "src": "pinky"
  },
  {
@@ -1436,10 +1436,10 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 16,
+  "max": 34,
   "who": "Bartolomeo",
   "en": "Alack! Arrrgh...\nBeatrix...",
-  "fr": "Oh non ! Arrgh....\nBéatrix...",
+  "fr": "Oh non ! Arrgh.... Béatrix...",
   "src": "pinky"
  },
  {
@@ -1452,10 +1452,10 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 16,
+  "max": 34,
   "who": "Jean",
   "en": "Well, this was...unexpected...",
-  "fr": "Eh bien, c'était...\ninattendu...",
+  "fr": "Eh bien, c'était... inattendu...",
   "src": "pinky"
  },
  {
@@ -1468,10 +1468,10 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 16,
+  "max": 34,
   "who": "Bertrand",
   "en": "Meh heh! Whoops...",
-  "fr": "Mouah ah ah !\nOups...",
+  "fr": "Mouah ah ah ! Oups...",
   "src": "pinky"
  },
  {
@@ -1484,10 +1484,10 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 16,
+  "max": 34,
   "who": "Marcel",
   "en": "Oww... Help meeeeee!\nI think I'm going to swoon...",
-  "fr": "Ooo... Aidez-moi !\nJe pense que je vais\fm'évanouir...",
+  "fr": "Ooo... Aidez-moi !\nJe pense que je vais m'évanouir...",
   "src": "pinky"
  },
  {
@@ -1500,10 +1500,10 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 16,
+  "max": 34,
   "who": "Beatrix",
   "en": "Oh, Bartolomeo...my about-to-be-\nbereaved beloved...be brave!",
-  "fr": "Oh, Bartolomeo...\nmon bien-aimé\fbientôt seul... sois\ncourageux !",
+  "fr": "Oh, Bartolomeo... mon bien-aimé\nbientôt seul... sois courageux !",
   "src": "pinky"
  },
  {
@@ -1516,10 +1516,10 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "So...this is where my destiny runs\ndry...",
-  "fr": "Donc... C'est ici\nque ma destinée\fs'arrête...",
+  "fr": "Donc...\nC'est ici que ma destinée s'arrête...",
   "src": "pinky"
  },
  {
@@ -1532,10 +1532,10 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 16,
+  "max": 34,
   "who": "Claire",
   "en": "What?! But...I'm invincible!\nUgh! Agh...",
-  "fr": "Quoi ?! Mais... Je\nsuis invincible !\fUgh ! Agh...",
+  "fr": "Quoi ?! Mais... Je suis invincible !\nUgh ! Agh...",
   "src": "pinky"
  },
  {
@@ -1548,10 +1548,10 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 16,
+  "max": 34,
   "who": "Colet",
   "en": "Oh la la... Zees finale...eet lacks a\ncertain je ne sais what.",
-  "fr": "Oh là là... La\nfin... Ça manque\fd'un certain je ne\nsais quoi.",
+  "fr": "Oh là là... La fin... Ça manque d'un\ncertain je ne sais quoi.",
   "src": "pinky"
  },
  {
@@ -1564,10 +1564,10 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 16,
+  "max": 34,
   "who": "Rose, Colet",
   "en": "Rats... What's the world to do\nwithout Red-Handed Rose?",
-  "fr": "... Que peut faire\nle monde sans\fRose-aux-mains-rouges\n?",
+  "fr": "... Que peut faire le monde sans\nRose-aux-mains-rouges ?",
   "src": "pinky"
  },
  {
@@ -1580,10 +1580,10 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 16,
+  "max": 34,
   "who": "Cuisses",
   "en": "I don't want to die...\nNot in this body...",
-  "fr": "Je ne veux pas\nmourir... Pas dans\fce corps...",
+  "fr": "Je ne veux pas mourir...\nPas dans ce corps...",
   "src": "pinky"
  },
  {
@@ -1871,8 +1871,9 @@
   "max": 34,
   "who": "English Officer",
   "en": "What? A survivor?",
-  "fr": "Quoi ? Un survivant ?",
-  "src": "pinky"
+  "fr": "Quoi ? Une survivante ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1020BM",

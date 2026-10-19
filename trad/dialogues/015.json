@@ -1,15 +1,15 @@
 [
  {
   "ctx": "ST3050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "This time, for\nsure...!",
-  "fr": "C'est le moment\nça c'est sûr... !",
+  "fr": "C'est le moment ça c'est sûr... !",
   "src": "pinky"
  },
  {
   "ctx": "ST3050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "This shall be\nthe end!",
   "fr": "Finissons-en !",
@@ -41,7 +41,7 @@
  },
  {
   "ctx": "ST3050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Eee!",
   "fr": "Hiiii !",
@@ -49,7 +49,7 @@
  },
  {
   "ctx": "ST3050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Yaahhhh!!",
   "fr": "Yaahhhh !!",
@@ -57,7 +57,7 @@
  },
  {
   "ctx": "ST3050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Gagah!!",
   "fr": "Gagah !!",
@@ -65,7 +65,7 @@
  },
  {
   "ctx": "ST3050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Eeeee!!",
   "fr": "Hiii !!",
@@ -789,7 +789,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "Well, supposedly he's found his\nway back into our world.",
-  "fr": "Eh bien,\fsoi-disant qu'il aurait trouvé le\nmoyen de revenir dans notre\fmonde.",
+  "fr": "Eh bien, soi-disant qu'il aurait\ntrouvé le moyen de revenir dans\fnotre monde.",
   "src": "pinky",
   "relu": true
  },
@@ -1587,23 +1587,23 @@
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Is that all you\ngot? Too bad...",
-  "fr": "C'est tout ce que\ntu as ? Dommage...",
+  "fr": "C'est tout ce que tu as ?\nDommage...",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Your life...\nIt's mine now.",
-  "fr": "Ta vie... Est\nmienne à présent.",
+  "fr": "Ta vie... Est mienne à présent.",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Now it's your\nturn!",
   "fr": "À ton tour !",
@@ -1619,81 +1619,81 @@
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Behold...my\ntrue power!",
-  "fr": "Contemple... mon\nvéritable pouvoir !",
+  "fr": "Contemple...\nmon véritable pouvoir !",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "My power...to\nme...",
-  "fr": "Mon pouvoir...\nà moi...",
+  "fr": "Mon pouvoir... à moi...",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "How could this\nbe...?",
-  "fr": "Comment ça\na pu... ?",
+  "fr": "Comment ça a pu... ?",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Hmm...how should\nI finish you?",
-  "fr": "Hmm... comment\nvais-je t'achever ?",
+  "fr": "Hmm...\ncomment vais-je t'achever ?",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Heh heh...you\ncan't get away.",
-  "fr": "Héhé... tu ne\npeux pas fuir.",
+  "fr": "Héhé... tu ne peux pas fuir.",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "How could this\nhappen to me...?",
-  "fr": "Comment ça a pu\nm'arriver... ?",
+  "fr": "Comment ça a pu m'arriver... ?",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I can still\ndo this!",
-  "fr": "Je peux toujours\nle faire !",
+  "fr": "Je peux toujours le faire !",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You won't get\npast me!",
-  "fr": "Tu ne passeras\npas !",
+  "fr": "Tu ne passeras pas !",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You shall\nnot pass...",
-  "fr": "Vous ne passerez\npas...",
+  "fr": "Vous ne passerez pas...",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "How amazingly\nweak...",
   "fr": "Quelle faiblesse...",
@@ -1701,15 +1701,15 @@
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Strike back!\nCome on!",
-  "fr": "Riposte !\nAllez !",
+  "fr": "Riposte ! Allez !",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Ow!",
   "fr": "Ouch !",
@@ -1717,7 +1717,7 @@
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Oof, that stung!",
   "fr": "Waf, ça pique !",
@@ -1725,55 +1725,55 @@
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Wait'll I show\nyou this!",
-  "fr": "Attends, je vais\nte montrer !",
+  "fr": "Attends, je vais te montrer !",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger",
   "en": "Ungh!\nYou and me aren't done...",
-  "fr": "Ungh ! Toi et moi\nn'en avons pas\ffini...",
+  "fr": "Ungh !\nToi et moi n'en avons pas fini...",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "Why?\nWhy did this have to happen...",
-  "fr": "Pourquoi ? Pourquoi\nest-ce arrivé...",
+  "fr": "Pourquoi ?\nPourquoi est-ce arrivé...",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Gilles",
   "en": "Sorry, friend, but I've no time\nfor regrets.",
-  "fr": "Désolé l'ami, mais\nje n'ai pas le temps\fpour les regrets.",
+  "fr": "Désolé l'ami, mais je n'ai pas le\ntemps pour les regrets.",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Rufus",
   "en": "Awooo!\nRuh Pucelle rooks so sad...",
-  "fr": "Awooouuu ! La\nPucelle semble si\ftriste...",
+  "fr": "Awooouuu !\nLa Pucelle semble si triste...",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "La Hire",
   "en": "Rrraaar...\nLa Hire is leaving!",
-  "fr": "Rrraaar...\nLa Hire s'en va !",
+  "fr": "Rrraaar... La Hire s'en va !",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Bartolomeo",
   "en": "Make haste, you all!",
   "fr": "Dépêchez-vous !",
@@ -1781,7 +1781,7 @@
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Jean",
   "en": "What a mess...",
   "fr": "Quel bordel...",
@@ -1789,7 +1789,7 @@
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Bertrand",
   "en": "Let's get movin'!",
   "fr": "Allez on bouge !",
@@ -1797,47 +1797,47 @@
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Marcel",
   "en": "*Sniff*\nWe have to go...",
-  "fr": "*Sniff* Nous devons\ny aller...",
+  "fr": "*Sniff* Nous devons y aller...",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Beatrix",
   "en": "Miserable man! May we meet\nagain in a merrier mood...",
-  "fr": "Misérable !\nPuissions-nous nous\fretrouver à\nnouveau...",
+  "fr": "Misérable ! Puissions-nous nous\nretrouver à nouveau...",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Claire",
   "en": "Why are you all so gloomy?\nUgh, grow up!",
-  "fr": "Pourquoi faites-vous\ntous cette tête ?\fAllez, souriez !",
+  "fr": "Pourquoi faites-vous tous cette\ntête ? Allez, souriez !",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Colet",
   "en": "Hawumph!\nAu revoir, mon ami.",
-  "fr": "Awouuu !\nAu revoir, mon ami.",
+  "fr": "Awouuu ! Au revoir, mon ami.",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Rose",
   "en": "Gotta go, love!",
-  "fr": "Je dois filer, mon\ncoeur !",
+  "fr": "Je dois filer, mon coeur !",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Cuisses",
   "en": "Coa-coa...",
   "fr": "Coa-coa...",
@@ -1845,132 +1845,132 @@
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "I can't do it... I can't raise\nmy sword against Roger.",
-  "fr": "Je n'y arrive pas...\nJe ne peux pas lever\fmon épée sur Roger.",
+  "fr": "Je n'y arrive pas... Je ne peux pas\nlever mon épée sur Roger.",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Gilles",
   "en": "What happened to your love for\nJeanne?",
-  "fr": "Où est passé ton\namour pour Jeanne ?",
+  "fr": "Où est passé ton amour pour\nJeanne ?",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Rufus",
   "en": "Woof? (Row where have I seen\nrat man refore?)",
-  "fr": "Woof ? (Où ai-je vu\ncet homme auparavant\f?)",
+  "fr": "Woof ? (Où ai-je vu cet homme\nauparavant ?)",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "La Hire",
   "en": "La Hire cannot strike his friend.",
-  "fr": "La Hire ne peut pas\nfrapper son ami.",
+  "fr": "La Hire ne peut pas frapper son\nami.",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Bartolomeo",
   "en": "Thou art no foe of mine; no war\nbetwixt us must to-day be waged.",
-  "fr": "Vous n'êtes pas mon\nennemi.\fAucune guerre entre\nnous ne doit avoir\flieu.",
+  "fr": "Vous n'êtes pas mon ennemi.\fAucune guerre entre nous ne doit\navoir lieu.",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Jean",
   "en": "No shame in running...",
-  "fr": "Il n'y a aucune\nhonte à fuir...",
+  "fr": "Il n'y a aucune honte à fuir...",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Bertrand",
   "en": "Roger! Fight back! I ain't losin'\nmy buddy to some reaper creep!",
-  "fr": "Roger !\nRessaisis-toi ! Mon\fpote ne s'est pas\ntransformé\fen un foutu\nmoissonneur !",
+  "fr": "Roger ! Ressaisis-toi !\fMon pote ne s'est pas transformé\nen un foutu moissonneur !",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Marcel",
   "en": "Waaah!\nGet me out of here!",
-  "fr": "Waaah ! Faites-moi\nsortir de là !",
+  "fr": "Waaah ! Faites-moi sortir de là !",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Beatrix",
   "en": "Oh, friend, I had hoped your\nheart was forged of less feeble\nfiber...",
-  "fr": "Oh, mon ami, j'avais\nespéré que ton coeur\nsoit forgé de fibres\fmoins fragiles...",
+  "fr": "Oh, mon ami,\fj'avais espéré que ton coeur soit\nforgé de fibres moins fragiles...",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "Now is not the time to face you,\nfriend.",
-  "fr": "L'heure n'est pas\nencore venue de\ft'affronter, mon\nami.",
+  "fr": "L'heure n'est pas encore venue de\nt'affronter, mon ami.",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Claire",
   "en": "What incredible magic!",
-  "fr": "Quelle magie\nincroyable !",
+  "fr": "Quelle magie incroyable !",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Claire",
   "en": "Any closer and the darkness\nwould've gobbled me up... Ugh!",
-  "fr": "Un peu plus et les\nténèbres m'auraient\fenglouti... Ugh !",
+  "fr": "Un peu plus et les ténèbres\nm'auraient englouti... Ugh !",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Colet",
   "en": "Roger has completely lost heez\nmarbles! Ay...",
-  "fr": "Roger a complètement\nperdu la tête !\fAïe...",
+  "fr": "Roger a complètement perdu la\ntête ! Aïe...",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Rose",
   "en": "You know, loves, I think\nsomething might be wrong with\nthat bloke...",
-  "fr": "Vous savez, mes\nchéris, je pense que\nquelque chose ne va\fpas\favec ce mec...",
+  "fr": "Vous savez, mes chéris,\fje pense que quelque chose ne va\npas avec ce mec...",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Rose",
   "en": "But ah well!\nGot to keep moving!",
-  "fr": "Eh bien ! Continuons\nd'avancer !",
+  "fr": "Eh bien ! Continuons d'avancer !",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 16,
+  "max": 34,
   "who": "Cuisses",
   "en": "Roger!\nPlease, come to your senses!",
-  "fr": "Roger ! S'il te\nplait, ressaisis-toi\f!",
+  "fr": "Roger ! S'il te plait, ressaisis-toi !",
   "src": "pinky"
  },
  {

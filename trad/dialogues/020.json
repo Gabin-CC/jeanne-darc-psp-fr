@@ -131,7 +131,7 @@
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "...No...",
   "fr": "Non...",
@@ -139,7 +139,7 @@
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "...Give it up...",
   "fr": "Abandonne...",
@@ -147,7 +147,7 @@
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "This is it!",
   "fr": "C'est ça !",
@@ -155,15 +155,15 @@
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "He used that to disappear...but\nwhat is it?\fSome sort of transportation\ndevice?",
-  "fr": "Il s'est servi de ça\npour disparaitre.\fQu'est-ce que ça\npeut bien être ? Une\fsorte de téléporteur\n?",
+  "fr": "Il s'est servi de ça pour disparaitre.\fQu'est-ce que ça peut bien être ?\nUne sorte de téléporteur ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "...Nothing.",
   "fr": "Rien...",
@@ -171,15 +171,15 @@
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "Maybe there's a switch someplace\nelse.",
-  "fr": "Il y a peut-être un\nmécanisme ailleurs.",
+  "fr": "Il y a peut-être un mécanisme\nailleurs.",
   "src": "pinky"
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "Gilles, Jean, Beatrix",
   "en": "...No response.",
   "fr": "Aucun effet...",
@@ -187,31 +187,31 @@
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "Gilles",
   "en": "Is the switch somewhere else?",
-  "fr": "Le mécanisme serait\nautre part ?",
+  "fr": "Le mécanisme serait autre part ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "...It's not working.",
-  "fr": "Ça ne fonctionne\npas...",
+  "fr": "Ça ne fonctionne pas...",
   "src": "pinky"
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "Perhaps a switch someplace else\nwill do the trick.",
-  "fr": "Il doit y avoir un\nmécanisme ailleurs\fpour l'actionner.",
+  "fr": "Il doit y avoir un mécanisme\nailleurs pour l'actionner.",
   "src": "pinky"
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "La Hire",
   "en": "...It is broken!",
   "fr": "C'est brisé... !",
@@ -219,127 +219,127 @@
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "La Hire",
   "en": "Hmm, perhaps a switch\nsomewhere else must be\nprrressed.",
-  "fr": "Un mécanisme\nailleurs doit être\nactionné.",
+  "fr": "Un mécanisme ailleurs doit être\nactionné.",
   "src": "pinky"
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "Marcel",
   "en": "...Huh? Nothing happened.",
-  "fr": "Hein ?! Il ne se\npasse rien.",
+  "fr": "Hein ?! Il ne se passe rien.",
   "src": "pinky"
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "Marcel",
   "en": "Is there a switch for this\nsomeplace else?",
-  "fr": "Y aurait-il un\nmécanisme ailleurs ?",
+  "fr": "Y aurait-il un mécanisme\nailleurs ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "Colet",
   "en": "...Quoi?\nEet eez not working!",
-  "fr": "Quoi ?! Ça ne marche\npas !",
+  "fr": "Quoi ?! Ça ne marche pas !",
   "src": "pinky"
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "Colet",
   "en": "Perhaps ze sweetch eez\nsomeplace else...",
-  "fr": "Le mécanisme doit se\ntrouver ailleurs...",
+  "fr": "Le mécanisme doit se trouver\nailleurs...",
   "src": "pinky"
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "Jean",
   "en": "Think we need to press a switch\nelsewhere?",
-  "fr": "Devrait-on actionner\nun mécanisme\failleurs ?",
+  "fr": "Devrait-on actionner un\nmécanisme ailleurs ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "Rufus",
   "en": "Arf?\nRuthing rappened!",
-  "fr": "Arf ?!\nRrrien ne se passe !",
+  "fr": "Arf ?! Rrrien ne se passe !",
   "src": "pinky"
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "Rufus",
   "en": "Raybe the pushy-thingy is\nrumplace else!",
-  "fr": "Il doit y avoirr un\nmécanisme\failleurrrs...",
+  "fr": "Il doit y avoirr un mécanisme\nailleurrrs...",
   "src": "pinky"
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "Beatrix",
   "en": "Perhaps we must push in the\nproper place prior to proceeding.",
-  "fr": "Nous devrions\nappuyer au bon\fendroit pour\nl'actionner.",
+  "fr": "Nous devrions appuyer au bon\nendroit pour l'actionner.",
   "src": "pinky"
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "Bartolomeo",
   "en": "...Harrumph. No effect.",
-  "fr": "Groumpf... Aucun\neffet.",
+  "fr": "Groumpf... Aucun effet.",
   "src": "pinky"
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "Bartolomeo",
   "en": "Mayhap a switch must be push'd\nto work this contrivance.",
-  "fr": "Nous devrions\npouvoir trouver un\fmécanisme permettant\fd'actionner ce\ndispositif.",
+  "fr": "Nous devrions pouvoir trouver un\nmécanisme permettant\fd'actionner ce dispositif.",
   "src": "pinky"
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "Bertrand",
   "en": "...Hey, nothin's happenin'!",
-  "fr": "... Quoi ?! Il ne se\npasse rien ?",
+  "fr": "... Quoi ?! Il ne se passe rien ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "Bertrand",
   "en": "Think we gots to use a switch\nsomeplace else?",
-  "fr": "Nous devrions\npeut-être utiliser\fun mécanisme\nailleurs ?",
+  "fr": "Nous devrions peut-être utiliser\nun mécanisme ailleurs ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "Cuisses",
   "en": "...Coa? Nothing happened.",
-  "fr": "Croa... ? Rien ne se\npasse.",
+  "fr": "Croa... ? Rien ne se passe.",
   "src": "pinky"
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "Cuisses",
   "en": "The switch that activates this\nmust be somewhere else.",
-  "fr": "Le mécanisme qui\nl'actionne doit se\ftrouver ailleurs.",
+  "fr": "Le mécanisme qui l'actionne doit\nse trouver ailleurs.",
   "src": "pinky"
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "Rose",
   "en": "...No response, hmm?",
   "fr": "Aucun effet...",
@@ -347,26 +347,26 @@
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "Rose",
   "en": "We'll just have to find ourselves\na switch, loves.",
-  "fr": "Il va falloir qu'on\ntrouve comment\fl'actionner, mes\nchéris.",
+  "fr": "Il va falloir qu'on trouve comment\nl'actionner, mes chéris.",
   "src": "pinky"
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "Claire",
   "en": "...What? Ugh!\nNothing happened!",
-  "fr": "Quoi ?! Il ne se\npasse rien.",
+  "fr": "Quoi ?! Il ne se passe rien.",
   "src": "pinky"
  },
  {
   "ctx": "ST4041BT",
-  "max": 16,
+  "max": 34,
   "who": "Claire",
   "en": "The switch must be somewhere\nelse. I command you all to find it!",
-  "fr": "Le mécanisme doit se\ntrouver ailleurs.\fAllez, trouvez-le !",
+  "fr": "Le mécanisme doit se trouver\nailleurs. Allez, trouvez-le !",
   "src": "pinky"
  },
  {
@@ -809,24 +809,24 @@
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Ugh, get out of\nmy sight...",
-  "fr": "Hors de\nma vue...",
+  "fr": "Hors de ma vue...",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Is this how it\nwill end...?",
-  "fr": "Tout finit\nainsi... ?",
+  "fr": "Tout finit ainsi... ?",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Sigh...so it is.",
   "fr": "Pff... C'est ainsi.",
@@ -834,47 +834,47 @@
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I see...the test\nis almost over.",
-  "fr": "Je vois. Le test est\npresque terminé.",
+  "fr": "Je vois.\nLe test est presque terminé.",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Hmph...all talk,\nwere you...?",
-  "fr": "Mpff... Que des\nmots, somme toute...",
+  "fr": "Mpff...\nQue des mots, somme toute...",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "This test ends\nin our victory!",
-  "fr": "Ce test s'achève\navec notre victoire\f!",
+  "fr": "Ce test s'achève avec notre\nvictoire !",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Stand up...you\ncan do this...",
-  "fr": "Debout... Tu\npeux le faire...",
+  "fr": "Debout... Tu peux le faire...",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "At least go\ndown fighting!",
-  "fr": "Arrête de\ncombattre !",
+  "fr": "Arrête de combattre !",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Give it up!",
   "fr": "Abandonne !",
@@ -882,7 +882,7 @@
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Useless...",
   "fr": "Inutile...",
@@ -890,23 +890,23 @@
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You fools...\nBow before me!",
-  "fr": "Inconscient... À\ngenoux à mes pieds !",
+  "fr": "Inconscient...\nÀ genoux à mes pieds !",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Let me show you\nmy full power...",
-  "fr": "Laissez-moi vous\nmontrer ma puissance\f!",
+  "fr": "Laissez-moi vous montrer ma\npuissance !",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Ah, ahh...",
   "fr": "Ah, ahh...",
@@ -914,7 +914,7 @@
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "No escape...",
   "fr": "Aucune issue...",
@@ -922,39 +922,39 @@
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Ahh, what a\nblunder!",
-  "fr": "Ahh, quelle\nbévue !",
+  "fr": "Ahh, quelle bévue !",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "We...we cannot\nlose!",
-  "fr": "Nous.. Ne pouvons\npas perdre !",
+  "fr": "Nous.. Ne pouvons pas perdre !",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "No...even with\nall our power?!",
-  "fr": "Non... Même avec\ntoute notre\fpuissance ?!",
+  "fr": "Non... Même avec toute notre\npuissance ?!",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Ergh...I refuse\nto surrender!",
-  "fr": "Argh... Je refuse\nde me rendre !",
+  "fr": "Argh... Je refuse de me rendre !",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "This power...\nAmazing!",
   "fr": "Cette puissance...\nImpressionnant !",
@@ -962,71 +962,71 @@
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Sweep up the\nrest of them!",
-  "fr": "Écrasez ceux\nqui restent !",
+  "fr": "Écrasez ceux qui restent !",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Ancient armlets?\nPah! Trinkets!",
-  "fr": "Les anciens\nbracelets ? Pouah !\fDes babioles !",
+  "fr": "Les anciens bracelets ? Pouah !\nDes babioles !",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "What...? Done\nalready?!",
-  "fr": "Quoi ?! Déjà\nà terre ?!",
+  "fr": "Quoi ?! Déjà à terre ?!",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You can't let\nyour guard down!",
-  "fr": "Ne baisse pas\nta garde !",
+  "fr": "Ne baisse pas ta garde !",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Strike! Now!",
-  "fr": "Frappe ! Maintenant\n!",
+  "fr": "Frappe ! Maintenant !",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Thank you for\nthe honor...",
-  "fr": "Merci pour les\nhonneurs...",
+  "fr": "Merci pour les honneurs...",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I'm...still in\nthis...!",
-  "fr": "Je suis...\nencore là...",
+  "fr": "Je suis... encore là...",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Ahhh...this\npower!",
-  "fr": "Ahh... Cette\npuissance !",
+  "fr": "Ahh... Cette puissance !",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Youuuu!",
   "fr": "Vouuuuus !",
@@ -1034,7 +1034,7 @@
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Grahh!",
   "fr": "Grahh !",
@@ -1042,7 +1042,7 @@
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Gahh!",
   "fr": "Gahh !",
@@ -1050,34 +1050,34 @@
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Behold...my\nskill!",
-  "fr": "Voilà... ma\npuissance !",
+  "fr": "Voilà... ma puissance !",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Can you stand\nup to this?",
-  "fr": "Pouvez-vous\nencaisser ça ?",
+  "fr": "Pouvez-vous encaisser ça ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Cower at our\nvast strength!",
-  "fr": "Fuyez face à\nnotre puissance !",
+  "fr": "Fuyez face à notre puissance !",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger",
   "en": "Jeanne!\nI'll kill you later!",
-  "fr": "Jeanne ! Ton heure\nviendra !",
+  "fr": "Jeanne ! Ton heure viendra !",
   "src": "pinky"
  },
  {
@@ -1486,87 +1486,87 @@
  },
  {
   "ctx": "ST4060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "All this, and we\nstill can't win?",
-  "fr": "Avec tout ça, nous\nsommes vaincus ?",
+  "fr": "Avec tout ça, nous sommes\nvaincus ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Ergh...I won't\ngive up!",
-  "fr": "Je ne me\nrendrai pas !",
+  "fr": "Je ne me rendrai pas !",
   "src": "pinky"
  },
  {
   "ctx": "ST4060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Don't give up!\nFull forward!",
-  "fr": "Continue !\nEn avant !",
+  "fr": "Continue ! En avant !",
   "src": "pinky"
  },
  {
   "ctx": "ST4060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Well? What's the\nproblem?!",
-  "fr": "Hein ? Il y a\nun problème ?",
+  "fr": "Hein ? Il y a un problème ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Charge! Forward!",
-  "fr": "Chargez !\nEn avant !",
+  "fr": "Chargez ! En avant !",
   "src": "pinky"
  },
  {
   "ctx": "ST4060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Slash 'em to\nribbons!",
-  "fr": "Coupez-les\nen rondelles !",
+  "fr": "Coupez-les en rondelles !",
   "src": "pinky"
  },
  {
   "ctx": "ST4060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Say your\nprayers!",
-  "fr": "Dites vos\nprières !",
+  "fr": "Dites vos prières !",
   "src": "pinky"
  },
  {
   "ctx": "ST4060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I'll fight 'til\nthe bitter end!",
-  "fr": "Je me battrai\njusqu'au bout !",
+  "fr": "Je me battrai jusqu'au bout !",
   "src": "pinky"
  },
  {
   "ctx": "ST4060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "The room is supressing Burning Auras!",
-  "fr": "La pièce bloque\nl'utilisation de\fl'aura !",
+  "fr": "La pièce bloque l'utilisation de\nl'aura !",
   "src": "pinky"
  },
  {
   "ctx": "ST4060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "The room is supressing your skills!",
-  "fr": "La pièce bloque\nl'utilisation de\fcompétences !",
+  "fr": "La pièce bloque l'utilisation de\ncompétences !",
   "src": "pinky"
  },
  {
   "ctx": "ST4060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "The room is supressing\ntransformations!",
   "fr": "La pièce bloque les\ntransformations !",
@@ -1574,26 +1574,26 @@
  },
  {
   "ctx": "ST4060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You can use Burning Auras again!",
-  "fr": "Vous pouvez à\nnouveau utiliser\fl'aura !",
+  "fr": "Vous pouvez à nouveau utiliser\nl'aura !",
   "src": "pinky"
  },
  {
   "ctx": "ST4060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You can use skills again!",
-  "fr": "Vous pouvez à\nnouveau utiliser vos\fcompétences !",
+  "fr": "Vous pouvez à nouveau utiliser\nvos compétences !",
   "src": "pinky"
  },
  {
   "ctx": "ST4060BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You can transform again!",
-  "fr": "Vous pouvez à\nnouveau vous\ftransformer !",
+  "fr": "Vous pouvez à nouveau vous\ntransformer !",
   "src": "pinky"
  },
  {

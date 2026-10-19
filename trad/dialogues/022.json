@@ -57,50 +57,50 @@
  },
  {
   "ctx": "ST4080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "This power...I\nhad no idea...",
-  "fr": "Ce pouvoir... Je\nne savais pas...",
+  "fr": "Ce pouvoir... Je ne savais pas...",
   "src": "pinky"
  },
  {
   "ctx": "ST4080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You won't defeat\nme that easily!",
-  "fr": "Vous ne me vaincrez\npas si facilement !",
+  "fr": "Vous ne me vaincrez pas si\nfacilement !",
   "src": "pinky"
  },
  {
   "ctx": "ST4080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Having trouble,\no armlet hero?",
-  "fr": "Des ennuis, héros\nau bracelet ?",
+  "fr": "Des ennuis, héros au bracelet ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Playtime is\nover!",
-  "fr": "On ne\njoue plus !",
+  "fr": "On ne joue plus !",
   "src": "pinky"
  },
  {
   "ctx": "ST4080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You can't get\npast me...",
-  "fr": "Vous ne\nm'aurez pas...",
+  "fr": "Vous ne m'aurez pas...",
   "src": "pinky"
  },
  {
   "ctx": "ST4080BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Fill me with\nyour power...",
-  "fr": "Donne-moi ta\npuissance...",
+  "fr": "Donne-moi ta puissance...",
   "src": "pinky"
  },
  {
@@ -519,79 +519,79 @@
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "My human body...\ncan't take this!",
-  "fr": "Mon corps humain...\nne peut le supporter\f!",
+  "fr": "Mon corps humain...\nne peut le supporter !",
   "src": "pinky"
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I'll never\nforgive you...!",
-  "fr": "Jamais je ne le\npardonnerai !",
+  "fr": "Jamais je ne le pardonnerai !",
   "src": "pinky"
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Mere humans...\nGoing so far...!",
-  "fr": "De simples\nhumains... Aller si\floin !",
+  "fr": "De simples humains... Aller si loin !",
   "src": "pinky"
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You'll regret\nmessing with me!",
-  "fr": "Vous allez le\nregretter !",
+  "fr": "Vous allez le regretter !",
   "src": "pinky"
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You horrid horde\nof humans!!",
-  "fr": "Sale horde\nd'humains !",
+  "fr": "Sale horde d'humains !",
   "src": "pinky"
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I'll bury all\nof you at once!",
-  "fr": "Je vais tous\nvous enterrer !",
+  "fr": "Je vais tous vous enterrer !",
   "src": "pinky"
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Damn you...and\nthose armlets!",
-  "fr": "Soyez maudits\navec vos bracelets !",
+  "fr": "Soyez maudits avec vos bracelets !",
   "src": "pinky"
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Out of my way,\nyou...!",
-  "fr": "Hors de mon\nchemin !",
+  "fr": "Hors de mon chemin !",
   "src": "pinky"
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Daahh! You'll\npay for that!",
-  "fr": "Ahh ! Vous allez\nle payer !",
+  "fr": "Ahh ! Vous allez le payer !",
   "src": "pinky"
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Grrrrgh!!",
   "fr": "Grrrrgh !!",
@@ -599,72 +599,72 @@
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You will kneel\nbefore me!",
-  "fr": "Tu plieras\ndevant moi !",
+  "fr": "Tu plieras devant moi !",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Your despair is\nmy fuel...",
-  "fr": "Ton désespoir\nest mon énergie !",
+  "fr": "Ton désespoir est mon énergie !",
   "src": "pinky"
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Prepare for even\nmore despair!",
-  "fr": "Prépare-toi à\nplus de noirceur !",
+  "fr": "Prépare-toi à plus de noirceur !",
   "src": "pinky"
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Well...time to\nfinish this...",
-  "fr": "Il est temps\nd'en finir...",
+  "fr": "Il est temps d'en finir...",
   "src": "pinky"
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Ah, that look on\nyour face! Hah!",
-  "fr": "Ah ah !\nRegarde-toi !",
+  "fr": "Ah ah ! Regarde-toi !",
   "src": "pinky"
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "More pain lies\nahead for you...",
-  "fr": "Il n'y a que\nsouffrance...",
+  "fr": "Il n'y a que souffrance...",
   "src": "pinky"
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Heh heh...Oh, I\ncan't take it...",
-  "fr": "Hé hé... Je n'arrive\npas à l'atteindre...",
+  "fr": "Hé hé...\nJe n'arrive pas à l'atteindre...",
   "src": "pinky"
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Struggle all\nyou want...",
-  "fr": "Affrontez ce que\nvous voulez...",
+  "fr": "Affrontez ce que vous voulez...",
   "src": "pinky"
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Hah...",
   "fr": "Hah...",
@@ -672,7 +672,7 @@
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You'll pay...!",
   "fr": "Tu vas le payer !",
@@ -680,47 +680,47 @@
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You insolent\nlittle...!",
-  "fr": "Petite\ninsolente !",
+  "fr": "Petite insolente !",
   "src": "pinky"
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I'll banish you\nto darkness!",
-  "fr": "Je vais t'envoyer\ndans les ténèbres !",
+  "fr": "Je vais t'envoyer dans les\nténèbres !",
   "src": "pinky"
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Your death will\nbe slow...",
-  "fr": "Ta mort\nsera lente...",
+  "fr": "Ta mort sera lente...",
   "src": "pinky"
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Let me hear your\nscreams!",
-  "fr": "Je veux\nt'entendre crier !",
+  "fr": "Je veux t'entendre crier !",
   "src": "pinky"
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Scream! Sob!\nCry in pain!",
-  "fr": "Crie ! Pleure !\nSouffre !",
+  "fr": "Crie ! Pleure ! Souffre !",
   "src": "pinky"
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger",
   "en": "It's no use...",
   "fr": "C'est inutile...",
@@ -728,7 +728,7 @@
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger",
   "en": "Nothing's hurting him!",
   "fr": "Rien ne le blesse !",
@@ -736,23 +736,23 @@
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger",
   "en": "Which means we use this!",
-  "fr": "Nous devons utiliser\nça !",
+  "fr": "Nous devons utiliser ça !",
   "src": "pinky"
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "Gilvaroth",
   "en": "What...what do you plan to do\nwith that toy?",
-  "fr": "Que... Qu'as-tu\nl'intention de faire\favec ce jouet ?",
+  "fr": "Que... Qu'as-tu l'intention de faire\navec ce jouet ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger",
   "en": "This!",
   "fr": "Ça !",
@@ -760,7 +760,7 @@
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "Gilvaroth",
   "en": "Gwahhh?",
   "fr": "Gwahhh ?",
@@ -768,7 +768,7 @@
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "Gilvaroth",
   "en": "Gwaaaaaaaaahhh!!!",
   "fr": "Gwaaaaaaaaahhh !!!",
@@ -776,7 +776,7 @@
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "Gilvaroth",
   "en": "Urrrrrrggg...",
   "fr": "Urrrrrrggg...",
@@ -784,16 +784,16 @@
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "Hurry! Stop him before he can\nmake it back to Henry's body!",
-  "fr": "Vite ! Arrêtez-le\navant qu'il ne\fréintègre le corps\nd'Henry !",
+  "fr": "Vite ! Arrêtez-le avant qu'il ne\nréintègre le corps d'Henry !",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "Superbia",
   "en": "hRRRrrrAAAH!",
   "fr": "hRRRrrrAAAH !",
@@ -801,7 +801,7 @@
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "Avaritia",
   "en": "aAAAaaaAAACK!",
   "fr": "aAAAaaaAAACK !",
@@ -809,7 +809,7 @@
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "Luxuria",
   "en": "yAAAaaaAAARG!",
   "fr": "yAAAaaaAAARG !",
@@ -817,7 +817,7 @@
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "Ira",
   "en": "gRRRaaaAAAGH!",
   "fr": "gRRRaaaAAAGH !",
@@ -825,15 +825,15 @@
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "There, we did it!\nYou're ours now, Gilvaroth!",
-  "fr": "Nous avons réussi !\nTu es à notre merci,\fGilvaroth !",
+  "fr": "Nous avons réussi !\nTu es à notre merci, Gilvaroth !",
   "src": "pinky"
  },
  {
   "ctx": "ST4090BT",
-  "max": 16,
+  "max": 34,
   "who": "Gilvaroth",
   "en": "HUMAAAAAANS!!!",
   "fr": "HUMAAAAAAIIINS !!!",
@@ -1428,95 +1428,95 @@
  },
  {
   "ctx": "ST4100BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "No...how could I\nallow this...!!",
-  "fr": "Non... Je ne peux\nle permettre !",
+  "fr": "Non... Je ne peux le permettre !",
   "src": "pinky"
  },
  {
   "ctx": "ST4100BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You...you'll\npay...!",
-  "fr": "Tu... Tu vas\nle payer !",
+  "fr": "Tu... Tu vas le payer !",
   "src": "pinky"
  },
  {
   "ctx": "ST4100BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I am eternal...\nWith the world.",
-  "fr": "Je suis éternel,\ncomme le monde !",
+  "fr": "Je suis éternel, comme le monde !",
   "src": "pinky"
  },
  {
   "ctx": "ST4100BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I will be reborn\nover and over!",
-  "fr": "Je renaîtrai\néternellement !",
+  "fr": "Je renaîtrai éternellement !",
   "src": "pinky"
  },
  {
   "ctx": "ST4100BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You annoying\nflies!!",
-  "fr": "Sale\nvermine !",
+  "fr": "Sale vermine !",
   "src": "pinky"
  },
  {
   "ctx": "ST4100BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "It's useless,\nyou little ones!",
-  "fr": "C'est inutile,\nvermine !",
+  "fr": "C'est inutile, vermine !",
   "src": "pinky"
  },
  {
   "ctx": "ST4100BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Think you can\ntake me, human?",
-  "fr": "Tu crois pouvoir\nm'avoir, humain ?",
+  "fr": "Tu crois pouvoir m'avoir, humain ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4100BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Such pathetic\ncreatures...",
-  "fr": "Quelles créatures\npathétiques...",
+  "fr": "Quelles créatures pathétiques...",
   "src": "pinky"
  },
  {
   "ctx": "ST4100BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Heh heh...now,\nit's all mine...",
-  "fr": "Hé hé hé, tout\nm'appartient !",
+  "fr": "Hé hé hé, tout m'appartient !",
   "src": "pinky"
  },
  {
   "ctx": "ST4100BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I will wipe out\neverything!",
-  "fr": "Je vais tout\ndétruire !",
+  "fr": "Je vais tout détruire !",
   "src": "pinky"
  },
  {
   "ctx": "ST4100BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Afraid of death,\nmy heroes?",
-  "fr": "Peur de la mort,\nmes héros ?",
+  "fr": "Peur de la mort, mes héros ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4100BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "It's pointless.\nCan't you see?",
   "fr": "C'est inutile.",
@@ -1524,15 +1524,15 @@
  },
  {
   "ctx": "ST4100BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "All shall return\nto darkness...",
-  "fr": "Tout retournera\naux ténèbres...",
+  "fr": "Tout retournera aux ténèbres...",
   "src": "pinky"
  },
  {
   "ctx": "ST4100BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "What a waste...",
   "fr": "Quel gâchis...",
@@ -1540,98 +1540,98 @@
  },
  {
   "ctx": "ST4100BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "You...you can't\ndo this...",
-  "fr": "Tu... Tu ne peux\npas faire ça...",
+  "fr": "Tu... Tu ne peux pas faire ça...",
   "src": "pinky"
  },
  {
   "ctx": "ST4100BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Do you know no\nfear...?!",
-  "fr": "N'avez-vous\npas peur... ?!",
+  "fr": "N'avez-vous pas peur... ?!",
   "src": "pinky"
  },
  {
   "ctx": "ST4100BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Eternal dark-\nness is near!",
-  "fr": "Les ténèbres\narrivent !",
+  "fr": "Les ténèbres arrivent !",
   "src": "pinky"
  },
  {
   "ctx": "ST4100BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "Deep...deep into\nthe darkness...",
-  "fr": "Plongez dans\nles ténèbres...",
+  "fr": "Plongez dans les ténèbres...",
   "src": "pinky"
  },
  {
   "ctx": "ST4100BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "I will shatter\nyour very souls!",
-  "fr": "Je vais dévorer\nvos âmes !",
+  "fr": "Je vais dévorer vos âmes !",
   "src": "pinky"
  },
  {
   "ctx": "ST4100BT",
-  "max": 16,
+  "max": 34,
   "who": "",
   "en": "The hatred flows\nthrough me...!",
-  "fr": "La haine me\ntraverse... !",
+  "fr": "La haine me traverse... !",
   "src": "pinky"
  },
  {
   "ctx": "ST4100BT",
-  "max": 16,
+  "max": 34,
   "who": "Jeanne",
   "en": "I swore I'd protect everyone!\nI can't let it end. Not like this...!",
-  "fr": "J'ai juré de\nprotéger tout le\fmonde !\fJe ne peux pas\nmourir. Pas comme\fça... !",
+  "fr": "J'ai juré de protéger tout le\nmonde ! Je ne peux pas mourir.\fPas comme ça... !",
   "src": "pinky"
  },
  {
   "ctx": "ST4100BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger",
   "en": "Why! When I've made it this far...\nJeanne, forgive me...",
-  "fr": "Pourquoi ! Après\nêtre arrivé\fjusqu'ici...\fJeanne,\npardonne-moi...",
+  "fr": "Pourquoi !\nAprès être arrivé jusqu'ici...\fJeanne, pardonne-moi...",
   "src": "pinky"
  },
  {
   "ctx": "ST4100BT",
-  "max": 16,
+  "max": 34,
   "who": "Roger",
   "en": "Jeanne...the rest is in your hands.",
-  "fr": "Jeanne... Le destin\ndu monde est entre\ftes mains...",
+  "fr": "Jeanne... Le destin du monde est\nentre tes mains...",
   "src": "pinky"
  },
  {
   "ctx": "ST4100BT",
-  "max": 16,
+  "max": 34,
   "who": "La Hire",
   "en": "Grrrar! La Hire was so close!\nYou must...forrrgive him...",
-  "fr": "Grrar ! La Hire\nallait y arriver !\fTu dois... lui\nparrdonner !",
+  "fr": "Grrar ! La Hire allait y arriver !\nTu dois... lui parrdonner !",
   "src": "pinky"
  },
  {
   "ctx": "ST4100BT",
-  "max": 16,
+  "max": 34,
   "who": "Richard",
   "en": "Argh! Mortal means...have proven\ninadequate...",
-  "fr": "Argh ! Les mortels\nne sont... pas de\ftaille...",
+  "fr": "Argh ! Les mortels ne sont...\npas de taille...",
   "src": "pinky"
  },
  {
   "ctx": "ST4100BT",
-  "max": 16,
+  "max": 34,
   "who": "Cuisses",
   "en": "Coa? Coa coa coa? Coaaa...",
-  "fr": "Coa ? Coa coa coa ?\nCoaaa...",
+  "fr": "Coa ? Coa coa coa ? Coaaa...",
   "src": "pinky"
  },
  {

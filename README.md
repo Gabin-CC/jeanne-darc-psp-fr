@@ -57,7 +57,7 @@ Les textures elles aussi sont traduites — exemple avec une page d'aide (en hau
    - en ligne, sans installation : [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) ;
    - Windows : *xdelta UI* ou *Delta Patcher* ;
    - ligne de commande : `xdelta3 -d -s "Jeanne d'Arc (USA).iso" Jeanne_dArc_FR.xdelta "Jeanne d'Arc (FR).iso"`
-4. Vérifiez le résultat — MD5 de l'ISO français : `aeac42555e354f46b88c9e84d0ad664d` (v2.0.2).
+4. Vérifiez le résultat — MD5 de l'ISO français : `1a1a15a04757ee9daf3e20cb5780ac3c` (v2.0.3).
 
 Compatible **PPSSPP** et **PSP avec custom firmware** (l'exécutable est fourni déchiffré).
 
