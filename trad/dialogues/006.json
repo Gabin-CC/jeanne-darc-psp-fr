@@ -12,7 +12,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Time for the war council.",
-  "fr": "C'est l'heure du conseil de\nguerre.",
+  "fr": "C'est l'heure du conseil de guerre.",
   "src": "pinky"
  },
  {
@@ -20,7 +20,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I'm sorry.\nWe can talk later.",
-  "fr": "Désolée. Nous en reparlerons plus\ntard.",
+  "fr": "Désolée.\nNous en reparlerons plus tard.",
   "src": "pinky",
   "relu": true
  },
@@ -45,7 +45,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "You over there.\nAre you hard of hearing?",
-  "fr": "Vous là-bas. N'avez-vous pas\nentendu ?",
+  "fr": "Vous là-bas.\nN'avez-vous pas entendu ?",
   "src": "pinky"
  },
  {
@@ -109,7 +109,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "Hmm, drawn-out campaigns are\nfor little babies!",
-  "fr": "Hmm, les campagnes\ninterminables\fc'est pour les fiottes !",
+  "fr": "Hmm,\fles campagnes interminables c'est\npour les fiottes !",
   "src": "pinky"
  },
  {
@@ -165,7 +165,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "Rrrah! You will know, La Hire\nis not the only one ready to die!",
-  "fr": "Rrrah ! Vous verrez, La Hire\nn'est pas le seul\fà être prêt à mourir !",
+  "fr": "Rrrah ! Vous verrez, La Hire n'est\npas le seul à être prêt à mourir !",
   "src": "pinky"
  },
  {
@@ -189,7 +189,7 @@
   "max": 34,
   "who": "Young Noble",
   "en": "Well, you two can keep your\nprimal instincts, thank you kindly.",
-  "fr": "Eh bien, vous deux pouvez\ngarder vos instincts primaires,\fmerci bien.",
+  "fr": "Eh bien, vous deux pouvez garder\nvos instincts primaires, merci bien.",
   "src": "pinky"
  },
  {
@@ -222,7 +222,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "I can see no harm in taking Saint\nLoup out of the picture forthwith.",
-  "fr": "Je ne vois aucun inconvénient à\nprendre Saint Loup\fpour commencer.",
+  "fr": "Je ne vois aucun inconvénient à\nprendre Saint Loup pour\fcommencer.",
   "src": "pinky"
  },
  {
@@ -254,7 +254,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Tomorrow we march on Saint\nLoup.",
-  "fr": "Demain nous marchons sur\nSaint Loup.",
+  "fr": "Demain nous marchons sur Saint\nLoup.",
   "src": "pinky"
  },
  {
@@ -270,7 +270,7 @@
   "max": 34,
   "who": "Glasdale",
   "en": "...The whole reason they were\nable to break the siege was\\u2014",
-  "fr": "... S'ils ont pu briser le siège,\nc'est parce que...",
+  "fr": "... S'ils ont pu briser le siège, c'est\nparce que...",
   "src": "pinky"
  },
  {
@@ -278,7 +278,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "So sorry to intrude on such a\nvigorous discussion.",
-  "fr": "Désolé de faire irruption au\nmilieu de votre discussion.",
+  "fr": "Désolé de faire irruption au milieu\nde votre discussion.",
   "src": "pinky"
  },
  {
@@ -286,7 +286,7 @@
   "max": 34,
   "who": "Glasdale",
   "en": "Captain Talbot!\nTo what do I owe this...honor?",
-  "fr": "Capitaine Talbot ! Que me vaut\ncet... honneur ?",
+  "fr": "Capitaine Talbot !\nQue me vaut cet... honneur ?",
   "src": "pinky"
  },
  {
@@ -302,7 +302,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "I heard you let the enemy into\nOrléans, William.",
-  "fr": "J'ai appris que vous aviez laissé\nrentrer les ennemis\fdans Orléans, William.",
+  "fr": "J'ai appris que vous aviez laissé\nrentrer les ennemis dans Orléans,\fWilliam.",
   "src": "pinky"
  },
  {
@@ -318,7 +318,7 @@
   "max": 34,
   "who": "Glasdale",
   "en": "Now if you'd kindly leave so we\ncan finish our council\\u2014",
-  "fr": "Maintenant si vous voulez bien\nnous excuser, \fnous avons un conseil de guerre\nà terminer.",
+  "fr": "Maintenant si vous voulez bien\nnous excuser,\fnous avons un conseil de guerre à\nterminer.",
   "src": "pinky"
  },
  {
@@ -334,7 +334,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "have requested my \"pack of\ndemons\" come to your army's\nassistance.",
-  "fr": "ont requis ma \"bande de\ndémons\" pour venir en aide\fà votre armée.",
+  "fr": "ont requis ma \"bande de démons\"\npour venir en aide à votre armée.",
   "src": "pinky"
  },
  {
@@ -350,7 +350,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "I know your enemy better than\nyou.",
-  "fr": "Je connais vos ennemis mieux\nque vous.",
+  "fr": "Je connais vos ennemis mieux que\nvous.",
   "src": "pinky",
   "relu": true
  },
@@ -359,7 +359,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "The harlot who sent your men\nrunning defies conventional logic.",
-  "fr": "La catin qui a envoyé vos\nhommes promener\fdéfie toute logique.",
+  "fr": "La catin qui a envoyé vos hommes\npromener défie toute logique.",
   "src": "pinky"
  },
  {
@@ -375,7 +375,7 @@
   "max": 34,
   "who": "Glasdale",
   "en": "You don't honestly believe all\nthat bollocks about a \"savior\"?",
-  "fr": "Vous ne croyez tout de même\npas à toutes ces conneries\fsur le \"sauveur\" ?",
+  "fr": "Vous ne croyez tout de même pas\nà toutes ces conneries sur le\f\"sauveur\" ?",
   "src": "pinky"
  },
  {
@@ -400,7 +400,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Mmm... What, Roger?\nWhat is it...",
-  "fr": "Mmm... Quoi, Roger ?\nQu'y a-t-il...",
+  "fr": "Mmm... Quoi, Roger ? Qu'y a-t-il...",
   "src": "pinky"
  },
  {
@@ -424,7 +424,7 @@
   "max": 34,
   "who": "Roger",
   "en": "He's the one who told me what\nhappened this morning.",
-  "fr": "C'est lui qui m'a dit ce qui\ns'est passé ce matin.",
+  "fr": "C'est lui qui m'a dit ce qui s'est\npassé ce matin.",
   "src": "pinky",
   "relu": true
  },
@@ -449,7 +449,7 @@
   "max": 34,
   "who": "Beast Warrior",
   "en": "Ry'm r-r-ready to ray down my\nrife, Pucelle\\u2014r'if you ask\nme to!",
-  "fr": "Je suis prêt à sacrifier ma\nvie pour vous, Pucelle,\fsi vous me le demandez !",
+  "fr": "Je suis prêt à sacrifier ma vie pour\nvous, Pucelle,\fsi vous me le demandez !",
   "src": "pinky"
  },
  {
@@ -482,7 +482,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Don't EVER talk about throwing\nyour life away!",
-  "fr": "Ne parle PLUS JAMAIS de\nsacrifier ta vie !",
+  "fr": "Ne parle PLUS JAMAIS de sacrifier\nta vie !",
   "src": "pinky"
  },
  {
@@ -540,7 +540,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "Gilles isn't to blame, Général.",
-  "fr": "Gilles n'est pas à blâmer,\nGénéral.",
+  "fr": "Gilles n'est pas à blâmer, Général.",
   "src": "pinky"
  },
  {
@@ -548,7 +548,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "Trust La Hire, it was them that \nstarted this brrrouhaha.",
-  "fr": "Crois La Hire, ce sont eux qui\nont commencé ce brrrouhaha.",
+  "fr": "Crois La Hire, ce sont eux qui ont\ncommencé ce brrrouhaha.",
   "src": "pinky"
  },
  {
@@ -580,7 +580,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "You resorted to THIS, just so \nyou could avoid fighting with me?!",
-  "fr": "Vous avez eu recours à ÇA, juste\npour ne pas avoir à vous battre\favec moi ?!",
+  "fr": "Vous avez eu recours à ÇA,\fjuste pour ne pas avoir à vous\nbattre avec moi ?!",
   "src": "pinky"
  },
  {
@@ -588,7 +588,7 @@
   "max": 34,
   "who": "Young Noble",
   "en": "Oh, hush up! Why should we wait\nfor the likes of you?",
-  "fr": "Oh, taisez-vous ! Pourquoi\naurions-nous dû attendre\fquelqu'un comme vous ?",
+  "fr": "Oh, taisez-vous !\fPourquoi aurions-nous dû\nattendre quelqu'un comme vous ?",
   "src": "pinky"
  },
  {
@@ -919,7 +919,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Relax. It's just cannon fire, \nto celebrate.",
-  "fr": "Du calme. C'est juste un coup de\ncanon, \fpour célébrer la victoire.",
+  "fr": "Du calme. C'est juste un coup de\ncanon, pour célébrer la victoire.",
   "src": "pinky"
  },
  {
@@ -927,7 +927,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Normally firing honors belong \nto the commander...\fbut it would appear La Hire \ncould not wait.",
-  "fr": "Habituellement les coups de\ncanon reviennent \fau commandant... \fMais il semblerait que La Hire\nn'ait pas pu attendre.",
+  "fr": "Habituellement les coups de\ncanon reviennent au\fcommandant...\fMais il semblerait que La Hire n'ait\npas pu attendre.",
   "src": "pinky"
  },
  {
@@ -975,7 +975,7 @@
   "max": 34,
   "who": "Glasdale",
   "en": "Spare me your gibes, prithee.\fThese repeated losses torment \nme enough.",
-  "fr": "Épargnez-moi vos railleries,\npitié. Ces défaites \fà répétition me tracassent\nsuffisamment.",
+  "fr": "Épargnez-moi vos railleries, pitié.\fCes défaites à répétition me\ntracassent suffisamment.",
   "src": "pinky",
   "relu": true
  },
@@ -984,7 +984,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "...My, you seem to be taking \nthis all rather hard.",
-  "fr": "... Mon cher, vous semblez\nprendre cela trop à coeur.",
+  "fr": "... Mon cher, vous semblez prendre\ncela trop à coeur.",
   "src": "pinky"
  },
  {
@@ -1001,7 +1001,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "If you just want to feign guilt, \nthen do it elsewhere.\fYou and your put-on penitence \nhave no place on the battlefield.",
-  "fr": "Si vous voulez juste feindre la\nculpabilité,\falors faites-le ailleurs. Vous et\nvotre repentance\fn'avez pas votre place sur le champ\nde bataille.",
+  "fr": "Si vous voulez juste feindre la\nculpabilité, alors faites-le ailleurs.\fVous et votre repentance n'avez\npas votre place sur le champ de\fbataille.",
   "src": "pinky",
   "relu": true
  },
@@ -1018,7 +1018,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "You can kill England with your \nchoices, or you can save it.",
-  "fr": "Vous pouvez détruire\nl'Angleterre par vos choix,\fou la sauver.",
+  "fr": "Vous pouvez détruire l'Angleterre\npar vos choix, ou la sauver.",
   "src": "pinky"
  },
  {
@@ -1026,7 +1026,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "And every time you fail to grasp \nthat duty, another hundred,\fanother thousand soldiers \nforfeit their lives.",
-  "fr": "Et à chaque fois que vous\néchouez dans votre devoir, \fune autre centaine, un autre\nmillier de soldats perdent la vie.",
+  "fr": "Et à chaque fois que vous échouez\ndans votre devoir,\fune autre centaine, un autre\nmillier de soldats perdent la vie.",
   "src": "pinky"
  },
  {
@@ -1034,7 +1034,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "Perhaps you should start following\nthe frogs' example, and pray.",
-  "fr": "Peut-être devriez-vous\ncommencer à prendre\fexemple sur les \"grenouilles\", et\nprier.",
+  "fr": "Peut-être devriez-vous\ncommencer à prendre exemple\fsur les \"grenouilles\", et prier.",
   "src": "pinky"
  },
  {
@@ -1082,7 +1082,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "La Hire has brought you the \nphysician!",
-  "fr": "La Hire vous a ramené\nle docteur !",
+  "fr": "La Hire vous a ramené le docteur !",
   "src": "pinky"
  },
  {
@@ -1098,7 +1098,7 @@
   "max": 34,
   "who": "Physician",
   "en": "Hmm...\nHer life is in peril.",
-  "fr": "Hmm... Son pronostic vital est\nengagé.",
+  "fr": "Hmm...\nSon pronostic vital est engagé.",
   "src": "pinky"
  },
  {
@@ -1106,7 +1106,7 @@
   "max": 34,
   "who": "Physician",
   "en": "She needs be taken someplace \nshe can rest and receive proper \ncare.",
-  "fr": "Elle a besoin d'être emmenée\ndans un endroit où elle pourra\fse reposer et avoir des soins.",
+  "fr": "Elle a besoin d'être emmenée dans\nun endroit où elle pourra se\freposer et avoir des soins.",
   "src": "pinky"
  },
  {
@@ -1114,7 +1114,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "How can such a thing be done \nwith a war rrraging outside!",
-  "fr": "Comment faire alors que la\nguerre fait rage à l'extérieur !",
+  "fr": "Comment faire alors que la guerre\nfait rage à l'extérieur !",
   "src": "pinky"
  },
  {
@@ -1187,7 +1187,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "My frrriend, what is wrong?!",
-  "fr": "Mon ami, qu'est-ce qui ne va\npas ?!",
+  "fr": "Mon ami, qu'est-ce qui ne va pas ?!",
   "src": "pinky"
  },
  {
@@ -1211,7 +1211,7 @@
   "max": 34,
   "who": "Marcel",
   "en": "Hey, um... Jeannette is going \nto pull through...right?",
-  "fr": "Hey, um... Jeannette va s'en\ntirer... hein ?",
+  "fr": "Hey, um... Jeannette va s'en tirer...\nhein ?",
   "src": "pinky"
  },
  {
@@ -1243,7 +1243,7 @@
   "max": 34,
   "who": "Young Noble",
   "en": "Why did she have to be so \nreckless?",
-  "fr": "Pourquoi a-t-il fallu qu'elle ait\nfait preuve\fde tant d'imprudence ?",
+  "fr": "Pourquoi a-t-il fallu qu'elle ait\nfait preuve de tant d'imprudence ?",
   "src": "pinky"
  },
  {
@@ -1275,7 +1275,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "...I'm sorry.\nI shouldn't have been so rash.",
-  "fr": "... Je suis désolée.\fJe n'aurais pas dû être\nautant téméraire.",
+  "fr": "... Je suis désolée. Je n'aurais pas dû\nêtre autant téméraire.",
   "src": "pinky"
  },
  {
@@ -1299,7 +1299,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I'm fine. It's strange...there's\nnot a mark left on my body.",
-  "fr": "Je vais bien. C'est étrange... Il n'y\na plus une seule marque\fde blessure sur mon corps.",
+  "fr": "Je vais bien. C'est étrange...\fIl n'y a plus une seule marque de\nblessure sur mon corps.",
   "src": "pinky"
  },
  {
@@ -1356,7 +1356,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "The général is safe. La Hire will \ntake his blessings as they come.",
-  "fr": "Le général est sauvé. La Hire\nprendra ces bénédictions\fcomme elles arrivent.",
+  "fr": "Le général est sauvé.\fLa Hire prendra ces bénédictions\ncomme elles arrivent.",
   "src": "pinky"
  },
  {
@@ -1372,7 +1372,7 @@
   "max": 34,
   "who": "Roger",
   "en": "...Thanks.\nTake care of Jeanne, all right?",
-  "fr": "... Merci. Prends soin de Jeanne,\nd'accord ?",
+  "fr": "... Merci.\nPrends soin de Jeanne, d'accord ?",
   "src": "pinky"
  },
  {
@@ -1404,7 +1404,7 @@
   "max": 34,
   "who": "",
   "en": "Liane and Roger leave your\nranks for the time being.",
-  "fr": "Liane et Roger quittent vos\nrangs.",
+  "fr": "Liane et Roger quittent vos rangs.",
   "src": "pinky"
  },
  {
@@ -1452,7 +1452,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "What manner of monster...\fSo help me, this time I'll choke\nthe life out of her for good!",
-  "fr": "Quelle sorte de monstre...\fAide-moi, cette fois je lui ôterai\nsa vie pour de bon !",
+  "fr": "Quelle sorte de monstre...\fAide-moi, cette fois je lui ôterai sa\nvie pour de bon !",
   "src": "pinky",
   "relu": true
  },
@@ -1759,7 +1759,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Jeanne has Gilles and the rest\nto look after her.",
-  "fr": "Jeanne a Gilles et les autres\npour veiller sur elle.",
+  "fr": "Jeanne a Gilles et les autres pour\nveiller sur elle.",
   "src": "pinky"
  },
  {
@@ -1816,7 +1816,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "She's inside the Augustins,\ntalking strategy with the others.",
-  "fr": "Elle est aux Augustins, elle\nparle stratégie avec les autres.",
+  "fr": "Elle est aux Augustins, elle parle\nstratégie avec les autres.",
   "src": "pinky"
  },
  {
@@ -1848,7 +1848,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "which means you've naught to\nworry about.",
-  "fr": "ce qui signifie que tu n'as\nplus rien à craindre.",
+  "fr": "ce qui signifie que tu n'as plus rien\nà craindre.",
   "src": "pinky"
  },
  {
@@ -1856,7 +1856,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Besides, the troops are finally \nstarting to warm to her cause.",
-  "fr": "De plus, les troupes ont\nfinalement commencé\fà se rallier à sa cause.",
+  "fr": "De plus,\fles troupes ont finalement\ncommencé à se rallier à sa cause.",
   "src": "pinky",
   "relu": true
  },
@@ -1874,7 +1874,7 @@
   "max": 34,
   "who": "Roger",
   "en": "I'm not talking about your \ngoddamned war!",
-  "fr": "Je ne parle pas de votre\nsatanée guerre !",
+  "fr": "Je ne parle pas de votre satanée\nguerre !",
   "src": "pinky"
  },
  {
@@ -1890,7 +1890,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Just some pawn you're using to\nwin the war, right?",
-  "fr": "Elle n'est qu'un pion pour\ngagner la guerre, non ?",
+  "fr": "Elle n'est qu'un pion pour gagner\nla guerre, non ?",
   "src": "pinky"
  },
  {
@@ -1914,7 +1914,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "We're only here fighting because \nJeanne is here, fighting.",
-  "fr": "Nous sommes là pour nous\nbattre car Jeanne est là,\fà se battre.",
+  "fr": "Nous sommes là pour nous battre\ncar Jeanne est là, à se battre.",
   "src": "pinky"
  },
  {
@@ -1922,7 +1922,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "If you're worried, then go to her.\nShe's waiting at the fort.",
-  "fr": "Si vous êtes inquiet, allez la\nvoir.\fElle attend au fort.",
+  "fr": "Si vous êtes inquiet, allez la voir.\nElle attend au fort.",
   "src": "pinky"
  },
  {
@@ -1986,7 +1986,7 @@
   "max": 34,
   "who": "Glasdale",
   "en": "...Be my guest. But I think I \nshall miss your sour grapes more\nthan your dour japes.",
-  "fr": "... Comme vous voudrez. Mais je\npense que votre aigreur\fme manquera plus que votre\nhumour acide.",
+  "fr": "... Comme vous voudrez.\fMais je pense que votre aigreur me\nmanquera plus que votre humour\facide.",
   "src": "pinky"
  },
  {

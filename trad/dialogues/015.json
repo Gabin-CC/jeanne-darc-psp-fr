@@ -76,7 +76,7 @@
   "max": 34,
   "who": "",
   "en": "To Rouen! We must save Liane!",
-  "fr": "À Rouen ! Nous devons sauver Liane !",
+  "fr": "À Rouen !\nNous devons sauver Liane !",
   "src": "pinky"
  },
  {
@@ -84,7 +84,7 @@
   "max": 34,
   "who": "Blaze",
   "en": "Urrrg...\nIt's...over.",
-  "fr": "Urrrg...\nC'est... fini.",
+  "fr": "Urrrg... C'est... fini.",
   "src": "pinky"
  },
  {
@@ -116,7 +116,7 @@
   "max": 34,
   "who": "Blaze",
   "en": "I have a question...for you,\nLa Hire.",
-  "fr": "J'ai une question... Pour toi,\nLa Hire.",
+  "fr": "J'ai une question...\nPour toi, La Hire.",
   "src": "pinky"
  },
  {
@@ -132,7 +132,7 @@
   "max": 34,
   "who": "Blaze",
   "en": "Do you still have the same\ndream?",
-  "fr": "Fais-tu toujours le même\nrêve ?",
+  "fr": "Fais-tu toujours le même rêve ?",
   "src": "pinky"
  },
  {
@@ -140,7 +140,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "What? La Hire does not\nunderstand your question.",
-  "fr": "Quoi ? La Hire ne comprend\npas ta question.",
+  "fr": "Quoi ? La Hire ne comprend pas ta\nquestion.",
   "src": "pinky"
  },
  {
@@ -180,7 +180,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "La Hire knows you!\nYou are Blaze!",
-  "fr": "La Hire te connaît !\nTu es Blaze !",
+  "fr": "La Hire te connaît ! Tu es Blaze !",
   "src": "pinky"
  },
  {
@@ -196,7 +196,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "Blaze...\nHow can this be...",
-  "fr": "Blaze...\nComment se peut-il...",
+  "fr": "Blaze... Comment se peut-il...",
   "src": "pinky"
  },
  {
@@ -204,7 +204,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "Blaze! You will tell La Hire\nwhat made you like...like this.",
-  "fr": "Blaze ! Tu dois raconter à La\nHire ce qui t'a rendu...\f... rendu ainsi.",
+  "fr": "Blaze ! Tu dois raconter à La Hire\nce qui t'a rendu... ... rendu ainsi.",
   "src": "pinky"
  },
  {
@@ -228,7 +228,7 @@
   "max": 34,
   "who": "Blaze",
   "en": "You have found good friends;\na good leader...",
-  "fr": "Tu as trouvé des amis loyaux,\nun bon leader...",
+  "fr": "Tu as trouvé des amis loyaux, un\nbon leader...",
   "src": "pinky"
  },
  {
@@ -236,7 +236,7 @@
   "max": 34,
   "who": "Blaze",
   "en": "while we have only worn\nourselves thin...",
-  "fr": "alors que nous n'avons gagné\nque le poids des années...",
+  "fr": "alors que nous n'avons gagné que\nle poids des années...",
   "src": "pinky"
  },
  {
@@ -268,7 +268,7 @@
   "max": 34,
   "who": "",
   "en": "<COL=7>\"Then he will protect Mawra,\nand Blaze, and all his frrriends!\"",
-  "fr": "<COL=7>\"Alors il protègera Mawra,\net Blaze, et tous ses amis !\"",
+  "fr": "<COL=7>\"Alors il protègera Mawra, et\nBlaze, et tous ses amis !\"",
   "src": "pinky"
  },
  {
@@ -276,7 +276,7 @@
   "max": 34,
   "who": "",
   "en": "At Gilles's behest, head for Richemont Castle.",
-  "fr": "À la demande de Gilles, direction le\nchâteau de Richemont.",
+  "fr": "À la demande de Gilles, direction\nle château de Richemont.",
   "src": "pinky"
  },
  {
@@ -308,7 +308,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Huff, huff...\nUnnh...",
-  "fr": "Huff, huff...\nUnnh...",
+  "fr": "Huff, huff... Unnh...",
   "src": "pinky"
  },
  {
@@ -316,7 +316,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Ahh... L-Liane!\fNo...\nOh, no, no...",
-  "fr": "Ahh... L-Liane !\fNon...\nOh, non, non...",
+  "fr": "Ahh... L-Liane !\fNon... Oh, non, non...",
   "src": "pinky"
  },
  {
@@ -364,7 +364,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "Wh...what has happened to the\nman-cub?",
-  "fr": "Que... qu'est-il arrivé au\npetit homme?",
+  "fr": "Que...\nqu'est-il arrivé au petit homme?",
   "src": "pinky"
  },
  {
@@ -389,7 +389,7 @@
   "max": 34,
   "who": "Richard",
   "en": "That thing...\nIt might be...a reaper...",
-  "fr": "Cette chose...\nCe doit être... un moissonneur...",
+  "fr": "Cette chose... Ce doit être...\nun moissonneur...",
   "src": "pinky",
   "relu": true
  },
@@ -433,7 +433,7 @@
   "max": 34,
   "who": "Richard",
   "en": "that Roger is...is gone for good.",
-  "fr": "que Roger soit... soit parti pour\nde bon.",
+  "fr": "que Roger soit...\nsoit parti pour de bon.",
   "src": "pinky"
  },
  {
@@ -441,7 +441,7 @@
   "max": 34,
   "who": "",
   "en": "Ur...uRGAAAaaah...\naHH...aaaaaaAAAhhh!",
-  "fr": "Ur... uRGAAAaaah...\naHH... aaaaaaAAAhhh !",
+  "fr": "Ur... uRGAAAaaah... aHH...\naaaaaaAAAhhh !",
   "src": "pinky"
  },
  {
@@ -473,7 +473,7 @@
   "max": 34,
   "who": "Roger",
   "en": "yES, yOU sAW iT...\n...tHE gIRL iS dEAD...\fjEANNE kILLED hER...",
-  "fr": "oUI, Tu l'AS Vu...\n... lA FilLE esT MORte...\fjEANNE l'A\nTUée...",
+  "fr": "oUI, Tu l'AS Vu... ...\nlA FilLE esT MORte...\fjEANNE l'A TUée...",
   "src": "pinky"
  },
  {
@@ -481,7 +481,7 @@
   "max": 34,
   "who": "Roger",
   "en": "I did see...\nAll of it...Jeanne's fault...",
-  "fr": "J'ai vu... Tout ça... c'est de la\nfaute de Jeanne...",
+  "fr": "J'ai vu... Tout ça...\nc'est de la faute de Jeanne...",
   "src": "pinky"
  },
  {
@@ -514,7 +514,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "He should have tried to rescue\nthe girl-child sooner...",
-  "fr": "Il aurait dû essayer de sauver\nla demoiselle plus tôt...",
+  "fr": "Il aurait dû essayer de sauver la\ndemoiselle plus tôt...",
   "src": "pinky"
  },
  {
@@ -522,7 +522,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "No, it's all my fault.\nI only cared about France\\u2014",
-  "fr": "Non, tout est de ma faute.\fJe ne me suis souciée que de la\nFrance...",
+  "fr": "Non, tout est de ma faute. Je ne\nme suis souciée que de la France...",
   "src": "pinky"
  },
  {
@@ -579,7 +579,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "Huh?\nWhat's this doing on my leg?",
-  "fr": "Huh ?\fQu'est-ce que ça fait sur ma\njambe ?",
+  "fr": "Huh ? Qu'est-ce que ça fait sur ma\njambe ?",
   "src": "pinky"
  },
  {
@@ -635,7 +635,7 @@
   "max": 34,
   "who": "Roger",
   "en": "And tell the claw that feeds\nyou that I owe him nothing.",
-  "fr": "Et dis aux griffes qui te\nnourrissent\fque je ne lui dois rien.",
+  "fr": "Et dis aux griffes qui te\nnourrissent que je ne lui dois rien.",
   "src": "pinky"
  },
  {
@@ -643,7 +643,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Oh, goody.\nYou're back!",
-  "fr": "Oh, chic.\nVous êtes de retour !",
+  "fr": "Oh, chic. Vous êtes de retour !",
   "src": "pinky"
  },
  {
@@ -651,7 +651,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "What what what? He's woken the\nreaper? Oh, do tell!",
-  "fr": "Quoi quoi quoi ? Il a réveillé\nle moissonneur ? Oh, raconte !",
+  "fr": "Quoi quoi quoi ? Il a réveillé le\nmoissonneur ? Oh, raconte !",
   "src": "pinky",
   "relu": true
  },
@@ -684,7 +684,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "No matter. Live and let live...\nAnd, let destroy! Uwee hee...",
-  "fr": "Peu importe. Vivre et laisser\nvivre...\fEt détruire ! Uwii hii...",
+  "fr": "Peu importe. Vivre et laisser\nvivre... Et détruire ! Uwii hii...",
   "src": "pinky"
  },
  {
@@ -700,7 +700,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "Yes, but...but after its previous\nowner died of illness,\fit was put out of sight for a time.",
-  "fr": "Oui, mais... mais quand son\ndernier porteur est mort\fsuite à une maladie, sa trace a\nété perdue.",
+  "fr": "Oui, mais...\fmais quand son dernier porteur\nest mort suite à une maladie,\fsa trace a été perdue.",
   "src": "pinky"
  },
  {
@@ -716,7 +716,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "To those woods in the frontier,\nyou mean.\fSo when did you turn into a\ntoad?",
-  "fr": "Vers ces bois à la frontière,\ntu veux dire.\fAlors quand as-tu été changé en\ngrenouille ?",
+  "fr": "Vers ces bois à la frontière, tu\nveux dire.\fAlors quand as-tu été changé en\ngrenouille ?",
   "src": "pinky"
  },
  {
@@ -732,7 +732,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "I was like this when I came to\nmy senses.",
-  "fr": "J'étais comme ça quand j'ai\nrepris mes esprits.",
+  "fr": "J'étais comme ça quand j'ai repris\nmes esprits.",
   "src": "pinky"
  },
  {
@@ -748,7 +748,7 @@
   "max": 34,
   "who": "Colet",
   "en": "Why would some noble...\fsuddenly \"poof!\" turn eento food,\neh?",
-  "fr": "Pourquoi quelqu'un serait...\fsoudainement \"pouf !\"\nchangé en nourriture, hein ?",
+  "fr": "Pourquoi quelqu'un serait...\fsoudainement \"pouf !\nchangé en nourriture, hein ?",
   "src": "pinky"
  },
  {
@@ -772,7 +772,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "But Luther did tell me stories\nwhile I was hiding in the woods.\fLots of them!",
-  "fr": "Mais Luther m'a raconté\nbeaucoup d'histoires\fpendant que j'étais caché dans\nles bois. Beaucoup !",
+  "fr": "Mais Luther m'a raconté beaucoup\nd'histoires pendant que j'étais\fcaché dans les bois.\fBeaucoup !",
   "src": "pinky"
  },
  {
@@ -780,7 +780,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "Take this \"Fiend\" character\nthat Luther defeated during\nthe War of the Reapers.",
-  "fr": "Prenez ce personnage\n\"Démoniaque\" \fque Luther a battu pendant\nla Guerre des moissonneurs.",
+  "fr": "Prenez ce personnage\n\"Démoniaque\" que Luther a battu\fpendant la Guerre des\nmoissonneurs.",
   "src": "pinky",
   "relu": true
  },
@@ -789,7 +789,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "Well, supposedly he's found his\nway back into our world.",
-  "fr": "Eh bien, soi-disant qu'il aurait\ntrouvé le moyen de revenir\fdans notre monde.",
+  "fr": "Eh bien,\fsoi-disant qu'il aurait trouvé le\nmoyen de revenir dans notre\fmonde.",
   "src": "pinky",
   "relu": true
  },
@@ -838,7 +838,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "his reaper servants are\nawakening, one by one.",
-  "fr": "Ses serviteurs les moissonneurs\nse réveillent,\fles uns après les autres.",
+  "fr": "Ses serviteurs les moissonneurs se\nréveillent, les uns après les autres.",
   "src": "pinky",
   "relu": true
  },
@@ -855,7 +855,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "Yes. One of the reapers was\nsleeping inside him all the while.",
-  "fr": "Oui. Un des moissonneurs était\nendormi en lui \fpendant tout ce temps.",
+  "fr": "Oui.\fUn des moissonneurs était\nendormi en lui pendant tout ce\ftemps.",
   "src": "pinky",
   "relu": true
  },
@@ -864,7 +864,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "The others sleep inside France's\nnobility and other powerful folk.",
-  "fr": "Les autres sommeillent dans des\nnobles français \fet d'autres personnalités\ninfluentes.",
+  "fr": "Les autres sommeillent dans des\nnobles français et d'autres\fpersonnalités influentes.",
   "src": "pinky",
   "relu": true
  },
@@ -873,7 +873,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "What?!\nThen King Charles is in peril!",
-  "fr": "Quoi ?! Alors le Roi Charles est\nen danger !",
+  "fr": "Quoi ?!\nAlors le Roi Charles est en danger !",
   "src": "pinky"
  },
  {
@@ -881,7 +881,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "Yes\\u2014and the Fiend himself,\fhe sleeps within none other\nthan Henry VI!",
-  "fr": "Oui... et le Démon en\npersonne est endormi\fdans le corps de Henry VI\nlui-même !",
+  "fr": "Oui...\fet le Démon en personne est\nendormi dans le corps de Henry VI\flui-même !",
   "src": "pinky"
  },
  {
@@ -897,7 +897,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "Only the armlets' holy power can\ndefeat the reapers\\u2014",
-  "fr": "Seul le saint pouvoir des\nbracelets\fpeut détruire les moissonneurs...",
+  "fr": "Seul le saint pouvoir des bracelets\npeut détruire les moissonneurs...",
   "src": "pinky",
   "relu": true
  },
@@ -906,7 +906,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "so Luther has been busy looking\nfor them and their wielders.",
-  "fr": "ainsi Luther a été occupé à\nles chercher,\feux et leurs porteurs.",
+  "fr": "ainsi Luther a été occupé à les\nchercher, eux et leurs porteurs.",
   "src": "pinky"
  },
  {
@@ -947,7 +947,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "Gilles's; and yours, Richard;",
-  "fr": "celui de Gilles et le tien,\nRichard.",
+  "fr": "celui de Gilles et le tien, Richard.",
   "src": "pinky"
  },
  {
@@ -1021,7 +1021,7 @@
   "max": 34,
   "who": "",
   "en": "Cross the Cents-Abris Ruins to meet the Duke.",
-  "fr": "Traverser les ruines de Cents-Abris.",
+  "fr": "Traverser les ruines de\nCents-Abris.",
   "src": "pinky"
  },
  {
@@ -1093,7 +1093,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "Allow me to get straight to the\npoint:",
-  "fr": "Permettez-moi d'aller droit\nau but :",
+  "fr": "Permettez-moi d'aller droit au\nbut :",
   "src": "pinky"
  },
  {
@@ -1101,7 +1101,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "I wish to reassign you to a\nprivate guard under my command,",
-  "fr": "Je voudrais vous intégrer à une\ngarde privée directement\fsous mon commandement,",
+  "fr": "Je voudrais vous intégrer à une\ngarde privée directement sous\fmon commandement,",
   "src": "pinky"
  },
  {
@@ -1109,7 +1109,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "with the ultimate goal of ferreting\nthe reapers out of hiding.",
-  "fr": "dont le seul objectif est de\ntraquer les moissonneurs\foù qu'ils soient.",
+  "fr": "dont le seul objectif est de traquer\nles moissonneurs où qu'ils soient.",
   "src": "pinky",
   "relu": true
  },
@@ -1118,7 +1118,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "If the king thought relegating me\nto the middle of nowhere would",
-  "fr": "Si le Roi a cru que m'envoyer\nau milieu de nulle part allait",
+  "fr": "Si le Roi a cru que m'envoyer au\nmilieu de nulle part allait",
   "src": "pinky",
   "relu": true
  },
@@ -1127,7 +1127,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "somehow assuage my fears about\nFrance's future...he was wrong.",
-  "fr": "apaiser mes craintes pour\nl'avenir de la France...\fil se trompait.",
+  "fr": "apaiser mes craintes pour l'avenir\nde la France... il se trompait.",
   "src": "pinky"
  },
  {
@@ -1143,7 +1143,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "I need you all to act in his\nstead, as the arms of France.",
-  "fr": "J'ai besoin de vous tous pour\nagir à sa place,\fen tant que bras armés de la\nFrance.",
+  "fr": "J'ai besoin de vous tous pour agir à\nsa place,\fen tant que bras armés de la\nFrance.",
   "src": "pinky"
  },
  {
@@ -1175,7 +1175,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "Civil war in France needs to end\nif we are to oust the English.",
-  "fr": "La guerre civile en France doit\ncesser\fsi nous voulons bouter les\nAnglais.",
+  "fr": "La guerre civile en France doit\ncesser si nous voulons bouter les\fAnglais.",
   "src": "pinky",
   "relu": true
  },
@@ -1184,7 +1184,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "I need someone to persuade the\nDuke of Burgundy to end it.",
-  "fr": "J'ai besoin de quelqu'un pour\npersuader\fle Duc de Bourgogne d'y mettre\nun terme.",
+  "fr": "J'ai besoin de quelqu'un pour\npersuader le Duc de Bourgogne d'y\fmettre un terme.",
   "src": "pinky"
  },
  {
@@ -1298,7 +1298,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "Is La Hire the only one who\nthinks she stands out even more?",
-  "fr": "La Hire est le seul à penser\nqu'on la remarque encore plus\fcomme ça ?",
+  "fr": "La Hire est le seul à penser qu'on\nla remarque encore plus comme\fça ?",
   "src": "pinky",
   "relu": true
  },
@@ -1355,7 +1355,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "I'll be right there, fighting\nbeside you!",
-  "fr": "Je serai là, à combattre\nà tes côtés !",
+  "fr": "Je serai là, à combattre à tes\ncôtés !",
   "src": "pinky"
  },
  {
@@ -1396,7 +1396,7 @@
   "max": 34,
   "who": "Roger",
   "en": "...You changed your clothes. Is\nthat supposed to be a disguise?",
-  "fr": "Tu as changé de tenue. C'est\ncarnaval ?",
+  "fr": "Tu as changé de tenue.\nC'est carnaval ?",
   "src": "pinky"
  },
  {
@@ -1404,7 +1404,7 @@
   "max": 34,
   "who": "Roger",
   "en": "You'd do anything to keep\nyourself alive.",
-  "fr": "Tu ferais n'importe quoi\npour rester en vie.",
+  "fr": "Tu ferais n'importe quoi pour\nrester en vie.",
   "src": "pinky"
  },
  {
@@ -1429,7 +1429,7 @@
   "max": 34,
   "who": "Roger",
   "en": "I'm going to kill you.\nFor Liane.",
-  "fr": "Je vais te tuer.\nPour Liane.",
+  "fr": "Je vais te tuer. Pour Liane.",
   "src": "pinky"
  },
  {
@@ -1978,7 +1978,7 @@
   "max": 34,
   "who": "",
   "en": "Head for the Duke of Burgundy's castle.",
-  "fr": "En route pour le château du Duc de\nBourgogne.",
+  "fr": "En route pour le château du Duc\nde Bourgogne.",
   "src": "pinky"
  },
  {
@@ -2018,7 +2018,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Come on, Jeanne! We must hurry\nand see the Duke of Burgundy!",
-  "fr": "Allez, Jeanne !\fNous devons nous hâter, le Duc\nde Bourgogne nous attend !",
+  "fr": "Allez, Jeanne !\fNous devons nous hâter, le Duc de\nBourgogne nous attend !",
   "src": "pinky"
  },
  {

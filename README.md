@@ -57,7 +57,7 @@ Les textures elles aussi sont traduites — exemple avec une page d'aide (en hau
    - en ligne, sans installation : [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) ;
    - Windows : *xdelta UI* ou *Delta Patcher* ;
    - ligne de commande : `xdelta3 -d -s "Jeanne d'Arc (USA).iso" Jeanne_dArc_FR.xdelta "Jeanne d'Arc (FR).iso"`
-4. Vérifiez le résultat — MD5 de l'ISO français : `b7b196361adb5b5988e855a97ae82b3f` (v2.0.1).
+4. Vérifiez le résultat — MD5 de l'ISO français : `aeac42555e354f46b88c9e84d0ad664d` (v2.0.2).
 
 Compatible **PPSSPP** et **PSP avec custom firmware** (l'exécutable est fourni déchiffré).
 
@@ -111,7 +111,9 @@ trad/                  tout ce qui est traduit (c'est ici qu'on corrige)
   termes_logic.md      noms officiels des objets, sorts et compétences
 tools/
   build.py             construit l'ISO français (point d'entrée)
-  check_trad.py        vérifie longueurs de ligne, codes de contrôle, octets
+  check_trad.py        vérifie largeurs de ligne (en pixels), codes de contrôle, octets
+  mise_en_page.py      recoupe les boîtes de dialogue selon les règles ci-dessous
+  psp_font_widths.json largeur de chaque caractère dans la police du jeu (ltn5.pgf)
   iso_extract.py       extrait l'ISO US (nécessaire au build)
   import_equipe2013.py récupère les vidéos sous-titrées depuis les patchs 2013 de l'équipe
   iso_patch.py         réécriture de l'ISO + table FILEINFO.DAT du jeu
@@ -134,6 +136,13 @@ docs/                  images du README
 
 ### Notes techniques
 
+- Mise en page des boîtes de dialogue (mesurée en jeu) : 2 lignes de 326 px au plus dans la police
+  `ltn5` de la PSP ; au-delà, le moteur coupe la ligne en plein mot et envoie la 3e ligne dans une
+  nouvelle boîte. `tools/mise_en_page.py` applique les règles : lignes remplies avec des mots entiers,
+  changements de boîte de la VO conservés, une phrase qui ne tient pas dans la boîte en cours passe à
+  la suivante (une phrase trop longue est coupée après sa dernière virgule). Les bulles de combat ont
+  une largeur fixe (~200 px) et ne passent pas à la ligne d'elles-mêmes.
+
 - Les dialogues sont dans `EVENT/ST*.BIN` : en-tête, table d'offsets relatifs, bytecode, puis bloc de
   texte Latin-1. Les caractères hors Latin-1 (œ, —) passent par des échappements `\uXXXX` que le
   moteur interprète.
@@ -147,7 +156,7 @@ Les corrections sont les bienvenues (coquilles, tournures, débordements à l'é
 
 1. Modifiez le champ `fr` dans le fichier JSON concerné (ne touchez pas à `en`).
 2. Respectez [`trad/glossaire.md`](trad/glossaire.md) et conservez les codes `\n`, `\f`, `%d`, `\uXXXX`.
-3. Lancez `tools/check_trad.py` : il doit afficher 0 erreur.
+3. Lancez `tools/mise_en_page.py --apply` (recoupe les dialogues), puis `tools/check_trad.py` : il doit afficher 0 erreur.
 4. Ouvrez une *pull request*, idéalement avec une capture d'écran.
 
 Pour signaler un problème en jeu, ouvrez une *issue* avec une capture et le contexte (chapitre, scène).

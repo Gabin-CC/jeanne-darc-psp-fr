@@ -76,7 +76,7 @@
   "max": 34,
   "who": "Luther",
   "en": "...Ha ha ha, I fear I am no one\nnearly so spectacular as that.",
-  "fr": "... Ha ha ha, je crains de ne pas\nêtre aussi important que ça.",
+  "fr": "... Ha ha ha, je crains de ne pas être\naussi important que ça.",
   "src": "pinky"
  },
  {
@@ -84,7 +84,7 @@
   "max": 34,
   "who": "Luther",
   "en": "My name is Luther.\fIn times past, some knew me as\none of the heroes of the armlet.",
-  "fr": "Mon nom est Luther.\fJadis, j'étais considéré comme\nun des héros au bracelet.",
+  "fr": "Mon nom est Luther.\fJadis, j'étais considéré comme un\ndes héros au bracelet.",
   "src": "pinky"
  },
  {
@@ -141,7 +141,7 @@
   "max": 34,
   "who": "Luther",
   "en": "Do not be troubled.\fThe armlets had a purpose in\nguiding you here,\njust as they have a purpose for\nour meeting here.",
-  "fr": "Ne soyez pas troublée.\fLes bracelets avaient pour but\nde vous guider ici,\fpour que nous nous\nrencontrions ici.",
+  "fr": "Ne soyez pas troublée.\fLes bracelets avaient pour but de\nvous guider ici,\fpour que nous nous rencontrions\nici.",
   "src": "pinky"
  },
  {
@@ -149,7 +149,7 @@
   "max": 34,
   "who": "Luther",
   "en": "You must fight in my stead,\nJeanne;\fmy armlet wills that you wield it.",
-  "fr": "Vous devez combattre à ma\nplace, Jeanne;\fmon bracelet veut que vous le\nportiez.",
+  "fr": "Vous devez combattre à ma place,\nJeanne;\fmon bracelet veut que vous le\nportiez.",
   "src": "pinky"
  },
  {
@@ -165,7 +165,7 @@
   "max": 34,
   "who": "Luther",
   "en": "Yes; but, I cannot simply hand\nit over to you.",
-  "fr": "Oui, mais, j'étais dans\nl'impossibilité de vous\fle remettre.",
+  "fr": "Oui, mais, j'étais dans\nl'impossibilité de vous le remettre.",
   "src": "pinky"
  },
  {
@@ -181,7 +181,7 @@
   "max": 34,
   "who": "Luther",
   "en": "First, I shall grant you my\nstrength. Close your eyes...",
-  "fr": "D'abord, je dois vous faire don\nde ma force. Fermez les yeux...",
+  "fr": "D'abord, je dois vous faire don de\nma force. Fermez les yeux...",
   "src": "pinky"
  },
  {
@@ -205,7 +205,7 @@
   "max": 34,
   "who": "Colet",
   "en": "I have told you, ze explanation\neez seemple!\fRoger was a twaitor all along.\nEnd of story. C'est la vie.\fYou never know wheech apples\nare rotten at ze core.",
-  "fr": "Je te l'ai dit, l'explication\nest simple !\fRoger a toujours été un traître.\nFin de l'histoire. C'est la vie.\fC'est impossible de savoir à\nl'avance quelles pommes\fsont pourries à l'intérieur.",
+  "fr": "Je te l'ai dit, l'explication est\nsimple !\fRoger a toujours été un traître.\nFin de l'histoire. C'est la vie.\fC'est impossible de savoir à\nl'avance quelles pommes sont\fpourries à l'intérieur.",
   "src": "pinky"
  },
  {
@@ -213,7 +213,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "You will not jump to such \nconclusions, rrrar!",
-  "fr": "Tu ne devrais pas avancer\nde telles conclusions, rrrar !",
+  "fr": "Tu ne devrais pas avancer de\ntelles conclusions, rrrar !",
   "src": "pinky"
  },
  {
@@ -245,7 +245,7 @@
   "max": 34,
   "who": "Richard",
   "en": "We must focus on what to do\nabout Liane.",
-  "fr": "Recentrons-nous sur ce que\nnous devons faire de Liane.",
+  "fr": "Recentrons-nous sur ce que nous\ndevons faire de Liane.",
   "src": "pinky"
  },
  {
@@ -261,7 +261,7 @@
   "max": 34,
   "who": "Colet",
   "en": "All ze Burgundians want eez ze\nransom, non?",
-  "fr": "Tout ce que veulent les\nBourguignons\fc'est une rançon, non ?",
+  "fr": "Tout ce que veulent les\nBourguignons c'est une rançon,\fnon ?",
   "src": "pinky"
  },
  {
@@ -286,7 +286,7 @@
   "max": 34,
   "who": "Richard",
   "en": "Jeanne's existence has become \nintolerable to many of the nobles,\nto the point where they are ready\nto do away with her for good.",
-  "fr": "l'existence de Jeanne est devenue\ninsupportable pour beaucoup \fde nobles, à tel point qu'ils sont\nprêts à tout\fpour en finir avec elle pour de\nbon.",
+  "fr": "l'existence de Jeanne est devenue\ninsupportable pour beaucoup de\fnobles,\fà tel point qu'ils sont prêts à tout\npour en finir avec elle pour de\fbon.",
   "src": "pinky"
  },
  {
@@ -303,7 +303,7 @@
   "max": 34,
   "who": "Marcel",
   "en": "That's terrible!\fThe dauphin wouldn't even be\nking if it weren't for Jeannette!",
-  "fr": "C'est terrible !\fLe dauphin ne serait même pas\nroi sans l'aide de Jeannette !",
+  "fr": "C'est terrible !\fLe dauphin ne serait même pas roi\nsans l'aide de Jeannette !",
   "src": "pinky"
  },
  {
@@ -311,7 +311,7 @@
   "max": 34,
   "who": "Richard",
   "en": "In any case, we cannot look to\nthe king's court for support.\fWe must act on our own, and\nquickly.",
-  "fr": "Dans tous les cas, nous ne\npouvons chercher de l'aide\fdu côté de la cour royale.\fNous devons agir nous-mêmes et\nvite.",
+  "fr": "Dans tous les cas,\fnous ne pouvons chercher de\nl'aide du côté de la cour royale.\fNous devons agir nous-mêmes et\nvite.",
   "src": "pinky",
   "relu": true
  },
@@ -320,7 +320,7 @@
   "max": 34,
   "who": "Colet",
   "en": "Oui. She could be sold to ze\nEnglish at any time...",
-  "fr": "Oui. Elle pourrait être vendue\naux Anglais n'importe quand...",
+  "fr": "Oui. Elle pourrait être vendue aux\nAnglais n'importe quand...",
   "src": "pinky"
  },
  {
@@ -328,7 +328,7 @@
   "max": 34,
   "who": "Colet",
   "en": "eef such a twansaction has not\nalready occurred.",
-  "fr": "à moins bien sûr que la\ntransaction\fne se soit déjà produite.",
+  "fr": "à moins bien sûr que la\ntransaction ne se soit déjà\fproduite.",
   "src": "pinky",
   "relu": true
  },
@@ -361,7 +361,7 @@
   "max": 34,
   "who": "Gaoler",
   "en": "You best say yer prayers while\nye can still kneel, har har!",
-  "fr": "Tu ferais mieux de faire tes\nprières tant que tu peux\fencore ployer le genou,\nhar har !",
+  "fr": "Tu ferais mieux de faire tes prières\ntant que tu peux encore ployer le\fgenou, har har !",
   "src": "pinky",
   "relu": true
  },
@@ -370,7 +370,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Why me...\nWhat did I ever do...\fTell me, Jeanne...",
-  "fr": "Pourquoi moi...\nQu'ai-je donc fait...\fDis-le-moi, Jeanne...",
+  "fr": "Pourquoi moi... Qu'ai-je donc fait...\fDis-le-moi, Jeanne...",
   "src": "pinky",
   "relu": true
  },
@@ -387,7 +387,7 @@
   "max": 34,
   "who": "English Soldier",
   "en": "Ooh!\fI didn't know witches looked so\nfetchin' when they gots scared!",
-  "fr": "Ooh !\fJe ne savais pas que les\nsorcières étaient aussi\fravissantes quand elles avaient\npeur !",
+  "fr": "Ooh !\fJe ne savais pas que les sorcières\nétaient aussi ravissantes quand\felles avaient peur !",
   "src": "pinky"
  },
  {
@@ -395,7 +395,7 @@
   "max": 34,
   "who": "English Soldier",
   "en": "Hee haw! Let's 'ave a better\nlook at your face, witchy, eh?",
-  "fr": "Hi ha ! Laisse-nous\ncontempler de plus près\fton visage, sorcière !",
+  "fr": "Hi ha ! Laisse-nous contempler de\nplus près ton visage, sorcière !",
   "src": "pinky"
  },
  {
@@ -427,7 +427,7 @@
   "max": 34,
   "who": "Gaoler",
   "en": "Somebody's broken into the gaol! \nQuick, to the harlot's cell!",
-  "fr": "Quelqu'un s'est infiltré dans la\nprison ! \fVite, à la cellule de la putain !",
+  "fr": "Quelqu'un s'est infiltré dans la\nprison !\fVite, à la cellule de la putain !",
   "src": "pinky"
  },
  {
@@ -459,7 +459,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Jeanne!\nYou're alive!",
-  "fr": "Jeanne !\nTu es vivante !",
+  "fr": "Jeanne ! Tu es vivante !",
   "src": "pinky"
  },
  {
@@ -475,7 +475,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "What?!\nLiane's been captured?",
-  "fr": "Quoi ? !\nLiane a été capturée ?",
+  "fr": "Quoi ? ! Liane a été capturée ?",
   "src": "pinky",
   "relu": true
  },
@@ -484,7 +484,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "She's been sold to the English\nand imprisoned at Rouen.\fShe'll be burned at the stake\nany day now.",
-  "fr": "Elle a été vendue aux Anglais\net incarcérée à Rouen.\fElle peut être mise au bûcher à\ntout moment.",
+  "fr": "Elle a été vendue aux Anglais et\nincarcérée à Rouen.\fElle peut être mise au bûcher à\ntout moment.",
   "src": "pinky"
  },
  {
@@ -508,7 +508,7 @@
   "max": 34,
   "who": "Luther",
   "en": "You have training to do...\fand are powerless to help your\nfriend until you complete it.",
-  "fr": "Tu as un entraînement à\nfaire...\fet tu ne pourras rien faire pour\naider ton amie\ftant que tu ne l'auras pas\nterminé.",
+  "fr": "Tu as un entraînement à faire...\fet tu ne pourras rien faire pour\naider ton amie tant que tu ne\fl'auras pas terminé.",
   "src": "pinky"
  },
  {
@@ -524,7 +524,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Liane will die if I don't do\nsomething!",
-  "fr": "Liane mourra si je ne\nfais pas quelque chose !",
+  "fr": "Liane mourra si je ne fais pas\nquelque chose !",
   "src": "pinky"
  },
  {
@@ -548,7 +548,7 @@
   "max": 34,
   "who": "Mawra",
   "en": "Well, now.\nWhat's this?",
-  "fr": "Eh bien.\nQu'avons-nous là ?",
+  "fr": "Eh bien. Qu'avons-nous là ?",
   "src": "pinky"
  },
  {
@@ -572,7 +572,7 @@
   "max": 34,
   "who": "Mawra",
   "en": "And here I was hoping the pup\nstill knew how to scratch. ",
-  "fr": "Et moi qui pensais que ma\nproie saurait toujours\fcomment se battre.",
+  "fr": "Et moi qui pensais que ma proie\nsaurait toujours comment se\fbattre.",
   "src": "pinky"
  },
  {
@@ -596,7 +596,7 @@
   "max": 34,
   "who": "Slinker",
   "en": "...Of course, it means the world\nto some of us! Ni-hee!",
-  "fr": "... Bien sûr, pour certains\nd'entre nous, ça compte ! Ni hi hi !",
+  "fr": "... Bien sûr, pour certains d'entre\nnous, ça compte ! Ni hi hi !",
   "src": "pinky",
   "relu": true
  },
@@ -1079,7 +1079,7 @@
   "max": 34,
   "who": "",
   "en": "You obtain the Gem of Levin!",
-  "fr": "Vous obtenez la Gemme de la foudre !",
+  "fr": "Vous obtenez la Gemme de la\nfoudre !",
   "src": "pinky",
   "relu": true
  },
@@ -1136,7 +1136,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "...Gilles,",
-  "fr": "... Gilles, es-tu sûr de vouloir\nvenir ?",
+  "fr": "...\nGilles, es-tu sûr de vouloir venir ?",
   "src": "pinky"
  },
  {
@@ -1152,7 +1152,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "...You think that's why people\nfollow you?",
-  "fr": "... Tu penses que c'est pour\nça que les gens te soutiennent ?",
+  "fr": "... Tu penses que c'est pour ça que\nles gens te soutiennent ?",
   "src": "pinky"
  },
  {
@@ -1192,7 +1192,7 @@
   "max": 34,
   "who": "Marcel",
   "en": "They all know better.\fThey KNOW Lianette's not a \nwitch...and still...",
-  "fr": "Ils le savent tous.\fIls savent que Liane n'est pas\nune sorcière... et que...",
+  "fr": "Ils le savent tous.\fIls savent que Liane n'est pas une\nsorcière... et que...",
   "src": "pinky"
  },
  {
@@ -1216,7 +1216,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Where's Liane?!\nWhy haven't you rescued her?",
-  "fr": "Où est Liane ? !\fPourquoi ne l'avez-vous pas\nsauvée ?",
+  "fr": "Où est Liane ? ! Pourquoi ne\nl'avez-vous pas sauvée ?",
   "src": "pinky"
  },
  {
@@ -1240,7 +1240,7 @@
   "max": 34,
   "who": "Colet",
   "en": "What, deed you wet your\nbweeches agai\\u2014 Hmm?",
-  "fr": "Quoi, tu as encore mouillé\nton pantalon... Hein ?",
+  "fr": "Quoi, tu as encore mouillé ton\npantalon... Hein ?",
   "src": "pinky"
  },
  {
@@ -1288,7 +1288,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "And Roger!\nWhere's Roger?!",
-  "fr": "Et Roger !\nOù est Roger ?!",
+  "fr": "Et Roger ! Où est Roger ?!",
   "src": "pinky"
  },
  {
@@ -1304,7 +1304,7 @@
   "max": 34,
   "who": "Colet",
   "en": "Or perhaps dining on fine cuisine\nbought weez ze blood money?",
-  "fr": "Ou peut-être mange-t-il de la\ncuisine raffinée\fpayée avec de la monnaie\nensanglantée ?",
+  "fr": "Ou peut-être mange-t-il de la\ncuisine raffinée payée avec de la\fmonnaie ensanglantée ?",
   "src": "pinky"
  },
  {
@@ -1312,7 +1312,7 @@
   "max": 34,
   "who": "Colet",
   "en": "You are wasting your stwength.\nWe weel not make eet een time!",
-  "fr": "Ne gâche pas ton énergie. Nous\nn'arriverons jamais à temps !",
+  "fr": "Ne gâche pas ton énergie.\nNous n'arriverons jamais à temps !",
   "src": "pinky"
  },
  {
@@ -1328,7 +1328,7 @@
   "max": 34,
   "who": "Roger",
   "en": "It's no use...\nWe're boxed in!",
-  "fr": "Inutile...\nNous sommes piégés !",
+  "fr": "Inutile... Nous sommes piégés !",
   "src": "pinky"
  },
  {
@@ -1336,7 +1336,7 @@
   "max": 34,
   "who": "",
   "en": "...hU...sE...fR...\n......gI...yO...dY...mE...",
-  "fr": "...hU...Li...oi...\n......Ne...MO...to...PS...",
+  "fr": "...hU...Li...oi... ......Ne...MO...to...PS...",
   "src": "pinky"
  },
  {
@@ -1376,7 +1376,7 @@
   "max": 34,
   "who": "Liane",
   "en": "ROGER!\nRoger, please HEEEEEELP!!!",
-  "fr": "ROGER !\nRoger, À L'AIDE !!!",
+  "fr": "ROGER ! Roger, À L'AIDE !!!",
   "src": "pinky"
  },
  {
@@ -1416,7 +1416,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "Rah-hah! You are alive, Général!\fAnd Gilles! La Hire is happy to\nsee his friend.",
-  "fr": "Rah-hah ! Tu es vivante,\nGénéral !\fEt Gilles ! La Hire est heureux\nde voir ses amis.",
+  "fr": "Rah-hah ! Tu es vivante, Général !\fEt Gilles ! La Hire est heureux de\nvoir ses amis.",
   "src": "pinky"
  },
  {
@@ -1424,7 +1424,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "We can celebrate later, La Hire.",
-  "fr": "Nous fêterons ça plus tard,\nLa Hire.",
+  "fr": "Nous fêterons ça plus tard, La\nHire.",
   "src": "pinky"
  },
  {
@@ -1440,7 +1440,7 @@
   "max": 34,
   "who": "Blaze",
   "en": "Warrr is our vocation. We shall\nnever back down from a battle,",
-  "fr": "Nous sommes faits pour la\nguerre.\fNous n'allons pas tourner le dos\nà une bataille,",
+  "fr": "Nous sommes faits pour la guerre.\fNous n'allons pas tourner le dos à\nune bataille,",
   "src": "pinky",
   "relu": true
  },
@@ -1449,7 +1449,7 @@
   "max": 34,
   "who": "Blaze",
   "en": "not until we returrrn to dust!",
-  "fr": "pas avant de retourner\npoussière !",
+  "fr": "pas avant de retourner poussière !",
   "src": "pinky"
  },
  {

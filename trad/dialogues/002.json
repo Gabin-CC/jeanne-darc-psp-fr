@@ -1074,7 +1074,7 @@
   "max": 34,
   "who": "",
   "en": "Head to Nancy by way of the Forest of Fraude.",
-  "fr": "En route pour Nancy par la forêt de\nFraude.",
+  "fr": "En route pour Nancy par la forêt\nde Fraude.",
   "src": "pinky"
  },
  {
@@ -1130,7 +1130,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I told myself I'd never fail my \ncountrymen again...",
-  "fr": "Je m'étais dit que je ne laisserais\nplus jamais tomber\fmes concitoyens...",
+  "fr": "Je m'étais dit que je ne laisserais\nplus jamais tomber mes\fconcitoyens...",
   "src": "pinky",
   "relu": true
  },
@@ -1147,7 +1147,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "If only...\nIf I'd just...",
-  "fr": "Si seulement...\nSi j'avais...",
+  "fr": "Si seulement... Si j'avais...",
   "src": "pinky"
  },
  {
@@ -1155,7 +1155,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I should've wielded the armlet \nmore skillfully...",
-  "fr": "Si seulement j'avais une\nmeilleure maîtrise du bracelet...",
+  "fr": "Si seulement j'avais une meilleure\nmaîtrise du bracelet...",
   "src": "pinky"
  },
  {
@@ -1171,7 +1171,7 @@
   "max": 34,
   "who": "Jean",
   "en": "If we'd properly stationed some \nof the garrison here,",
-  "fr": "Si seulement nous avions\nplacé une garnison ici,",
+  "fr": "Si seulement nous avions placé\nune garnison ici,",
   "src": "pinky"
  },
  {
@@ -1179,7 +1179,7 @@
   "max": 34,
   "who": "Jean",
   "en": "none of this would have \nhappened.",
-  "fr": "rien de tout cela ne\nserait arrivé.",
+  "fr": "rien de tout cela ne serait arrivé.",
   "src": "pinky"
  },
  {
@@ -1195,7 +1195,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "...I've been using its power \nto fight.",
-  "fr": "... J'ai utilisé son pouvoir\npour combattre.",
+  "fr": "... J'ai utilisé son pouvoir pour\ncombattre.",
   "src": "pinky"
  },
  {
@@ -1211,7 +1211,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Why do I have it? What is it \nreally for?",
-  "fr": "Pourquoi est-ce moi qui l'ai\nreçu ? À quoi sert-il vraiment ?",
+  "fr": "Pourquoi est-ce moi qui l'ai reçu ?\nÀ quoi sert-il vraiment ?",
   "src": "pinky"
  },
  {
@@ -1228,7 +1228,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Stupid armlet!\fThe moment I need it, \nit decides to stop working!",
-  "fr": "Stupide bracelet ! Au moment où\nj'en ai besoin, \fil se décide à ne plus\nfonctionner !",
+  "fr": "Stupide bracelet !\fAu moment où j'en ai besoin, il se\ndécide à ne plus fonctionner !",
   "src": "pinky"
  },
  {
@@ -1236,7 +1236,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "If I'd just been able to\n transform in time...",
-  "fr": "Si seulement j'avais été capable\nde me transformer à temps...",
+  "fr": "Si seulement j'avais été capable de\nme transformer à temps...",
   "src": "pinky"
  },
  {
@@ -1252,7 +1252,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Jeanne, stop it! You fought well!",
-  "fr": "Jeanne, arrête ça ! Tu t'es bien\nbattue !",
+  "fr": "Jeanne, arrête ça !\nTu t'es bien battue !",
   "src": "pinky"
  },
  {
@@ -1260,7 +1260,7 @@
   "max": 34,
   "who": "Roger",
   "en": "There was nothing any of us \ncould do! All right?",
-  "fr": "Nous n'aurions rien pu faire,\nde toute façon ! D'accord ?",
+  "fr": "Nous n'aurions rien pu faire, de\ntoute façon ! D'accord ?",
   "src": "pinky"
  },
  {
@@ -1324,7 +1324,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Tee hee! You're in awfully good \nspirits, Cuisses.",
-  "fr": "Hi hi ! Tu es vraiment de\nbonne humeur, Cuisses.",
+  "fr": "Hi hi ! Tu es vraiment de bonne\nhumeur, Cuisses.",
   "src": "pinky"
  },
  {
@@ -1332,7 +1332,7 @@
   "max": 34,
   "who": "Roger",
   "en": "\"Cuisses\"?\nYou gave the toad a name?",
-  "fr": "\"Cuisses\" ?\fTu as donné un nom à la\ngrenouille ?",
+  "fr": "\"Cuisses\" ? Tu as donné un nom à\nla grenouille ?",
   "src": "pinky"
  },
  {
@@ -1340,7 +1340,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Well, yes!\nI happen to think it's cute.",
-  "fr": "Bien sûr !\nJe trouve ça mignon.",
+  "fr": "Bien sûr ! Je trouve ça mignon.",
   "src": "pinky"
  },
  {
@@ -1348,7 +1348,7 @@
   "max": 34,
   "who": "Liane",
   "en": "I sure wish I knew what Cuisses \nfinds so nice about long journeys.",
-  "fr": "Je regrette de ne pas savoir ce\nque Cuisses trouve d'agréable\fdans ces longs voyages.",
+  "fr": "Je regrette de ne pas savoir ce que\nCuisses trouve d'agréable dans ces\flongs voyages.",
   "src": "pinky"
  },
  {
@@ -1388,7 +1388,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Don't talk like that. Think of \nwhat the English did.",
-  "fr": "Ne parle pas comme ça.\fPense à ce que les Anglais ont\nfait.",
+  "fr": "Ne parle pas comme ça.\nPense à ce que les Anglais ont fait.",
   "src": "pinky",
   "relu": true
  },
@@ -1397,7 +1397,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Don't tell me you're willing to \nlet them get away with it!",
-  "fr": "Ne me dis pas que tu es prête à\nles laisser s'en tirer comme ça !",
+  "fr": "Ne me dis pas que tu es prête à les\nlaisser s'en tirer comme ça !",
   "src": "pinky"
  },
  {
@@ -1413,7 +1413,7 @@
   "max": 34,
   "who": "Bertrand",
   "en": "Huh? Hold it!\nOver there, look!",
-  "fr": "Huh ? Tenez !\nLà-bas, regardez !",
+  "fr": "Huh ? Tenez ! Là-bas, regardez !",
   "src": "pinky"
  },
  {
@@ -1437,7 +1437,7 @@
   "max": 34,
   "who": "Nobleman",
   "en": "...Tsk.\nFancy meeting you here.",
-  "fr": "...Tss.\nTiens tiens, vous ici.",
+  "fr": "...Tss. Tiens tiens, vous ici.",
   "src": "pinky"
  },
  {
@@ -1928,7 +1928,7 @@
   "max": 34,
   "who": "Jean",
   "en": "Yes, uh, splendid...\nAha ha ha... *Cough*",
-  "fr": "Oui, euh, splendide...\nAha ha ha... *Teuf teuf*",
+  "fr": "Oui, euh, splendide... Aha ha ha...\n*Teuf teuf*",
   "src": "pinky"
  },
  {
@@ -1960,7 +1960,7 @@
   "max": 34,
   "who": "French Soldier",
   "en": "You are the Maiden, then?\nThe Pucelle?\fThe Duke of Lorraine has long \nawaited this day.",
-  "fr": "Vous êtes la jeune fille dont tout\nle monde parle ? La Pucelle ?\fLe Duc de Lorraine a\nlongtemps attendu ce jour.",
+  "fr": "Vous êtes la jeune fille dont tout\nle monde parle ? La Pucelle ?\fLe Duc de Lorraine a longtemps\nattendu ce jour.",
   "src": "pinky"
  },
  {
@@ -1968,7 +1968,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "The duke...?\nWhat are you talking about?",
-  "fr": "Le Duc... ?\nDe quoi parlez-vous ?",
+  "fr": "Le Duc... ? De quoi parlez-vous ?",
   "src": "pinky"
  },
  {

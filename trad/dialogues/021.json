@@ -52,7 +52,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Am I inside Roger's memories?",
-  "fr": "Suis-je dans la mémoire de\nRoger ?",
+  "fr": "Suis-je dans la mémoire de Roger ?",
   "src": "pinky"
  },
  {
@@ -237,7 +237,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "You were right about one thing:\nI can't kill you.",
-  "fr": "Tu avais raison sur un point, je\nne peux pas te tuer.",
+  "fr": "Tu avais raison sur un point, je ne\npeux pas te tuer.",
   "src": "pinky"
  },
  {
@@ -245,7 +245,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "But I have a feeling that goes\nboth ways.",
-  "fr": "Mais mes sentiments sont\nconfus.",
+  "fr": "Mais mes sentiments sont confus.",
   "src": "pinky"
  },
  {
@@ -261,7 +261,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I understand why you hate me.",
-  "fr": "Je comprends ta haine envers\nmoi.",
+  "fr": "Je comprends ta haine envers moi.",
   "src": "pinky"
  },
  {
@@ -301,7 +301,7 @@
   "max": 34,
   "who": "Girl's Voice",
   "en": "Roger...\nDon't you love me?",
-  "fr": "Roger...\nTu ne m'aimes plus ?",
+  "fr": "Roger... Tu ne m'aimes plus ?",
   "src": "pinky"
  },
  {
@@ -317,7 +317,7 @@
   "max": 34,
   "who": "Liane",
   "en": "If you loved me, you'd kill\nJeanne for me.",
-  "fr": "Si tu m'aimais, tu aurais tué\nJeanne pour moi.",
+  "fr": "Si tu m'aimais, tu aurais tué Jeanne\npour moi.",
   "src": "pinky"
  },
  {
@@ -333,7 +333,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Well, Roger?\nDo you love me or not?",
-  "fr": "Alors, Roger ?\nTu m'aimes ou pas ?",
+  "fr": "Alors, Roger ? Tu m'aimes ou pas ?",
   "src": "pinky"
  },
  {
@@ -382,7 +382,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Roger, I do love you! I won't let\nthese things hurt you anymore!",
-  "fr": "Roger, je t'aime !\fEt je ne laisserai plus cette chose\nte faire du mal !",
+  "fr": "Roger, je t'aime ! Et je ne laisserai\nplus cette chose te faire du mal !",
   "src": "pinky"
  },
  {
@@ -762,7 +762,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Liane...\nThat's really you, isn't it...",
-  "fr": "Liane...\nC'est vraiment toi, hein ?",
+  "fr": "Liane... C'est vraiment toi, hein ?",
   "src": "pinky"
  },
  {
@@ -779,7 +779,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Liane.\nOh, Liane, forgive me...\fI'm so, so\\u2014",
-  "fr": "Liane...\nOh Liane, pardonne-moi...\fJe suis tellement...",
+  "fr": "Liane... Oh Liane, pardonne-moi...\fJe suis tellement...",
   "src": "pinky"
  },
  {
@@ -787,7 +787,7 @@
   "max": 34,
   "who": "Liane",
   "en": "No. Don't you dare say you're\nsorry.",
-  "fr": "Non. Tu n'as pas intérêt à dire\nque tu es désolée.",
+  "fr": "Non. Tu n'as pas intérêt à dire que\ntu es désolée.",
   "src": "pinky",
   "relu": true
  },
@@ -812,7 +812,7 @@
   "max": 34,
   "who": "Liane",
   "en": "I was so, so scared without you.\nI didn't know what to do.\fAll growing up,\fI only needed to call your name\nand you'd be there.\nThen, the one time I really did\nneed you...you didn't come.",
-  "fr": "J'avais tellement peur sans toi.\nJe ne savais pas quoi faire.\fDepuis toute petite, je n'avais\nqu'à t'appeler et tu étais là.",
+  "fr": "J'avais tellement peur sans toi.\nJe ne savais pas quoi faire.\fDepuis toute petite, je n'avais qu'à\nt'appeler et tu étais là.",
   "src": "pinky"
  },
  {
@@ -820,7 +820,7 @@
   "max": 34,
   "who": "Liane",
   "en": "I tried, Jeanne. I wore myself\nthin trying to be like you.\fBut it didn't work.",
-  "fr": "J'ai essayé, Jeanne. J'ai tout fait\npour te ressembler.\fMais ça n'a pas fonctionné.",
+  "fr": "J'ai essayé, Jeanne.\nJ'ai tout fait pour te ressembler.\fMais ça n'a pas fonctionné.",
   "src": "pinky"
  },
  {
@@ -1038,7 +1038,7 @@
   "max": 34,
   "who": "Ira",
   "en": "gRRRaaaHHH...\n...rrrrrrAAAAAAAH!",
-  "fr": "gRRRaaaHHH...\n... rrrrrrAAAAAAAH !",
+  "fr": "gRRRaaaHHH... ...\nrrrrrrAAAAAAAH !",
   "src": "pinky"
  },
  {
@@ -1267,7 +1267,7 @@
   "max": 34,
   "who": "",
   "en": "To save the world...invade Paris Castle!",
-  "fr": "Pour sauver le monde... Prenez le\nchâteau de Paris !",
+  "fr": "Pour sauver le monde...\nPrenez le château de Paris !",
   "src": "pinky",
   "relu": true
  },
@@ -1324,7 +1324,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "Liane is gone.\nI don't sense her anymore.",
-  "fr": "Liane n'est plus là. Je ne sens\nplus sa présence.",
+  "fr": "Liane n'est plus là.\nJe ne sens plus sa présence.",
   "src": "pinky"
  },
  {
@@ -1332,7 +1332,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "But she said she would wait for\nyou in Domrémy.\fFor you and Roger.",
-  "fr": "Mais elle a dit qu'elle t'attendrait\nà Domrémy.\fToi et Roger.",
+  "fr": "Mais elle a dit qu'elle t'attendrait à\nDomrémy.\fToi et Roger.",
   "src": "pinky",
   "relu": true
  },
@@ -1431,7 +1431,7 @@
   "max": 34,
   "who": "Roger",
   "en": "I know, but...if we don't stop\nthe Fiend...",
-  "fr": "Je sais, mais... Si on n'arrête pas\nle démon...",
+  "fr": "Je sais, mais...\nSi on n'arrête pas le démon...",
   "src": "pinky"
  },
  {
@@ -1439,7 +1439,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "No, I just... It just sunk in\nthat you're really back.",
-  "fr": "Non, je... Je viens juste de\nréaliser que tu es vraiment\fde retour.",
+  "fr": "Non, je... Je viens juste de réaliser\nque tu es vraiment de retour.",
   "src": "pinky"
  },
  {
@@ -1479,7 +1479,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "If we don't even the odds, the\nworld will be his for certain.",
-  "fr": "Si on n'égalise pas les chances,\nle monde sera sien, c'est certain.",
+  "fr": "Si on n'égalise pas les chances, le\nmonde sera sien, c'est certain.",
   "src": "pinky"
  },
  {
@@ -1487,7 +1487,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "We have to do something!\nBut what...\fDestroying the test facility\nseems incredibly stupid now,\fwhen the entire world could be\ndestroyed at any moment.",
-  "fr": "Nous devons faire quelque\nchose ! Mais quoi...\fDétruire le laboratoire semble\ntotalement stupide maintenant,\falors que le monde peut être\nanéanti à chaque instant.",
+  "fr": "Nous devons faire quelque chose !\nMais quoi...\fDétruire le laboratoire semble\ntotalement stupide maintenant,\falors que le monde peut être\nanéanti à chaque instant.",
   "src": "pinky"
  },
  {
@@ -1503,7 +1503,7 @@
   "max": 34,
   "who": "Richard",
   "en": "Yes, but it's too late now.\nWe've wasted our energy.",
-  "fr": "Oui mais c'est trop tard\nmaintenant.\fNous avons gaspillé notre\nénergie.",
+  "fr": "Oui mais c'est trop tard\nmaintenant.\fNous avons gaspillé notre énergie.",
   "src": "pinky"
  },
  {
@@ -1543,7 +1543,7 @@
   "max": 34,
   "who": "Roger",
   "en": "The English made this device,\fto transfer the reapers into the\nbodies of their subjects.",
-  "fr": "Ce sont les Anglais qui l'ont\nconçu pour transférer\fles moissonneurs dans le corps de\nleurs cobayes.",
+  "fr": "Ce sont les Anglais qui l'ont conçu\npour transférer\fles moissonneurs dans le corps de\nleurs cobayes.",
   "src": "pinky",
   "relu": true
  },
@@ -1585,7 +1585,7 @@
   "max": 34,
   "who": "Richard",
   "en": "He is too powerful for us to\ncontain in a device like that.",
-  "fr": "Il est trop puissant pour que\nnous puissions le retenir\fdans la machine.",
+  "fr": "Il est trop puissant pour que nous\npuissions le retenir dans la\fmachine.",
   "src": "pinky"
  },
  {
@@ -1593,7 +1593,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Then we'll have to use the device\nto strip the reapers away first,\fone by one.",
-  "fr": "Alors, d'abord nous utiliserons\nla machine pour affaiblir\fles moissonneurs, un par un.",
+  "fr": "Alors, d'abord nous utiliserons la\nmachine pour affaiblir\fles moissonneurs, un par un.",
   "src": "pinky",
   "relu": true
  },
@@ -1610,7 +1610,7 @@
   "max": 34,
   "who": "Roger",
   "en": "after we've weakened the Fiend,\fwe can separate him from\nHenry VI...\nand seal him inside a gem.",
-  "fr": "une fois le démon altéré,\fnous pourrons le séparer du\ncorps d'Henry VI...",
+  "fr": "une fois le démon altéré,\fnous pourrons le séparer du corps\nd'Henry VI...",
   "src": "pinky"
  },
  {
@@ -1634,7 +1634,7 @@
   "max": 34,
   "who": "Roger",
   "en": "I...I'm not sure.\fNow that Gilvaroth is whole\nagain, \nhis power must be immeasurable.",
-  "fr": "Je.. Je ne sais pas.\fMaintenant que Gilvaroth est à\npleine puissance, son pouvoir\fest incommensurable.",
+  "fr": "Je.. Je ne sais pas.\fMaintenant que Gilvaroth est à\npleine puissance,\fson pouvoir est incommensurable.",
   "src": "pinky"
  },
  {
@@ -1658,7 +1658,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "All right,\nlet's go after Gilvaroth.\nTo the castle in Paris!",
-  "fr": "D'accord. Allons à la poursuite\nde Gilvaroth.",
+  "fr": "D'accord.\nAllons à la poursuite de Gilvaroth.",
   "src": "pinky"
  },
  {
@@ -1682,7 +1682,7 @@
   "max": 34,
   "who": "English Captain",
   "en": "Who are you? What're you doin'\nat the castle?",
-  "fr": "Qui êtes-vous ? Que faites-vous\ndans le château ?",
+  "fr": "Qui êtes-vous ?\nQue faites-vous dans le château ?",
   "src": "pinky"
  },
  {
@@ -1698,7 +1698,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "Reckless as always, lass...\nHar!",
-  "fr": "Téméraire, comme toujours...\nHar !",
+  "fr": "Téméraire, comme toujours... Har !",
   "src": "pinky"
  },
  {
@@ -1714,7 +1714,7 @@
   "max": 34,
   "who": "English Captain",
   "en": "Ah, Talbot. What's a good-for-\nnothin' like you want?",
-  "fr": "Ah, Talbot. Que veux-tu,\nbon à rien ?",
+  "fr": "Ah, Talbot.\nQue veux-tu, bon à rien ?",
   "src": "pinky"
  },
  {
@@ -1722,7 +1722,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "Seems to me you need every\nblade you can get. Let me pass.",
-  "fr": "Il semblerait que tu aies besoin\nde toutes les lames\fque tu pourras obtenir.\nLaisse-moi passer.",
+  "fr": "Il semblerait que tu aies besoin de\ntoutes les lames que tu pourras\fobtenir. Laisse-moi passer.",
   "src": "pinky"
  },
  {
@@ -1738,7 +1738,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "I would ask why you are\nattacking the castle head on...\fBut I know by now who I am\ndealing with.",
-  "fr": "Je voulais vous poser une\nquestion. \fPourquoi attaquer le château de\nfront ?\fMais maintenant je sais qui est\nmon adversaire.",
+  "fr": "Je voulais vous poser une\nquestion.\fPourquoi attaquer le château de\nfront ?\fMais maintenant je sais qui est\nmon adversaire.",
   "src": "pinky"
  },
  {
@@ -1754,7 +1754,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "Har!\nDon't be like that.",
-  "fr": "Har !\nNe le prenez pas ainsi !",
+  "fr": "Har ! Ne le prenez pas ainsi !",
   "src": "pinky"
  },
  {
@@ -1762,7 +1762,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "Remember? I need you to send\nme to Heaven.",
-  "fr": "Vous n'avez pas oublié ?\fJ'ai besoin de vous pour\natteindre le paradis.",
+  "fr": "Vous n'avez pas oublié ? J'ai besoin\nde vous pour atteindre le paradis.",
   "src": "pinky"
  },
  {
@@ -1810,7 +1810,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "Do you still believe you can\nsave all the people of France?",
-  "fr": "Pensez-vous pouvoir toujours\nsauver\fl'ensemble du peuple français ?",
+  "fr": "Pensez-vous pouvoir toujours\nsauver l'ensemble du peuple\ffrançais ?",
   "src": "pinky"
  },
  {
@@ -1898,7 +1898,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "you need his uncle's permission.\nHeh heh...",
-  "fr": "vous aurez besoin de la\npermission de son oncle.\fHé hé...",
+  "fr": "vous aurez besoin de la permission\nde son oncle. Hé hé...",
   "src": "pinky"
  },
  {

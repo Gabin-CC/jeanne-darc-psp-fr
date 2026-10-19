@@ -4,7 +4,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Heh. I'll let you go this time.",
-  "fr": "Héhé. Je te laisse partir pour\ncette fois.",
+  "fr": "Héhé.\nJe te laisse partir pour cette fois.",
   "src": "pinky"
  },
  {
@@ -29,7 +29,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "It's awfully quiet...",
-  "fr": "C'est tellement calme que c'en\nest inquiétant...",
+  "fr": "C'est tellement calme que c'en est\ninquiétant...",
   "src": "pinky"
  },
  {
@@ -77,7 +77,7 @@
   "max": 34,
   "who": "Duke of Burgundy",
   "en": "I have singular talents\\u2014\nlike sniffing out tHE darkNESS...",
-  "fr": "J'ai des talents singuliers...\fComme celui de ressentir LEs\nTEnèbRES...",
+  "fr": "J'ai des talents singuliers... Comme\ncelui de ressentir LEs TEnèbRES...",
   "src": "pinky"
  },
  {
@@ -1002,7 +1002,7 @@
   "max": 34,
   "who": "Duke of Burgundy",
   "en": "nGAAH, aH...aRGGGH...\n...aGH...uNG...aHHH...",
-  "fr": "nGAAH, aH... aRGGGH...\n... aGH... uNG... aHHH...",
+  "fr": "nGAAH, aH... aRGGGH... ... aGH...\nuNG... aHHH...",
   "src": "pinky"
  },
  {
@@ -1059,7 +1059,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "What?!\nYou're Henry?",
-  "fr": "Quoi ?!\nVous êtes Henry ?",
+  "fr": "Quoi ?! Vous êtes Henry ?",
   "src": "pinky"
  },
  {
@@ -1067,7 +1067,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "I hope we get to play together\nagain very soon.",
-  "fr": "J'espère que nous aurons de\nnouveau\fl'occasion de jouer ensemble.",
+  "fr": "J'espère que nous aurons de\nnouveau l'occasion de jouer\fensemble.",
   "src": "pinky"
  },
  {
@@ -1115,7 +1115,7 @@
   "max": 34,
   "who": "Duke of Burgundy",
   "en": "I cannot go on living without\nthe reaper's power...",
-  "fr": "Je ne peux pas survivre sans\nle pouvoir du moissonneur...",
+  "fr": "Je ne peux pas survivre sans le\npouvoir du moissonneur...",
   "src": "pinky",
   "relu": true
  },
@@ -1124,7 +1124,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Don't say that!\nWe need you alive.",
-  "fr": "Ne dites pas ça ! Nous avons\nbesoin de vous vivant.",
+  "fr": "Ne dites pas ça !\nNous avons besoin de vous vivant.",
   "src": "pinky"
  },
  {
@@ -1132,7 +1132,7 @@
   "max": 34,
   "who": "Duke of Burgundy",
   "en": "Then please,\nyou must kill HER\\u2014",
-  "fr": "Alors s'il vous plaît,\nvous devez LA tuer...",
+  "fr": "Alors s'il vous plaît, vous devez\nLA tuer...",
   "src": "pinky"
  },
  {
@@ -1156,7 +1156,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "What's gotten into you? Who is\nthis woman you speak of?",
-  "fr": "Qu'est-ce qui vous arrive ?\fQui est cette femme dont vous\nparlez ?",
+  "fr": "Qu'est-ce qui vous arrive ? Qui est\ncette femme dont vous parlez ?",
   "src": "pinky"
  },
  {
@@ -1196,7 +1196,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "Why have you not come to see\nme? Are my sins so many?",
-  "fr": "Pourquoi n'êtes-vous pas venu\nme voir ? \fMes péchés sont-ils si\nnombreux ?",
+  "fr": "Pourquoi n'êtes-vous pas venu me\nvoir ?\fMes péchés sont-ils si nombreux ?",
   "src": "pinky",
   "relu": true
  },
@@ -1213,7 +1213,7 @@
   "max": 34,
   "who": "",
   "en": "Georges should be in Chinon. Let us observe him.",
-  "fr": "Georges doit être à Chinon. Allons le\nrejoindre.",
+  "fr": "Georges doit être à Chinon.\nAllons le rejoindre.",
   "src": "pinky"
  },
  {
@@ -1221,7 +1221,7 @@
   "max": 34,
   "who": "Georges",
   "en": "What? The Duke of Burgundy'th\nreaper hath awoken?",
-  "fr": "Quoi ? Le Duc de Bourgogne\nétait un moissonneur ?",
+  "fr": "Quoi ? Le Duc de Bourgogne était\nun moissonneur ?",
   "src": "pinky",
   "relu": true
  },
@@ -1262,7 +1262,7 @@
   "max": 34,
   "who": "Georges",
   "en": "I-I neffer thigned up to b-be\ndeffoured!",
-  "fr": "Je... je n'ai jamais signé pour\nêtre dévoré !",
+  "fr": "Je... je n'ai jamais signé pour être\ndévoré !",
   "src": "pinky"
  },
  {
@@ -1294,7 +1294,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "Did you have him sign an accord\nas I ordered?",
-  "fr": "Lui avez-vous fait signer un\ntraité\fcomme je l'avais demandé ?",
+  "fr": "Lui avez-vous fait signer un traité\ncomme je l'avais demandé ?",
   "src": "pinky"
  },
  {
@@ -1318,7 +1318,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "I am going to hold on to this\nfor the time being;",
-  "fr": "Je vais le conserver pour\nl'instant.",
+  "fr": "Je vais le conserver pour l'instant.",
   "src": "pinky"
  },
  {
@@ -1326,7 +1326,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "before I can send it to the king,\fI need you to do something for\nme.",
-  "fr": "Avant de pouvoir l'envoyer au\nroi,\fj'ai besoin que vous fassiez autre\nchose pour moi.",
+  "fr": "Avant de pouvoir l'envoyer au roi,\fj'ai besoin que vous fassiez autre\nchose pour moi.",
   "src": "pinky"
  },
  {
@@ -1350,7 +1350,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "Find out what he's thinking,\nplanning; who he associates with;",
-  "fr": "Découvrez à quoi il pense, ce\nqu'il planifie, qui il fréquente.",
+  "fr": "Découvrez à quoi il pense, ce qu'il\nplanifie, qui il fréquente.",
   "src": "pinky"
  },
  {
@@ -1398,7 +1398,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "but he never took to arrogance\nor corruption the way he does\nnow.",
-  "fr": "mais il n'a jamais eu l'arrogance\nni la bassesse\fqu'il a aujourd'hui.",
+  "fr": "mais il n'a jamais eu l'arrogance ni\nla bassesse qu'il a aujourd'hui.",
   "src": "pinky"
  },
  {
@@ -1438,7 +1438,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "Ravens always used to haunt\nQueen Isabeau's chambers.",
-  "fr": "Les corbeaux ont toujours hanté\nles appartements\fde la Reine Isabeau.",
+  "fr": "Les corbeaux ont toujours hanté\nles appartements de la Reine\fIsabeau.",
   "src": "pinky"
  },
  {
@@ -1446,7 +1446,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "And now they haunt Georges's...",
-  "fr": "Et maintenant ils hantent ceux\nde Georges...",
+  "fr": "Et maintenant ils hantent ceux de\nGeorges...",
   "src": "pinky"
  },
  {
@@ -1470,7 +1470,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "if Georges rips it up before\nthe king can see it.",
-  "fr": "si Georges le déchire avant\nque le roi n'ait pu le voir.",
+  "fr": "si Georges le déchire avant que le\nroi n'ait pu le voir.",
   "src": "pinky",
   "relu": true
  },
@@ -1503,7 +1503,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Do you think we can change him\nback somehow?",
-  "fr": "Penses-tu qu'il existe un moyen\nde le faire redevenir\fcomme avant ?",
+  "fr": "Penses-tu qu'il existe un moyen\nde le faire redevenir comme\favant ?",
   "src": "pinky"
  },
  {
@@ -1568,7 +1568,7 @@
   "max": 34,
   "who": "Roger",
   "en": "...Where have you been?\nI don't like to be kept waiting.",
-  "fr": "... Où étais-tu ? Je n'aime pas\nqu'on me fasse attendre.",
+  "fr": "... Où étais-tu ? Je n'aime pas qu'on\nme fasse attendre.",
   "src": "pinky"
  },
  {
@@ -1633,7 +1633,7 @@
   "max": 34,
   "who": "Georges",
   "en": "Yipeth! No! No, I remember...\nI remember all too well.",
-  "fr": "Mon dieu ! Non ! Non, je m'en\nsouviens...\fJe m'en souviens, de toutes.",
+  "fr": "Mon dieu ! Non !\nNon, je m'en souviens...\fJe m'en souviens, de toutes.",
   "src": "pinky",
   "relu": true
  },
@@ -1650,7 +1650,7 @@
   "max": 34,
   "who": "Georges",
   "en": "No one told me the reaper would\ndeffour my thoul!",
-  "fr": "Personne ne m'a dit que le\nmoissonneur\fdévorerait mon âme !",
+  "fr": "Personne ne m'a dit que le\nmoissonneur dévorerait mon âme !",
   "src": "pinky",
   "relu": true
  },
@@ -1667,7 +1667,7 @@
   "max": 34,
   "who": "Georges",
   "en": "tho I could make matterth with\nthe dauphin go my way!",
-  "fr": "et ce afin que je puisse amener\nle dauphin de mon côté !",
+  "fr": "et ce afin que je puisse amener le\ndauphin de mon côté !",
   "src": "pinky"
  },
  {
@@ -1675,7 +1675,7 @@
   "max": 34,
   "who": "Roger",
   "en": "...So you heard about the Duke\nof Burgundy. Tough luck;\fit's only a matter of time before\nyour own reaper devours you.",
-  "fr": "... Alors tu as entendu parler du\nDuc de Bourgogne.\fPas de chance, ce n'est qu'une\nquestion de temps\favant que ton moissonneur ne\nte dévore.",
+  "fr": "... Alors tu as entendu parler du\nDuc de Bourgogne.\fPas de chance,\fce n'est qu'une question de temps\navant que ton moissonneur ne te\fdévore.",
   "src": "pinky",
   "relu": true
  },
@@ -1717,7 +1717,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Why not ask the Pucelle over\nthere to save you?",
-  "fr": "Pourquoi ne pas demander à\nla Pucelle de te sauver ?",
+  "fr": "Pourquoi ne pas demander à la\nPucelle de te sauver ?",
   "src": "pinky"
  },
  {
@@ -1749,7 +1749,7 @@
   "max": 34,
   "who": "Georges",
   "en": "How\\u2014 You died on the thtake!\nI thaw you!",
-  "fr": "Comment... Tu es morte sur\nle bûcher !\fJe t'ai vue !",
+  "fr": "Comment... Tu es morte sur le\nbûcher ! Je t'ai vue !",
   "src": "pinky"
  },
  {
@@ -1765,7 +1765,7 @@
   "max": 34,
   "who": "Roger",
   "en": "This one let her friend die so\nshe could keep living.",
-  "fr": "Celle-là a laissé mourir son\namie,\fc'est ainsi qu'elle a pu survivre.",
+  "fr": "Celle-là a laissé mourir son amie,\nc'est ainsi qu'elle a pu survivre.",
   "src": "pinky"
  },
  {
@@ -1822,7 +1822,7 @@
   "max": 34,
   "who": "Roger",
   "en": "That tripe is exactly what makes\npeople around you suffer.",
-  "fr": "Ces absurdités sont exactement\nla cause de la souffrance\fde ceux qui t'entourent.",
+  "fr": "Ces absurdités sont exactement la\ncause de la souffrance de ceux qui\ft'entourent.",
   "src": "pinky"
  },
  {
@@ -1838,7 +1838,7 @@
   "max": 34,
   "who": "Georges",
   "en": "Pleathe...\nDon't leaff me here!",
-  "fr": "S'il te plaît...\nNe me laisse pas là !",
+  "fr": "S'il te plaît... Ne me laisse pas là !",
   "src": "pinky"
  },
  {
@@ -1854,7 +1854,7 @@
   "max": 34,
   "who": "Georges",
   "en": "Don't...\nDon't come any clother!",
-  "fr": "Ne...\nNe t'approche pas !",
+  "fr": "Ne... Ne t'approche pas !",
   "src": "pinky"
  },
  {
@@ -1894,7 +1894,7 @@
   "max": 34,
   "who": "Georges",
   "en": "Muuuuuurrrg...\nTHAAAH!",
-  "fr": "Muuuuuurrrg...\nTHAAAH !",
+  "fr": "Muuuuuurrrg... THAAAH !",
   "src": "pinky"
  },
  {
@@ -1902,7 +1902,7 @@
   "max": 34,
   "who": "Georges",
   "en": "Hee haw! How'th that?\nThurprithed?!\fI'm a lot thtronger than you\ngiff me credit for, thithter!",
-  "fr": "Hii haw ! Qu'en dites-vous ?\nSurprise ? !\fJe suis beaucoup plus fort que\nce que vous croyez !",
+  "fr": "Hii haw ! Qu'en dites-vous ?\nSurprise ? !\fJe suis beaucoup plus fort que ce\nque vous croyez !",
   "src": "pinky"
  },
  {

@@ -36,7 +36,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "How can we even the odds\nagainst him?",
-  "fr": "Que pouvons-nous faire, il ne\nfera qu'une bouchée de nous...",
+  "fr": "Que pouvons-nous faire, il ne fera\nqu'une bouchée de nous...",
   "src": "pinky"
  },
  {
@@ -52,7 +52,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Could we find the last armlet\nwielder, perhaps?",
-  "fr": "Nous pourrions peut-être\nretrouver le dernier porteur\fde bracelet ?",
+  "fr": "Nous pourrions peut-être\nretrouver le dernier porteur de\fbracelet ?",
   "src": "pinky"
  },
  {
@@ -76,7 +76,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "a trip to the Warren in Paris\nwill yield some answers.",
-  "fr": "si nous allions à la tanière de\nParis, nous y trouverions\fquelques réponses à nos\nquestions.",
+  "fr": "si nous allions à la tanière de Paris,\fnous y trouverions quelques\nréponses à nos questions.",
   "src": "pinky",
   "relu": true
  },
@@ -110,7 +110,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "Some of its residents actually\nlived through the reaper war\\u2014",
-  "fr": "Certains de ses habitants ont\nvécu la guerre\fdes moissonneurs...",
+  "fr": "Certains de ses habitants ont vécu\nla guerre des moissonneurs...",
   "src": "pinky",
   "relu": true
  },
@@ -127,7 +127,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "What? You are pulling La Hire's\nmane.",
-  "fr": "Quoi ? Vous tirez sur la crinière\nde La Hire !",
+  "fr": "Quoi ? Vous tirez sur la crinière de\nLa Hire !",
   "src": "pinky",
   "relu": true
  },
@@ -168,7 +168,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "His snoozing foes in Paris will\nnever see him coming, rrrar!",
-  "fr": "Ses ennemis ramollis ne le\nverront pas arriver, rrar !",
+  "fr": "Ses ennemis ramollis ne le verront\npas arriver, rrar !",
   "src": "pinky"
  },
  {
@@ -208,7 +208,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "I was blessed with a good home.\nI wanted for nothing...and yet...",
-  "fr": "J'ai eu la chance d'avoir une\nbonne famille...\fJe ne manquais de rien...\nEt maintenant...",
+  "fr": "J'ai eu la chance d'avoir une bonne\nfamille... Je ne manquais de rien...\fEt maintenant...",
   "src": "pinky",
   "relu": true
  },
@@ -217,7 +217,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "for as far back as I can\nremember,\fI was a slave to money, power,\nnobiliary obligations.",
-  "fr": "Aussi loin que je m'en souvienne,\nj'étais esclave de l'argent, \fdu pouvoir et des obligations dues\nà mon rang.",
+  "fr": "Aussi loin que je m'en souvienne,\nj'étais esclave de l'argent,\fdu pouvoir et des obligations dues\nà mon rang.",
   "src": "pinky",
   "relu": true
  },
@@ -234,7 +234,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "In time my mother passed away,\nand my father died in battle,",
-  "fr": "Puis ma mère est décédée, et\nmon père est tombé au combat,",
+  "fr": "Puis ma mère est décédée, et mon\npère est tombé au combat,",
   "src": "pinky"
  },
  {
@@ -282,7 +282,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "We will enter the city through\nan underground canal\nthat runs along the Loire.",
-  "fr": "Nous entrerons dans la ville par\nun canal souterrain qui longe\fla Loire.",
+  "fr": "Nous entrerons dans la ville par\nun canal souterrain qui longe la\fLoire.",
   "src": "pinky"
  },
  {
@@ -290,7 +290,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "...I trust you're prepared?",
-  "fr": "... J'espère que tu es bien\npréparée ?",
+  "fr": "...\nJ'espère que tu es bien préparée ?",
   "src": "pinky"
  },
  {
@@ -306,7 +306,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "This is the passage city therions\ntake to rrreach the Warren.",
-  "fr": "C'est le souterrain employé par\nles therions pourrrr aller\fau terrier.",
+  "fr": "C'est le souterrain employé par les\ntherions pourrrr aller au terrier.",
   "src": "pinky"
  },
  {
@@ -314,7 +314,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "When La Hire was a cub,\fhe used this canal many times,\nto sneak in and out of town.",
-  "fr": "Quand La Hire était un lionceau,\nil empruntait souvent ce passage\fpour se faufiler hors de la ville.",
+  "fr": "Quand La Hire était un lionceau, il\nempruntait souvent ce passage\fpour se faufiler hors de la ville.",
   "src": "pinky",
   "relu": true
  },
@@ -364,7 +364,7 @@
   "max": 34,
   "who": "Therion Cub",
   "en": "I only wanted some food!",
-  "fr": "Je voulais juste un truc à\nmanger !",
+  "fr": "Je voulais juste un truc à manger !",
   "src": "pinky"
  },
  {
@@ -372,7 +372,7 @@
   "max": 34,
   "who": "English Soldier",
   "en": "So ye thought you could filch it,\neh, ye dirty little animal?",
-  "fr": "Et tu pensais trouver à grailler\nici, hein, vermine ?",
+  "fr": "Et tu pensais trouver à grailler ici,\nhein, vermine ?",
   "src": "pinky"
  },
  {
@@ -396,7 +396,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "You must like picking on folk\nhalf your size.",
-  "fr": "Tu dois aimer piller les plus\npetits que toi, hein.",
+  "fr": "Tu dois aimer piller les plus petits\nque toi, hein.",
   "src": "pinky",
   "relu": true
  },
@@ -421,7 +421,7 @@
   "max": 34,
   "who": "Therion Cub",
   "en": "Woof! Thank you!\nR'ummm...who are you?",
-  "fr": "Waf ! Merci !\nRummmm... Qui êtes-vous ?",
+  "fr": "Waf ! Merci ! Rummmm...\nQui êtes-vous ?",
   "src": "pinky"
  },
  {
@@ -437,7 +437,7 @@
   "max": 34,
   "who": "Therion Cub",
   "en": "Ruh-huh.\nWhy do you ask?",
-  "fr": "Rah-ah.\nPourquoi cette question ?",
+  "fr": "Rah-ah. Pourquoi cette question ?",
   "src": "pinky"
  },
  {
@@ -445,7 +445,7 @@
   "max": 34,
   "who": "Richard",
   "en": "We're looking for someone who\nstill remembers the Old War.",
-  "fr": "Nous sommes à la recherche de\nquelqu'un ayant vécu\fl'ancienne guerre.",
+  "fr": "Nous sommes à la recherche de\nquelqu'un ayant vécu l'ancienne\fguerre.",
   "src": "pinky"
  },
  {
@@ -453,7 +453,7 @@
   "max": 34,
   "who": "Therion Cub",
   "en": "My grandpapa is the oldest...",
-  "fr": "Mon grand-père est le plus\nvieux...",
+  "fr": "Mon grand-père est le plus vieux...",
   "src": "pinky"
  },
  {
@@ -461,7 +461,7 @@
   "max": 34,
   "who": "Therion Cub",
   "en": "but I do not think he is that old.",
-  "fr": "mais je ne pense pas qu'il soit\nassez vieux.",
+  "fr": "mais je ne pense pas qu'il soit assez\nvieux.",
   "src": "pinky"
  },
  {
@@ -501,7 +501,7 @@
   "max": 34,
   "who": "Therion Grunt",
   "en": "Intruders!\nThat explains the commotion.",
-  "fr": "Des intrus ! Voilà qui explique\ncette agitation.",
+  "fr": "Des intrus !\nVoilà qui explique cette agitation.",
   "src": "pinky"
  },
  {
@@ -517,7 +517,7 @@
   "max": 34,
   "who": "Therion Cub",
   "en": "N-no! They aided me!",
-  "fr": "N-non !\nIls me sont venus en aide !",
+  "fr": "N-non ! Ils me sont venus en aide !",
   "src": "pinky"
  },
  {
@@ -533,7 +533,7 @@
   "max": 34,
   "who": "Therion Grunt",
   "en": "That smart-aleck cub, too!",
-  "fr": "Ce petit lionceau qui se croit\nmalin aussi !",
+  "fr": "Ce petit lionceau qui se croit malin\naussi !",
   "src": "pinky"
  },
  {
@@ -541,7 +541,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Aren't you from the Warren?\nThis child is no enemy of yours!",
-  "fr": "N'êtes-vous pas de la tanière ?\fCet enfant n'est pas votre\nennemi !",
+  "fr": "N'êtes-vous pas de la tanière ? Cet\nenfant n'est pas votre ennemi !",
   "src": "pinky",
   "relu": true
  },
@@ -558,7 +558,7 @@
   "max": 34,
   "who": "Therion Grunt",
   "en": "To disgrace the therions is a\nshameful act, punishable by death!",
-  "fr": "Mettre les therions en disgrâce\nest un acte terrible,\fpunissable de mort !",
+  "fr": "Mettre les therions en disgrâce est\nun acte terrible,\fpunissable de mort !",
   "src": "pinky",
   "relu": true
  },
@@ -567,7 +567,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Damn it! Come on, everyone.\nWe'll have to turn back\\u2014",
-  "fr": "Bon sang ! Venez, tous. Il nous\nfaut rentrer...",
+  "fr": "Bon sang ! Venez, tous.\nIl nous faut rentrer...",
   "src": "pinky"
  },
  {
@@ -591,7 +591,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "All right!\nWe'll use those to escape!",
-  "fr": "Super !\fNous pourrons nous échapper\navec !",
+  "fr": "Super ! Nous pourrons nous\néchapper avec !",
   "src": "pinky"
  },
  {
@@ -1509,7 +1509,7 @@
   "max": 34,
   "who": "",
   "en": "To the Paris Warren. We may learn something there.",
-  "fr": "À la tanière. Nous pourrions y faire\ndes découvertes.",
+  "fr": "À la tanière. Nous pourrions y\nfaire des découvertes.",
   "src": "pinky"
  },
  {
@@ -1517,7 +1517,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "So this is what a therion town\nlooks like...",
-  "fr": "Alors, c'est à ça que ressemble\nune ville therion...",
+  "fr": "Alors, c'est à ça que ressemble une\nville therion...",
   "src": "pinky"
  },
  {
@@ -1549,7 +1549,7 @@
   "max": 34,
   "who": "Elder",
   "en": "Is that any way to refer to your\nelders, you scallion?",
-  "fr": "C'est comme ça que tu t'adresses\nà ton aïeul, garnement ?",
+  "fr": "C'est comme ça que tu t'adresses à\nton aïeul, garnement ?",
   "src": "pinky"
  },
  {
@@ -1557,7 +1557,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "La Hire cannot believe you are\nstill alive!",
-  "fr": "La Hire n'arrive pas à croire que\ntu sois encore en vie !",
+  "fr": "La Hire n'arrive pas à croire que tu\nsois encore en vie !",
   "src": "pinky"
  },
  {
@@ -1614,7 +1614,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "...I need to ask you something.",
-  "fr": "... Je dois vous demander\nquelque chose.",
+  "fr": "... Je dois vous demander quelque\nchose.",
   "src": "pinky"
  },
  {
@@ -1647,7 +1647,7 @@
   "max": 34,
   "who": "Elder",
   "en": "Because you are asking the\nwrong question.",
-  "fr": "Parce que vous posez la\nmauvaise question.",
+  "fr": "Parce que vous posez la mauvaise\nquestion.",
   "src": "pinky"
  },
  {
@@ -1655,7 +1655,7 @@
   "max": 34,
   "who": "Elder",
   "en": "Perhaps you mean to ask whose\nside the therions are NOT on:\fthat of the humans...or the Fiend.",
-  "fr": "Peut-être devriez-vous\ndemander de quel côté les\ftherions ne sont pas. Celui du\ndémon ou celui des humains.",
+  "fr": "Peut-être devriez-vous\ndemander de quel côté les\ftherions ne sont pas.\fCelui du démon ou celui des\nhumains.",
   "src": "pinky",
   "relu": true
  },
@@ -1680,7 +1680,7 @@
   "max": 34,
   "who": "Elder",
   "en": "Once, we and the humans joined\nforces against the reapers.",
-  "fr": "Autrefois, nous nous sommes\nalliés aux humains contre les\fmoissonneurs.",
+  "fr": "Autrefois,\fnous nous sommes alliés aux\nhumains contre les moissonneurs.",
   "src": "pinky",
   "relu": true
  },
@@ -1689,7 +1689,7 @@
   "max": 34,
   "who": "Elder",
   "en": "The therions took up arms,\fand for men, armlets were forged\nfrom gems present in nature.",
-  "fr": "Les therions ont pris les armes,\net les bracelets furent forgés\fpour les humains avec des\ngemmes trouvées dans la nature.",
+  "fr": "Les therions ont pris les armes, et\nles bracelets furent forgés\fpour les humains avec des gemmes\ntrouvées dans la nature.",
   "src": "pinky"
  },
  {
@@ -1715,7 +1715,7 @@
   "max": 34,
   "who": "Elder",
   "en": "Humankind lauded themselves for\na victory won by the armlets;",
-  "fr": "Les humains les ont persécutés\nalors qu'ils avaient gagné\fla guerre grâce aux bracelets.",
+  "fr": "Les humains les ont persécutés\nalors qu'ils avaient gagné la guerre\fgrâce aux bracelets.",
   "src": "pinky"
  },
  {
@@ -1723,7 +1723,7 @@
   "max": 34,
   "who": "Elder",
   "en": "the therions, however, who gave\nthem the armlets received all\nbut shackles in return.",
-  "fr": "les therions qui leur avaient\ndonné les bracelets n'ont reçu\fque des chaînes en retour.",
+  "fr": "les therions qui leur avaient\ndonné les bracelets n'ont reçu que\fdes chaînes en retour.",
   "src": "pinky"
  },
  {
@@ -1739,7 +1739,7 @@
   "max": 34,
   "who": "Elder",
   "en": "The therions' vast kingdom has\nbeen reduced to this tiny warren.",
-  "fr": "Le vaste royaume des therions\nen est réduit\fà cette minuscule tanière.",
+  "fr": "Le vaste royaume des therions en\nest réduit à cette minuscule\ftanière.",
   "src": "pinky"
  },
  {
@@ -1747,7 +1747,7 @@
   "max": 34,
   "who": "Elder",
   "en": "Most therions hate mankind;\fsome, swayed by the Fiend's\nhoneyed words, \nhave gone so far as to take\nvengeance on humanity. ",
-  "fr": "La plupart des therions\nhaïssent les humains,\fCertains, amadoués par les\nparoles mielleuses du démon\font voulu se venger des humains.",
+  "fr": "La plupart des therions haïssent\nles humains,\fCertains,\famadoués par les paroles\nmielleuses du démon ont voulu se\fvenger des humains.",
   "src": "pinky",
   "relu": true
  },
@@ -1756,7 +1756,7 @@
   "max": 34,
   "who": "Elder",
   "en": "They believe they have a chance\nto reclaim their lost kingdom...\fso they fight for the English.",
-  "fr": "Ils croient pouvoir reprendre\nleur royaume perdu...\falors ils combattent aux côtés\ndes Anglais.",
+  "fr": "Ils croient pouvoir reprendre leur\nroyaume perdu...\falors ils combattent aux côtés des\nAnglais.",
   "src": "pinky",
   "relu": true
  },
@@ -1789,7 +1789,7 @@
   "max": 34,
   "who": "Therion",
   "en": "English troops are outside the\nWarren! Lots of them!",
-  "fr": "Des troupes anglaises se\nmassent autour de la tanière !\fIls sont de plus en plus\nnombreux !",
+  "fr": "Des troupes anglaises se massent\nautour de la tanière !\fIls sont de plus en plus nombreux !",
   "src": "pinky"
  },
  {
@@ -1797,7 +1797,7 @@
   "max": 34,
   "who": "English Soldier",
   "en": "Aha! So ye must be those enemy\nspies I heard about!\fI knew ye animals was trouble!",
-  "fr": "Aha ! Alors vous devez être ces\nespions dont j'ai entendu parler !\fJe savais que ces animaux\nétaient source d'ennui !",
+  "fr": "Aha ! Alors vous devez être ces\nespions dont j'ai entendu parler !\fJe savais que ces animaux étaient\nsource d'ennui !",
   "src": "pinky"
  },
  {
@@ -1926,7 +1926,7 @@
   "max": 34,
   "who": "",
   "en": "Head to Gwygone Mines in search of the power.",
-  "fr": "Aux mines de Gwygone en quête de\npuissance.",
+  "fr": "Aux mines de Gwygone en quête\nde puissance.",
   "src": "pinky"
  },
  {
@@ -1958,7 +1958,7 @@
   "max": 34,
   "who": "Elder",
   "en": "Your armlet... Might I have a\ncloser look at it?",
-  "fr": "Votre bracelet... Puis-je le\nregarder de plus près ?",
+  "fr": "Votre bracelet...\nPuis-je le regarder de plus près ?",
   "src": "pinky"
  },
  {
@@ -1990,7 +1990,7 @@
   "max": 34,
   "who": "Elder",
   "en": "It was not the therions at all\nthat made the armlets,\fbut rather the elves and the\ndwarves.",
-  "fr": "Ce ne sont pas les therions qui\nont forgé les bracelets,\fmais plutôt des elfes ou des nains.",
+  "fr": "Ce ne sont pas les therions qui ont\nforgé les bracelets,\fmais plutôt des elfes ou des nains.",
   "src": "pinky"
  },
  {
@@ -1998,7 +1998,7 @@
   "max": 34,
   "who": "Elder",
   "en": "They, too, once populated the\nentire continent,\fand fought alongside us in the\nWar of the Reapers.",
-  "fr": "Eux aussi, autrefois, peuplaient\nle vieux continent,\fet ont combattu à nos côtés lors\nde la guerre des moissonneurs.",
+  "fr": "Eux aussi, autrefois, peuplaient le\nvieux continent,\fet ont combattu à nos côtés lors\nde la guerre des moissonneurs.",
   "src": "pinky",
   "relu": true
  },

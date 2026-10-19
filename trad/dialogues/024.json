@@ -430,7 +430,7 @@
   "max": 34,
   "who": "",
   "en": "The gem did not fuse with\n anyone's armlet!",
-  "fr": "La gemme ne fusionne avec\naucun bracelet !",
+  "fr": "La gemme ne fusionne avec aucun\nbracelet !",
   "src": "pinky"
  },
  {
@@ -454,7 +454,7 @@
   "max": 34,
   "who": "Dwarf",
   "en": "Here!\nTake dis for wending a hand!",
-  "fr": "Tiens !\nC'est pour te remercier !",
+  "fr": "Tiens ! C'est pour te remercier !",
   "src": "pinky"
  },
  {
@@ -479,7 +479,7 @@
   "max": 34,
   "who": "",
   "en": "The gem doesn't fuse to your armlets...",
-  "fr": "La gemme ne fusionne avec\naucun bracelet...",
+  "fr": "La gemme ne fusionne avec aucun\nbracelet...",
   "src": "pinky"
  },
  {
@@ -487,7 +487,7 @@
   "max": 34,
   "who": "Colet",
   "en": "Look, mes amis... Zees must be\nwhere all ze qrows nest.",
-  "fr": "Regardez, les amis... Ça doit être\nle nid des korbeaux.",
+  "fr": "Regardez, les amis...\nÇa doit être le nid des korbeaux.",
   "src": "pinky"
  },
  {
@@ -495,7 +495,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "La Hire spies the qrow leader!\nHe will rrrip its wings off!",
-  "fr": "La Hire voit le chef des\nkorbeaux.\fIl va lui couper les ailes.",
+  "fr": "La Hire voit le chef des korbeaux.\nIl va lui couper les ailes.",
   "src": "pinky"
  },
  {
@@ -503,7 +503,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "First we need a way up...",
-  "fr": "Il nous faut trouver un moyen\nde monter...",
+  "fr": "Il nous faut trouver un moyen de\nmonter...",
   "src": "pinky"
  },
  {
@@ -671,7 +671,7 @@
   "max": 34,
   "who": "Colet",
   "en": "La vache!\nZe bweedges are down!",
-  "fr": "La vache !\nLes ponts sont loin !",
+  "fr": "La vache ! Les ponts sont loin !",
   "src": "pinky"
  },
  {
@@ -679,7 +679,7 @@
   "max": 34,
   "who": "Colet",
   "en": "Zat harpy over zere...\nShe must be ze one responsible!",
-  "fr": "Cette harpie, là...\nÇa doit être elle !",
+  "fr": "Cette harpie, là... Ça doit être elle !",
   "src": "pinky"
  },
  {
@@ -687,7 +687,7 @@
   "max": 34,
   "who": "Marcel",
   "en": "Waaaaaah!\nColette, save meeeee!",
-  "fr": "Waaaaaah !\nColette, sauve-moiiii !",
+  "fr": "Waaaaaah ! Colette, sauve-moiiii !",
   "src": "pinky"
  },
  {
@@ -695,7 +695,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Argh!\nColet, do something!",
-  "fr": "Argh !\nColet, fais quelque chose !",
+  "fr": "Argh ! Colet, fais quelque chose !",
   "src": "pinky"
  },
  {
@@ -711,7 +711,7 @@
   "max": 34,
   "who": "",
   "en": "You obtain the Gem of the Welkin!",
-  "fr": "Vous recevez la Gemme du firmament !",
+  "fr": "Vous recevez la Gemme du\nfirmament !",
   "src": "pinky",
   "relu": true
  },
@@ -778,7 +778,7 @@
   "max": 34,
   "who": "Liane",
   "en": "...Jeanne.\nDid you call for me?",
-  "fr": "... Jeanne.\nTu m'as appelée ?",
+  "fr": "... Jeanne. Tu m'as appelée ?",
   "src": "pinky"
  },
  {
@@ -786,7 +786,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Liane?\nThis isn't some trick?",
-  "fr": "Liane ?\nCe n'est pas un piège ?",
+  "fr": "Liane ? Ce n'est pas un piège ?",
   "src": "pinky"
  },
  {
@@ -818,7 +818,7 @@
   "max": 34,
   "who": "Liane",
   "en": "I want to fight at your side\nagain, with all my friends...",
-  "fr": "Je veux me battre à nouveau à\ntes côtés, avec tous mes amis...",
+  "fr": "Je veux me battre à nouveau à tes\ncôtés, avec tous mes amis...",
   "src": "pinky",
   "relu": true
  },
@@ -851,7 +851,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Sorry, Cuisses...\nI need to borrow your body.",
-  "fr": "Désolée, Cuisses... Je dois\nemprunter ton corps.",
+  "fr": "Désolée, Cuisses...\nJe dois emprunter ton corps.",
   "src": "pinky"
  },
  {
@@ -859,7 +859,7 @@
   "max": 34,
   "who": "Liane",
   "en": "It's good to be back...at least\nfor a little while.",
-  "fr": "C'est bon d'être de retour. Au\nmoins pour quelque temps.",
+  "fr": "C'est bon d'être de retour.\nAu moins pour quelque temps.",
   "src": "pinky",
   "relu": true
  },
@@ -876,7 +876,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Now you can switch freely between\nLiane and Cuisses at the cemetery!",
-  "fr": "À présent, vous pouvez\nintervertir Liane et Cuisses\fau cimetière quand bon vous\nsemble.",
+  "fr": "À présent,\fvous pouvez intervertir Liane et\nCuisses au cimetière quand bon\fvous semble.",
   "src": "pinky"
  },
  {
@@ -884,7 +884,7 @@
   "max": 34,
   "who": "",
   "en": "A.  Yes\nB.  No",
-  "fr": "A. Oui\nB. Non",
+  "fr": "A. Oui B. Non",
   "src": "pinky"
  },
  {
@@ -917,7 +917,7 @@
   "max": 34,
   "who": "",
   "en": "A.  No\nB.  Yes",
-  "fr": "A. Non\nB. Oui",
+  "fr": "A. Non B. Oui",
   "src": "pinky"
  },
  {
@@ -941,7 +941,7 @@
   "max": 34,
   "who": "Liane",
   "en": "It's good to be back with my\nfriends.",
-  "fr": "C'est bon d'être de retour près\nde ses amis.",
+  "fr": "C'est bon d'être de retour près de\nses amis.",
   "src": "pinky"
  },
  {

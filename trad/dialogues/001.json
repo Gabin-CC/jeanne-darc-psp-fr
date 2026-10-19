@@ -863,7 +863,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "It grieves me to say, Sire\\u2014",
-  "fr": "Navré de vous annoncer ça,\nSire...",
+  "fr": "Navré de vous annoncer ça, Sire...",
   "src": "pinky"
  },
  {
@@ -879,7 +879,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "It's my fault anyway, for sending \nthose imbeciles to do the job.",
-  "fr": "De toute façon c'est ma faute,\nenvoyer ces idiots\ffaire le travail.",
+  "fr": "De toute façon c'est ma faute,\nenvoyer ces idiots faire le travail.",
   "src": "pinky"
  },
  {
@@ -887,7 +887,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Weak little maggots like them \nought to just shrivel up and die!",
-  "fr": "De faibles larves comme eux\nsont juste bons à mourir !",
+  "fr": "De faibles larves comme eux sont\njuste bons à mourir !",
   "src": "pinky",
   "relu": true
  },
@@ -904,7 +904,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "...I imagine even the weak have \na role to play, Your Grace.",
-  "fr": "... J'imagine que même le faible\na un rôle à jouer, Votre Grâce.",
+  "fr": "... J'imagine que même le faible a\nun rôle à jouer, Votre Grâce.",
   "src": "pinky"
  },
  {
@@ -912,7 +912,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "Perhaps wishing painful deaths \nupon them might be a bit hasty.",
-  "fr": "Mais peut-être que leur\nsouhaiter une mort atroce\fpourrait être un peu hâtif.",
+  "fr": "Mais peut-être que leur souhaiter\nune mort atroce pourrait être un\fpeu hâtif.",
   "src": "pinky"
  },
  {
@@ -944,7 +944,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Remember, you said you'd take \ncare of everything!",
-  "fr": "Souvenez-vous, vous avez dit\nque vous vous occuperiez\fde tout !",
+  "fr": "Souvenez-vous, vous avez dit que\nvous vous occuperiez de tout !",
   "src": "pinky"
  },
  {
@@ -960,7 +960,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "Why, the next step of your \nbrilliant plan is nigh underway.",
-  "fr": "Et pour cause, la prochaine\nétape de votre plan brillant\fest sur le point de se réaliser.",
+  "fr": "Et pour cause,\fla prochaine étape de votre plan\nbrillant est sur le point de se\fréaliser.",
   "src": "pinky"
  },
  {
@@ -968,7 +968,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "If that doesn't give you sweet \ndreams, I don't know what will.",
-  "fr": "Si cela ne vous aide pas à\ntrouver le sommeil,\fje ne sais pas ce qui le fera.",
+  "fr": "Si cela ne vous aide pas à trouver\nle sommeil,\fje ne sais pas ce qui le fera.",
   "src": "pinky"
  },
  {
@@ -976,7 +976,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Ooh! I'm too excited to sleep!",
-  "fr": "Ooh ! Je suis trop excité pour\ndormir !",
+  "fr": "Ooh !\nJe suis trop excité pour dormir !",
   "src": "pinky"
  },
  {
@@ -984,7 +984,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "This is wonderful, \nkitty-witty! Wonderful! \nUwee hee hee! Ha ha haaa!",
-  "fr": "C'est merveilleux,\nMinou-minou ! Merveilleux !",
+  "fr": "C'est merveilleux, Minou-minou !\nMerveilleux !",
   "src": "pinky"
  },
  {
@@ -1000,7 +1000,7 @@
   "max": 34,
   "who": "Roger",
   "en": "They're rusty, \nbut still sturdy enough.",
-  "fr": "Ils sont rouillés, mais sont\ntoujours robustes.",
+  "fr": "Ils sont rouillés, mais sont toujours\nrobustes.",
   "src": "pinky"
  },
  {
@@ -1025,7 +1025,7 @@
   "max": 34,
   "who": "Roger",
   "en": "You obtain 2 sets of\nLeather Clothing!",
-  "fr": "Vous obtenez 2 jeux\nd'habits de cuir !",
+  "fr": "Vous obtenez 2 jeux d'habits de\ncuir !",
   "src": "pinky",
   "relu": true
  },
@@ -1066,7 +1066,7 @@
   "max": 34,
   "who": "Liane",
   "en": "...Do you think the three of us \nwill be all right?",
-  "fr": "... Tu penses qu'on s'en sortira\ntous les trois ?",
+  "fr": "... Tu penses qu'on s'en sortira tous\nles trois ?",
   "src": "pinky"
  },
  {
@@ -1082,7 +1082,7 @@
   "max": 34,
   "who": "Liane",
   "en": "What if we're attacked by the \nEnglish before we get there?",
-  "fr": "Et si nous sommes attaqués par\nles Anglais avant d'y arriver ?",
+  "fr": "Et si nous sommes attaqués par les\nAnglais avant d'y arriver ?",
   "src": "pinky"
  },
  {
@@ -1090,7 +1090,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "There's no point in being scared.",
-  "fr": "Il n'y a aucune raison d'avoir\npeur.",
+  "fr": "Il n'y a aucune raison d'avoir peur.",
   "src": "pinky"
  },
  {
@@ -1098,7 +1098,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Unless you're trying to prove \nwe're not cut out for the army.",
-  "fr": "À moins que tu n'essayes de\nprouver que nous ne sommes\fpas taillés pour l'armée.",
+  "fr": "À moins que tu n'essayes de\nprouver que nous ne sommes pas\ftaillés pour l'armée.",
   "src": "pinky"
  },
  {
@@ -1114,7 +1114,7 @@
   "max": 34,
   "who": "Roger",
   "en": "It's hopeless! \nThey'll never let you enlist!",
-  "fr": "C'est peine perdue ! \fIls ne te laisseront jamais\nt'enrôler !",
+  "fr": "C'est peine perdue ! Ils ne te\nlaisseront jamais t'enrôler !",
   "src": "pinky"
  },
  {
@@ -1122,7 +1122,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Liane. What about you? You're \nwilling to go through with this?",
-  "fr": "Liane. Et toi ? Tu es prête à aller\njusqu'au bout ?",
+  "fr": "Liane. Et toi ?\nTu es prête à aller jusqu'au bout ?",
   "src": "pinky"
  },
  {
@@ -1130,7 +1130,7 @@
   "max": 34,
   "who": "Liane",
   "en": "......\nI'll go wherever Jeanne goes.",
-  "fr": "......\nJ'irai partout où Jeanne ira.",
+  "fr": "...... J'irai partout où Jeanne ira.",
   "src": "pinky"
  },
  {
@@ -1138,7 +1138,7 @@
   "max": 34,
   "who": "Liane",
   "en": "I...I've got nothing else left. \nNone of us do.",
-  "fr": "Il... Il n'y a rien qui me\nretienne ici.\fPour aucun de nous en fait.",
+  "fr": "Il... Il n'y a rien qui me retienne ici.\nPour aucun de nous en fait.",
   "src": "pinky",
   "relu": true
  },
@@ -1147,7 +1147,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Roger, if the thought doesn't \nappeal to you, then don't come.",
-  "fr": "Roger, si tu ne penses pas\ncomme ça,\falors ne viens pas.",
+  "fr": "Roger, si tu ne penses pas comme\nça, alors ne viens pas.",
   "src": "pinky"
  },
  {
@@ -1155,7 +1155,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "You're not from Domrémy anyway.",
-  "fr": "Tu n'es même pas de Domrémy\nde toute façon.",
+  "fr": "Tu n'es même pas de Domrémy de\ntoute façon.",
   "src": "pinky"
  },
  {
@@ -1195,7 +1195,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Besides, \nI can't just leave you two.",
-  "fr": "Et puis, je ne peux pas vous\nlaisser toutes seules.",
+  "fr": "Et puis, je ne peux pas vous laisser\ntoutes seules.",
   "src": "pinky"
  },
  {
@@ -1211,7 +1211,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I can take care of everyone, \nif I have to. I have the armlet.",
-  "fr": "Je peux tous vous protéger,\nsi besoin. J'ai le bracelet.",
+  "fr": "Je peux tous vous protéger, si\nbesoin. J'ai le bracelet.",
   "src": "pinky"
  },
  {
@@ -1219,7 +1219,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I just hope the English give me \nan excuse. I dare them!",
-  "fr": "J'espère que les Anglais\nme donneront une raison.\fQu'ils viennent !",
+  "fr": "J'espère que les Anglais me\ndonneront une raison.\fQu'ils viennent !",
   "src": "pinky",
   "relu": true
  },
@@ -1228,7 +1228,7 @@
   "max": 34,
   "who": "",
   "en": "The village is under attack! Hurry to Neufch\\u00e2teau!",
-  "fr": "Le village est attaqué ! Vite à\nNeufchâteau !",
+  "fr": "Le village est attaqué !\nVite à Neufchâteau !",
   "src": "pinky"
  },
  {
@@ -1252,7 +1252,7 @@
   "max": 34,
   "who": "Captain Robert",
   "en": "You say a voice from heaven \ninspired you to defeat the \nEnglish?",
-  "fr": "Vous dites qu'une voix céleste\nvous a demandé\fde bouter les Anglais hors de\nFrance ?",
+  "fr": "Vous dites qu'une voix céleste\nvous a demandé de bouter les\fAnglais hors de France ?",
   "src": "pinky",
   "relu": true
  },
@@ -1301,7 +1301,7 @@
   "max": 34,
   "who": "Captain Robert",
   "en": "I hope you'll pardon my saying \nthis, but a rustic like you...\fin the army?\nPeople will think it a joke.",
-  "fr": "J'espère que vous me\npardonnerez de dire ceci,\fmais une paysanne comme\nvous... dans l'armée ?\fLes gens croiront à une\nplaisanterie.",
+  "fr": "J'espère que vous me pardonnerez\nde dire ceci,\fmais une paysanne comme vous...\fdans l'armée ? Les gens croiront à\nune plaisanterie.",
   "src": "pinky"
  },
  {
@@ -1317,7 +1317,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "The very voice of the King of \nHeaven!\fHe told me the English are to \nbe punished!",
-  "fr": "La véritable voix de notre\nSeigneur !\fIl m'a demandé que les\nAnglais soient punis !",
+  "fr": "La véritable voix de notre\nSeigneur !\fIl m'a demandé que les Anglais\nsoient punis !",
   "src": "pinky"
  },
  {
@@ -1333,7 +1333,7 @@
   "max": 34,
   "who": "Garrison Soldier",
   "en": "Cap'n, a message for you.",
-  "fr": "Capitaine, un message pour\nvous.",
+  "fr": "Capitaine, un message pour vous.",
   "src": "pinky"
  },
  {
@@ -1349,7 +1349,7 @@
   "max": 34,
   "who": "Garrison Soldier",
   "en": "No, sir. A plea from the \ncommoners.",
-  "fr": "Non, ser. Une requête des\nroturiers.",
+  "fr": "Non, ser.\nUne requête des roturiers.",
   "src": "pinky"
  },
  {
@@ -1397,7 +1397,7 @@
   "max": 34,
   "who": "Captain Robert",
   "en": "All the garrison have been \ndeployed, that's right. Damn!",
-  "fr": "Toute la garnison a été\ndéployée, c'est vrai. Mince !",
+  "fr": "Toute la garnison a été déployée,\nc'est vrai. Mince !",
   "src": "pinky"
  },
  {
@@ -1405,7 +1405,7 @@
   "max": 34,
   "who": "Captain Robert",
   "en": "...I'm sorry, but you and your \nvoice will have to wait.",
-  "fr": "... Je suis désolé, mais vous et\nvotre voix devrez attendre.",
+  "fr": "... Je suis désolé, mais vous et votre\nvoix devrez attendre.",
   "src": "pinky",
   "relu": true
  },
@@ -1414,7 +1414,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Jeanne! Wait, where are you\\u2014",
-  "fr": "Jeanne ! Attends, où est-ce\nque...",
+  "fr": "Jeanne ! Attends, où est-ce que...",
   "src": "pinky"
  },
  {
@@ -1422,7 +1422,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I don't have time to haggle with \nmen like him!",
-  "fr": "Je n'ai pas de temps à perdre\navec des hommes comme lui !",
+  "fr": "Je n'ai pas de temps à perdre avec\ndes hommes comme lui !",
   "src": "pinky"
  },
  {
@@ -1454,7 +1454,7 @@
   "max": 34,
   "who": "Captain Robert",
   "en": "Send orders to Jean and Bertrand\nto march on Neufchâteau.",
-  "fr": "Envoyer l'ordre à Jean et à\nBertrand\fde marcher vers Neufchâteau.",
+  "fr": "Envoyer l'ordre à Jean et à\nBertrand de marcher vers\fNeufchâteau.",
   "src": "pinky"
  },
  {
@@ -1462,7 +1462,7 @@
   "max": 34,
   "who": "Captain Robert",
   "en": "They're most likely resting; \nfeel free to kick them awake.",
-  "fr": "Ils se reposent très\ncertainement.\fPermission de les secouer pour\nles réveiller.",
+  "fr": "Ils se reposent très certainement.\fPermission de les secouer pour les\nréveiller.",
   "src": "pinky"
  },
  {
@@ -1518,7 +1518,7 @@
   "max": 34,
   "who": "Man's Voice",
   "en": "Help.\nSomeone, please...help!",
-  "fr": "Au secours.\nÀ l'aide, au... secours !",
+  "fr": "Au secours. À l'aide, au... secours !",
   "src": "pinky"
  },
  {
@@ -1566,7 +1566,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Why isn't it working?!",
-  "fr": "Pourquoi est-ce que ça ne\nmarche pas ?!",
+  "fr": "Pourquoi est-ce que ça ne marche\npas ?!",
   "src": "pinky"
  },
  {
@@ -1590,7 +1590,7 @@
   "max": 34,
   "who": "Bertrand",
   "en": "Meh heh!\nNo needs for thanks.",
-  "fr": "Hé hé !\nNe me remerciez pas.",
+  "fr": "Hé hé ! Ne me remerciez pas.",
   "src": "pinky"
  },
  {

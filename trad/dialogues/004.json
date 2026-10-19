@@ -541,7 +541,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "...Dauphin. I presume you've\nheard the stories?",
-  "fr": "... Dauphin. Je présume que\nvous avez entendu la rumeur ?",
+  "fr": "... Dauphin. Je présume que vous\navez entendu la rumeur ?",
   "src": "pinky"
  },
  {
@@ -549,7 +549,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "Oh, yes. The little songbird\nchirping left and right about God?",
-  "fr": "Oh, oui. \fLe petit colibri chantant à\ngauche et à droite\fla gloire de Dieu ?",
+  "fr": "Oh, oui.\fLe petit colibri chantant à gauche\net à droite la gloire de Dieu ?",
   "src": "pinky"
  },
  {
@@ -598,7 +598,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "but no victories will come of\nthem so long as I am just the\ndauphin.",
-  "fr": "mais elles ne remporteront aucune\nvictoire\ftant que je serai le dauphin.",
+  "fr": "mais elles ne remporteront\naucune victoire tant que je serai\fle dauphin.",
   "src": "pinky",
   "relu": true
  },
@@ -656,7 +656,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "Are you certain arranging an\naudience with the girl was wise?",
-  "fr": "Êtes-vous certain qu'arranger\nune audience avec la fille\fest judicieux ?",
+  "fr": "Êtes-vous certain qu'arranger\nune audience avec la fille est\fjudicieux ?",
   "src": "pinky"
  },
  {
@@ -681,7 +681,7 @@
   "max": 34,
   "who": "Georges",
   "en": "Robert of the Vaucouleurs\ngarrithon told me all about her.",
-  "fr": "Robert de la garnison de\nVaucouleurs \fm'a tout raconté sur elle.",
+  "fr": "Robert de la garnison de\nVaucouleurs m'a tout raconté sur\felle.",
   "src": "pinky"
  },
  {
@@ -689,7 +689,7 @@
   "max": 34,
   "who": "Georges",
   "en": "I've alwayth wanted to mock a\nmockingbird.",
-  "fr": "J'ai toujours voulu railler\nun oiseau moqueur.",
+  "fr": "J'ai toujours voulu railler un\noiseau moqueur.",
   "src": "pinky"
  },
  {
@@ -713,7 +713,7 @@
   "max": 34,
   "who": "Georges",
   "en": "It wath you, dauphin, who wanted\na chanth to outthmart the\nwench...",
-  "fr": "C'était vous, dauphin, qui vouliez\nune chance de mettre\fdans votre poche la jeune\nfemme...",
+  "fr": "C'était vous, dauphin,\fqui vouliez une chance de mettre\ndans votre poche la jeune\ffemme...",
   "src": "pinky"
  },
  {
@@ -770,7 +770,7 @@
   "max": 34,
   "who": "Marcel",
   "en": "But then you started fighting,",
-  "fr": "Mais quand vous avez commencé\nà vous battre,",
+  "fr": "Mais quand vous avez commencé à\nvous battre,",
   "src": "pinky"
  },
  {
@@ -778,7 +778,7 @@
   "max": 34,
   "who": "Marcel",
   "en": "and it was just like an angel \nhad come down from heaven to \nsave us!",
-  "fr": "vous étiez comme un ange\ndescendu du ciel pour\fnous sauver !",
+  "fr": "vous étiez comme un ange\ndescendu du ciel pour nous\fsauver !",
   "src": "pinky"
  },
  {
@@ -786,7 +786,7 @@
   "max": 34,
   "who": "Colet",
   "en": "Oh, why don't you lay eet on just \na leetle zeeker, mon ami? C'mere\\u2014",
-  "fr": "Oh, pourquoi ne lui fais-tu\npas un petit bisou, mon ami ?",
+  "fr": "Oh, pourquoi ne lui fais-tu pas un\npetit bisou, mon ami ?",
   "src": "pinky"
  },
  {
@@ -802,7 +802,7 @@
   "max": 34,
   "who": "Liane",
   "en": "J-Jeanne...\nOver th-there...",
-  "fr": "J-Jeanne...\nLà-bas...",
+  "fr": "J-Jeanne... Là-bas...",
   "src": "pinky"
  },
  {
@@ -835,7 +835,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Why!\nWhy are you after the armlet?!",
-  "fr": "Pourquoi !\fPourquoi en avez-vous après le\nbracelet ?!",
+  "fr": "Pourquoi ! Pourquoi en avez-vous\naprès le bracelet ?!",
   "src": "pinky"
  },
  {
@@ -1682,7 +1682,7 @@
   "max": 34,
   "who": "",
   "en": "We're finally in Chinon, we must speak to the prince.",
-  "fr": "Nous sommes enfin à Chinon, allons\nvoir le prince.",
+  "fr": "Nous sommes enfin à Chinon,\nallons voir le prince.",
   "src": "pinky"
  },
  {
@@ -1706,7 +1706,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "Har!\nTill we meet again.",
-  "fr": "Harrr !\nOn se reverra !",
+  "fr": "Harrr ! On se reverra !",
   "src": "pinky"
  },
  {
@@ -1762,7 +1762,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Tell me, did you bring the armlet \nhere? Or did it bring you?",
-  "fr": "Dites-moi, est-ce vous qui avez\napporté le bracelet ici,\fou est-ce lui qui vous y a\nguidée ?",
+  "fr": "Dites-moi, est-ce vous qui avez\napporté le bracelet ici,\fou est-ce lui qui vous y a guidée ?",
   "src": "pinky",
   "relu": true
  },
@@ -1771,7 +1771,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "...I came of my own free will.",
-  "fr": "... Je suis venue de mon propre\nchef.",
+  "fr": "...\nJe suis venue de mon propre chef.",
   "src": "pinky"
  },
  {
@@ -1787,7 +1787,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Come join me in Chinon \nwhen you're ready. \nSafe journey, Jeanne.",
-  "fr": "Rejoignez-moi à Chinon\nquand vous serez prête. \fBonne route, Jeanne.",
+  "fr": "Rejoignez-moi à Chinon quand\nvous serez prête.\fBonne route, Jeanne.",
   "src": "pinky",
   "relu": true
  },
@@ -1829,7 +1829,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "You caught me on the way back\nfrom speaking with the dauphin\nand his counsellors...",
-  "fr": "Je rentre tout juste d'une\naudience avec le dauphin\fet ses conseillers.",
+  "fr": "Je rentre tout juste d'une\naudience avec le dauphin et ses\fconseillers.",
   "src": "pinky"
  },
  {
@@ -1861,7 +1861,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "The dauphin intends to test you\nby hiding himself\namong the nobles.",
-  "fr": "Le dauphin essaie de vous\ntester en se cachant\fparmi les nobles.",
+  "fr": "Le dauphin essaie de vous tester\nen se cachant parmi les nobles.",
   "src": "pinky"
  },
  {
@@ -1901,7 +1901,7 @@
   "max": 34,
   "who": "Colet",
   "en": "Go een zere and you weel be ze\nlaughing stock of ze town!",
-  "fr": "Si vous allez là-bas, vous serez\nla tête de Turc de la ville !",
+  "fr": "Si vous allez là-bas, vous serez la\ntête de Turc de la ville !",
   "src": "pinky",
   "relu": true
  },
@@ -1918,7 +1918,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "I thought I could dress like a\nnoble\nand pull the wool over your\neyes...\fbut it would appear I was wrong.",
-  "fr": "J'ai pensé que je pourrais\nm'habiller comme un noble\fmais il semblerait que j'ai\neu tort.",
+  "fr": "J'ai pensé que je pourrais\nm'habiller comme un noble\fmais il semblerait que j'ai eu tort.",
   "src": "pinky"
  },
  {
@@ -1967,7 +1967,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "The King of Heaven has chosen\nme to be his champion? I see...",
-  "fr": "Le Seigneur m'a choisi pour\nêtre son champion ? Je vois...",
+  "fr": "Le Seigneur m'a choisi pour être\nson champion ? Je vois...",
   "src": "pinky"
  },
  {
@@ -1983,7 +1983,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "Did you all hear?!",
-  "fr": "Vous avez entendu,\nvous autres ?!",
+  "fr": "Vous avez entendu, vous autres ?!",
   "src": "pinky"
  },
  {
@@ -1991,7 +1991,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "Heaven has chosen me!\fGod has placed France's future\nin my hands!",
-  "fr": "Le Ciel m'a choisi !\fDieu a placé le futur de la\nFrance entre mes mains !",
+  "fr": "Le Ciel m'a choisi !\fDieu a placé le futur de la France\nentre mes mains !",
   "src": "pinky"
  },
  {
@@ -2007,7 +2007,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "Rejoice, for France's day of\ntriumph is nigh at hand!",
-  "fr": "Réjouissez-vous, le triomphe de\nla France est à portée de main !",
+  "fr": "Réjouissez-vous, le triomphe de la\nFrance est à portée de main !",
   "src": "pinky"
  },
  {

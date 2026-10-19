@@ -44,7 +44,7 @@
   "max": 34,
   "who": "Jacques",
   "en": "Two pretty girls like you must be \nfighting off boys left and right.",
-  "fr": "Deux jolies filles comme vous\ndoivent repousser les avances\fde prétendants venant\nde toutes parts.",
+  "fr": "Deux jolies filles comme vous\ndoivent repousser les avances de\fprétendants venant de toutes\nparts.",
   "src": "pinky"
  },
  {
@@ -124,7 +124,7 @@
   "max": 34,
   "who": "Jacques",
   "en": "Oh, while you're out there, find \nRoger for me, would you?",
-  "fr": "Oh, pendant que vous êtes\nlà-bas, \ftrouvez Roger pour moi,\nd'accord ?",
+  "fr": "Oh, pendant que vous êtes là-bas,\ntrouvez Roger pour moi, d'accord ?",
   "src": "pinky"
  },
  {
@@ -132,7 +132,7 @@
   "max": 34,
   "who": "Jacques",
   "en": "He went out into the forest and \nhasn't come back yet.",
-  "fr": "Il est parti dans la forêt et\nn'est toujours pas revenu.",
+  "fr": "Il est parti dans la forêt et n'est\ntoujours pas revenu.",
   "src": "pinky"
  },
  {
@@ -148,7 +148,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Just once I'd like to see him do \nhis share of the village work.",
-  "fr": "Je voudrais juste une fois le voir\nfaire sa part de travail\fpour le village.",
+  "fr": "Je voudrais juste une fois le voir\nfaire sa part de travail pour le\fvillage.",
   "src": "pinky"
  },
  {
@@ -156,7 +156,7 @@
   "max": 34,
   "who": "Jacques",
   "en": "Easy, Jeanne.\fRoger is helping, in his own sort \nof way.",
-  "fr": "Du calme, Jeanne.\fRoger nous aide, à sa\nmanière.",
+  "fr": "Du calme, Jeanne.\fRoger nous aide, à sa manière.",
   "src": "pinky"
  },
  {
@@ -164,7 +164,7 @@
   "max": 34,
   "who": "Jacques",
   "en": "He works harder than most.",
-  "fr": "Il travaille plus dur que la\nplupart.",
+  "fr": "Il travaille plus dur que la plupart.",
   "src": "pinky"
  },
  {
@@ -172,7 +172,7 @@
   "max": 34,
   "who": "Jacques",
   "en": "Now enough grumbling. Off with \nyou both!",
-  "fr": "Arrêtez de râler. Ça suffit\ntoutes les deux !",
+  "fr": "Arrêtez de râler.\nÇa suffit toutes les deux !",
   "src": "pinky"
  },
  {
@@ -228,7 +228,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Roger never said a word about \nwho he was or where he came \nfrom...",
-  "fr": "Roger n'a jamais dit un mot\nsur qui il était\fni d'où il venait...",
+  "fr": "Roger n'a jamais dit un mot sur qui\nil était ni d'où il venait...",
   "src": "pinky"
  },
  {
@@ -260,7 +260,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Well, he gets along with \neveryone now...",
-  "fr": "Eh bien, il s'entend avec tout\nle monde maintenant...",
+  "fr": "Eh bien, il s'entend avec tout le\nmonde maintenant...",
   "src": "pinky"
  },
  {
@@ -268,7 +268,7 @@
   "max": 34,
   "who": "Liane",
   "en": "but I never get the sense that \nhe's really...opened up.",
-  "fr": "Mais je n'ai jamais eu\nle sentiment\fqu'il se soit vraiment... ouvert.",
+  "fr": "Mais je n'ai jamais eu le sentiment\nqu'il se soit vraiment... ouvert.",
   "src": "pinky"
  },
  {
@@ -300,7 +300,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Who...\nWho do you think he is?",
-  "fr": "Qui...\nQui ça peut bien être ?",
+  "fr": "Qui... Qui ça peut bien être ?",
   "src": "pinky"
  },
  {
@@ -308,7 +308,7 @@
   "max": 34,
   "who": "Liane",
   "en": "J-Jeanne...\nWe have to flee... Quickly!",
-  "fr": "J-Jeanne...\nNous devons fuir... Vite !",
+  "fr": "J-Jeanne... Nous devons fuir...\nVite !",
   "src": "pinky"
  },
  {
@@ -348,7 +348,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Who...\nWho's speaking to me?!",
-  "fr": "Qui...\nQui me parle ?!",
+  "fr": "Qui... Qui me parle ?!",
   "src": "pinky"
  },
  {
@@ -1591,7 +1591,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Jeanne!\nThat was amazing!",
-  "fr": "Jeanne !\nC'était incroyable !",
+  "fr": "Jeanne ! C'était incroyable !",
   "src": "pinky"
  },
  {
@@ -1599,7 +1599,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Where did you learn to wield a \nsword?",
-  "fr": "Où as-tu appris à manier\nl'épée ?",
+  "fr": "Où as-tu appris à manier l'épée ?",
   "src": "pinky"
  },
  {
@@ -1615,7 +1615,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I don't know where the strength \ncame from...",
-  "fr": "Je ne sais pas d'où la force\nest venue...",
+  "fr": "Je ne sais pas d'où la force est\nvenue...",
   "src": "pinky"
  },
  {
@@ -1623,7 +1623,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "This armlet.\nAnd that voice...",
-  "fr": "Ce bracelet.\nEt cette voix...",
+  "fr": "Ce bracelet. Et cette voix...",
   "src": "pinky"
  },
  {
@@ -1663,7 +1663,7 @@
   "max": 34,
   "who": "Roger",
   "en": "I was attacked by...by demons...",
-  "fr": "J'ai été attaqué par... par des\ndémons...",
+  "fr": "J'ai été attaqué par...\npar des démons...",
   "src": "pinky"
  },
  {
@@ -1695,7 +1695,7 @@
   "max": 34,
   "who": "Roger",
   "en": "What? The two of you took those \nmonsters on alone?!",
-  "fr": "Quoi ? Toutes les deux ? Vous\navez affronté des monstres ?!",
+  "fr": "Quoi ? Toutes les deux ? Vous avez\naffronté des monstres ?!",
   "src": "pinky"
  },
  {
@@ -1823,7 +1823,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "No...\nThis isn't real...",
-  "fr": "Non...\nC'est impossible...",
+  "fr": "Non... C'est impossible...",
   "src": "pinky"
  },
  {
@@ -1887,7 +1887,7 @@
   "max": 34,
   "who": "",
   "en": "THE ARMLET... \nHOLD IT ALOFT......",
-  "fr": "LE BRACELET...\nMETS-LE......",
+  "fr": "LE BRACELET... METS-LE......",
   "src": "pinky"
  },
  {
@@ -1999,7 +1999,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Don't worry! \nI won't let him fight alone!",
-  "fr": "Ne t'inquiète pas ! \fJe ne vais pas le laisser se battre\nseul !",
+  "fr": "Ne t'inquiète pas ! Je ne vais pas le\nlaisser se battre seul !",
   "src": "pinky"
  }
 ]

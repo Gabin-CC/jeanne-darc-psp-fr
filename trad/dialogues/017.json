@@ -524,7 +524,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Good! What doesn't kill you makes\nme stronger, hee hee! Ta ta.",
-  "fr": "Bien ! Ce qui ne vous tue pas\nme rend plus fort, hi hi ! Ta ta.",
+  "fr": "Bien ! Ce qui ne vous tue pas me\nrend plus fort, hi hi ! Ta ta.",
   "src": "pinky"
  },
  {
@@ -548,7 +548,7 @@
   "max": 34,
   "who": "",
   "en": "Stop Henry VI's coronation! To Reims!",
-  "fr": "Arrêter le couronnement d'Henry VI à\nReims !",
+  "fr": "Arrêter le couronnement d'Henry\nVI à Reims !",
   "src": "pinky"
  },
  {
@@ -572,7 +572,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "Ahem... What matters most, Sire,\nis that we have gained a\ntemporary reprieve from civil\nwar on French soil.",
-  "fr": "Ahem... Ce qui importe le plus,\nSire,\fc'est que nous ayons gagné un\nsursis temporaire\fdans la guerre civile sur le sol\nfrançais.",
+  "fr": "Ahem...\fCe qui importe le plus, Sire,\fc'est que nous ayons gagné un\nsursis temporaire dans la guerre\fcivile sur le sol français.",
   "src": "pinky",
   "relu": true
  },
@@ -581,7 +581,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "Now only one enemy remains:\nHenry VI. England.",
-  "fr": "Maintenant il ne reste qu'un\nennemi :\fHenry VI. L'Angleterre.",
+  "fr": "Maintenant il ne reste qu'un\nennemi : Henry VI. L'Angleterre.",
   "src": "pinky"
  },
  {
@@ -589,7 +589,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "...I owe it to you and your\nsecret negotiations, Richemont.",
-  "fr": "... Je vous remercie vous et\nvos négociations secrètes,\fRichemont.",
+  "fr": "... Je vous remercie vous et vos\nnégociations secrètes, Richemont.",
   "src": "pinky"
  },
  {
@@ -613,7 +613,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "you've changed in my absence.\nYou look...haggard, Sire.",
-  "fr": "vous avez changé durant mon\nabsence.\fVous semblez... perdu Sire.",
+  "fr": "vous avez changé durant mon\nabsence. Vous semblez...\fperdu Sire.",
   "src": "pinky"
  },
  {
@@ -645,7 +645,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "My dear Georges has gone\nmissing...\fbut I suppose the army will not\nbe mourning his absence, hmm?",
-  "fr": "Mon cher Georges est porté\ndisparu...\fmais je pense que l'armée\nne pleurera pas son absence.",
+  "fr": "Mon cher Georges est porté\ndisparu...\fmais je pense que l'armée ne\npleurera pas son absence.",
   "src": "pinky"
  },
  {
@@ -661,7 +661,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "Might I have a moment, Your\nGrace?",
-  "fr": "Auriez-vous un moment,\nVotre Grâce ?",
+  "fr": "Auriez-vous un moment, Votre\nGrâce ?",
   "src": "pinky"
  },
  {
@@ -677,7 +677,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "We must make ready for the\nceremony.",
-  "fr": "Nous devons nous préparer\npour la cérémonie.",
+  "fr": "Nous devons nous préparer pour\nla cérémonie.",
   "src": "pinky"
  },
  {
@@ -685,7 +685,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "I was hoping you would be so\nkind as to select the guests.",
-  "fr": "J'espérais que vous voudriez\nbien choisir les invités.",
+  "fr": "J'espérais que vous voudriez bien\nchoisir les invités.",
   "src": "pinky"
  },
  {
@@ -717,7 +717,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "An ugly civil war is about to\ndraw to a close\\u2014",
-  "fr": "Une horrible guerre civile est\nsur le point de s'achever...",
+  "fr": "Une horrible guerre civile est sur\nle point de s'achever...",
   "src": "pinky"
  },
  {
@@ -741,7 +741,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "Once...people vilified you,",
-  "fr": "Jadis... les gens vous ont\ninsultée,",
+  "fr": "Jadis... les gens vous ont insultée,",
   "src": "pinky"
  },
  {
@@ -765,7 +765,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "...But then the people started\ncalling my saint the witch,",
-  "fr": "... Mais alors les gens ont\ncommencé\fà appeler ma sainte la sorcière,",
+  "fr": "...\fMais alors les gens ont commencé\nà appeler ma sainte la sorcière,",
   "src": "pinky"
  },
  {
@@ -773,7 +773,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "and me, a wretch crowned by a\ntool of the devil.",
-  "fr": "et moi, le misérable, couronné\npar la main du diable.",
+  "fr": "et moi, le misérable, couronné par\nla main du diable.",
   "src": "pinky"
  },
  {
@@ -781,7 +781,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "And yet when I let their \"witch\"\nburn, they turned on me again.",
-  "fr": "Et maintenant que je les ai\nlaissés brûler la \"sorcière\",\fils se tournent de nouveau vers\nmoi.",
+  "fr": "Et maintenant que je les ai laissés\nbrûler la \"sorcière\",\fils se tournent de nouveau vers\nmoi.",
   "src": "pinky"
  },
  {
@@ -797,7 +797,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "I have become a subject to my\nsubjects...",
-  "fr": "Je suis devenu un sujet de\nmes sujets...",
+  "fr": "Je suis devenu un sujet de mes\nsujets...",
   "src": "pinky"
  },
  {
@@ -821,7 +821,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "Prince Henry VI of England...",
-  "fr": "Le prince Henry VI\nd'Angleterre...",
+  "fr": "Le prince Henry VI d'Angleterre...",
   "src": "pinky"
  },
  {
@@ -829,7 +829,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "has announced his coronation at\nReims.",
-  "fr": "il a annoncé son couronnement\nà Reims.",
+  "fr": "il a annoncé son couronnement à\nReims.",
   "src": "pinky"
  },
  {
@@ -845,7 +845,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "Well, he's too late! I am already\nking of France!",
-  "fr": "Mais il est trop tard ! Je suis\ndéjà roi de France !",
+  "fr": "Mais il est trop tard !\nJe suis déjà roi de France !",
   "src": "pinky"
  },
  {
@@ -861,7 +861,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "We cannot sit back and let him.\nWe must act accordingly.",
-  "fr": "Nous ne pouvons rester assis et\nle laisser faire.\fNous devons agir en\nconséquence.",
+  "fr": "Nous ne pouvons rester assis et le\nlaisser faire.\fNous devons agir en conséquence.",
   "src": "pinky",
   "relu": true
  },
@@ -886,7 +886,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "With the Duke of Burgundy's\ntroops withdrawn,",
-  "fr": "Avec le retrait des troupes du\nDuc de Bourgogne,",
+  "fr": "Avec le retrait des troupes du Duc\nde Bourgogne,",
   "src": "pinky"
  },
  {
@@ -894,7 +894,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "you can vie directly with Henry\nfor control of the capital.",
-  "fr": "vous pouvez rivaliser\ndirectement avec Henry\fpour le contrôle de la capitale.",
+  "fr": "vous pouvez rivaliser directement\navec Henry pour le contrôle de la\fcapitale.",
   "src": "pinky"
  },
  {
@@ -942,7 +942,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "While we invade a masterless\nParis, you are to head to Reims.",
-  "fr": "Alors que nous envahirons un\nParis sans régent, \fvous vous dirigerez vers Reims.",
+  "fr": "Alors que nous envahirons un\nParis sans régent,\fvous vous dirigerez vers Reims.",
   "src": "pinky"
  },
  {
@@ -950,7 +950,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "For the time being, your ranks\nand mine will act separately.",
-  "fr": "Pour le moment, vos troupes et\nles miennes agiront séparément.",
+  "fr": "Pour le moment, vos troupes et les\nmiennes agiront séparément.",
   "src": "pinky"
  },
  {
@@ -974,7 +974,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Oh, now really. Do I look the sort\nto go through all that trouble?",
-  "fr": "Oh, voyons. Ai-je l'air du genre\nà me donner tant de peine ?",
+  "fr": "Oh, voyons. Ai-je l'air du genre à\nme donner tant de peine ?",
   "src": "pinky",
   "relu": true
  },
@@ -991,7 +991,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Come closer! What's the matter?\nAfraid to strike a child?",
-  "fr": "Approche-toi ! Quel est le\nproblème ? \fTu as peur de frapper un\nbambin ?",
+  "fr": "Approche-toi !\nQuel est le problème ?\fTu as peur de frapper un bambin ?",
   "src": "pinky"
  },
  {
@@ -1007,7 +1007,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "You're about to find out.",
-  "fr": "Tu es à deux doigts de le\ndécouvrir.",
+  "fr": "Tu es à deux doigts de le découvrir.",
   "src": "pinky"
  },
  {
@@ -1071,7 +1071,7 @@
   "max": 34,
   "who": "Isabeau",
   "en": "My darling Henry is to be\ncrowned king of France,",
-  "fr": "Mon cher Henry va être\ncouronné roi de France,",
+  "fr": "Mon cher Henry va être couronné\nroi de France,",
   "src": "pinky"
  },
  {
@@ -1079,7 +1079,7 @@
   "max": 34,
   "who": "Isabeau",
   "en": "and I get to feast on fresh\nhors d'oeuvres!",
-  "fr": "et je vais me délecter de\ndélicieux hors-d'oeuvre !",
+  "fr": "et je vais me délecter de délicieux\nhors-d'oeuvre !",
   "src": "pinky",
   "relu": true
  },
@@ -1112,7 +1112,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Really, now.\nWhat's your rush, witchy?",
-  "fr": "À nous, maintenant. Pourquoi\ncette hâte, sorcière ?",
+  "fr": "À nous, maintenant.\nPourquoi cette hâte, sorcière ?",
   "src": "pinky"
  },
  {
@@ -1381,7 +1381,7 @@
   "max": 34,
   "who": "Isabeau",
   "en": "Not until I see my son's\nbeautiful face again...",
-  "fr": "Pas avant de revoir le si joli\nvisage de mon fils...",
+  "fr": "Pas avant de revoir le si joli visage\nde mon fils...",
   "src": "pinky"
  },
  {
@@ -1389,7 +1389,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Queen Isabeau... We wouldn't\ndream of harming you.",
-  "fr": "Reine Isabeau... Nous ne\nsaurions vous causer du tort.",
+  "fr": "Reine Isabeau... Nous ne saurions\nvous causer du tort.",
   "src": "pinky"
  },
  {
@@ -1397,7 +1397,7 @@
   "max": 34,
   "who": "Isabeau",
   "en": "Oh, Charles...my darling\nCharles!\nYour mother is here for you\\u2014",
-  "fr": "Oh Charles... Mon si cher\nCharles !",
+  "fr": "Oh Charles... Mon si cher Charles !",
   "src": "pinky"
  },
  {
@@ -1429,7 +1429,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Gosh! What do you think?\nUgh, really! Enough games.",
-  "fr": "Oh mon dieu ! Mais à quoi tu\njoues ? Vraiment !\fSuffit les enfantillages.",
+  "fr": "Oh mon dieu !\nMais à quoi tu joues ? Vraiment !\fSuffit les enfantillages.",
   "src": "pinky"
  },
  {
@@ -1437,7 +1437,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Would you mind terribly if I\nscrapped this puny body now?",
-  "fr": "Cela vous ennuierait-il beaucoup\nsi j'abandonnais\fce corps chétif ?",
+  "fr": "Cela vous ennuierait-il beaucoup\nsi j'abandonnais ce corps chétif ?",
   "src": "pinky",
   "relu": true
  },
@@ -1462,7 +1462,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "But I was talking to the toad.\nWell? You can speak, can't you?",
-  "fr": "Je parlais à la grenouille.\nEt ? Tu peux parler, non ?",
+  "fr": "Je parlais à la grenouille. Et ?\nTu peux parler, non ?",
   "src": "pinky"
  },
  {
@@ -1470,7 +1470,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Now's your big chance to stop\nme, you know.",
-  "fr": "C'est ta chance pour m'arrêter,\ntu sais.",
+  "fr": "C'est ta chance pour m'arrêter, tu\nsais.",
   "src": "pinky"
  },
  {
@@ -1478,7 +1478,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Won't you miss this cute widdle\nbody of yours once I BREAK it?",
-  "fr": "Cet adorable petit corps va vous\nmanquer\fquand je l'aurai DÉTRUIT ?",
+  "fr": "Cet adorable petit corps va vous\nmanquer quand je l'aurai\fDÉTRUIT ?",
   "src": "pinky",
   "relu": true
  },
@@ -1487,7 +1487,7 @@
   "max": 34,
   "who": "Roger",
   "en": "...Stop stalling. If you're going\nto kill them, then kill them.",
-  "fr": "... Arrête d'épiloguer. Si tu veux\nles tuer, alors tue-les.",
+  "fr": "... Arrête d'épiloguer.\nSi tu veux les tuer, alors tue-les.",
   "src": "pinky"
  },
  {
@@ -1495,7 +1495,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Ah, it's you! How kind of you\nto finally pay me a visit.",
-  "fr": "Ah, c'est toi ! Comme c'est\naimable de ta part \fde me rendre visite.",
+  "fr": "Ah, c'est toi ! Comme c'est aimable\nde ta part de me rendre visite.",
   "src": "pinky"
  },
  {
@@ -1503,7 +1503,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "I have been simply itching to\nput you out of your misery!",
-  "fr": "J'avais juste envie de venir\nte sortir de tes ennuis.",
+  "fr": "J'avais juste envie de venir te\nsortir de tes ennuis.",
   "src": "pinky"
  },
  {
@@ -1511,7 +1511,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Creating you was undoubtedly\none of my career lows...",
-  "fr": "Te créer a été indubitablement\nun de mes échecs...",
+  "fr": "Te créer a été indubitablement un\nde mes échecs...",
   "src": "pinky"
  },
  {
@@ -1544,7 +1544,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Run, Jeanne! If we stay here,\nwe're dead for certain.",
-  "fr": "Cours, Jeanne ! Si nous restons\nici, nous allons y rester.",
+  "fr": "Cours, Jeanne ! Si nous restons ici,\nnous allons y rester.",
   "src": "pinky"
  },
  {
@@ -1584,7 +1584,7 @@
   "max": 34,
   "who": "Roger",
   "en": "...You don't scare me. And no\none kills Jeanne before I do.",
-  "fr": "... Vous ne me faites pas peur.\fEt personne ne tuera Jeanne avant\nmoi.",
+  "fr": "... Vous ne me faites pas peur.\fEt personne ne tuera Jeanne\navant moi.",
   "src": "pinky",
   "relu": true
  },
@@ -1633,7 +1633,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Scream! Shriek! More, MORE!\nLet your cries rend the heavens!",
-  "fr": "Crie ! Hurle ! Vas-y ! VAS-Y !\fLaisse tes cris atteindre les\ncieux !",
+  "fr": "Crie ! Hurle ! Vas-y ! VAS-Y !\nLaisse tes cris atteindre les cieux !",
   "src": "pinky"
  },
  {
@@ -1665,7 +1665,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "When Gilvaroth was revived by\nmy uncle, the Duke of Bedford,",
-  "fr": "Quand mon oncle, le Duc de\nBedford a ramené Gilvaroth\fd'entre les morts,",
+  "fr": "Quand mon oncle,\fle Duc de Bedford a ramené\nGilvaroth d'entre les morts,",
   "src": "pinky"
  },
  {
@@ -1713,7 +1713,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "So that was the knight we saw\nat the chapel outside Domremy...",
-  "fr": "C'était donc ce chevalier que\nnous avons vu à la chapelle\fde Domrémy...",
+  "fr": "C'était donc ce chevalier que nous\navons vu à la chapelle de\fDomrémy...",
   "src": "pinky"
  },
  {
@@ -1729,7 +1729,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Why hide the fact that you're\nHenry?",
-  "fr": "Pourquoi nous cacher\nta véritable identité,\fque tu es Henry VI ?",
+  "fr": "Pourquoi nous cacher ta véritable\nidentité, que tu es Henry VI ?",
   "src": "pinky",
   "relu": true
  },
@@ -1738,7 +1738,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "Well...I was everyone's enemy.",
-  "fr": "Eh bien... J'étais l'ennemi de\ntous...",
+  "fr": "Eh bien... J'étais l'ennemi de tous...",
   "src": "pinky"
  },
  {
@@ -1813,7 +1813,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "And now, he only grows\nstronger...",
-  "fr": "Et à présent, son pouvoir ne\ncesse de s'accroître...",
+  "fr": "Et à présent, son pouvoir ne cesse\nde s'accroître...",
   "src": "pinky"
  },
  {
@@ -1830,7 +1830,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "Right now he's trapped inside\nmy body, behaving himself,",
-  "fr": "À présent il est bien sage, pris\nau piège dans mon corps,",
+  "fr": "À présent il est bien sage, pris au\npiège dans mon corps,",
   "src": "pinky"
  },
  {
@@ -1838,7 +1838,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "but soon his true form will break\nfree and conquer the world.",
-  "fr": "mais bientôt, sa vraie forme se\nlibèrera et il partira\fà la conquête du monde.",
+  "fr": "mais bientôt,\fsa vraie forme se libèrera et il\npartira à la conquête du monde.",
   "src": "pinky"
  },
  {
@@ -1846,7 +1846,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "Once that happens, no human will\nbe able to stand against him.",
-  "fr": "Si ça se produit, aucun humain\nne sera en mesure de le vaincre.",
+  "fr": "Si ça se produit, aucun humain ne\nsera en mesure de le vaincre.",
   "src": "pinky"
  },
  {
@@ -1862,7 +1862,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "Stop Gilvaroth before his true\nform awakens\\u2014",
-  "fr": "Arrêtez Gilvaroth avant qu'il ne\nse montre\fsous sa véritable forme...",
+  "fr": "Arrêtez Gilvaroth avant qu'il ne\nse montre sous sa véritable\fforme...",
   "src": "pinky"
  },
  {
@@ -1870,7 +1870,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "and help my uncle see the error\nof his ways.",
-  "fr": "et aidez mon oncle à voir qu'il\nest sur la mauvaise voie.",
+  "fr": "et aidez mon oncle à voir qu'il est\nsur la mauvaise voie.",
   "src": "pinky"
  },
  {
@@ -1894,7 +1894,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Grr...\nJust wait, Jeanne.",
-  "fr": "Grrr...\nAttends, Jeanne.",
+  "fr": "Grrr... Attends, Jeanne.",
   "src": "pinky"
  },
  {
@@ -1902,7 +1902,7 @@
   "max": 34,
   "who": "Roger",
   "en": "I swear...\nI SWEAR I'll kill you...",
-  "fr": "Je jure...\nJE JURE que je te tuerai...",
+  "fr": "Je jure... JE JURE que je te tuerai...",
   "src": "pinky"
  },
  {
@@ -1918,7 +1918,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Huff, huff...\nYou again?",
-  "fr": "Pfff, pffff...\nEncore toi ?",
+  "fr": "Pfff, pffff... Encore toi ?",
   "src": "pinky"
  },
  {
@@ -1967,7 +1967,7 @@
   "max": 34,
   "who": "",
   "en": "Head for Paris Warren by way of the Guillorey Canal!",
-  "fr": "Droit sur Paris par le canal Guillorey\n!",
+  "fr": "Droit sur Paris par le canal\nGuillorey !",
   "src": "pinky"
  },
  {
@@ -1999,7 +1999,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "We should never have abandoned\nour mission at the cathedral...",
-  "fr": "Nous n'aurions jamais dû\nabandonner notre mission\fà la cathédrale...",
+  "fr": "Nous n'aurions jamais dû\nabandonner notre mission à la\fcathédrale...",
   "src": "pinky"
  },
  {
@@ -2015,7 +2015,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "I cannot have you dying when we\nhave yet to recapture Paris.",
-  "fr": "Je ne pouvais te laisser\nmourir à la veille\fde reprendre Paris.",
+  "fr": "Je ne pouvais te laisser mourir à la\nveille de reprendre Paris.",
   "src": "pinky"
  },
  {
@@ -2023,7 +2023,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "Gilles...you were born in\nBrittany, were you not?",
-  "fr": "Gilles, tu es originaire de\nBretagne, non ?",
+  "fr": "Gilles, tu es originaire de Bretagne,\nnon ?",
   "src": "pinky"
  }
 ]

@@ -4,7 +4,7 @@
   "max": 34,
   "who": "Elder",
   "en": "of how stubborn their subject's\nsoul would be.",
-  "fr": "de la force d'esprit de leur\ncobaye.",
+  "fr": "de la force d'esprit de leur cobaye.",
   "src": "pinky"
  },
  {
@@ -20,7 +20,7 @@
   "max": 34,
   "who": "Elder",
   "en": "You must seek him out...ere his\nsoul succumbs to the sinister.",
-  "fr": "Vous devez le trouver... avant\nque son âme ne succombe\faux ténèbres.",
+  "fr": "Vous devez le trouver...\favant que son âme ne succombe\naux ténèbres.",
   "src": "pinky"
  },
  {
@@ -36,7 +36,7 @@
   "max": 34,
   "who": "Roger",
   "en": "The last of them, I'd guess.\nSneaky little dwarf bastards.",
-  "fr": "Le dernier, je pense. Sales\npetits êtres sournois.",
+  "fr": "Le dernier, je pense.\nSales petits êtres sournois.",
   "src": "pinky"
  },
  {
@@ -44,7 +44,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Roger...\nWhy did you just save me?",
-  "fr": "Roger...\nPourquoi m'avoir sauvée ?",
+  "fr": "Roger... Pourquoi m'avoir sauvée ?",
   "src": "pinky"
  },
  {
@@ -69,7 +69,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Roger...\nAre you really a reaper?",
-  "fr": "Roger... Es-tu vraiment un\nmoissonneur ?",
+  "fr": "Roger...\nEs-tu vraiment un moissonneur ?",
   "src": "pinky",
   "relu": true
  },
@@ -102,7 +102,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I thought you wanted to kill me!",
-  "fr": "Je pensais que tu voulais me\ntuer !",
+  "fr": "Je pensais que tu voulais me tuer !",
   "src": "pinky"
  },
  {
@@ -110,7 +110,7 @@
   "max": 34,
   "who": "Roger",
   "en": "I'm here to get my hands on the\nultimate power.",
-  "fr": "Je suis ici pour mettre la main\nsur le pouvoir ultime.",
+  "fr": "Je suis ici pour mettre la main sur\nle pouvoir ultime.",
   "src": "pinky"
  },
  {
@@ -374,7 +374,7 @@
   "max": 34,
   "who": "Village Dwarf",
   "en": "Woh, my! Dey made short work of\nda twaps, didn't dey?",
-  "fr": "Whaa ! Ils ont esquivé les pièges\nen un rien de temps !",
+  "fr": "Whaa ! Ils ont esquivé les pièges en\nun rien de temps !",
   "src": "pinky",
   "relu": true
  },
@@ -383,7 +383,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "...D-da gem! It's gone!",
-  "fr": "... La... La gemme !\nElle a disparu !",
+  "fr": "... La... La gemme ! Elle a disparu !",
   "src": "pinky"
  },
  {
@@ -400,7 +400,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Wuhhh-WHAT?! ...ACHOO!",
-  "fr": "Quue... QUOI ?!\n... ATCHOUM !",
+  "fr": "Quue... QUOI ?! ... ATCHOUM !",
   "src": "pinky"
  },
  {
@@ -408,7 +408,7 @@
   "max": 34,
   "who": "Village Dwarf",
   "en": "Woh, no, Doyen!\nYer awwergies!",
-  "fr": "Ah, non, doyen !\nVos allergies !",
+  "fr": "Ah, non, doyen ! Vos allergies !",
   "src": "pinky"
  },
  {
@@ -416,7 +416,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Dat waddie in da cape took it?\nDa test subject?",
-  "fr": "C'est le type à la cape qui l'a\nprise ? Le cobaye ?",
+  "fr": "C'est le type à la cape qui l'a prise ?\nLe cobaye ?",
   "src": "pinky"
  },
  {
@@ -432,7 +432,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Ye have to wecover da gem!\nQuickwy, while dere's still time!\fIf his weaper comes back to wife,\nwie's all doomed! ",
-  "fr": "Il faut qu'on récupère la gemme !\nVite, tant qu'il est encore temps !\fSi le moissonneur revient à la\nvie, il n'y aura plus aucun espoir.",
+  "fr": "Il faut qu'on récupère la gemme !\nVite, tant qu'il est encore temps !\fSi le moissonneur revient à la vie,\nil n'y aura plus aucun espoir.",
   "src": "pinky",
   "relu": true
  },
@@ -466,7 +466,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Dey killed thousands o' soldiers\ntwyin' to bwing back da weapers. ",
-  "fr": "Ils ont décimé des milliers de\nsoldats en essayant de ramener\fle moissonneur.",
+  "fr": "Ils ont décimé des milliers de\nsoldats en essayant de ramener le\fmoissonneur.",
   "src": "pinky",
   "relu": true
  },
@@ -475,7 +475,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "And dey made us help. Not wery\npweasant times for us dwarfs...",
-  "fr": "Et ils nous ont forcés à les\naider.\fCe ne sont pas des jours\nheureux pour les nains.",
+  "fr": "Et ils nous ont forcés à les aider.\fCe ne sont pas des jours heureux\npour les nains.",
   "src": "pinky",
   "relu": true
  },
@@ -484,7 +484,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Why would the English do that?",
-  "fr": "Pourquoi les Anglais feraient\nune telle chose ?",
+  "fr": "Pourquoi les Anglais feraient une\ntelle chose ?",
   "src": "pinky",
   "relu": true
  },
@@ -493,7 +493,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Da wesearchers demselves were\npossessed by weapers, dat's why.",
-  "fr": "Les chercheurs eux-mêmes\nétaient possédés par\fles moissonneurs, c'est pour ça.",
+  "fr": "Les chercheurs eux-mêmes\nétaient possédés par les\fmoissonneurs, c'est pour ça.",
   "src": "pinky",
   "relu": true
  },
@@ -502,7 +502,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Most o' da soldiers dey pwayed\nGod with wejected the weapers,\fand 'fore wong, Soldat was full\nto da bwim with human\nvegetables.",
-  "fr": "La plupart des soldats sur\nlesquels ils ont fait leurs\fexpérimentations ont rejeté le\nmoissonneur.\fLe Soldat s'est retrouvé plein\nd'unités à l'état de légumes.",
+  "fr": "La plupart des soldats sur lesquels\nils ont fait leurs expérimentations\font rejeté le moissonneur.\fLe Soldat s'est retrouvé plein\nd'unités à l'état de légumes.",
   "src": "pinky",
   "relu": true
  },
@@ -511,7 +511,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "But den, finawwy, a weaper's\nsoul took to one o' da soldiers.",
-  "fr": "Mais enfin, l'âme d'un\nmoissonneur s'est greffée\fdans le corps d'un soldat.",
+  "fr": "Mais enfin,\fl'âme d'un moissonneur s'est\ngreffée dans le corps d'un soldat.",
   "src": "pinky",
   "relu": true
  },
@@ -520,7 +520,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Sad to say, even dat ended badwy.",
-  "fr": "C'est triste à dire mais même ça\na mal fini.",
+  "fr": "C'est triste à dire mais même ça a\nmal fini.",
   "src": "pinky"
  },
  {
@@ -537,7 +537,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "And dat soldier is yer fwiend in\nda cape.",
-  "fr": "Et ce soldat est votre ami avec\nla cape.",
+  "fr": "Et ce soldat est votre ami avec la\ncape.",
   "src": "pinky"
  },
  {
@@ -554,7 +554,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I never knew...\nPoor Roger.",
-  "fr": "Je ne le savais pas... Pauvre\nRoger.",
+  "fr": "Je ne le savais pas... Pauvre Roger.",
   "src": "pinky"
  },
  {
@@ -562,7 +562,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "The waddie's soul is bweakin'.\nHe'll be finished before wong.",
-  "fr": "L'âme du pauvre gars est en\ntrain de se disloquer.\fC'en sera fini de lui sous peu.",
+  "fr": "L'âme du pauvre gars est en train\nde se disloquer.\fC'en sera fini de lui sous peu.",
   "src": "pinky"
  },
  {
@@ -570,7 +570,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Ye've wery widdle time weft.\nIf ye want to save him,\fye'll have to chase him down and\nstop da weaper fwom wevivin'.",
-  "fr": "Il ne vous reste que très peu de\ntemps. Si vous voulez le sauver,\fvous allez devoir le retrouver et\narrêter le moissonneur\fqui le parasite.",
+  "fr": "Il ne vous reste que très peu de\ntemps. Si vous voulez le sauver,\fvous allez devoir le retrouver et\narrêter le moissonneur qui le\fparasite.",
   "src": "pinky",
   "relu": true
  },
@@ -587,7 +587,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "You have to return it.\nRoger, it's for your own good!",
-  "fr": "Il faut la rendre. Roger, c'est\npour ton bien.",
+  "fr": "Il faut la rendre.\nRoger, c'est pour ton bien.",
   "src": "pinky"
  },
  {
@@ -595,7 +595,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "If you don't stop now,",
-  "fr": "Si tu n'arrêtes pas\nimmédiatement,",
+  "fr": "Si tu n'arrêtes pas immédiatement,",
   "src": "pinky"
  },
  {
@@ -611,7 +611,7 @@
   "max": 34,
   "who": "Roger",
   "en": "That's my problem!\nNo one asked you for help!",
-  "fr": "C'est mon problème ! Personne\nne t'a demandé de m'aider !",
+  "fr": "C'est mon problème ! Personne ne\nt'a demandé de m'aider !",
   "src": "pinky"
  },
  {
@@ -619,7 +619,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Why can't you let go of the\nghosts of the past?",
-  "fr": "Pourquoi ne pas laisser en paix\nles fantômes du passé ?",
+  "fr": "Pourquoi ne pas laisser en paix les\nfantômes du passé ?",
   "src": "pinky"
  },
  {
@@ -675,7 +675,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "After all our years of research,\fresults like this were\nexceedingly simple to achieve.",
-  "fr": "Après tant d'années de\nrecherches,\fen arriver à de tels résultats\nétait des plus simples.",
+  "fr": "Après tant d'années de\nrecherches,\fen arriver à de tels résultats était\ndes plus simples.",
   "src": "pinky"
  },
  {
@@ -691,7 +691,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "Uncle, please stop!",
-  "fr": "Mon oncle ! Je vous en prie,\narrêtez !",
+  "fr": "Mon oncle !\nJe vous en prie, arrêtez !",
   "src": "pinky"
  },
  {
@@ -699,7 +699,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "\"Uncle\"? What?!\nYOU'RE the Duke of Bedford?",
-  "fr": "\"Oncle\" ? Quoi ?! VOUS êtes le\nDuc de Bedford ?",
+  "fr": "\"Oncle\" ? Quoi ?!\nVOUS êtes le Duc de Bedford ?",
   "src": "pinky"
  },
  {
@@ -715,7 +715,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Hey, hold on! A reaper like you\ncan't die!",
-  "fr": "Hé, une minute ! Les\nmoissonneurs sont immortels !",
+  "fr": "Hé, une minute !\nLes moissonneurs sont immortels !",
   "src": "pinky",
   "relu": true
  },
@@ -724,7 +724,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Huff, huff...\nYou are all going to PAY!",
-  "fr": "Pfff... Pfff...\nVous allez le PAYER !",
+  "fr": "Pfff... Pfff... Vous allez le PAYER !",
   "src": "pinky"
  },
  {
@@ -732,7 +732,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "Hmm?\nWell, this is disheartening.",
-  "fr": "Hmmm ? Voilà qui est\ndécourageant.",
+  "fr": "Hmmm ?\nVoilà qui est décourageant.",
   "src": "pinky"
  },
  {
@@ -740,7 +740,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "I was hoping for a chance to put\nthe new armor through some\ntests.",
-  "fr": "J'espérais une occasion de\nmettre la nouvelle armure\fpour effectuer quelques tests.",
+  "fr": "J'espérais une occasion de mettre\nla nouvelle armure pour effectuer\fquelques tests.",
   "src": "pinky"
  },
  {
@@ -748,7 +748,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Bedford! How dare a human like\nyou try to attack me!",
-  "fr": "Bedford ! Comment un simple\nhumain tel que vous\fose m'attaquer ?!",
+  "fr": "Bedford !\fComment un simple humain tel\nque vous ose m'attaquer ?!",
   "src": "pinky"
  },
  {
@@ -764,7 +764,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "Soldiers! Destroy Jeanne and her\nband of fools!",
-  "fr": "Soldats ! Tuez Jeanne et sa\nbande d'idiots !",
+  "fr": "Soldats !\nTuez Jeanne et sa bande d'idiots !",
   "src": "pinky"
  },
  {
@@ -1101,7 +1101,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "...Humph, take the trinket, if\nyou like.",
-  "fr": "... Mpff. Prends la babiole, si ça\nte chante.",
+  "fr": "... Mpff.\nPrends la babiole, si ça te chante.",
   "src": "pinky"
  },
  {
@@ -1109,7 +1109,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "Consider it a reward for helping\nme test the armor.",
-  "fr": "Considère que c'est pour te\nrécompenser de m'aider à\ftester l'armure.",
+  "fr": "Considère que c'est pour te\nrécompenser de m'aider à tester\fl'armure.",
   "src": "pinky"
  },
  {
@@ -1134,7 +1134,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Thousands have died, and you\nstole your own nephew's body!",
-  "fr": "Beaucoup sont morts, et toi, tu\nas volé le corps\fde ton propre neveu !",
+  "fr": "Beaucoup sont morts, et toi, tu as\nvolé le corps de ton propre neveu !",
   "src": "pinky"
  },
  {
@@ -1174,7 +1174,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "will seem no more than a dated\ntrinket in comparison.",
-  "fr": "votre bracelet sacré ne sera en\ncomparaison\fqu'une vieille babiole sans\nintérêt.",
+  "fr": "votre bracelet sacré ne sera en\ncomparaison qu'une vieille babiole\fsans intérêt.",
   "src": "pinky"
  },
  {
@@ -1238,7 +1238,7 @@
   "max": 34,
   "who": "Roger",
   "en": "after I kill every last one of\nthose bastards dead.",
-  "fr": "quand j'aurai tué jusqu'au\ndernier de cette vermine.",
+  "fr": "quand j'aurai tué jusqu'au dernier\nde cette vermine.",
   "src": "pinky"
  },
  {
@@ -1255,7 +1255,7 @@
   "max": 34,
   "who": "Richard",
   "en": "I never imagined such armor\ncould be forged by human hands.",
-  "fr": "Je n'aurais jamais pensé qu'une\ntelle armure puisse être forgée\fpar des humains.",
+  "fr": "Je n'aurais jamais pensé qu'une\ntelle armure puisse être forgée par\fdes humains.",
   "src": "pinky"
  },
  {
@@ -1263,7 +1263,7 @@
   "max": 34,
   "who": "Richard",
   "en": "Fighting those soldiers was\nlike fighting my own reflection.",
-  "fr": "Affronter ces soldats était\ncomme affronter\fmon propre reflet.",
+  "fr": "Affronter ces soldats était comme\naffronter mon propre reflet.",
   "src": "pinky"
  },
  {
@@ -1279,7 +1279,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "should they find a way to temper\nthat armor, or mass produce it...",
-  "fr": "ils devraient pouvoir trouver un\nmoyen de la renforcer\fou de la produire à grande\néchelle...",
+  "fr": "ils devraient pouvoir trouver un\nmoyen de la renforcer ou de la\fproduire à grande échelle...",
   "src": "pinky"
  },
  {
@@ -1287,7 +1287,7 @@
   "max": 34,
   "who": "Richard",
   "en": "Hmm... We would be utterly\npowerless to stand against them.",
-  "fr": "Hmmm... Nous serions alors\ntotalement impuissants\fface à eux.",
+  "fr": "Hmmm...\fNous serions alors totalement\nimpuissants face à eux.",
   "src": "pinky"
  },
  {
@@ -1303,7 +1303,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "You mean march to our deaths?",
-  "fr": "Tu veux dire nous rendre droit à\nla mort ?",
+  "fr": "Tu veux dire nous rendre droit à la\nmort ?",
   "src": "pinky"
  },
  {
@@ -1319,7 +1319,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Then we'll invade the facility\nand get rid of our problem.",
-  "fr": "Nous pourrons alors attaquer le\nlaboratoire et nous débarrasser\fde nos problèmes.",
+  "fr": "Nous pourrons alors attaquer le\nlaboratoire et nous débarrasser de\fnos problèmes.",
   "src": "pinky",
   "relu": true
  },
@@ -1416,7 +1416,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "Welcome...to the Bedford Inn...",
-  "fr": "Bienvenue... dans l'antre de\nBedford.",
+  "fr": "Bienvenue...\ndans l'antre de Bedford.",
   "src": "pinky"
  },
  {
@@ -1441,7 +1441,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I...I can't transform!",
-  "fr": "Je... Je n'arrive pas à me\ntransformer !",
+  "fr": "Je...\nJe n'arrive pas à me transformer !",
   "src": "pinky"
  },
  {
@@ -1457,7 +1457,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "This room surpresses all skills,\nauras, and transformations.",
-  "fr": "Cet endroit bloque l'utilisation\nde toutes compétences, auras\fet transformations.",
+  "fr": "Cet endroit bloque l'utilisation de\ntoutes compétences,\fauras et transformations.",
   "src": "pinky"
  },
  {
@@ -1609,7 +1609,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "As if I could be felled by a half-\nboiled reaper...",
-  "fr": "Comme si je pouvais être\nvaincu par un résidu de\fdemi-moissonneur...",
+  "fr": "Comme si je pouvais être vaincu\npar un résidu de\fdemi-moissonneur...",
   "src": "pinky",
   "relu": true
  },
@@ -1618,7 +1618,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "so weak that a human heart\nalone can keep it chained!",
-  "fr": "si faible que le coeur d'un\nhumain puisse le museler !",
+  "fr": "si faible que le coeur d'un humain\npuisse le museler !",
   "src": "pinky"
  },
  {
@@ -1748,7 +1748,7 @@
   "max": 34,
   "who": "Girl's Voice",
   "en": "Tee hee...\nYou're hopeless, Roger.",
-  "fr": "Hi hi...\nTu es désespérant, Roger.",
+  "fr": "Hi hi... Tu es désespérant, Roger.",
   "src": "pinky"
  },
  {
@@ -1756,7 +1756,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Roger?\nAnd...and Liane!",
-  "fr": "Roger ?\nEt... et Liane !",
+  "fr": "Roger ? Et... et Liane !",
   "src": "pinky"
  },
  {
@@ -1780,7 +1780,7 @@
   "max": 34,
   "who": "Jacques",
   "en": "You've got a long way to go if\nyou want to lead the village\nsomeday.",
-  "fr": "La route sera longue avant que\ntu ne sois en mesure de diriger\fle village un jour...",
+  "fr": "La route sera longue avant que tu\nne sois en mesure de diriger le\fvillage un jour...",
   "src": "pinky"
  },
  {
@@ -1821,7 +1821,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Can you believe Roger? The\nsheep outsmarted him AGAIN!",
-  "fr": "Mais tu y crois ?\fRoger s'est ENCORE fait avoir\npar un mouton !",
+  "fr": "Mais tu y crois ?\fRoger s'est ENCORE fait avoir par\nun mouton !",
   "src": "pinky",
   "relu": true
  },
@@ -1830,7 +1830,7 @@
   "max": 34,
   "who": "Jacques",
   "en": "Ha ha ha, young people these\ndays.",
-  "fr": "Ha ha ha, les jeunes de nos\njours.",
+  "fr": "Ha ha ha, les jeunes de nos jours.",
   "src": "pinky"
  },
  {
@@ -1838,7 +1838,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Do I have to do everything?\nHere\\u2014",
-  "fr": "Je dois tout faire ici ?\nTiens...",
+  "fr": "Je dois tout faire ici ? Tiens...",
   "src": "pinky"
  },
  {
@@ -1854,7 +1854,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "My armlet began to shine, and\nwhen I came to, I was here.",
-  "fr": "Mon bracelet s'est mis à\nscintiller\fet quand je suis revenue à moi,\nj'étais ici.",
+  "fr": "Mon bracelet s'est mis à scintiller\net quand je suis revenue à moi,\fj'étais ici.",
   "src": "pinky"
  },
  {

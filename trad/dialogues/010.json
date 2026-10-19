@@ -264,7 +264,7 @@
   "max": 34,
   "who": "",
   "en": "Cross the Bogs of Vermonde and head for Reims.",
-  "fr": "Traverser les marais de Vermonde vers\nReims.",
+  "fr": "Traverser les marais de Vermonde\nvers Reims.",
   "src": "pinky"
  },
  {
@@ -320,7 +320,7 @@
   "max": 34,
   "who": "Mawra",
   "en": "What's the matter?\nUse the armlet an' transform.\fI thought that was yer favorite \ntrick, girl-pup!",
-  "fr": "Quel est le problème ?\fUtilisez le bracelet et\ntransformez-vous.\fJe pensais que c'était votre tour\nfavori !",
+  "fr": "Quel est le problème ? Utilisez le\nbracelet et transformez-vous.\fJe pensais que c'était votre tour\nfavori !",
   "src": "pinky",
   "relu": true
  },
@@ -337,7 +337,7 @@
   "max": 34,
   "who": "Mawra",
   "en": "If you aren't keen on fightin' \nback,\fI'll just have to take the \narmlet\\u2014arm an' all!",
-  "fr": "Si vous ne voulez pas vous\nbattre,\fje prendrai juste le bracelet... de\nvotre poignet !",
+  "fr": "Si vous ne voulez pas vous battre,\nje prendrai juste le bracelet...\fde votre poignet !",
   "src": "pinky"
  },
  {
@@ -369,7 +369,7 @@
   "max": 34,
   "who": "Slinker",
   "en": "Niii...\nThe filly is my...prey...to hunt!",
-  "fr": "Niii...\nLa pouliche... est... ma proie !",
+  "fr": "Niii... La pouliche... est... ma proie !",
   "src": "pinky"
  },
  {
@@ -377,7 +377,7 @@
   "max": 34,
   "who": "Mawra",
   "en": "Slinker!\nHow dare you!",
-  "fr": "Slinker !\nComment oses-tu !",
+  "fr": "Slinker ! Comment oses-tu !",
   "src": "pinky"
  },
  {
@@ -385,7 +385,7 @@
   "max": 34,
   "who": "Citizen",
   "en": "Witch!\nWe've got you now.",
-  "fr": "Sorcière !\nNous t'avons attrapée.",
+  "fr": "Sorcière ! Nous t'avons attrapée.",
   "src": "pinky"
  },
  {
@@ -425,7 +425,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "What in Heaven's name happened\nhere?",
-  "fr": "Dieu du Ciel, qu'est-il\narrivé ici ?",
+  "fr": "Dieu du Ciel, qu'est-il arrivé ici ?",
   "src": "pinky"
  },
  {
@@ -457,7 +457,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "I left the dauphin waiting out\nfront. You were taking too long...",
-  "fr": "Le dauphin nous attend en\nsécurité, \fnous ne vous attendions plus.",
+  "fr": "Le dauphin nous attend en\nsécurité,\fnous ne vous attendions plus.",
   "src": "pinky"
  },
  {
@@ -465,7 +465,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "...Hmm?\nWhat's the matter?",
-  "fr": "... Hmm ?\nQuel est le problème ?",
+  "fr": "... Hmm ? Quel est le problème ?",
   "src": "pinky"
  },
  {
@@ -521,7 +521,7 @@
   "max": 34,
   "who": "Marcel",
   "en": "All those nice things you said\nabout Jeannette\\u2014",
-  "fr": "Toutes ces belles choses que tu\nas dites sur Jeannette...",
+  "fr": "Toutes ces belles choses que tu as\ndites sur Jeannette...",
   "src": "pinky"
  },
  {
@@ -529,7 +529,7 @@
   "max": 34,
   "who": "Marcel",
   "en": "they were all lies! Nothing but\na crock!",
-  "fr": "n'étaient que mensonges ! Rien\nqu'un tissu de mensonges !",
+  "fr": "n'étaient que mensonges !\nRien qu'un tissu de mensonges !",
   "src": "pinky",
   "relu": true
  },
@@ -538,7 +538,7 @@
   "max": 34,
   "who": "Marcel",
   "en": "You kissed up to her like the rest\nof them, but you never cared!",
-  "fr": "Tu fais le beau devant elle\ncomme vous tous,\fmais vous n'en avez rien à\nfaire !",
+  "fr": "Tu fais le beau devant elle comme\nvous tous,\fmais vous n'en avez rien à faire !",
   "src": "pinky"
  },
  {
@@ -554,7 +554,7 @@
   "max": 34,
   "who": "Colet",
   "en": "Worry more about how we are\ngoing to fight ze war weezout\nher!",
-  "fr": "Inquiète-toi plus de savoir\ncomment nous allons\fcombattre sans elle !",
+  "fr": "Inquiète-toi plus de savoir\ncomment nous allons combattre\fsans elle !",
   "src": "pinky"
  },
  {
@@ -578,7 +578,7 @@
   "max": 34,
   "who": "Rufus",
   "en": "Awoooooo!\nArf, arf, awooo!",
-  "fr": "Awoooooouu !\nArf, arf, awooouu !",
+  "fr": "Awoooooouu ! Arf, arf, awooouu !",
   "src": "pinky"
  },
  {
@@ -586,7 +586,7 @@
   "max": 34,
   "who": "Colet",
   "en": "Aiiieeeeee!\nMerde! Merde! Merde!",
-  "fr": "Aiiieeeeee !\nMerde ! Merde ! Merde !",
+  "fr": "Aiiieeeeee ! Merde ! Merde !\nMerde !",
   "src": "pinky"
  },
  {
@@ -602,7 +602,7 @@
   "max": 34,
   "who": "Richard",
   "en": "Liane, are you well enough to\nget out of bed?",
-  "fr": "Liane, vous sentez-vous\nsuffisamment en forme\fpour sortir du lit ?",
+  "fr": "Liane,\fvous sentez-vous suffisamment\nen forme pour sortir du lit ?",
   "src": "pinky"
  },
  {
@@ -626,7 +626,7 @@
   "max": 34,
   "who": "Mawra",
   "en": "...So, to make a long story short, \nMaster: the girl-pup is dead.",
-  "fr": "... Donc, pour faire court,\nMaître : la fille est morte.",
+  "fr": "... Donc, pour faire court, Maître :\nla fille est morte.",
   "src": "pinky"
  },
  {
@@ -634,7 +634,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Hmm... So that's it?\fShe just, SPLAT! died?\nHow awfully dull.",
-  "fr": "Hmm... Ainsi c'est fait ?\nElle a juste fait SPLASH !\fMorte ! Terrible.",
+  "fr": "Hmm... Ainsi c'est fait ?\fElle a juste fait SPLASH ! Morte !\nTerrible.",
   "src": "pinky"
  },
  {
@@ -698,7 +698,7 @@
   "max": 34,
   "who": "Mawra",
   "en": "Master! He only means that what\nwith Jeanne out of the picture,\ffindin' said item is now just a \nmatter of time!",
-  "fr": "Maître ! Il veut simplement dire\nqu'avec Jeanne hors jeu, \ftrouver ledit objet n'est qu'une\nquestion de temps !",
+  "fr": "Maître ! Il veut simplement dire\nqu'avec Jeanne hors jeu,\ftrouver ledit objet n'est qu'une\nquestion de temps !",
   "src": "pinky"
  },
  {
@@ -706,7 +706,7 @@
   "max": 34,
   "who": "Mawra",
   "en": "We WILL get you that armlet.",
-  "fr": "Nous vous ramènerons le\nbracelet.",
+  "fr": "Nous vous ramènerons le bracelet.",
   "src": "pinky"
  },
  {
@@ -714,7 +714,7 @@
   "max": 34,
   "who": "Mawra",
   "en": "And I will personally ensure\nno crown...\fever sits atop that dauphin's\nogrish head!",
-  "fr": "Et je m'assurerai qu'aucune\ncouronne... \fne se pose jamais sur la tête de\nce satané dauphin !",
+  "fr": "Et je m'assurerai qu'aucune\ncouronne...\fne se pose jamais sur la tête de ce\nsatané dauphin !",
   "src": "pinky"
  },
  {
@@ -730,7 +730,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Uwee hee... Yes she can.\nDo you swear?",
-  "fr": "Hi hi... Si elle peut.\nVous le jurez ?",
+  "fr": "Hi hi... Si elle peut. Vous le jurez ?",
   "src": "pinky"
  },
  {
@@ -754,7 +754,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Uwee hee...\nDid that hurt?",
-  "fr": "Hi hi...\nÇa fait mal ?",
+  "fr": "Hi hi... Ça fait mal ?",
   "src": "pinky"
  },
  {
@@ -778,7 +778,7 @@
   "max": 34,
   "who": "Mawra",
   "en": "Ungh...\nExcruciatin'ly clear...",
-  "fr": "Gnnn...\nOn ne peut plus clair...",
+  "fr": "Gnnn... On ne peut plus clair...",
   "src": "pinky"
  },
  {
@@ -794,7 +794,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "Come join us when you are\nready.",
-  "fr": "Rejoins-nous quand tu\nseras prête.",
+  "fr": "Rejoins-nous quand tu seras\nprête.",
   "src": "pinky"
  },
  {
@@ -818,7 +818,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Liane... You really think this is\na good idea?",
-  "fr": "Liane... Tu penses vraiment\nque c'est une bonne idée ?",
+  "fr": "Liane... Tu penses vraiment que\nc'est une bonne idée ?",
   "src": "pinky"
  },
  {
@@ -858,7 +858,7 @@
   "max": 34,
   "who": "Richard",
   "en": "Jeanne would have wanted the\nsame.",
-  "fr": "Jeanne aurait voulu la\nmême chose.",
+  "fr": "Jeanne aurait voulu la même\nchose.",
   "src": "pinky"
  },
  {
@@ -866,7 +866,7 @@
   "max": 34,
   "who": "Liane",
   "en": "All right.\nFor Jeanne...",
-  "fr": "Très bien.\nPour Jeanne...",
+  "fr": "Très bien. Pour Jeanne...",
   "src": "pinky"
  },
  {
@@ -874,7 +874,7 @@
   "max": 34,
   "who": "Richard",
   "en": "Jeanne... It is good to see you\non your feet again.",
-  "fr": "Jeanne... Ça fait plaisir de te voir\nà nouveau sur pied.",
+  "fr": "Jeanne... Ça fait plaisir de te voir à\nnouveau sur pied.",
   "src": "pinky"
  },
  {
@@ -882,7 +882,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "How are you feeling, Jeanne? I\nwas grieved to hear you were ill.",
-  "fr": "Comment vous sentez-vous,\nJeanne ? \fJ'étais peiné de vous savoir\nsouffrante.",
+  "fr": "Comment vous sentez-vous,\nJeanne ?\fJ'étais peiné de vous savoir\nsouffrante.",
   "src": "pinky"
  },
  {
@@ -898,7 +898,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "We have only been apart for a\nfew days, and yet...",
-  "fr": "Nous avons été séparés\nseulement quelques jours,\fet pourtant...",
+  "fr": "Nous avons été séparés seulement\nquelques jours, et pourtant...",
   "src": "pinky"
  },
  {
@@ -906,7 +906,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "I almost feel as though I am\nmeeting you for the first time.",
-  "fr": "j'ai le sentiment de vous\nrencontrer\fpour la première fois.",
+  "fr": "j'ai le sentiment de vous\nrencontrer pour la première fois.",
   "src": "pinky"
  },
  {
@@ -914,7 +914,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "Come here; let me have a closer\nlook at your face.",
-  "fr": "Venez, laissez-moi vous\nvoir de plus près.",
+  "fr": "Venez, laissez-moi vous voir de\nplus près.",
   "src": "pinky"
  },
  {
@@ -922,7 +922,7 @@
   "max": 34,
   "who": "Richard",
   "en": "Go on, Jeanne.\nBe bold. Be \"yourself.\"",
-  "fr": "Vas-y, Jeanne.\nCourage. Sois \"toi-même.\"",
+  "fr": "Vas-y, Jeanne. Courage.\nSois \"toi-même.\"",
   "src": "pinky"
  },
  {
@@ -954,7 +954,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "Are you certain you feel well?",
-  "fr": "Êtes-vous certaine d'aller\nmieux ?",
+  "fr": "Êtes-vous certaine d'aller mieux ?",
   "src": "pinky"
  },
  {
@@ -978,7 +978,7 @@
   "max": 34,
   "who": "Richard",
   "en": "Place a blade in her hand and\nshe'll be right again in no time.",
-  "fr": "Placez une épée dans sa main et\nelle sera remise\fen un rien de temps.",
+  "fr": "Placez une épée dans sa main et\nelle sera remise en un rien de\ftemps.",
   "src": "pinky"
  },
  {
@@ -1002,7 +1002,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "You will leave the battling to\nher and La Hire,",
-  "fr": "Vous laisserez la bataille à\nLa Hire et à elle,",
+  "fr": "Vous laisserez la bataille à La Hire\net à elle,",
   "src": "pinky"
  },
  {
@@ -1010,7 +1010,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "while you sit and warm your\nfluffy cushions!",
-  "fr": "tandis que vous serez assis sur\ndes coussins\fchauds et moelleux !",
+  "fr": "tandis que vous serez assis sur des\ncoussins chauds et moelleux !",
   "src": "pinky"
  },
  {
@@ -1018,7 +1018,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "Aha ha! That I shall.\nReims is nearer than ever.",
-  "fr": "Aha ha ! Ce que je ferai.\fReims est plus proche que\njamais.",
+  "fr": "Aha ha ! Ce que je ferai.\nReims est plus proche que jamais.",
   "src": "pinky"
  },
  {
@@ -1026,7 +1026,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "With you as my champions, I trust\nI shall be crowned very soon.",
-  "fr": "Avec vous comme champions,\fje crois que je serai couronné\ntrès bientôt.",
+  "fr": "Avec vous comme champions,\fje crois que je serai couronné très\nbientôt.",
   "src": "pinky"
  },
  {
@@ -1034,7 +1034,7 @@
   "max": 34,
   "who": "Mawra",
   "en": "Oops! Yer luck's just run out.\nStupid dauphin...",
-  "fr": "Oups ! Ta chance vient juste de\ntourner.\fStupide dauphin...",
+  "fr": "Oups ! Ta chance vient juste de\ntourner. Stupide dauphin...",
   "src": "pinky"
  },
  {
@@ -1042,7 +1042,7 @@
   "max": 34,
   "who": "Mawra",
   "en": "Why do you keep trudgin' on to\nReims now yer girl's dead?",
-  "fr": "Pourquoi vous entêtez-vous à\naller à Reims \falors qu'elle est morte ?",
+  "fr": "Pourquoi vous entêtez-vous à\naller à Reims alors qu'elle est\fmorte ?",
   "src": "pinky"
  },
  {

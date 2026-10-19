@@ -4,7 +4,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Are you all right? You're not\ninjured at all, or in pain?",
-  "fr": "Tu vas bien ? Tu n'as rien, tu\nn'es pas blessée ?",
+  "fr": "Tu vas bien ?\nTu n'as rien, tu n'es pas blessée ?",
   "src": "pinky"
  },
  {
@@ -12,7 +12,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I'm fine.\nRoger, thank you...",
-  "fr": "Je vais bien.\nRoger, merci...",
+  "fr": "Je vais bien. Roger, merci...",
   "src": "pinky"
  },
  {
@@ -37,7 +37,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I'm sorry, Liane.\nI know I worried you terribly.",
-  "fr": "Je suis désolée, Liane.\fJe sais que je t'ai fait faire un\nsang d'encre.",
+  "fr": "Je suis désolée, Liane. Je sais que je\nt'ai fait faire un sang d'encre.",
   "src": "pinky"
  },
  {
@@ -69,7 +69,7 @@
   "max": 34,
   "who": "Aging Noble",
   "en": "We're blessed as well, with an \ninvincible commander!",
-  "fr": "Et nous sommes également bénis,\n \fd'avoir un commandant\ninvincible !",
+  "fr": "Et nous sommes également bénis,\fd'avoir un commandant\ninvincible !",
   "src": "pinky"
  },
  {
@@ -86,7 +86,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "Har! You should have the walls \nchecked!",
-  "fr": "Har ! Vous devriez faire\ngarder les murs d'enceinte !",
+  "fr": "Har ! Vous devriez faire garder les\nmurs d'enceinte !",
   "src": "pinky"
  },
  {
@@ -94,7 +94,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "Did you think a single fortress\nunlikely to fall twice in one day?",
-  "fr": "Pensez-vous qu'une simple\nforteresse\fne puisse pas tomber deux fois le\nmême jour ?",
+  "fr": "Pensez-vous qu'une simple\nforteresse ne puisse pas tomber\fdeux fois le même jour ?",
   "src": "pinky"
  },
  {
@@ -102,7 +102,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "You!\nWhen did you sneak in?!",
-  "fr": "Vous !\fDepuis combien de temps\nêtes-vous là ?!",
+  "fr": "Vous ! Depuis combien de temps\nêtes-vous là ?!",
   "src": "pinky"
  },
  {
@@ -264,7 +264,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "Har!\nI will be back.",
-  "fr": "Har !\nJe reviendrai.",
+  "fr": "Har ! Je reviendrai.",
   "src": "pinky"
  },
  {
@@ -297,7 +297,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Jeanne.\nOnly one fortress remains.",
-  "fr": "Jeanne.\nPlus qu'une forteresse.",
+  "fr": "Jeanne. Plus qu'une forteresse.",
   "src": "pinky"
  },
  {
@@ -313,7 +313,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "All right, next we strike the \nTourelles. The last fortress.",
-  "fr": "Très bien, c'est au tour des\nTourelles. \fLa dernière forteresse.",
+  "fr": "Très bien, c'est au tour des\nTourelles. La dernière forteresse.",
   "src": "pinky"
  },
  {
@@ -337,7 +337,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Huh?\nWhat is this all about?",
-  "fr": "Huh ? Qu'est-ce que c'est que\ntout ça ?",
+  "fr": "Huh ?\nQu'est-ce que c'est que tout ça ?",
   "src": "pinky"
  },
  {
@@ -362,7 +362,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Yick... What?\nWhat's this skill stone?",
-  "fr": "Yick... Quoi ? Une pierre de\ncompétence ?",
+  "fr": "Yick... Quoi ?\nUne pierre de compétence ?",
   "src": "pinky",
   "relu": true
  },
@@ -371,7 +371,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Did you make this out of those\ntwo skill stones that were here?",
-  "fr": "Tu l'as faite avec ces deux\npierres qui étaient ici ?",
+  "fr": "Tu l'as faite avec ces deux pierres\nqui étaient ici ?",
   "src": "pinky",
   "relu": true
  },
@@ -396,7 +396,7 @@
   "max": 34,
   "who": "",
   "en": "You created \"Sniper\" by combining\n\"Accuracy +5\" and \"Force Down.\"",
-  "fr": "Fusion de Précision +5 et\nForce - = Tireur d'élite !",
+  "fr": "Fusion de Précision +5 et Force - =\nTireur d'élite !",
   "src": "pinky",
   "relu": true
  },
@@ -422,7 +422,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "And now, with all of you at my\nside, \nI believe I can win the coming\nbattle as well.",
-  "fr": "Et maintenant, vous êtes\ntoujours à mes côtés.\fJe suis certaine que nous allons\nremporter celle-là.",
+  "fr": "Et maintenant, vous êtes toujours\nà mes côtés.\fJe suis certaine que nous allons\nremporter celle-là.",
   "src": "pinky",
   "relu": true
  },
@@ -527,7 +527,7 @@
   "max": 34,
   "who": "Glasdale",
   "en": "I swear with every last inch of\nmy pride:\fyou will not have the Tourelles!",
-  "fr": "Je le jure sur tout l'honneur qu'il\nme reste.\fVous ne prendrez pas\nles Tourelles !",
+  "fr": "Je le jure sur tout l'honneur qu'il\nme reste.\fVous ne prendrez pas les\nTourelles !",
   "src": "pinky"
  },
  {
@@ -833,7 +833,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Talbot!\nI might have known.",
-  "fr": "Talbot !\nJ'aurais dû le savoir.",
+  "fr": "Talbot ! J'aurais dû le savoir.",
   "src": "pinky"
  },
  {
@@ -849,7 +849,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "Oh, I'd be delighted to.\fBut before you and I have any\nsuch parley,\nI must make one thing clear.",
-  "fr": "Oh, j'en serais enchanté.\fMais avant que vous et moi\nayons une petite discussion,\fje dois juste tirer une chose au\nclair.",
+  "fr": "Oh, j'en serais enchanté.\fMais avant que vous et moi ayons\nune petite discussion,\fje dois juste tirer une chose au\nclair.",
   "src": "pinky"
  },
  {
@@ -857,7 +857,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "Lady Fortune has admittedly been\non your side\\u2014",
-  "fr": "Dame Fortune a certes été\nde votre côté...",
+  "fr": "Dame Fortune a certes été de\nvotre côté...",
   "src": "pinky"
  },
  {
@@ -865,7 +865,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "but only, I am convinced,\fout of sheer determination to\nnot be on Glasdale's.",
-  "fr": "Mais je suis convaincu que sa\nvéritable intention\fest de se débarrasser de\nGlasdale.",
+  "fr": "Mais je suis convaincu que sa\nvéritable intention\fest de se débarrasser de Glasdale.",
   "src": "pinky",
   "relu": true
  },
@@ -874,7 +874,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "Luck will save you no more.\fIt's time you learned that power\ntrumps all!",
-  "fr": "La chance ne vous sauvera plus.\nIl est temps que vous appreniez\fque le pouvoir l'emporte sur\ntout !",
+  "fr": "La chance ne vous sauvera plus.\fIl est temps que vous appreniez\nque le pouvoir l'emporte sur tout !",
   "src": "pinky",
   "relu": true
  },
@@ -1020,7 +1020,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "Har... I may have underestimated\nyou.",
-  "fr": "Har... Je vous ai peut-être\nsous-estimée.",
+  "fr": "Har...\nJe vous ai peut-être sous-estimée.",
   "src": "pinky"
  },
  {
@@ -1036,7 +1036,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "What did France do to treat\nEngland so foully?",
-  "fr": "Qu'a fait la France pour être\ntraitée si rudement\fpar l'Angleterre ?",
+  "fr": "Qu'a fait la France pour être\ntraitée si rudement par\fl'Angleterre ?",
   "src": "pinky"
  },
  {
@@ -1052,7 +1052,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "What did my forefathers do to\nyours?",
-  "fr": "Qu'ont donc fait mes ancêtres\naux vôtres ?",
+  "fr": "Qu'ont donc fait mes ancêtres aux\nvôtres ?",
   "src": "pinky"
  },
  {
@@ -1100,7 +1100,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "Why did God choose weal for\nFrance, and woe for us?\fAre we not allowed to be happy?",
-  "fr": "Pourquoi Dieu a-t-il choisi le\nbien pour la France,\fet le malheur pour nous ?\fN'avons-nous pas le\ndroit au bonheur ?",
+  "fr": "Pourquoi Dieu a-t-il choisi le bien\npour la France,\fet le malheur pour nous ?\fN'avons-nous pas le droit au\nbonheur ?",
   "src": "pinky"
  },
  {
@@ -1140,7 +1140,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "One day, lass...very soon...",
-  "fr": "Un jour, jeune fille... très\nbientôt...",
+  "fr": "Un jour, jeune fille... très bientôt...",
   "src": "pinky"
  },
  {
@@ -1180,7 +1180,7 @@
   "max": 34,
   "who": "Bertrand",
   "en": "Meh heh! I admit I always wanted\nto be popular, but\\u2014",
-  "fr": "Hé hé ! J'admets que j'ai\ntoujours voulu être célèbre,\fmais...",
+  "fr": "Hé hé ! J'admets que j'ai toujours\nvoulu être célèbre, mais...",
   "src": "pinky"
  },
  {
@@ -1188,7 +1188,7 @@
   "max": 34,
   "who": "Jean",
   "en": "Something tells me we won't get\nmuch sleep tonight.",
-  "fr": "Quelque chose me dit que nous\nn'allons pas beaucoup dormir\fce soir.",
+  "fr": "Quelque chose me dit que nous\nn'allons pas beaucoup dormir ce\fsoir.",
   "src": "pinky"
  },
  {
@@ -1252,7 +1252,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "...Well, of course you are. \fBut right now you need to smile,\nhmm?",
-  "fr": "... Bien sûr que tu vas le faire.\fMais pour l'instant tu dois\nsourire, d'accord ?",
+  "fr": "... Bien sûr que tu vas le faire.\fMais pour l'instant tu dois sourire,\nd'accord ?",
   "src": "pinky"
  },
  {
@@ -1284,7 +1284,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "What a bore. Nothing's going the\nway I want it to!",
-  "fr": "Quelle poisse. Rien ne va comme\nje le voudrais !",
+  "fr": "Quelle poisse.\nRien ne va comme je le voudrais !",
   "src": "pinky"
  },
  {
@@ -1292,7 +1292,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "And we were rather fond of that \nwhiskered fellow, too.",
-  "fr": "Et nous étions plutôt attachés\nà notre camarade barbu.",
+  "fr": "Et nous étions plutôt attachés à\nnotre camarade barbu.",
   "src": "pinky"
  },
  {
@@ -1316,7 +1316,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "You simply chose the wrong\npawns to play.",
-  "fr": "Vous avez simplement choisi\nles mauvais pions pour jouer.",
+  "fr": "Vous avez simplement choisi les\nmauvais pions pour jouer.",
   "src": "pinky"
  },
  {
@@ -1332,7 +1332,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Bah, that's dull. I'm sick of\nmen and monsters alike.\fThey're all so bloody useless!",
-  "fr": "Bah, c'est ennuyeux. Je suis\nécoeuré des hommes \fet des monstres. Ils sont\ntous si inutiles !",
+  "fr": "Bah, c'est ennuyeux.\fJe suis écoeuré des hommes et des\nmonstres.\fIls sont tous si inutiles !",
   "src": "pinky",
   "relu": true
  },
@@ -1365,7 +1365,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "What what what what what what\nwhat are THOSE?!",
-  "fr": "Qui qui qui qui qui qui\nqui c'est CEUX-LÀ ?!",
+  "fr": "Qui qui qui qui qui qui qui c'est\nCEUX-LÀ ?!",
   "src": "pinky"
  },
  {
@@ -1397,7 +1397,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "And I'm quite certain they're \nready to die for a cause \nas noble as yours.",
-  "fr": "Et je suis certain qu'ils sont\nprêts à mourir pour une cause\faussi noble que la vôtre.",
+  "fr": "Et je suis certain qu'ils sont prêts à\nmourir pour une cause aussi noble\fque la vôtre.",
   "src": "pinky"
  },
  {
@@ -1429,7 +1429,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "It's not a trick!\fI only want to see the dauphin\ncrowned France's rightful king.",
-  "fr": "Aucune sournoiserie !\fJe veux seulement voir\nle sacre du dauphin,\fquand il deviendra roi de\nFrance.",
+  "fr": "Aucune sournoiserie !\fJe veux seulement voir le sacre du\ndauphin,\fquand il deviendra roi de France.",
   "src": "pinky"
  },
  {
@@ -1478,7 +1478,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "You can keep the home fires\nburning while I'm away.",
-  "fr": "Vous pouvez surveiller la\nmaison pendant mon absence.",
+  "fr": "Vous pouvez surveiller la maison\npendant mon absence.",
   "src": "pinky"
  },
  {
@@ -1494,7 +1494,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "I will not pass up any chance to\ncrown my king. Certainly not now,",
-  "fr": "Je ne laisserai pas passer la\nchance de couronner mon roi.",
+  "fr": "Je ne laisserai pas passer la chance\nde couronner mon roi.",
   "src": "pinky"
  },
  {
@@ -1502,7 +1502,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "when the girl's victory at Orléans\nhas given us ground to stand on.",
-  "fr": "Certainement pas maintenant,\nalors que la victoire de cette fille\fà Orléans nous a donné une\nraison de continuer le combat.",
+  "fr": "Certainement pas maintenant,\falors que la victoire de cette fille à\nOrléans nous a donné une raison\fde continuer le combat.",
   "src": "pinky"
  },
  {
@@ -1510,7 +1510,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Encouraging words, sir.",
-  "fr": "Voilà des mots encourageants,\nser.",
+  "fr": "Voilà des mots encourageants, ser.",
   "src": "pinky"
  },
  {
@@ -1590,7 +1590,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "Go on, Georges, \"thpit\" yourself\n\"thilly.\"",
-  "fr": "Allez, Georges, vous ne dites\nque des inepties.",
+  "fr": "Allez, Georges, vous ne dites que\ndes inepties.",
   "src": "pinky"
  },
  {
@@ -1615,7 +1615,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "Now then...\nOur advance on Reims.",
-  "fr": "Donc...\nNotre marche sur Reims.",
+  "fr": "Donc... Notre marche sur Reims.",
   "src": "pinky"
  },
  {
@@ -1623,7 +1623,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "We shall go by way of several\ntowns; but as Georges\nforewarned,",
-  "fr": "Nous devrons passer par\nplusieurs villes ;\fet comme Georges nous l'a fait\nremarquer,",
+  "fr": "Nous devrons passer par plusieurs\nvilles ;\fet comme Georges nous l'a fait\nremarquer,",
   "src": "pinky"
  },
  {
@@ -1631,7 +1631,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "the road to the cathedral takes\nus right through enemy territory.",
-  "fr": "la route pour la cathédrale\npasse en plein territoire ennemi.",
+  "fr": "la route pour la cathédrale passe\nen plein territoire ennemi.",
   "src": "pinky"
  },
  {
@@ -1647,7 +1647,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "I shall be humbled to see a\ntitan like you once again in the\nbattlefield, sir.",
-  "fr": "Je serai ravi de voir un titan tel\nque vous de nouveau\fsur le champ de bataille,\nser.",
+  "fr": "Je serai ravi de voir un titan tel\nque vous de nouveau sur le champ\fde bataille, ser.",
   "src": "pinky"
  },
  {
@@ -1663,7 +1663,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "I can still recall the days you\nwere just a squire.",
-  "fr": "Je me rappelle encore le\ntemps où vous n'étiez\fqu'un simple écuyer.",
+  "fr": "Je me rappelle encore le temps où\nvous n'étiez qu'un simple écuyer.",
   "src": "pinky",
   "relu": true
  },
@@ -1672,7 +1672,7 @@
   "max": 34,
   "who": "Man's Voice",
   "en": "Don't forget me.\fI'm honored, too. I get to see the\nwench'th \"miraculth\" firththand.",
-  "fr": "Ne m'oubliez pas. J'en serai aussi\nhonoré.\fJe viens voir la Pucelle\n\"miraculeuse\".",
+  "fr": "Ne m'oubliez pas.\fJ'en serai aussi honoré. Je viens\nvoir la Pucelle \"miraculeuse\".",
   "src": "pinky"
  },
  {
@@ -1680,7 +1680,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "Georges.\nWhat are you doing here?",
-  "fr": "Georges.\nQue faites-vous ici ?",
+  "fr": "Georges. Que faites-vous ici ?",
   "src": "pinky"
  },
  {
@@ -1697,7 +1697,7 @@
   "max": 34,
   "who": "Georges",
   "en": "Heaffen forbid the dauphin's\ncounthellor be wiff the dauphin!",
-  "fr": "Diantre, le conseiller ne\ndevrait-il pas être \favec le dauphin ?",
+  "fr": "Diantre, le conseiller ne devrait-il\npas être avec le dauphin ?",
   "src": "pinky"
  },
  {
@@ -1721,7 +1721,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "Very well, then.\nLet us depart at once.",
-  "fr": "Très bien. Dans ce cas,\nnous partons de suite.",
+  "fr": "Très bien.\nDans ce cas, nous partons de suite.",
   "src": "pinky"
  },
  {
@@ -1737,7 +1737,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "I see this time you've got an\nentire army in tow.\fYou must be moving up in the\nworld. Praise be to God, har!",
-  "fr": "Je vois que cette fois-ci vous\navez une armée entière\fdans votre sillage.\fVous devez avoir eu de\nl'avancement.\fGloire à Dieu, har !",
+  "fr": "Je vois que cette fois-ci vous avez\nune armée entière dans votre\fsillage.\fVous devez avoir eu de\nl'avancement. Gloire à Dieu, har !",
   "src": "pinky"
  },
  {
@@ -1753,7 +1753,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "It seems I wore out my \nusefulness. \nGot sacked, as it were. Har!",
-  "fr": "Il semble que je ne sois\nplus utile. \fViré, à ce qu'il paraît. Har !",
+  "fr": "Il semble que je ne sois plus utile.\nViré, à ce qu'il paraît. Har !",
   "src": "pinky"
  },
  {
@@ -1761,7 +1761,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "And yet...I can't seem to let go,",
-  "fr": "Et pourtant... Je ne peux pas m'y\nrésoudre,",
+  "fr": "Et pourtant...\nJe ne peux pas m'y résoudre,",
   "src": "pinky"
  },
  {
@@ -1850,7 +1850,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "Rrrar, you will explain yourself\nto La Hire!",
-  "fr": "Rrrar, vous vous expliquerez\navec La Hire !",
+  "fr": "Rrrar, vous vous expliquerez avec\nLa Hire !",
   "src": "pinky"
  },
  {
@@ -1874,7 +1874,7 @@
   "max": 34,
   "who": "Blaze",
   "en": "No.\nNo frrriend of mine.",
-  "fr": "Non.\nCe n'est pas mon ami.",
+  "fr": "Non. Ce n'est pas mon ami.",
   "src": "pinky"
  },
  {
@@ -1890,7 +1890,7 @@
   "max": 34,
   "who": "Mawra",
   "en": "You down there! Yer that girl-\npup they call \"Pucelle,\" right?",
-  "fr": "Vous en bas ! Vous êtes la\ngamine qu'ils appellent\f\"Pucelle\", non ?",
+  "fr": "Vous en bas ! Vous êtes la gamine\nqu'ils appellent \"Pucelle\", non ?",
   "src": "pinky",
   "relu": true
  },
@@ -1899,7 +1899,7 @@
   "max": 34,
   "who": "Mawra",
   "en": "Well, you get the honor of bein'\nour quarry.\fAn' now, Quarry...we got to kill\nya. Nothin' personal.",
-  "fr": "Bien, vous avez l'honneur d'être\nnotre proie.\fEt maintenant, Proie... Nous\nallons vous tuer.\fN'y voyez rien de personnel.",
+  "fr": "Bien, vous avez l'honneur d'être\nnotre proie.\fEt maintenant, Proie...\nNous allons vous tuer.\fN'y voyez rien de personnel.",
   "src": "pinky"
  },
  {
@@ -1907,7 +1907,7 @@
   "max": 34,
   "who": "Mawra",
   "en": "Hireling!\nHunt down that pup.",
-  "fr": "Mercenaires !\nPourchassez-la.",
+  "fr": "Mercenaires ! Pourchassez-la.",
   "src": "pinky"
  },
  {
@@ -1915,7 +1915,7 @@
   "max": 34,
   "who": "Mawra",
   "en": "We boss types have got bossier \nmatters to attend to.",
-  "fr": "Nous les Boss, avons des affaires\nde boss\fplus importantes à régler.",
+  "fr": "Nous les Boss, avons des affaires\nde boss plus importantes à régler.",
   "src": "pinky",
   "relu": true
  },

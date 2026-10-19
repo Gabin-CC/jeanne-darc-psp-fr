@@ -714,7 +714,7 @@
   "max": 34,
   "who": "Bartolomeo",
   "en": " 'Twas man-spawn like these that\ndegraded the therions!",
-  "fr": "C'est de la semence humaine de\ncet acabit qui a souillé\fles therions !",
+  "fr": "C'est de la semence humaine de\ncet acabit qui a souillé les\ftherions !",
   "src": "pinky"
  },
  {
@@ -738,7 +738,7 @@
   "max": 34,
   "who": "Beatrix",
   "en": "Explain to me, sourpuss, how\nyour stale spite for the sapiens...",
-  "fr": "Explique-moi, mon tourmenté,\nta rancune pour les sapiens...",
+  "fr": "Explique-moi, mon tourmenté, ta\nrancune pour les sapiens...",
   "src": "pinky"
  },
  {
@@ -746,7 +746,7 @@
   "max": 34,
   "who": "Beatrix",
   "en": "is even remotely related to your\nrefusal to reconcile with me!",
-  "fr": "Même de loin, c'est lié à ton\nrefus de te réconcilier avec moi !",
+  "fr": "Même de loin, c'est lié à ton refus\nde te réconcilier avec moi !",
   "src": "pinky"
  },
  {
@@ -754,7 +754,7 @@
   "max": 34,
   "who": "Beatrix",
   "en": "Whoa, Barty, to your wintry\nwhining over whilom worries.",
-  "fr": "Eh bien, Barty, pour tes\nsanglots glacés\fsur tes inquiétudes d'antan !",
+  "fr": "Eh bien, Barty,\fpour tes sanglots glacés sur tes\ninquiétudes d'antan !",
   "src": "pinky"
  },
  {
@@ -762,7 +762,7 @@
   "max": 34,
   "who": "Beatrix",
   "en": "Wake up! And fight with your\nfuture bride.",
-  "fr": "Réveille-toi ! Et combats avec\nta future femme.",
+  "fr": "Réveille-toi !\nEt combats avec ta future femme.",
   "src": "pinky",
   "relu": true
  },
@@ -771,7 +771,7 @@
   "max": 34,
   "who": "Beatrix",
   "en": "For the battlefield, my beloved,\nis the one place...",
-  "fr": "Le champ de bataille, mon\namour, est le seul endroit...",
+  "fr": "Le champ de bataille, mon amour,\nest le seul endroit...",
   "src": "pinky"
  },
  {
@@ -779,7 +779,7 @@
   "max": 34,
   "who": "Beatrix",
   "en": "our brethren can neither bristle\nat nor bridle our love.",
-  "fr": "où nos frères ne peuvent ni\nbrider, ni briser notre amour.",
+  "fr": "où nos frères ne peuvent ni brider,\nni briser notre amour.",
   "src": "pinky"
  },
  {
@@ -819,7 +819,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Jeanne...\nDo you have a minute?",
-  "fr": "Jeanne...\nTu as une minute ?",
+  "fr": "Jeanne... Tu as une minute ?",
   "src": "pinky"
  },
  {
@@ -827,7 +827,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Don't you think Roger's been\nacting a little strange lately?",
-  "fr": "Tu ne trouves pas que Roger\ns'est comporté bizarrement\fces derniers temps ?",
+  "fr": "Tu ne trouves pas que Roger s'est\ncomporté bizarrement ces\fderniers temps ?",
   "src": "pinky"
  },
  {
@@ -835,7 +835,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Roger?\nI haven't noticed anything.",
-  "fr": "Roger ?\nJe n'ai rien remarqué.",
+  "fr": "Roger ? Je n'ai rien remarqué.",
   "src": "pinky"
  },
  {
@@ -867,7 +867,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Jeanne,\ncan you spare a moment?\fWe've called a council about \ntomorrow's march...",
-  "fr": "Jeanne, peux-tu m'accorder un\ninstant ?\fNous devons réunir le conseil\npour les opérations de demain.",
+  "fr": "Jeanne, peux-tu m'accorder un\ninstant ?\fNous devons réunir le conseil pour\nles opérations de demain.",
   "src": "pinky"
  },
  {
@@ -883,7 +883,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Jeanne!\nWe're not through talking yet!",
-  "fr": "Jeanne ! Notre discussion n'est\npas terminée !",
+  "fr": "Jeanne ! Notre discussion n'est pas\nterminée !",
   "src": "pinky"
  },
  {
@@ -955,7 +955,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "The people of Orléans received\nus so warmly.",
-  "fr": "Les habitants d'Orléans nous\nont reçus si chaleureusement.",
+  "fr": "Les habitants d'Orléans nous ont\nreçus si chaleureusement.",
   "src": "pinky",
   "relu": true
  },
@@ -964,7 +964,7 @@
   "max": 34,
   "who": "Georges",
   "en": "Thtop dallying! Raze the thity\nif they won't open the gateth!",
-  "fr": "Arrêtez de tergiverser ! Rasez la\nville s'ils ne veulent pas\fouvrir les portes !",
+  "fr": "Arrêtez de tergiverser !\fRasez la ville s'ils ne veulent pas\nouvrir les portes !",
   "src": "pinky"
  },
  {
@@ -1005,7 +1005,7 @@
   "max": 34,
   "who": "Richard",
   "en": "(Return here later, after\nevenfall.) ",
-  "fr": "(Revenez ici plus tard, à la\ntombée de la nuit.)",
+  "fr": "(Revenez ici plus tard, à la tombée\nde la nuit.)",
   "src": "pinky",
   "relu": true
  },
@@ -1038,7 +1038,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Brother Richard, a traveling friar.",
-  "fr": "Frère Richard, un moine\nitinérant.",
+  "fr": "Frère Richard, un moine itinérant.",
   "src": "pinky"
  },
  {
@@ -1046,7 +1046,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "I've heard he was once counted\namong France's finest tacticians.",
-  "fr": "J'ai entendu dire qu'il comptait\nparmi les plus fins tacticiens\fde France.",
+  "fr": "J'ai entendu dire qu'il comptait\nparmi les plus fins tacticiens de\fFrance.",
   "src": "pinky"
  },
  {
@@ -1054,7 +1054,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "We should go after him! He might\nknow what's going on in the city!",
-  "fr": "Nous devrions le suivre ! Il\npourrait savoir ce qu'il se passe\fen ville !",
+  "fr": "Nous devrions le suivre !\fIl pourrait savoir ce qu'il se passe\nen ville !",
   "src": "pinky"
  },
  {
@@ -1062,7 +1062,7 @@
   "max": 34,
   "who": "Slinker",
   "en": "Ni, ni-hee!\nAt last the game board is set.",
-  "fr": "Hin hin hin ! Le plan se déroule\ncomme prévu.",
+  "fr": "Hin hin hin !\nLe plan se déroule comme prévu.",
   "src": "pinky"
  },
  {
@@ -1070,7 +1070,7 @@
   "max": 34,
   "who": "Slinker",
   "en": "You Burgundians show\nrefreshingly good sense.",
-  "fr": "Vous les Bourguignons, vous\nfaites preuve d'un bon sens\fdivertissant.",
+  "fr": "Vous les Bourguignons, vous faites\npreuve d'un bon sens divertissant.",
   "src": "pinky"
  },
  {
@@ -1078,7 +1078,7 @@
   "max": 34,
   "who": "Slinker",
   "en": "Now I can capture the French\nfilly alive. ",
-  "fr": "À présent, je peux capturer\nla pouliche française.",
+  "fr": "À présent, je peux capturer la\npouliche française.",
   "src": "pinky",
   "relu": true
  },
@@ -1087,7 +1087,7 @@
   "max": 34,
   "who": "Mayor of Troyes",
   "en": "There's no love lost between\nus and that dauphin and his pet.",
-  "fr": "Ce n'est pas le grand amour\nentre nous, avec le dauphin\fet ses laquais.",
+  "fr": "Ce n'est pas le grand amour entre\nnous,\favec le dauphin et ses laquais.",
   "src": "pinky"
  },
  {
@@ -1095,7 +1095,7 @@
   "max": 34,
   "who": "Mayor of Troyes",
   "en": "Now that Brother Richard\\u2014\nthere's the one to worry about.",
-  "fr": "Et maintenant Frère\nRichard...\fC'est de lui dont il faut\ns'inquiéter.",
+  "fr": "Et maintenant Frère Richard...\nC'est de lui dont il faut s'inquiéter.",
   "src": "pinky"
  },
  {
@@ -1112,7 +1112,7 @@
   "max": 34,
   "who": "Slinker",
   "en": "Ni! If he does not, I will rip\nhis friarly guts out myself!",
-  "fr": "Ni ! S'il ne le fait pas, j'arracherai\nses entrailles\fde mes propres mains !",
+  "fr": "Ni !\fS'il ne le fait pas, j'arracherai ses\nentrailles de mes propres mains !",
   "src": "pinky",
   "relu": true
  },
@@ -1121,7 +1121,7 @@
   "max": 34,
   "who": "Slinker",
   "en": "That wizened lamb chop poses no\nthreat anymore.",
-  "fr": "Cette côtelette desséchée ne\nposera désormais\fplus de problème.",
+  "fr": "Cette côtelette desséchée ne\nposera désormais plus de\fproblème.",
   "src": "pinky",
   "relu": true
  },
@@ -1138,7 +1138,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "He said he'd be waiting here by\nthe gates.",
-  "fr": "Il a dit qu'il attendrait ici\nprès des portes.",
+  "fr": "Il a dit qu'il attendrait ici près des\nportes.",
   "src": "pinky"
  },
  {
@@ -1178,7 +1178,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Ah!\nYou...you tricked us!",
-  "fr": "Ah ! Vous... Vous nous avez\npiégés !",
+  "fr": "Ah ! Vous...\nVous nous avez piégés !",
   "src": "pinky"
  },
  {
@@ -1186,7 +1186,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Richard!\nWhat have you done?!",
-  "fr": "Richard !\nQu'avez-vous fait ?!",
+  "fr": "Richard ! Qu'avez-vous fait ?!",
   "src": "pinky"
  },
  {
@@ -1194,7 +1194,7 @@
   "max": 34,
   "who": "Richard",
   "en": "The inhabitants of this region\ndespise France and its dauphin.",
-  "fr": "Les habitants de cette région\nméprisent\fla France et son dauphin.",
+  "fr": "Les habitants de cette région\nméprisent la France et son\fdauphin.",
   "src": "pinky"
  },
  {

@@ -731,7 +731,7 @@
   "max": 34,
   "who": "",
   "en": "Reims is a long ways off. Next is the city of Ch\\u00e2lons.",
-  "fr": "Reims est encore loin. La prochaine\nville est Châlons.",
+  "fr": "Reims est encore loin.\nLa prochaine ville est Châlons.",
   "src": "pinky"
  },
  {
@@ -779,7 +779,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Frenchmen shouldn't have to kill\nFrenchmen!",
-  "fr": "Des Français ne devraient pas\ntuer d'autres Français !",
+  "fr": "Des Français ne devraient pas tuer\nd'autres Français !",
   "src": "pinky"
  },
  {
@@ -795,7 +795,7 @@
   "max": 34,
   "who": "Richard",
   "en": "The English royal family descends\nfrom a people exiled from France;",
-  "fr": "La famille royale anglaise\ndescend de personnes\fexilées de France;",
+  "fr": "La famille royale anglaise descend\nde personnes exilées de France;",
   "src": "pinky",
   "relu": true
  },
@@ -812,7 +812,7 @@
   "max": 34,
   "who": "Richard",
   "en": "This is no war between countries.",
-  "fr": "Ce n'est pas une guerre entre\ndeux pays.",
+  "fr": "Ce n'est pas une guerre entre deux\npays.",
   "src": "pinky"
  },
  {
@@ -844,7 +844,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Lass...do you really believe you\ncan save all of France's people?",
-  "fr": "Jeune fille... Pensez-vous\nvraiment pouvoir sauver\ftous les Français ?",
+  "fr": "Jeune fille...\fPensez-vous vraiment pouvoir\nsauver tous les Français ?",
   "src": "pinky"
  },
  {
@@ -852,7 +852,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Innocent people are...are dying\nfor that? All this time...",
-  "fr": "Des gens innocents sont... sont\nmorts pour ça?",
+  "fr": "Des gens innocents sont...\nsont morts pour ça?",
   "src": "pinky"
  },
  {
@@ -860,7 +860,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "we've been fighting to sate the\nroyalty's hunger for power?",
-  "fr": "Tout ce temps... nous nous\nsommes battus pour satisfaire\fl'avidité royale pour le pouvoir ?",
+  "fr": "Tout ce temps...\fnous nous sommes battus pour\nsatisfaire l'avidité royale pour le\fpouvoir ?",
   "src": "pinky"
  },
  {
@@ -868,7 +868,7 @@
   "max": 34,
   "who": "",
   "en": "One day...you'll learn just how\nabsurd a place the world really is.",
-  "fr": "Un jour, vous comprendrez\ncombien le monde est\fvraiment absurde.",
+  "fr": "Un jour,\fvous comprendrez combien le\nmonde est vraiment absurde.",
   "src": "pinky"
  },
  {
@@ -908,7 +908,7 @@
   "max": 34,
   "who": "Slinker",
   "en": "Then you won't mind me taking\nmatters into my own claws.",
-  "fr": "Alors vous n'aurez pas\nd'objection à ce que\fje prenne les choses en main.",
+  "fr": "Alors vous n'aurez pas d'objection\nà ce que je prenne les choses en\fmain.",
   "src": "pinky"
  },
  {
@@ -940,7 +940,7 @@
   "max": 34,
   "who": "Slinker",
   "en": "Murder her.\fShe'd never bare a blade at you\ncommon folk...",
-  "fr": "Tuez-la.\fElle ne brandira pas sa lame\ncontre du petit peuple\ftel que vous.",
+  "fr": "Tuez-la.\fElle ne brandira pas sa lame\ncontre du petit peuple tel que\fvous.",
   "src": "pinky"
  },
  {
@@ -956,7 +956,7 @@
   "max": 34,
   "who": "Slinker",
   "en": "Why, when this mess is over,\nyou could have any title you want.",
-  "fr": "Et quand tout ça sera terminé,\nvous pourriez obtenir le titre\fde vos rêves.",
+  "fr": "Et quand tout ça sera terminé,\fvous pourriez obtenir le titre de\nvos rêves.",
   "src": "pinky"
  },
  {
@@ -996,7 +996,7 @@
   "max": 34,
   "who": "Mayor of Châlons",
   "en": "We d-don't want your dauphin as\nking. We are ANTI-dauphin, yes!",
-  "fr": "Nous ne voulons pas du dauphin\ncomme roi. \fNous sommes ANTI-dauphin,\noui !",
+  "fr": "Nous ne voulons pas du dauphin\ncomme roi.\fNous sommes ANTI-dauphin, oui !",
   "src": "pinky"
  },
  {
@@ -1004,7 +1004,7 @@
   "max": 34,
   "who": "Mayor of Châlons",
   "en": "The Duke of B-B-Burgundy is\nthe rightful ruler of France!",
-  "fr": "Le Duc de B-B-B-Bourgogne est\nle véritable roi de France !",
+  "fr": "Le Duc de B-B-B-Bourgogne est le\nvéritable roi de France !",
   "src": "pinky"
  },
  {
@@ -1036,7 +1036,7 @@
   "max": 34,
   "who": "Richard",
   "en": "this city comprises dissenters who\nanswer to the Duke of Burgundy.",
-  "fr": "cette ville s'est rangée du côté des\ndissidents qui répondent\fau Duc de Bourgogne.",
+  "fr": "cette ville s'est rangée du côté des\ndissidents qui répondent au Duc de\fBourgogne.",
   "src": "pinky",
   "relu": true
  },
@@ -1045,7 +1045,7 @@
   "max": 34,
   "who": "Richard",
   "en": "It's only natural they would spurn\nthe dauphin and us with him.",
-  "fr": "Il est alors naturel qu'ils\nrejettent le dauphin\fet nous aussi par la même\noccasion.",
+  "fr": "Il est alors naturel qu'ils rejettent\nle dauphin et nous aussi par la\fmême occasion.",
   "src": "pinky"
  },
  {
@@ -1061,7 +1061,7 @@
   "max": 34,
   "who": "Young Man",
   "en": "Pucelle...\nPlease, Pucelle!",
-  "fr": "Pucelle...\nS'il vous plaît, Pucelle !",
+  "fr": "Pucelle... S'il vous plaît, Pucelle !",
   "src": "pinky"
  },
  {
@@ -1077,7 +1077,7 @@
   "max": 34,
   "who": "Young Man",
   "en": "A therion with a horrific look in\nhis eye came along, and...and...",
-  "fr": "Un therion avec un air terrible\nest venu, et... et...",
+  "fr": "Un therion avec un air terrible est\nvenu, et... et...",
   "src": "pinky"
  },
  {
@@ -1085,7 +1085,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "...I just spoke with your mayor\nmoments ago.",
-  "fr": "... J'ai parlé avec votre maire\nil y a quelques instants.",
+  "fr": "... J'ai parlé avec votre maire il y a\nquelques instants.",
   "src": "pinky"
  },
  {
@@ -1093,7 +1093,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I think some of his spittle is\nstill clinging to my face.",
-  "fr": "Je pense qu'un peu de sa salive\nest encore collée sur mon visage.",
+  "fr": "Je pense qu'un peu de sa salive est\nencore collée sur mon visage.",
   "src": "pinky"
  },
  {
@@ -1110,7 +1110,7 @@
   "max": 34,
   "who": "Young Man",
   "en": "The real mayor is being held \nunder duress!",
-  "fr": "Le véritable maire est\nretenu prisonnier !",
+  "fr": "Le véritable maire est retenu\nprisonnier !",
   "src": "pinky"
  },
  {
@@ -1126,7 +1126,7 @@
   "max": 34,
   "who": "Richard",
   "en": "...You're going in?\fThe people of Châlons are no\nbosom friends. It could be a trap.",
-  "fr": "... Vous allez entrer ? \fLes habitants de Châlons ne\nsont pas de notre côté.\fÇa pourrait être un piège.",
+  "fr": "... Vous allez entrer ?\fLes habitants de Châlons ne sont\npas de notre côté.\fÇa pourrait être un piège.",
   "src": "pinky"
  },
  {
@@ -1134,7 +1134,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I'll fight that fire when it burns. \nWhat if he speaks the truth?",
-  "fr": "Je combattrai s'il le faut\nvraiment. Et s'il dit la vérité ?",
+  "fr": "Je combattrai s'il le faut vraiment.\nEt s'il dit la vérité ?",
   "src": "pinky"
  },
  {
@@ -1166,7 +1166,7 @@
   "max": 34,
   "who": "Mayor of Châlons",
   "en": "L-lapdog of the dauphin!\nDie-eeeeeeeee!!!",
-  "fr": "Laquais du dauphin !\nÀ mort !!!",
+  "fr": "Laquais du dauphin ! À mort !!!",
   "src": "pinky"
  },
  {

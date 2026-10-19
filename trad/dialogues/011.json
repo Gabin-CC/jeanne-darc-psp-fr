@@ -888,7 +888,7 @@
   "max": 34,
   "who": "",
   "en": "We've finally arrived at Reims!",
-  "fr": "Nous voici enfin aux portes de Reims !",
+  "fr": "Nous voici enfin aux portes de\nReims !",
   "src": "pinky"
  },
  {
@@ -912,7 +912,7 @@
   "max": 34,
   "who": "Roger",
   "en": "You did wonderfully today. \nEverybody's been talking about it.",
-  "fr": "Tu as été extraordinaire\naujourd'hui. \fTout le monde ne parle que de\nça.",
+  "fr": "Tu as été extraordinaire\naujourd'hui.\fTout le monde ne parle que de ça.",
   "src": "pinky"
  },
  {
@@ -1049,7 +1049,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Getting awfully intimate, aren't\nwe?",
-  "fr": "Vous êtes de plus en plus\nproches, hein ?",
+  "fr": "Vous êtes de plus en plus proches,\nhein ?",
   "src": "pinky"
  },
  {
@@ -1090,7 +1090,7 @@
   "max": 34,
   "who": "Roger",
   "en": "by helping Liane find the courage\nto crown the dauphin.",
-  "fr": "en aidant Liane à trouver le\ncourage de couronner\fle dauphin.",
+  "fr": "en aidant Liane à trouver le\ncourage de couronner le dauphin.",
   "src": "pinky"
  },
  {
@@ -1122,7 +1122,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "How you behave off the battlefield\nis none of my concern.",
-  "fr": "Ce que vous faites hors du\nchamp de bataille\fne me regarde pas.",
+  "fr": "Ce que vous faites hors du champ\nde bataille ne me regarde pas.",
   "src": "pinky"
  },
  {
@@ -1155,7 +1155,7 @@
   "max": 34,
   "who": "Mawra",
   "en": "You gave me quite the thrashin'\nlast time.",
-  "fr": "Vous m'avez mis une raclée\nla fois passée.",
+  "fr": "Vous m'avez mis une raclée la fois\npassée.",
   "src": "pinky"
  },
  {
@@ -1163,7 +1163,7 @@
   "max": 34,
   "who": "Mawra",
   "en": "Got a bit of sauce to ya \nunderneath that pretty face,\nhmm?",
-  "fr": "Vous avez encore ce maudit\nsourire accroché\fsur vos visages !",
+  "fr": "Vous avez encore ce maudit\nsourire accroché sur vos visages !",
   "src": "pinky"
  },
  {
@@ -1171,7 +1171,7 @@
   "max": 34,
   "who": "Mawra",
   "en": "Well, we're all done with the\npretty faces.",
-  "fr": "Profitez, nous allons bientôt\nen finir.",
+  "fr": "Profitez, nous allons bientôt en\nfinir.",
   "src": "pinky"
  },
  {
@@ -1195,7 +1195,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "Listen, Jeanne: we must ensure\nthe dauphin reaches the\ncathedral.",
-  "fr": "Écoute, Jeanne : nous devons\nnous assurer que le dauphin\fparvienne à la cathédrale.",
+  "fr": "Écoute, Jeanne :\fnous devons nous assurer que le\ndauphin parvienne à la\fcathédrale.",
   "src": "pinky"
  },
  {
@@ -1750,7 +1750,7 @@
   "max": 34,
   "who": "Mawra",
   "en": "Who asked for your opinion? This\nis my chance to get that prig.",
-  "fr": "Qui a demandé ton avis ?\fC'est ma chance d'attraper ce\nbégueule.",
+  "fr": "Qui a demandé ton avis ? C'est ma\nchance d'attraper ce bégueule.",
   "src": "pinky"
  },
  {
@@ -1758,7 +1758,7 @@
   "max": 34,
   "who": "Mawra",
   "en": "I'll bite his royal head off while\nthey're all mindin' their manners!",
-  "fr": "J'arracherai sa tête royale avec\nles dents pendant qu'ils\ffermeront tous les yeux !",
+  "fr": "J'arracherai sa tête royale avec les\ndents pendant qu'ils fermeront\ftous les yeux !",
   "src": "pinky"
  },
  {
@@ -1790,7 +1790,7 @@
   "max": 34,
   "who": "Mawra",
   "en": "...You've got some cheek, bringin'\nthat up now.",
-  "fr": "... Tu as du culot, de parler\nde ça maintenant.",
+  "fr": "... Tu as du culot, de parler de ça\nmaintenant.",
   "src": "pinky"
  },
  {
@@ -1846,7 +1846,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Not very nice of him to sneak\noff like that, now was it?",
-  "fr": "Peu judicieux de sa part de\ntenter de filer en douce, non ?",
+  "fr": "Peu judicieux de sa part de tenter\nde filer en douce, non ?",
   "src": "pinky"
  },
  {
@@ -1878,7 +1878,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Oh, whatever. Might as well have\nasked what my carpet's named.",
-  "fr": "Pfft. Je pourrais tout aussi bien\nposer la même question\fà mon tapis, j'aurais une\nmeilleure réponse.",
+  "fr": "Pfft.\fJe pourrais tout aussi bien poser la\nmême question à mon tapis,\fj'aurais une meilleure réponse.",
   "src": "pinky",
   "relu": true
  },
@@ -1887,7 +1887,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "I gave you lots of chances to\nsquash that worm,\fand you blew them all.",
-  "fr": "Je vous ai donné suffisamment\nde chances d'écraser ce ver,\fet vous les avez gâchées.",
+  "fr": "Je vous ai donné suffisamment de\nchances d'écraser ce ver,\fet vous les avez gâchées.",
   "src": "pinky"
  },
  {
@@ -1911,7 +1911,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "So much for that one.\nTime for a new pawn!",
-  "fr": "Celui-là a eu son compte.\fMettons en jeu un\nnouveau pion !",
+  "fr": "Celui-là a eu son compte.\nMettons en jeu un nouveau pion !",
   "src": "pinky"
  },
  {
@@ -1952,7 +1952,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Ha ha! We did it!\nWe really did it, Roger!",
-  "fr": "Ha ha ! Nous l'avons fait !\fNous l'avons vraiment fait,\nRoger !",
+  "fr": "Ha ha ! Nous l'avons fait !\nNous l'avons vraiment fait, Roger !",
   "src": "pinky"
  },
  {
@@ -1968,7 +1968,7 @@
   "max": 34,
   "who": "Liane",
   "en": "And I owe it all to you, my\nguardian angel! Oh, Roger...",
-  "fr": "Et je te dois tout ça, mon\nange gardien ! Oh, Roger...",
+  "fr": "Et je te dois tout ça, mon ange\ngardien ! Oh, Roger...",
   "src": "pinky"
  },
  {
@@ -1984,7 +1984,7 @@
   "max": 34,
   "who": "Liane",
   "en": "We finally crowned the dauphin.\nYou and me...together!",
-  "fr": "Nous avons finalement\ncouronné le dauphin. \fToi et moi... ensemble !",
+  "fr": "Nous avons finalement couronné\nle dauphin. Toi et moi... ensemble !",
   "src": "pinky",
   "relu": true
  },
@@ -2001,7 +2001,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Thank you, Roger!\nSo were you.",
-  "fr": "Merci, Roger !\nTout comme toi.",
+  "fr": "Merci, Roger ! Tout comme toi.",
   "src": "pinky"
  },
  {
@@ -2009,7 +2009,7 @@
   "max": 34,
   "who": "Roger",
   "en": "No, I just...I just followed\neveryone else. Followed Jeanne...",
-  "fr": "Non, j'ai juste... J'ai juste suivi\nles autres. Suivi Jeanne...",
+  "fr": "Non, j'ai juste... J'ai juste suivi les\nautres. Suivi Jeanne...",
   "src": "pinky"
  }
 ]

@@ -4,7 +4,7 @@
   "max": 34,
   "who": "French Soldier",
   "en": "Now then, we'd best be off to \nthe castle in Nancy.",
-  "fr": "Allons, nous serons bien mieux\nau château de Nancy.",
+  "fr": "Allons, nous serons bien mieux au\nchâteau de Nancy.",
   "src": "pinky"
  },
  {
@@ -28,7 +28,7 @@
   "max": 34,
   "who": "French Soldier",
   "en": "Please take care while you and \nhe have your talk.",
-  "fr": "Faites attention quand vous\naurez votre audience.",
+  "fr": "Faites attention quand vous aurez\nvotre audience.",
   "src": "pinky"
  },
  {
@@ -100,7 +100,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Well, Jeanne...don't worry.\nI know how to find you.",
-  "fr": "Eh bien, Jeanne... ne vous en\nfaites pas.\fJe sais où vous trouver.",
+  "fr": "Eh bien, Jeanne... ne vous en\nfaites pas. Je sais où vous trouver.",
   "src": "pinky"
  },
  {
@@ -140,7 +140,7 @@
   "max": 34,
   "who": "Duke of Lorraine",
   "en": "Here she is, come clad in a \nholy armlet.",
-  "fr": "Ainsi c'est elle, vêtue\ndu saint bracelet.",
+  "fr": "Ainsi c'est elle, vêtue du saint\nbracelet.",
   "src": "pinky"
  },
  {
@@ -181,7 +181,7 @@
   "max": 34,
   "who": "Duke of Lorraine",
   "en": "It represents an oath,\fthat France's future never go \nundefended.",
-  "fr": "Il représente un serment, que\nl'avenir de la France \fsoit à jamais protégé.",
+  "fr": "Il représente un serment, que\nl'avenir de la France\fsoit à jamais protégé.",
   "src": "pinky"
  },
  {
@@ -189,7 +189,7 @@
   "max": 34,
   "who": "Duke of Lorraine",
   "en": "This armlet chose you, Jeanne.",
-  "fr": "Ce bracelet vous a choisie,\nJeanne.",
+  "fr": "Ce bracelet vous a choisie, Jeanne.",
   "src": "pinky",
   "relu": true
  },
@@ -206,7 +206,7 @@
   "max": 34,
   "who": "Duke of Lorraine",
   "en": "To be frank, I called you here \nout of hope...",
-  "fr": "Pour être franc, je vous ai\namenée ici dans l'espoir...",
+  "fr": "Pour être franc, je vous ai amenée\nici dans l'espoir...",
   "src": "pinky"
  },
  {
@@ -214,7 +214,7 @@
   "max": 34,
   "who": "Duke of Lorraine",
   "en": "that you might use the armlet's \npower to chase the sickness \nfrom my body.",
-  "fr": "que vous pourriez utiliser le\npouvoir du bracelet \fpour chasser la maladie qui me\nronge.",
+  "fr": "que vous pourriez utiliser le\npouvoir du bracelet pour chasser\fla maladie qui me ronge.",
   "src": "pinky"
  },
  {
@@ -238,7 +238,7 @@
   "max": 34,
   "who": "Duke of Lorraine",
   "en": "A few extra years tacked on to \none decrepit old man's life...",
-  "fr": "Quelques années\nsupplémentaires ajoutées \fà la vie d'un vieil homme\ndécrépi...",
+  "fr": "Quelques années supplémentaires\najoutées à la vie d'un vieil homme\fdécrépi...",
   "src": "pinky"
  },
  {
@@ -246,7 +246,7 @@
   "max": 34,
   "who": "Duke of Lorraine",
   "en": "would hardly change the course \nof French history.",
-  "fr": "changeraient à peine le cours\nde l'histoire de France.",
+  "fr": "changeraient à peine le cours de\nl'histoire de France.",
   "src": "pinky"
  },
  {
@@ -254,7 +254,7 @@
   "max": 34,
   "who": "Duke of Lorraine",
   "en": "Gilles, that man who was here \nbefore, told me as much.",
-  "fr": "Gilles, cet homme qui était là\ntout à l'heure, me l'a bien dit.",
+  "fr": "Gilles, cet homme qui était là tout\nà l'heure, me l'a bien dit.",
   "src": "pinky"
  },
  {
@@ -278,7 +278,7 @@
   "max": 34,
   "who": "Duke of Lorraine",
   "en": "But just once before I die, \nI want to see France at peace.",
-  "fr": "Mais juste une fois avant de\nmourir, \fje veux voir la France en paix.",
+  "fr": "Mais juste une fois avant de\nmourir,\fje veux voir la France en paix.",
   "src": "pinky"
  },
  {
@@ -286,7 +286,7 @@
   "max": 34,
   "who": "Duke of Lorraine",
   "en": "I want to drift off, \nconscience clear, \nto the sound of birds...",
-  "fr": "Je veux partir,\nla conscience tranquille, \fsous le chant des oiseaux...",
+  "fr": "Je veux partir, la conscience\ntranquille,\fsous le chant des oiseaux...",
   "src": "pinky"
  },
  {
@@ -310,7 +310,7 @@
   "max": 34,
   "who": "Duke of Lorraine",
   "en": "Save France. Do it for me.",
-  "fr": "Sauvez la France. Faites-le pour\nmoi.",
+  "fr": "Sauvez la France.\nFaites-le pour moi.",
   "src": "pinky"
  },
  {
@@ -318,7 +318,7 @@
   "max": 34,
   "who": "Duke of Lorraine",
   "en": "And do it for all the people \nof France.",
-  "fr": "Et faites-le pour tout le\npeuple de France.",
+  "fr": "Et faites-le pour tout le peuple de\nFrance.",
   "src": "pinky"
  },
  {
@@ -326,7 +326,7 @@
   "max": 34,
   "who": "Duke of Lorraine",
   "en": "Goad the dauphin out of that \ncastle cocoon of his in Chinon,",
-  "fr": "Encouragez le dauphin à sortir\nde son palais doré de Chinon.",
+  "fr": "Encouragez le dauphin à sortir de\nson palais doré de Chinon.",
   "src": "pinky"
  },
  {
@@ -342,7 +342,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "...You needn't even ask.",
-  "fr": "... Vous n'avez même pas besoin\nde le demander.",
+  "fr": "... Vous n'avez même pas besoin de\nle demander.",
   "src": "pinky"
  },
  {
@@ -398,7 +398,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "Zzzzzz...\nCoa-wa-wa-wa-wah...",
-  "fr": "Zzzzzz...\nCoa-wa-wa-wa-wah...",
+  "fr": "Zzzzzz... Coa-wa-wa-wa-wah...",
   "src": "pinky"
  },
  {
@@ -414,7 +414,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Are you all right? I heard you \ncry out.",
-  "fr": "Tu vas bien ? Je t'ai\nentendu crier.",
+  "fr": "Tu vas bien ? Je t'ai entendu crier.",
   "src": "pinky"
  },
  {
@@ -430,7 +430,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Jeanne...what about you?\nAre you all right?",
-  "fr": "Jeanne... et toi ?\nTu vas bien ?",
+  "fr": "Jeanne... et toi ? Tu vas bien ?",
   "src": "pinky"
  },
  {
@@ -438,7 +438,7 @@
   "max": 34,
   "who": "Roger",
   "en": "You look terrible. Like you \nhaven't slept for days.",
-  "fr": "Tu sembles éprouvée.\fComme si tu n'avais pas dormi\ndepuis des jours.",
+  "fr": "Tu sembles éprouvée. Comme si tu\nn'avais pas dormi depuis des jours.",
   "src": "pinky"
  },
  {
@@ -446,7 +446,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "...I haven't. How could I sleep? \nThere's so much on my mind.",
-  "fr": "... En effet.\nComment pourrais-je ?\f Tout se bouscule dans ma tête.",
+  "fr": "... En effet.\nComment pourrais-je ?\fTout se bouscule dans ma tête.",
   "src": "pinky"
  },
  {
@@ -462,7 +462,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Why don't we go home?\nI know even Liane\\u2014",
-  "fr": "Pourquoi ne pas rentrer chez\nnous ?\fJe sais que même Liane...",
+  "fr": "Pourquoi ne pas rentrer chez\nnous ? Je sais que même Liane...",
   "src": "pinky"
  },
  {
@@ -478,7 +478,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "I'll be departing soon for Chinon.",
-  "fr": "Je vais bientôt partir pour\nChinon.",
+  "fr": "Je vais bientôt partir pour Chinon.",
   "src": "pinky"
  },
  {
@@ -534,7 +534,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "All I want is to protect everyone.",
-  "fr": "Tout ce que je veux c'est\nprotéger tout le monde.",
+  "fr": "Tout ce que je veux c'est protéger\ntout le monde.",
   "src": "pinky"
  },
  {
@@ -550,7 +550,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "let alone dream of saving France.",
-  "fr": "Sans parler de mon rêve de\nsauver la France.",
+  "fr": "Sans parler de mon rêve de sauver\nla France.",
   "src": "pinky"
  },
  {
@@ -558,7 +558,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "So long as you wear that armlet, \nyou have a duty\\u2014",
-  "fr": "Tant que vous portez ce\nbracelet, \fvous avez un devoir...",
+  "fr": "Tant que vous portez ce bracelet,\nvous avez un devoir...",
   "src": "pinky"
  },
  {
@@ -582,7 +582,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Besides, saving France MEANS \nprotecting everyone.",
-  "fr": "De même, sauver la France\nVEUT DIRE \fprotéger tout le monde.",
+  "fr": "De même, sauver la France VEUT\nDIRE protéger tout le monde.",
   "src": "pinky"
  },
  {
@@ -598,7 +598,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I don't even know how to use \nthe armlet right.",
-  "fr": "Je ne sais même pas comment\nutiliser ce bracelet\fà bon escient.",
+  "fr": "Je ne sais même pas comment\nutiliser ce bracelet à bon escient.",
   "src": "pinky"
  },
  {
@@ -606,7 +606,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I couldn't protect my village \nor the townsmen or anything!",
-  "fr": "Je n'ai pas pu protéger mon\nvillage, ni les villageois,\fni quoi que ce soit !",
+  "fr": "Je n'ai pas pu protéger mon village,\nni les villageois,\fni quoi que ce soit !",
   "src": "pinky",
   "relu": true
  },
@@ -631,7 +631,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "And you did protect something.\nYou saved my life.",
-  "fr": "Et vous avez protégé quelque\nchose.\fVous m'avez sauvé.",
+  "fr": "Et vous avez protégé quelque\nchose. Vous m'avez sauvé.",
   "src": "pinky"
  },
  {
@@ -647,7 +647,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "I, at least, am ready to lay \ndown my life for Mother France.",
-  "fr": "Moi, au moins, je suis prêt à\ndonner ma vie pour la France, \fma patrie.",
+  "fr": "Moi, au moins, je suis prêt à donner\nma vie pour la France, ma patrie.",
   "src": "pinky"
  },
  {
@@ -695,7 +695,7 @@
   "max": 34,
   "who": "Liane",
   "en": "I won't cry or complain anymore.\fI'll stick with the two of you as \nlong as it takes!",
-  "fr": "Je ne pleurerai ou ne me\nplaindrai plus dorénavant.\fJe vous suivrai tous les deux\naussi longtemps que nécessaire !",
+  "fr": "Je ne pleurerai ou ne me plaindrai\nplus dorénavant.\fJe vous suivrai tous les deux aussi\nlongtemps que nécessaire !",
   "src": "pinky"
  },
  {
@@ -719,7 +719,7 @@
   "max": 34,
   "who": "Duke of Lorraine",
   "en": "In time of danger, I trust these \ntwo will serve you well.",
-  "fr": "En cas de danger, je gage que\nces deux-là vous seront utiles.",
+  "fr": "En cas de danger, je gage que ces\ndeux-là vous seront utiles.",
   "src": "pinky"
  },
  {
@@ -816,7 +816,7 @@
   "max": 34,
   "who": "Colet",
   "en": "Zat's \"Co-lay,\" not \"Co-lette\"!\fDo I look like a woman? Do I\nhave ze pigtails? Non!",
-  "fr": "C'est \"Co-lé\", et non \"Co-lette\" !\fJe ressemble à une femme ? J'ai\ndes couettes ? Non !",
+  "fr": "C'est \"Co-lé\", et non \"Co-lette\" !\fJe ressemble à une femme ?\nJ'ai des couettes ? Non !",
   "src": "pinky"
  },
  {
@@ -832,7 +832,7 @@
   "max": 34,
   "who": "Colet",
   "en": "Heh! Talk about ze wilderness.\nZere eez nary a soul een sight!",
-  "fr": "Hey ! En parlant de terres\nsauvages.\fIl n'y a aucune âme en vue !",
+  "fr": "Hey !\nEn parlant de terres sauvages.\fIl n'y a aucune âme en vue !",
   "src": "pinky"
  },
  {
@@ -872,7 +872,7 @@
   "max": 34,
   "who": "Colet",
   "en": "Otherwize you weel end up like\nzees country:",
-  "fr": "Sinon vous finirez comme\ncette contrée :",
+  "fr": "Sinon vous finirez comme cette\ncontrée :",
   "src": "pinky"
  },
  {
@@ -888,7 +888,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "...Don't you have any love for\nFrance?",
-  "fr": "... N'avez-vous pas d'amour\npour la France ?",
+  "fr": "... N'avez-vous pas d'amour pour la\nFrance ?",
   "src": "pinky"
  },
  {
@@ -904,7 +904,7 @@
   "max": 34,
   "who": "Colet",
   "en": "\"Love,\" she sez. Ho-hoh, do not\nmake me laugh!\f\"Love\"! Har, har!",
-  "fr": "\"Amour,\" dites-vous. Ho-hoh, ne\nme faites pas rire !\f\"Amour\" ! Mouahahahah !",
+  "fr": "\"Amour,\" dites-vous.\nHo-hoh, ne me faites pas rire !\f\"Amour\" ! Mouahahahah !",
   "src": "pinky"
  },
  {
@@ -912,7 +912,7 @@
   "max": 34,
   "who": "Marcel",
   "en": "Ooh, Colette! Look! I found this\ninsect in my field guide.",
-  "fr": "Ooh, Colette ! Regarde !\fJ'ai trouvé cet insecte sur mon\nmanuel.",
+  "fr": "Ooh, Colette ! Regarde ! J'ai trouvé\ncet insecte sur mon manuel.",
   "src": "pinky"
  },
  {
@@ -920,7 +920,7 @@
   "max": 34,
   "who": "Marcel",
   "en": "I bet the dauphin would be\nthrilled if he could see it!",
-  "fr": "Je parie que le dauphin serait\nravi de le voir s'il était là !",
+  "fr": "Je parie que le dauphin serait ravi\nde le voir s'il était là !",
   "src": "pinky"
  },
  {
@@ -928,7 +928,7 @@
   "max": 34,
   "who": "Colet",
   "en": "What een God's name would he\ndo weez a bug, beetle bwain?",
-  "fr": "Mais bon sang qu'est-ce qu'il\nferait avec un insecte, \fcervelle de moineau ?",
+  "fr": "Mais bon sang qu'est-ce qu'il\nferait avec un insecte,\fcervelle de moineau ?",
   "src": "pinky"
  },
  {
@@ -952,7 +952,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "If those two are soldiers, then\nit's no wonder France is losing.",
-  "fr": "Si ces deux-là vont sur le\nchamp de bataille,\fil ne faut pas s'étonner que la\nFrance perde.",
+  "fr": "Si ces deux-là vont sur le champ\nde bataille,\fil ne faut pas s'étonner que la\nFrance perde.",
   "src": "pinky",
   "relu": true
  },
@@ -970,7 +970,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "...Forget it.\nJust be quiet. Please.",
-  "fr": "...Oubliez ça.\nRestez tranquille.",
+  "fr": "...Oubliez ça. Restez tranquille.",
   "src": "pinky"
  },
  {
@@ -978,7 +978,7 @@
   "max": 34,
   "who": "Colet",
   "en": "Hawumph! I cannot work under\nzeese conditions!",
-  "fr": "Oumpf ! Je ne peux pas\ntravailler dans ces conditions !",
+  "fr": "Oumpf ! Je ne peux pas travailler\ndans ces conditions !",
   "src": "pinky"
  },
  {
@@ -1026,7 +1026,7 @@
   "max": 34,
   "who": "Colet",
   "en": "Zut alors!\nWhere deed you come fwom?",
-  "fr": "Zut alors !\nD'où venez-vous ?",
+  "fr": "Zut alors ! D'où venez-vous ?",
   "src": "pinky"
  },
  {
@@ -1075,7 +1075,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "The Pucelle...\nFrance's savior, or so I'm told.",
-  "fr": "La Pucelle...\fSauveuse de France, à ce qu'on\nm'a dit.",
+  "fr": "La Pucelle... Sauveuse de France, à\nce qu'on m'a dit.",
   "src": "pinky"
  },
  {

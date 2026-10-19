@@ -4,7 +4,7 @@
   "max": 34,
   "who": "Elder",
   "en": "No, I consider myself your friend.",
-  "fr": "Non, je vous considère comme\nmes amis.",
+  "fr": "Non, je vous considère comme mes\namis.",
   "src": "pinky"
  },
  {
@@ -12,7 +12,7 @@
   "max": 34,
   "who": "Elder",
   "en": "For I know there are still good\nhumans out there,",
-  "fr": "De ce que j'en sais, il existe de\nbons humains,",
+  "fr": "De ce que j'en sais, il existe de bons\nhumains,",
   "src": "pinky"
  },
  {
@@ -36,7 +36,7 @@
   "max": 34,
   "who": "Elder",
   "en": "The elves' Alrond Wood is outside\nof Reims,",
-  "fr": "Le bois d'Alrond des elfes est\naprès Reims,",
+  "fr": "Le bois d'Alrond des elfes est après\nReims,",
   "src": "pinky"
  },
  {
@@ -44,7 +44,7 @@
   "max": 34,
   "who": "Elder",
   "en": "while the dwarves' Gwygone\nMines are south of Neufchâteau.",
-  "fr": "et les mines de Gwygone des\nnains se trouvent au sud de\fNeufchâteau.",
+  "fr": "et les mines de Gwygone des nains\nse trouvent au sud de\fNeufchâteau.",
   "src": "pinky"
  },
  {
@@ -76,7 +76,7 @@
   "max": 34,
   "who": "Elder",
   "en": "Very well.\nSafe travels, then.",
-  "fr": "Parfait.\nBon voyage.",
+  "fr": "Parfait. Bon voyage.",
   "src": "pinky"
  },
  {
@@ -84,7 +84,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "This must be the wood the elves\ncall home... It's so quiet.",
-  "fr": "Ça doit être la demeure des\nelfes... C'est si calme.",
+  "fr": "Ça doit être la demeure des elfes...\nC'est si calme.",
   "src": "pinky"
  },
  {
@@ -118,7 +118,7 @@
   "max": 34,
   "who": "Beatrix",
   "en": "Hide, an elf will, should a host\nof \"heathens\" hover hither.",
-  "fr": "Cachés, les elfes resteront, si\ndes païens foulent leurs terres.",
+  "fr": "Cachés, les elfes resteront, si des\npaïens foulent leurs terres.",
   "src": "pinky"
  },
  {
@@ -126,7 +126,7 @@
   "max": 34,
   "who": "Beatrix",
   "en": "My brethren beheld our bizarre\nband from the barbicans,",
-  "fr": "Mes frères ont dû apercevoir\nnotre groupe hétéroclite\fau travers des barbacanes,",
+  "fr": "Mes frères ont dû apercevoir\nnotre groupe hétéroclite au\ftravers des barbacanes,",
   "src": "pinky"
  },
  {
@@ -150,7 +150,7 @@
   "max": 34,
   "who": "Beatrix",
   "en": "I... My loyalties lie with my\nlifelong love alone.",
-  "fr": "Je... Ma loyauté va uniquement\nà mon amour de toujours.",
+  "fr": "Je... Ma loyauté va uniquement à\nmon amour de toujours.",
   "src": "pinky",
   "relu": true
  },
@@ -159,7 +159,7 @@
   "max": 34,
   "who": "Bartolomeo",
   "en": "Soft, Beatrix!\nThou wilt say no more!",
-  "fr": "Doucement, Beatrix ! Tu n'as pas\nà en dire plus !",
+  "fr": "Doucement, Beatrix !\nTu n'as pas à en dire plus !",
   "src": "pinky"
  },
  {
@@ -200,7 +200,7 @@
   "max": 34,
   "who": "Beatrix",
   "en": "Y-yes, excellent! An entirely\nentertainable endeavor. *Ahem.*",
-  "fr": "O-oui ! Excellent ! Une\nremarquable entreprise !\f*ahem*",
+  "fr": "O-oui ! Excellent ! Une\nremarquable entreprise ! *ahem*",
   "src": "pinky"
  },
  {
@@ -224,7 +224,7 @@
   "max": 34,
   "who": "Beatrix",
   "en": "He may not heed even the most\nheartfelt hand-wringings.",
-  "fr": "il est possible qu'il ne souhaite\npas nous recevoir.",
+  "fr": "il est possible qu'il ne souhaite pas\nnous recevoir.",
   "src": "pinky"
  },
  {
@@ -232,7 +232,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "But...surely he'll understand\nwe want to save France?",
-  "fr": "Mais... il devrait sûrement\ncomprendre que notre but est\fde sauver la France.",
+  "fr": "Mais...\fil devrait sûrement comprendre\nque notre but est de sauver la\fFrance.",
   "src": "pinky"
  },
  {
@@ -297,7 +297,7 @@
   "max": 34,
   "who": "Man's Voice",
   "en": "You should just steal the gem if\nyou want it that bad.",
-  "fr": "Vous n'avez qu'à voler la gemme\nsi vous la voulez autant.",
+  "fr": "Vous n'avez qu'à voler la gemme si\nvous la voulez autant.",
   "src": "pinky"
  },
  {
@@ -337,7 +337,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Heh! I'm here to get my hands\non the ultimate power...",
-  "fr": "Hé ! Je suis ici pour mettre la\nmain sur le pouvoir ultime...",
+  "fr": "Hé ! Je suis ici pour mettre la main\nsur le pouvoir ultime...",
   "src": "pinky"
  },
  {
@@ -353,7 +353,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Why do you want the gem? I\nthought you wanted to kill me!",
-  "fr": "Pourquoi vouloir la gemme ?\fJe pensais que tu voulais juste\nme tuer !",
+  "fr": "Pourquoi vouloir la gemme ?\fJe pensais que tu voulais juste me\ntuer !",
   "src": "pinky"
  },
  {
@@ -361,7 +361,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Humph, right.\nYou don't matter anymore.",
-  "fr": "Humpf, c'est vrai. Tu n'as plus\naucune valeur.",
+  "fr": "Humpf, c'est vrai.\nTu n'as plus aucune valeur.",
   "src": "pinky",
   "relu": true
  },
@@ -370,7 +370,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Attack!\nKill the elder!",
-  "fr": "À l'attaque !\nTuez l'ancien !",
+  "fr": "À l'attaque ! Tuez l'ancien !",
   "src": "pinky"
  },
  {
@@ -637,7 +637,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "...Roger!\nStop running!",
-  "fr": "... Roger !\nArrête de courir !",
+  "fr": "... Roger ! Arrête de courir !",
   "src": "pinky"
  },
  {
@@ -661,7 +661,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Heh heh heh...\nAha ha ha ha ha!",
-  "fr": "Heh heh heh...\nAha ha ha ha ha !",
+  "fr": "Heh heh heh... Aha ha ha ha ha !",
   "src": "pinky"
  },
  {
@@ -677,7 +677,7 @@
   "max": 34,
   "who": "Roger",
   "en": "I can't even get rid of one\nstupid little woman!",
-  "fr": "Je n'arrive même pas à me\ndébarrasser d'une stupide\fgamine !",
+  "fr": "Je n'arrive même pas à me\ndébarrasser d'une stupide gamine !",
   "src": "pinky",
   "relu": true
  },
@@ -711,7 +711,7 @@
   "max": 34,
   "who": "Elder",
   "en": "I am eldest amongst the elves;\nergo, the elder.",
-  "fr": "Je suis le plus âgé des elfes,\nje suis l'ancien.",
+  "fr": "Je suis le plus âgé des elfes, je suis\nl'ancien.",
   "src": "pinky",
   "relu": true
  },
@@ -720,7 +720,7 @@
   "max": 34,
   "who": "Elder",
   "en": "I am beholden to you for your\nbravery on behalf of our abode.\fCome closer, child.",
-  "fr": "Je vous suis redevable au sujet\nde votre bravoure.\fApprochez, mon enfant.",
+  "fr": "Je vous suis redevable au sujet de\nvotre bravoure.\fApprochez, mon enfant.",
   "src": "pinky"
  },
  {
@@ -736,7 +736,7 @@
   "max": 34,
   "who": "Elder",
   "en": "What reason could you have for\nreneging,\nreturning remorseless\\u2014",
-  "fr": "Quelles raisons pouvez-vous\navoir pour nous renier,\fet revenir sans remords...",
+  "fr": "Quelles raisons pouvez-vous avoir\npour nous renier,\fet revenir sans remords...",
   "src": "pinky",
   "relu": true
  },
@@ -753,7 +753,7 @@
   "max": 34,
   "who": "Elder",
   "en": "No matter.\nCome inside.",
-  "fr": "Qu'importe.\nEntrez.",
+  "fr": "Qu'importe. Entrez.",
   "src": "pinky"
  },
  {
@@ -769,7 +769,7 @@
   "max": 34,
   "who": "Elder",
   "en": "He has never deigned to disclose\nthe details of his past, I derive?",
-  "fr": "Il n'a jamais divulgué les détails\nde son passé, je me trompe ?",
+  "fr": "Il n'a jamais divulgué les détails de\nson passé, je me trompe ?",
   "src": "pinky"
  },
  {
@@ -785,7 +785,7 @@
   "max": 34,
   "who": "Elder",
   "en": "Ostensibly, Soldat was an outpost\nof overqualified sellswords.",
-  "fr": "Apparemment, les Soldats sont\nune sorte de mercenaires\fhautement qualifiés.",
+  "fr": "Apparemment,\fles Soldats sont une sorte de\nmercenaires hautement qualifiés.",
   "src": "pinky"
  },
  {
@@ -793,7 +793,7 @@
   "max": 34,
   "who": "Elder",
   "en": "In truth? An elaborate laboratory\nfor English experimentation.",
-  "fr": "Vraiment ? Un laboratoire\nsophistiqué servant\faux Anglais pour leurs\nexpérimentations.",
+  "fr": "Vraiment ?\fUn laboratoire sophistiqué\nservant aux Anglais pour leurs\fexpérimentations.",
   "src": "pinky",
   "relu": true
  },
@@ -802,7 +802,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "What...kind of experiments?",
-  "fr": "Quoi... Quelle sorte\nd'expérimentation ?",
+  "fr": "Quoi...\nQuelle sorte d'expérimentation ?",
   "src": "pinky"
  },
  {
@@ -810,7 +810,7 @@
   "max": 34,
   "who": "Elder",
   "en": "Resolving to release the reclusive\nreapers from the gems,\fthe English essayed to accelerate\nsaid emancipation via humans.",
-  "fr": "Résolus à libérer les\nmoissonneurs emprisonnés\fdans les gemmes, les Anglais\ntentèrent de maîtriser ladite\fémancipation par leur propre\ncompte.",
+  "fr": "Résolus à libérer les moissonneurs\nemprisonnés\fdans les gemmes,\fles Anglais tentèrent de maîtriser\nladite émancipation par leur\fpropre compte.",
   "src": "pinky",
   "relu": true
  },
@@ -828,7 +828,7 @@
   "max": 34,
   "who": "Elder",
   "en": "You see...\fthe single subject in which they\nsuccessfully sowed a reaper...\fslyly slipped away from Soldat.",
-  "fr": "En fait...\fle seul cobaye dans lequel ils ont\ninséré avec succès un moissonneur...\fs'est sournoisement échappé du\nSoldat.",
+  "fr": "En fait...\fle seul cobaye dans lequel ils ont\ninséré avec succès un\fmoissonneur...\fs'est sournoisement échappé du\nSoldat.",
   "src": "pinky",
   "relu": true
  },
@@ -837,7 +837,7 @@
   "max": 34,
   "who": "Elder",
   "en": "With their dear reaper deserted\nand distasteful dreams dashed,\fthe English drew their\nexperiments to an embarrassing\nend.",
-  "fr": "Avec leur cher moissonneur\nayant déserté et leurs rêves\fs'évanouissant par là-même, les\nAnglais tirèrent un trait sur\fleurs expériences avec une\ncertaine honte.",
+  "fr": "Avec leur cher moissonneur\nayant déserté et leurs rêves\fs'évanouissant par là-même,\fles Anglais tirèrent un trait sur\nleurs expériences avec une\fcertaine honte.",
   "src": "pinky"
  },
  {
@@ -845,7 +845,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "So the test subject that\nescaped... That was Roger?",
-  "fr": "Alors, le cobaye qui s'est\néchappé était... Roger ?",
+  "fr": "Alors, le cobaye qui s'est échappé\nétait... Roger ?",
   "src": "pinky"
  },
  {
@@ -861,7 +861,7 @@
   "max": 34,
   "who": "Elder",
   "en": "In time the reaper will ravage\nRoger; hack at his human habit,",
-  "fr": "Avec le temps le moissonneur\ndétruira Roger,\féradiquant tout ce qu'il a\nd'humain en lui,",
+  "fr": "Avec le temps le moissonneur\ndétruira Roger,\féradiquant tout ce qu'il a d'humain\nen lui,",
   "src": "pinky",
   "relu": true
  },
@@ -878,7 +878,7 @@
   "max": 34,
   "who": "Elder",
   "en": "...You came here, I sense, in\nsearch of a certain something.",
-  "fr": "... Vous êtes venus jusqu'ici, je\nprésume,\fà la recherche de quelque chose.",
+  "fr": "...\fVous êtes venus jusqu'ici, je\nprésume,\fà la recherche de quelque chose.",
   "src": "pinky"
  },
  {
@@ -943,7 +943,7 @@
   "max": 34,
   "who": "Elder",
   "en": "tells me that you fancy a fight\nwith the Fiend, Gilvaroth.",
-  "fr": "me dit que vous rêvez\nd'affronter le démon, Gilvaroth.",
+  "fr": "me dit que vous rêvez d'affronter\nle démon, Gilvaroth.",
   "src": "pinky"
  },
  {
@@ -959,7 +959,7 @@
   "max": 34,
   "who": "Elder",
   "en": "My sentiment from the start...\fhas been to cede the gem to\nLuther's successor.",
-  "fr": "Dès le départ, j'ai eu ce\nprésentiment...\fRemettre la gemme au\nsuccesseur de Luther.",
+  "fr": "Dès le départ, j'ai eu ce\nprésentiment...\fRemettre la gemme au successeur\nde Luther.",
   "src": "pinky"
  },
  {
@@ -967,7 +967,7 @@
   "max": 34,
   "who": "Elder",
   "en": "If you are to halt Gilvaroth's\nhavoc, and save France's scions,\fthen you must procure the\narmlets' prodigious power.",
-  "fr": "Si vous êtes ici pour stopper les\nravages de Gilvaroth, et sauver\fl'avenir de la France, alors\nvous devez vous procurer\fla prodigieuse puissance des\nbracelets.",
+  "fr": "Si vous êtes ici pour stopper les\nravages de Gilvaroth, et sauver\fl'avenir de la France,\falors vous devez vous procurer la\nprodigieuse puissance des\fbracelets.",
   "src": "pinky"
  },
  {
@@ -975,7 +975,7 @@
   "max": 34,
   "who": "Elder",
   "en": "We have enshrined the gem in a\nsheltered stretch of the woods;",
-  "fr": "Nous avons dissimulé la gemme\fà l'abri d'un sanctuaire dans les\nbois.",
+  "fr": "Nous avons dissimulé la gemme à\nl'abri d'un sanctuaire dans les bois.",
   "src": "pinky"
  },
  {
@@ -983,7 +983,7 @@
   "max": 34,
   "who": "Elder",
   "en": "I shall take you to that\ntenebrous treasury at once.",
-  "fr": "Je vais vous conduire à ce\nsombre trésor sur-le-champ.",
+  "fr": "Je vais vous conduire à ce sombre\ntrésor sur-le-champ.",
   "src": "pinky",
   "relu": true
  },
@@ -1008,7 +1008,7 @@
   "max": 34,
   "who": "Bertrand",
   "en": "Let me handle this one!\nI'm good with dwarfses.",
-  "fr": "Laisse-moi m'occuper de ça !\fJe suis en bons termes avec les\nnains.",
+  "fr": "Laisse-moi m'occuper de ça ! Je\nsuis en bons termes avec les nains.",
   "src": "pinky",
   "relu": true
  },
@@ -1017,7 +1017,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Oh, Bertrand! I didn't know you\ncame along.",
-  "fr": "Oh, Bertrand ! Je ne savais pas\nque tu étais par là.",
+  "fr": "Oh, Bertrand !\nJe ne savais pas que tu étais par là.",
   "src": "pinky"
  },
  {
@@ -1033,7 +1033,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "What's that in your hand?\nDid you swipe the letter?!",
-  "fr": "Qu'est-ce que tu as dans ta\nmain ?\fAs-tu dérobé cette lettre ?!",
+  "fr": "Qu'est-ce que tu as dans ta main ?\nAs-tu dérobé cette lettre ?!",
   "src": "pinky",
   "relu": true
  },
@@ -1058,7 +1058,7 @@
   "max": 34,
   "who": "Jean",
   "en": "We'll be fine! Probably.\n...Possibly.",
-  "fr": "Tout ira bien ! Probablement.\n... Éventuellement.",
+  "fr": "Tout ira bien ! Probablement. ...\nÉventuellement.",
   "src": "pinky"
  },
  {
@@ -1092,7 +1092,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "...Wuh? Wet me see dat!\f\"If ye do not we winquish da gem\nto dese\\u2014\" ACHOO!\fDis wetter is caked in wayers of\ndust! Wie's awwergic to dust!",
-  "fr": "... Quoi ? Montrez-moi ça !\f\"Si vous ne remettez pas la\ngemme à ces...\" ATCHOUM !\fCette lettre est entièrement\nrecouverte de poussière !\fJ'suis allergique à la poussière !",
+  "fr": "... Quoi ? Montrez-moi ça !\f\"Si vous ne remettez pas la gemme\nà ces...\" ATCHOUM !\fCette lettre est entièrement\nrecouverte de poussière !\fJ'suis allergique à la poussière !",
   "src": "pinky"
  },
  {
@@ -1100,7 +1100,7 @@
   "max": 34,
   "who": "Bertrand",
   "en": "Oh! Sorry. It says:\f\"If you do not relinquish the gem\nto these warriors, the\\u2014\"",
-  "fr": "Oh ! Désolé, ça dit :\f\"Si vous ne remettez pas la\ngemme à ces guerriers, la...\"",
+  "fr": "Oh ! Désolé, ça dit :\f\"Si vous ne remettez pas la gemme\nà ces guerriers, la...\"",
   "src": "pinky"
  },
  {
@@ -1108,7 +1108,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "...Waha! So dat's yer game!\nYe dare thweaten us? ACHOO!",
-  "fr": "... Waha ! C'est votre plan !\nVous osez nous menacer ?\fATCHOUM !",
+  "fr": "... Waha ! C'est votre plan ! Vous\nosez nous menacer ? ATCHOUM !",
   "src": "pinky"
  },
  {
@@ -1116,7 +1116,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Dwarves! Gwab yer weapons! Wie\nhas got wobbers in da mine!",
-  "fr": "Nains ! Emparez-vous de leurs\narmes !\fOn a des brigands dans la mine !",
+  "fr": "Nains !\nEmparez-vous de leurs armes !\fOn a des brigands dans la mine !",
   "src": "pinky"
  },
  {
@@ -1140,7 +1140,7 @@
   "max": 34,
   "who": "Bertrand",
   "en": "No, no, that's not what it says!\nYa just gots to\\u2014 Aw, nuts.",
-  "fr": "Non, non, ce n'est pas ce qu'il y a\nécrit ! Vous n'avez qu'à... \fEt puis flûte !",
+  "fr": "Non, non, ce n'est pas ce qu'il y a\nécrit ! Vous n'avez qu'à...\fEt puis flûte !",
   "src": "pinky"
  },
  {
@@ -1392,7 +1392,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Yer a wot stwonger dan I\nthought...",
-  "fr": "T'en as plus dans les bras\nque je ne le pensais...",
+  "fr": "T'en as plus dans les bras que je ne\nle pensais...",
   "src": "pinky",
   "relu": true
  },
@@ -1401,7 +1401,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "What a wamentable day,\fwhen a dwarf woozes to a pack\nof wobbers... ACHOO!",
-  "fr": "Quelle pitoyable journée, quand\nun nain perd face à un groupe\fde brigands...\nATCHOUM !",
+  "fr": "Quelle pitoyable journée, quand\nun nain perd face à un groupe\fde brigands... ATCHOUM !",
   "src": "pinky",
   "relu": true
  },
@@ -1426,7 +1426,7 @@
   "max": 34,
   "who": "Village Dwarf",
   "en": "Doyen, suh! Wie think maybe dey\nare not wobbers.\fDey be wawwiors, suh, chosen by\nda descendants of da hewoes.",
-  "fr": "Doyen ! Ils pourraient ne pas\nêtre des brigands.\fIls pourraient être des\nguerriers,\fchoisis par les descendants des\nhéros.",
+  "fr": "Doyen ! Ils pourraient ne pas être\ndes brigands.\fIls pourraient être des guerriers,\fchoisis par les descendants des\nhéros.",
   "src": "pinky"
  },
  {
@@ -1450,7 +1450,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Alwight...\nWet me see dat.\f\"Test de armwets' might yersel\\u2014\" \nAhhhhhh, CHOOOOOO!",
-  "fr": "C'est exact...\nMontre-moi ça.\f\"Testez le pouvoir du bracelet\nvous-même\"... Ahhhhhh....\fATCHOUM !",
+  "fr": "C'est exact... Montre-moi ça.\f\"Testez le pouvoir du bracelet\nvous-même\"... Ahhhhhh....\fATCHOUM !",
   "src": "pinky",
   "relu": true
  },
@@ -1468,7 +1468,7 @@
   "max": 34,
   "who": "Village Dwarf",
   "en": "Ahem! \"Test de armwets' might\nyerselves, if ye wike.\"",
-  "fr": "Ahem ! \f\"Testez le pouvoir du bracelet\nvous-même, si vous voulez.\"",
+  "fr": "Ahem !\f\"Testez le pouvoir du bracelet\nvous-même, si vous voulez.\"",
   "src": "pinky"
  },
  {
@@ -1476,7 +1476,7 @@
   "max": 34,
   "who": "Village Dwarf",
   "en": "Ohh! Dey just want da key to da\nshwine where wie keep owr gem!",
-  "fr": "Ohh ! Ils veulent juste la clé du\nsanctuaire où nous conservons\fnotre gemme !",
+  "fr": "Ohh !\fIls veulent juste la clé du\nsanctuaire où nous conservons\fnotre gemme !",
   "src": "pinky"
  },
  {
@@ -1484,7 +1484,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "...Waha!\nSo dat's yer game!",
-  "fr": "... Waha !\nC'est donc leur plan !",
+  "fr": "... Waha ! C'est donc leur plan !",
   "src": "pinky"
  },
  {
@@ -1500,7 +1500,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Woh, well.\fAt weast wie got da might-testin'\npart out o' da way.",
-  "fr": "Oh, bien.\fAu moins, on n'a plus besoin de\nleur faire passer\fl'épreuve de force.",
+  "fr": "Oh, bien.\fAu moins,\fon n'a plus besoin de leur faire\npasser l'épreuve de force.",
   "src": "pinky"
  },
  {
@@ -1508,7 +1508,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Wie'll have da miners fetch ye\ndat key ye need. \nJust a moment\\u2014",
-  "fr": "Nous enverrons les mineurs\nchercher cette clé\fdont vous avez besoin.\nÇa ne sera pas bien long.",
+  "fr": "Nous enverrons les mineurs\nchercher cette clé dont vous avez\fbesoin. Ça ne sera pas bien long.",
   "src": "pinky",
   "relu": true
  },
@@ -1517,7 +1517,7 @@
   "max": 34,
   "who": "Village Dwarf",
   "en": "Wuh?\nWhadda YEE want?",
-  "fr": "Hein ?\nQu'est-ce que tu VEUX ?",
+  "fr": "Hein ? Qu'est-ce que tu VEUX ?",
   "src": "pinky",
   "relu": true
  },
@@ -1535,7 +1535,7 @@
   "max": 34,
   "who": "Roger",
   "en": "The gem is in the shrine, right?\nI'll take that key.",
-  "fr": "La gemme est bien dans le\nsanctuaire ? \fJ'irai chercher cette clé.",
+  "fr": "La gemme est bien dans le\nsanctuaire ?\fJ'irai chercher cette clé.",
   "src": "pinky"
  },
  {
@@ -1543,7 +1543,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "...Huh? What does he want with\nthe gem?",
-  "fr": "...Hoh ? Que veut-il faire avec la\ngemme ?",
+  "fr": "...Hoh ?\nQue veut-il faire avec la gemme ?",
   "src": "pinky"
  },
  {
@@ -1551,7 +1551,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Wuh-oh!\nWhoa dere, wawwiors!",
-  "fr": "Oh-oh !\nQui va là, guerriers !",
+  "fr": "Oh-oh ! Qui va là, guerriers !",
   "src": "pinky"
  },
  {
@@ -1583,7 +1583,7 @@
   "max": 34,
   "who": "Village Dwarf",
   "en": "Woh, well...\nQuite a shock, dat was.",
-  "fr": "Oh, bon...\nQuels rebondissements !",
+  "fr": "Oh, bon... Quels rebondissements !",
   "src": "pinky"
  },
  {
@@ -1615,7 +1615,7 @@
   "max": 34,
   "who": "Village Dwarf",
   "en": "Da one dat got that reawwy\npowerful weaper put inside him?",
-  "fr": "C'est celui qui a en lui un\ntrès puissant moissonneur ?",
+  "fr": "C'est celui qui a en lui un très\npuissant moissonneur ?",
   "src": "pinky",
   "relu": true
  },
@@ -1632,7 +1632,7 @@
   "max": 34,
   "who": "Village Dwarf",
   "en": "Wie should tell dat girl with de\narmwet, suh.",
-  "fr": "Nous devrions en parler à la\nfille au bracelet.",
+  "fr": "Nous devrions en parler à la fille\nau bracelet.",
   "src": "pinky"
  },
  {
@@ -1666,7 +1666,7 @@
   "max": 34,
   "who": "Elder",
   "en": "Stay still for a spell so I might\nsoothe the sentinel spirits.",
-  "fr": "Ne bougez pas quelques\ninstants, \fque les gardiens je puisse\ncalmer.",
+  "fr": "Ne bougez pas quelques instants,\nque les gardiens je puisse calmer.",
   "src": "pinky"
  },
  {
@@ -1674,7 +1674,7 @@
   "max": 34,
   "who": "Elder",
   "en": "Venerable numens of these vast\nand virid environs:",
-  "fr": "Vénérables gardiens de ces\nvastes et verdoyantes terres,",
+  "fr": "Vénérables gardiens de ces vastes\net verdoyantes terres,",
   "src": "pinky",
   "relu": true
  },
@@ -1691,7 +1691,7 @@
   "max": 34,
   "who": "Elder",
   "en": "...It is safe now.",
-  "fr": "... Nous pouvons y aller à\nprésent.",
+  "fr": "... Nous pouvons y aller à présent.",
   "src": "pinky"
  },
  {
@@ -1739,7 +1739,7 @@
   "max": 34,
   "who": "Roger",
   "en": "You led me right to the gem,\nAND you broke the seal for me.",
-  "fr": "Tu m'as conduit à la gemme, ET\ntu as brisé le sceau pour moi.",
+  "fr": "Tu m'as conduit à la gemme, ET tu\nas brisé le sceau pour moi.",
   "src": "pinky"
  },
  {
@@ -1835,7 +1835,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Don't bother coming after me.",
-  "fr": "Ce n'est pas la peine de me\nsuivre.",
+  "fr": "Ce n'est pas la peine de me suivre.",
   "src": "pinky"
  },
  {
@@ -1851,7 +1851,7 @@
   "max": 34,
   "who": "Beatrix",
   "en": "Elder!\nDon't die...",
-  "fr": "Ancien !\nAccrochez-vous à la vie !",
+  "fr": "Ancien ! Accrochez-vous à la vie !",
   "src": "pinky"
  },
  {
@@ -1875,7 +1875,7 @@
   "max": 34,
   "who": "Elder",
   "en": "of the very fool who forced you\nto fly your home in infamy?",
-  "fr": "du fou qui vous a contraint à\nfuir votre propre maison ?",
+  "fr": "du fou qui vous a contraint à fuir\nvotre propre maison ?",
   "src": "pinky",
   "relu": true
  },
@@ -1892,7 +1892,7 @@
   "max": 34,
   "who": "Elder",
   "en": "Beatrix...and my beastly brother,\nBartolomeo.",
-  "fr": "Beatrix... et mon bestial frère,\nBartolomeo.",
+  "fr": "Beatrix...\net mon bestial frère, Bartolomeo.",
   "src": "pinky"
  },
  {
@@ -1909,7 +1909,7 @@
   "max": 34,
   "who": "Elder",
   "en": "I buckled, blindly, to the\nburdens of my office and\nbanished you,",
-  "fr": "Je me suis contenté,\naveuglément, des tâches qui\fm'ont été confiées, et je vous ai\nbannis,",
+  "fr": "Je me suis contenté, aveuglément,\ndes tâches qui m'ont été confiées,\fet je vous ai bannis,",
   "src": "pinky"
  },
  {
@@ -1933,7 +1933,7 @@
   "max": 34,
   "who": "Beatrix",
   "en": "Only far from our fellows could\nwe find freedom.",
-  "fr": "Il n'y a que loin de nos\nsemblables que nous pouvions\ftrouver la liberté.",
+  "fr": "Il n'y a que loin de nos semblables\nque nous pouvions trouver la\fliberté.",
   "src": "pinky"
  },
  {
@@ -1982,7 +1982,7 @@
   "max": 34,
   "who": "Elder",
   "en": "Legatee of Luther's armlet...",
-  "fr": "L'héritière du bracelet de\nLuther...",
+  "fr": "L'héritière du bracelet de Luther...",
   "src": "pinky",
   "relu": true
  },
@@ -2007,7 +2007,7 @@
   "max": 34,
   "who": "Elder",
   "en": "ere that rogue revives the\nreaper roiling him from within.",
-  "fr": "avant que ce maraud ramène à\nla vie le moissonneur\fqui lui hante les entrailles.",
+  "fr": "avant que ce maraud ramène à la\nvie le moissonneur qui lui hante\fles entrailles.",
   "src": "pinky",
   "relu": true
  },
@@ -2016,7 +2016,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Is the reaper possessing Roger\nthat powerful?",
-  "fr": "Le moissonneur qui possède\nRoger est si puissant ?",
+  "fr": "Le moissonneur qui possède Roger\nest si puissant ?",
   "src": "pinky",
   "relu": true
  },
@@ -2025,7 +2025,7 @@
   "max": 34,
   "who": "Elder",
   "en": "We are fortunate it chose such\na formidable youth as its flask.",
-  "fr": "Nous sommes chanceux, il a\nchoisi un hôte avec la vigueur\fde la jeunesse.",
+  "fr": "Nous sommes chanceux,\fil a choisi un hôte avec la vigueur\nde la jeunesse.",
   "src": "pinky"
  },
  {

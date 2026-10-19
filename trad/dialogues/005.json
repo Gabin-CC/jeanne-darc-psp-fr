@@ -12,7 +12,7 @@
   "max": 34,
   "who": "Liane",
   "en": "I can't believe we're in the same\nroom we were ten minutes ago.",
-  "fr": "C'est incroyable comme la pièce\na changé en dix minutes !",
+  "fr": "C'est incroyable comme la pièce a\nchangé en dix minutes !",
   "src": "pinky"
  },
  {
@@ -44,7 +44,7 @@
   "max": 34,
   "who": "Georges",
   "en": "Bathtard dauphin! He should haff\njutht done ath he wath told...",
-  "fr": "Bâtard de dauphin ! Il aurait\njuste dû faire\fce qu'on lui avait demandé...",
+  "fr": "Bâtard de dauphin !\fIl aurait juste dû faire ce qu'on lui\navait demandé...",
   "src": "pinky",
   "relu": true
  },
@@ -77,7 +77,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "...And now they all think I'm\ntheir Pucelle.",
-  "fr": "... Et maintenant ils pensent\ntous que je suis leur Pucelle.",
+  "fr": "... Et maintenant ils pensent tous\nque je suis leur Pucelle.",
   "src": "pinky"
  },
  {
@@ -94,7 +94,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "But the fact remains...\fthat you picked the dauphin\nout of that crowd.",
-  "fr": "Mais le fait est...\fque vous avez désigné le\ndauphin dans cette foule.",
+  "fr": "Mais le fait est...\fque vous avez désigné le dauphin\ndans cette foule.",
   "src": "pinky"
  },
  {
@@ -102,7 +102,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "He believed in your words and\nyour strength,",
-  "fr": "Il a cru en vos mots et\nen votre force,",
+  "fr": "Il a cru en vos mots et en votre\nforce,",
   "src": "pinky"
  },
  {
@@ -118,7 +118,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Tomorrow we begin preparations\nfor the Orléans campaign.",
-  "fr": "Demain nous commençons les\npréparatifs\fpour la campagne d'Orléans.",
+  "fr": "Demain nous commençons les\npréparatifs pour la campagne\fd'Orléans.",
   "src": "pinky"
  },
  {
@@ -126,7 +126,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I don't know how he expects me\nto lead the relief column.",
-  "fr": "Je ne sais pas comment il\nsouhaite que je dirige\fl'unité de soutien.",
+  "fr": "Je ne sais pas comment il souhaite\nque je dirige l'unité de soutien.",
   "src": "pinky"
  },
  {
@@ -142,7 +142,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "You've got the same armlet as I\ndo.",
-  "fr": "Vous avez le même bracelet\nque moi.",
+  "fr": "Vous avez le même bracelet que\nmoi.",
   "src": "pinky"
  },
  {
@@ -166,7 +166,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Just being able to wield the\narmlet's power earned me\na hero's honors.",
-  "fr": "Juste le fait de posséder le\npouvoir du bracelet m'a valu\fles honneurs d'un héros.",
+  "fr": "Juste le fait de posséder le pouvoir\ndu bracelet m'a valu les honneurs\fd'un héros.",
   "src": "pinky"
  },
  {
@@ -174,7 +174,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "But to think someone out there\ncould hear God's voice!",
-  "fr": "Mais penser que quelqu'un\npourrait entendre\fla Voix de Dieu !",
+  "fr": "Mais penser que quelqu'un\npourrait entendre la Voix de Dieu !",
   "src": "pinky"
  },
  {
@@ -190,7 +190,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "and that was why you were\nfollowing me.",
-  "fr": "et que c'était pour cette\nraison que vous me suiviez.",
+  "fr": "et que c'était pour cette raison\nque vous me suiviez.",
   "src": "pinky"
  },
  {
@@ -230,7 +230,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "We're here to talk war.\fNow let's hear some strategies\nfor taking back Orléans!",
-  "fr": "Nous sommes ici pour parler\nguerre. Voyons donc\fces stratégies pour\nreprendre Orléans !",
+  "fr": "Nous sommes ici pour parler\nguerre.\fVoyons donc ces stratégies pour\nreprendre Orléans !",
   "src": "pinky"
  },
  {
@@ -246,7 +246,7 @@
   "max": 34,
   "who": "Noble in Black",
   "en": "Offer strategies? Pffaw!\nThe battle can't be won!",
-  "fr": "Des stratégies ? HAHA ! La\nbataille ne peut être gagnée !",
+  "fr": "Des stratégies ? HAHA !\nLa bataille ne peut être gagnée !",
   "src": "pinky"
  },
  {
@@ -262,7 +262,7 @@
   "max": 34,
   "who": "Young Noble",
   "en": "Agreed.\fWhy squander the dauphin's\ntroops on a futile effort?",
-  "fr": "En effet. Pourquoi envoyer les\ntroupes du dauphin vers\fune mort inutile.",
+  "fr": "En effet.\fPourquoi envoyer les troupes du\ndauphin vers une mort inutile.",
   "src": "pinky"
  },
  {
@@ -279,7 +279,7 @@
   "max": 34,
   "who": "Young Noble",
   "en": "that alone is a dubious enough\nprospect.",
-  "fr": "est déjà une perspective\nassez douteuse.",
+  "fr": "est déjà une perspective assez\ndouteuse.",
   "src": "pinky"
  },
  {
@@ -295,7 +295,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I thought it was already agreed\nwe were marching on Orléans?",
-  "fr": "Il me semblait qu'il était déjà\nconvenu de\fmarcher sur Orléans ?",
+  "fr": "Il me semblait qu'il était déjà\nconvenu de marcher sur Orléans ?",
   "src": "pinky"
  },
  {
@@ -327,7 +327,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Enough! I'm going to\nOrléans\\u2014alone if I have to.\fStay behind if you want,\nall of you! See if I care!",
-  "fr": "Ça suffit ! Je vais à Orléans,\nseule s'il le faut.\fN'intervenez pas si ça vous\nchante, vous verrez bien !",
+  "fr": "Ça suffit !\nJe vais à Orléans, seule s'il le faut.\fN'intervenez pas si ça vous\nchante, vous verrez bien !",
   "src": "pinky"
  },
  {
@@ -359,7 +359,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Shouldn't you two be halfway\nback to Vaucouleurs by now?",
-  "fr": "Ne devriez-vous pas être entre\nici et Vaucouleurs ?",
+  "fr": "Ne devriez-vous pas être entre ici\net Vaucouleurs ?",
   "src": "pinky"
  },
  {
@@ -367,7 +367,7 @@
   "max": 34,
   "who": "Jean",
   "en": "A knight's duty is to protect\nthe maid in distress, is it not?\fWe shall stay with you until the\nday you save France.",
-  "fr": "Le devoir d'un chevalier est de\nprotéger les jeunes filles\fen détresse, non ?\fNous devons rester avec vous\njusqu'au jour\foù vous sauverez la France.",
+  "fr": "Le devoir d'un chevalier est de\nprotéger les jeunes filles en\fdétresse, non ?\fNous devons rester avec vous\njusqu'au jour où vous sauverez la\fFrance.",
   "src": "pinky"
  },
  {
@@ -423,7 +423,7 @@
   "max": 34,
   "who": "English Soldier",
   "en": "Enemy reinforcements!\nSquash the bloody frogs!",
-  "fr": "Renforts ennemis ! Écrasez ces\nsatanées grenouilles !",
+  "fr": "Renforts ennemis !\nÉcrasez ces satanées grenouilles !",
   "src": "pinky"
  },
  {
@@ -479,7 +479,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "...Well met, La Hire.\fWhere have you been? A greeting\nwould be nice.",
-  "fr": "... Bien le bonjour, La Hire.\nOù étiez-vous? \fVous auriez pu venir nous\nsaluer.",
+  "fr": "... Bien le bonjour, La Hire.\nOù étiez-vous?\fVous auriez pu venir nous saluer.",
   "src": "pinky"
  },
  {
@@ -503,7 +503,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "You stand before the great La\nHire,\fproud warrior of the therion race,\nand champion of the dauphin.\nYou will excuse La Hire for being\nlate, Général.",
-  "fr": "Vous vous tenez devant le grand\nLa Hire, fier guerrier therion,\fet champion du dauphin. \fVous excuserez La Hire d'être\nen retard, général.",
+  "fr": "Vous vous tenez devant le grand\nLa Hire, fier guerrier therion,\fet champion du dauphin.\fVous excuserez La Hire d'être en\nretard, général.",
   "src": "pinky"
  },
  {
@@ -520,7 +520,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "Of courrrse! See how La Hire\naches for battle?",
-  "fr": "Bien sûr !\fRegardez comment La Hire\nmeurt d'envie d'en découdre !",
+  "fr": "Bien sûr ! Regardez comment La\nHire meurt d'envie d'en découdre !",
   "src": "pinky",
   "relu": true
  },
@@ -529,7 +529,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "You will accept La Hire's thanks\nfor giving him what he aches for!",
-  "fr": "Vous accepterez les\nremerciements de La Hire\fpour lui donner ce dont il a\nenvie !",
+  "fr": "Vous accepterez les\nremerciements de La Hire pour lui\fdonner ce dont il a envie !",
   "src": "pinky"
  },
  {
@@ -537,7 +537,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I do, and offer mine in return.\nGood hunting, La Hire.",
-  "fr": "Bien sûr, pourquoi refuser une\ntelle offre.\fBonne chasse, La Hire.",
+  "fr": "Bien sûr, pourquoi refuser une\ntelle offre. Bonne chasse, La Hire.",
   "src": "pinky"
  },
  {

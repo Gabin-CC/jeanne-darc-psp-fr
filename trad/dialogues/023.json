@@ -20,7 +20,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Don't be stupid. You have us!",
-  "fr": "Arrête de dire n'importe quoi. Tu\nnous as nous !",
+  "fr": "Arrête de dire n'importe quoi.\nTu nous as nous !",
   "src": "pinky"
  },
  {
@@ -68,7 +68,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "The castle and the rest of the\nworld should right itself soon.",
-  "fr": "Le château et le reste du monde\nse remettront rapidement.",
+  "fr": "Le château et le reste du monde se\nremettront rapidement.",
   "src": "pinky"
  },
  {
@@ -484,7 +484,7 @@
   "max": 34,
   "who": "",
   "en": "You obtain the Gem of Sacrifice!",
-  "fr": "Vous recevez la gemme du sacrifice !",
+  "fr": "Vous recevez la gemme du\nsacrifice !",
   "src": "pinky"
  },
  {
@@ -508,7 +508,7 @@
   "max": 34,
   "who": "",
   "en": "Yield and return to the world map",
-  "fr": "Abandonner (retourner sur la carte)",
+  "fr": "Abandonner (retourner sur la\ncarte)",
   "src": "pinky"
  },
  {
@@ -532,7 +532,7 @@
   "max": 34,
   "who": "Robert",
   "en": "Ladies...gentlemen...and\nEnglishmen! WELCOME!!!",
-  "fr": "Mesdames.. Messieurs... et les\nAnglais ! BIENVENUE !!",
+  "fr": "Mesdames.. Messieurs...\net les Anglais ! BIENVENUE !!",
   "src": "pinky",
   "relu": true
  },
@@ -541,7 +541,7 @@
   "max": 34,
   "who": "Robert",
   "en": "It's time to play\\u2014say it with\nme now\\u2014\"YIELD or NO YIELD\"!",
-  "fr": "Place au jeu... Allez, tous\nensemble... C'est...\fÀ prendre ou à laisser !!!",
+  "fr": "Place au jeu...\nAllez, tous ensemble... C'est...\fÀ prendre ou à laisser !!!",
   "src": "pinky"
  },
  {
@@ -549,7 +549,7 @@
   "max": 34,
   "who": "Robert",
   "en": "Hello. I'm your host, Bobby de\nBaudricourt.",
-  "fr": "Bonjour.\fJe suis le maître de cérémonie,\nBobby de Baudricourt.",
+  "fr": "Bonjour. Je suis le maître de\ncérémonie, Bobby de Baudricourt.",
   "src": "pinky"
  },
  {
@@ -557,7 +557,7 @@
   "max": 34,
   "who": "Robert",
   "en": "Contestants, the rules of the\ngame are simple:",
-  "fr": "Candidats,\nles règles sont simples !",
+  "fr": "Candidats, les règles sont simples !",
   "src": "pinky"
  },
  {
@@ -565,7 +565,7 @@
   "max": 34,
   "who": "Dominic, Robert",
   "en": "For TEN rounds, we will pit you\nagainst bloodthirsty opponents.",
-  "fr": "En DIX manches, vous allez\naffronter des adversaires\fassoiffés de sang.",
+  "fr": "En DIX manches,\fvous allez affronter des\nadversaires assoiffés de sang.",
   "src": "pinky"
  },
  {
@@ -589,7 +589,7 @@
   "max": 34,
   "who": "Robert",
   "en": "Lose a match...and that's it!\nIt's g-g-g, <COL=1>GAME OVER<COL=0>!!!",
-  "fr": "Perdez une manche et...\nC'est fini !\fC'est g-g-g <COL=1>GAME OVER<COL=0>\n!!!",
+  "fr": "Perdez une manche et... C'est fini !\nC'est g-g-g <COL=1>GAME OVER<COL=0> !!!",
   "src": "pinky"
  },
  {
@@ -605,7 +605,7 @@
   "max": 34,
   "who": "Robert, Dominic",
   "en": "All right, you've been given the\nfacts... Your decision, please.",
-  "fr": "Alors, vous connaissez les règles\nà présent... Que choisissez-vous ?",
+  "fr": "Alors, vous connaissez les règles à\nprésent... Que choisissez-vous ?",
   "src": "pinky"
  },
  {
@@ -629,7 +629,7 @@
   "max": 34,
   "who": "Robert, Dominic",
   "en": "YIELD...or NO YIELD?",
-  "fr": "ABANDONNER ou...\nCONTINUER ?",
+  "fr": "ABANDONNER ou... CONTINUER ?",
   "src": "pinky"
  },
  {
@@ -645,7 +645,7 @@
   "max": 34,
   "who": "Robert, Dominic",
   "en": "Get ready...\nGet set... GO!!!",
-  "fr": "Attention...\nPrêt.... PARTEEEEZ !!!",
+  "fr": "Attention... Prêt.... PARTEEEEZ !!!",
   "src": "pinky"
  },
  {
@@ -669,7 +669,7 @@
   "max": 34,
   "who": "Robert, Dominic",
   "en": "Or will you retire now, with\nyour appendages still intact?",
-  "fr": "Ou préférez-vous abandonner\nmaintenant\fet rester en un seul morceau ?",
+  "fr": "Ou préférez-vous abandonner\nmaintenant et rester en un seul\fmorceau ?",
   "src": "pinky"
  },
  {
@@ -733,7 +733,7 @@
   "max": 34,
   "who": "Robert",
   "en": "Or will you retire now, with\nyour spirits still unbroken?",
-  "fr": "Ou souhaitez-vous abandonner\nmaintenant\fet conserver votre âme pure ?",
+  "fr": "Ou souhaitez-vous abandonner\nmaintenant et conserver votre\fâme pure ?",
   "src": "pinky",
   "relu": true
  },
@@ -750,7 +750,7 @@
   "max": 34,
   "who": "Robert",
   "en": "Are you ready for more nerve-\nwracking action?",
-  "fr": "Prêt pour de l'action à vous\nmettre les nerfs à vif ?",
+  "fr": "Prêt pour de l'action à vous mettre\nles nerfs à vif ?",
   "src": "pinky"
  },
  {
@@ -775,7 +775,7 @@
   "max": 34,
   "who": "Robert",
   "en": "Are you ready for more face-\nmelting action?",
-  "fr": "Prêt pour de l'action à réduire\nen bouillie ?",
+  "fr": "Prêt pour de l'action à réduire en\nbouillie ?",
   "src": "pinky"
  },
  {
@@ -783,7 +783,7 @@
   "max": 34,
   "who": "Robert",
   "en": "Or will you retire now, with\nyour brains still unsplattered?",
-  "fr": "Ou voulez-vous abandonner en\ngardant votre cervelle dans\fsa boite crânienne ?",
+  "fr": "Ou voulez-vous abandonner en\ngardant votre cervelle dans sa\fboite crânienne ?",
   "src": "pinky"
  },
  {
@@ -848,7 +848,7 @@
   "max": 34,
   "who": "Robert",
   "en": "Or will you retire now, with\nyour spleens still unruptured?",
-  "fr": "Ou voulez-vous abandonner\npour garder votre rate intacte ?",
+  "fr": "Ou voulez-vous abandonner pour\ngarder votre rate intacte ?",
   "src": "pinky"
  },
  {
@@ -856,7 +856,7 @@
   "max": 34,
   "who": "Robert",
   "en": "Okay!!! Grab your eclairs, then...\nIt's time for ROUND 8!",
-  "fr": "Okay !! Attrapez vos éclairs,\nc'est l'heure de la 8ème manche !",
+  "fr": "Okay !! Attrapez vos éclairs, c'est\nl'heure de la 8ème manche !",
   "src": "pinky"
  },
  {
@@ -896,7 +896,7 @@
   "max": 34,
   "who": "Robert",
   "en": "Or will you retire now, with your\nposterity still uncompromised?",
-  "fr": "Ou voulez-vous abandonner\npour que votre postérité\freste intacte ?",
+  "fr": "Ou voulez-vous abandonner pour\nque votre postérité reste intacte ?",
   "src": "pinky"
  },
  {
@@ -904,7 +904,7 @@
   "max": 34,
   "who": "Robert",
   "en": "Okay!!! Buckle up, French fries!\nThis is the FINAL ROUND!",
-  "fr": "Bien !!! Bouclez votre ceinture,\nles frites !\fC'est la DERNIÈRE MANCHE !",
+  "fr": "Bien !!!\nBouclez votre ceinture, les frites !\fC'est la DERNIÈRE MANCHE !",
   "src": "pinky"
  },
  {
@@ -952,7 +952,7 @@
   "max": 34,
   "who": "Robert",
   "en": "Your prize for staying the test\nof testosterone:",
-  "fr": "Votre prix pour avoir passé le\ntest de la testostérone :",
+  "fr": "Votre prix pour avoir passé le test\nde la testostérone :",
   "src": "pinky"
  },
  {
@@ -960,7 +960,7 @@
   "max": 34,
   "who": "Robert",
   "en": "one fabulous <COL=3>Gem of Azure<COL=0>!",
-  "fr": "Une fabuleuse <COL=3>gemme\nd'azur<COL=0> !",
+  "fr": "Une fabuleuse <COL=3>gemme d'azur<COL=0> !",
   "src": "pinky"
  },
  {
@@ -1025,7 +1025,7 @@
   "max": 34,
   "who": "Dominic",
   "en": "Ladies...gentlemen...and dog-men,\nwoof! WELCOME!!!",
-  "fr": "Mesdames... Messieurs... et\nchiens, woof ! BIENVENUE !",
+  "fr": "Mesdames... Messieurs...\net chiens, woof ! BIENVENUE !",
   "src": "pinky"
  },
  {
@@ -1033,7 +1033,7 @@
   "max": 34,
   "who": "Dominic",
   "en": "It's time for another season of\n\"YIELD or NO YIELD\"!",
-  "fr": "Le moment est venu pour une\nnouvelle partie de À PRENDRE\fOU À LAISSER !!!",
+  "fr": "Le moment est venu pour une\nnouvelle partie de À PRENDRE OU\fÀ LAISSER !!!",
   "src": "pinky"
  },
  {
@@ -1073,7 +1073,7 @@
   "max": 34,
   "who": "Dominic",
   "en": "but the rules are exactly the\nsame as before!",
-  "fr": "mais les règles restent\nidentiques !",
+  "fr": "mais les règles restent identiques !",
   "src": "pinky"
  },
  {
@@ -1081,7 +1081,7 @@
   "max": 34,
   "who": "Dominic",
   "en": "Lose a match...and that's it!\nIt's <COL=1>GAME OVER<COL=0>, woof!",
-  "fr": "Perdez une manche et c'est\n<COL=1>GAME OVER<COL=0>, woof !",
+  "fr": "Perdez une manche et c'est <COL=1>GAME\nOVER<COL=0>, woof !",
   "src": "pinky"
  },
  {
@@ -1371,7 +1371,7 @@
   "max": 34,
   "who": "Dominic",
   "en": "Okay, woof! Buckle up, dawgs!\nThis is the FINAL ROUND!",
-  "fr": "Okay, woof ! Bouclez votre\nceinture, les clebs !\fC'est la DERNIÈRE MANCHE !!",
+  "fr": "Okay, woof !\nBouclez votre ceinture, les clebs !\fC'est la DERNIÈRE MANCHE !!",
   "src": "pinky"
  },
  {
@@ -1604,7 +1604,7 @@
   "max": 34,
   "who": "Dominic",
   "en": "Your prizes for staying the test\nof testosterone:",
-  "fr": "Votre prix pour avoir réussi le\ntest de la testostérone :",
+  "fr": "Votre prix pour avoir réussi le test\nde la testostérone :",
   "src": "pinky"
  },
  {
@@ -1612,7 +1612,7 @@
   "max": 34,
   "who": "Dominic",
   "en": "this absolutely heartbreaking\n<COL=3>Charred Pendant<COL=0>,",
-  "fr": "ce superbe <COL=3>pendentif\ncalciné<COL=0>",
+  "fr": "ce superbe <COL=3>pendentif calciné<COL=0>",
   "src": "pinky",
   "relu": true
  },
@@ -1621,7 +1621,7 @@
   "max": 34,
   "who": "Dominic",
   "en": "and one fabulous <COL=3>Gem of\nMiracles<COL=0>!",
-  "fr": "et une fabuleuse <COL=3>gemme\ndes miracles<COL=0> !",
+  "fr": "et une fabuleuse <COL=3>gemme des\nmiracles<COL=0> !",
   "src": "pinky"
  },
  {
@@ -1637,7 +1637,7 @@
   "max": 34,
   "who": "Dominic",
   "en": "And that's it for Season 2 of\n\"YIELD or NO YIELD.\"",
-  "fr": "C'était la saison 2 de\n\" À PRENDRE OU À LAISSER\" !!",
+  "fr": "C'était la saison 2 de \" À PRENDRE\nOU À LAISSER\" !!",
   "src": "pinky"
  },
  {
@@ -1645,7 +1645,7 @@
   "max": 34,
   "who": "Dominic",
   "en": "This is Dominic Deschiens,\nsigning off. Woof!",
-  "fr": "C'était Dominic Deschiens, à\nvous les studios. Woof !",
+  "fr": "C'était Dominic Deschiens, à vous\nles studios. Woof !",
   "src": "pinky"
  },
  {
@@ -1661,7 +1661,7 @@
   "max": 34,
   "who": "Robert",
   "en": "Ladies...gentlemen...and\nEnglishmen!",
-  "fr": "Mesdames... Messieurs... et\nAnglais !",
+  "fr": "Mesdames... Messieurs...\net Anglais !",
   "src": "pinky",
   "relu": true
  },
@@ -1670,7 +1670,7 @@
   "max": 34,
   "who": "Robert",
   "en": "WELCOME...to \"YIELD or NO\nYIELD\"!",
-  "fr": "BIENVENUE à...\n\"À PRENDRE OU À LAISSER\" !!",
+  "fr": "BIENVENUE à...\n\"À PRENDRE OU À LAISSER\" !!",
   "src": "pinky"
  },
  {
@@ -1686,7 +1686,7 @@
   "max": 34,
   "who": "Robert",
   "en": "For TEN rounds, we will pit you\nagainst bloodthirsty opponents.\fYIELD, and you walk away.\nNO YIELD? Then you fight!",
-  "fr": "En DIX manches, vous allez\naffronter des adversaires\fassoiffés de sang.\fABANDONNEZ et vous partirez\nen paix.\fCONTINUEZ et battez-vous !",
+  "fr": "En DIX manches,\fvous allez affronter des\nadversaires assoiffés de sang.\fABANDONNEZ et vous partirez en\npaix. CONTINUEZ et battez-vous !",
   "src": "pinky"
  },
  {
@@ -1792,7 +1792,7 @@
   "max": 34,
   "who": "Dwarf",
   "en": "Pweeze, ye gotta help wie!",
-  "fr": "Je vous en prie, il faut nous\naider !",
+  "fr": "Je vous en prie, il faut nous aider !",
   "src": "pinky"
  },
  {
@@ -1824,7 +1824,7 @@
   "max": 34,
   "who": "Rufus",
   "en": "Recause! Pets require ruv and\nattention. Woof, woof!",
-  "fr": "Parce que ! Ils ont besoin\nd'amour et d'attention ! Waf !",
+  "fr": "Parce que ! Ils ont besoin d'amour\net d'attention ! Waf !",
   "src": "pinky"
  },
  {

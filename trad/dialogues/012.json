@@ -45,7 +45,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Really terrifying dreams. And in\nthem, I...I change, Liane.",
-  "fr": "Des rêves vraiment terrifiants.\fEt par eux, j'ai... j'ai changé,\nLiane.",
+  "fr": "Des rêves vraiment terrifiants.\nEt par eux, j'ai... j'ai changé, Liane.",
   "src": "pinky"
  },
  {
@@ -53,7 +53,7 @@
   "max": 34,
   "who": "Roger",
   "en": "But the place in the dreams,",
-  "fr": "Mais là où se passaient ces\nrêves,",
+  "fr": "Mais là où se passaient ces rêves,",
   "src": "pinky"
  },
  {
@@ -93,7 +93,7 @@
   "max": 34,
   "who": "Roger",
   "en": "So I want to go find out who I\nam. Get my past back.",
-  "fr": "Donc je veux aller découvrir qui\nje suis. Ramener mon passé.",
+  "fr": "Donc je veux aller découvrir qui je\nsuis. Ramener mon passé.",
   "src": "pinky"
  },
  {
@@ -117,7 +117,7 @@
   "max": 34,
   "who": "Liane",
   "en": "The English army is still on\nFrench soil!",
-  "fr": "L'armée anglaise est toujours\nsur le territoire français !",
+  "fr": "L'armée anglaise est toujours sur\nle territoire français !",
   "src": "pinky",
   "relu": true
  },
@@ -166,7 +166,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Please, I just...\nAll right.",
-  "fr": "Je veux juste...\nTrès bien.",
+  "fr": "Je veux juste... Très bien.",
   "src": "pinky"
  },
  {
@@ -174,7 +174,7 @@
   "max": 34,
   "who": "",
   "en": "To the Paris Ramparts! Recapture Paris!",
-  "fr": "Aux remparts de Paris ! Reprenez la\nville !",
+  "fr": "Aux remparts de Paris !\nReprenez la ville !",
   "src": "pinky"
  },
  {
@@ -238,7 +238,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Look after \"Jeanne.\"\nFarewell.",
-  "fr": "Veille sur \"Jeanne.\"\nAdieu.",
+  "fr": "Veille sur \"Jeanne.\" Adieu.",
   "src": "pinky",
   "relu": true
  },
@@ -287,7 +287,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "Were you thinking of the queen \ndowager Isabeau, Sire?",
-  "fr": "Vous pensiez à la reine\ndouairière Isabeau, Sire ?",
+  "fr": "Vous pensiez à la reine douairière\nIsabeau, Sire ?",
   "src": "pinky"
  },
  {
@@ -303,7 +303,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "If she could see me now...do you \nthink she would love me?",
-  "fr": "Si elle pouvait me voir\nmaintenant... \fPensez-vous qu'elle m'aimerait ?",
+  "fr": "Si elle pouvait me voir\nmaintenant...\fPensez-vous qu'elle m'aimerait ?",
   "src": "pinky"
  },
  {
@@ -327,7 +327,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "and not just some bastard for\nbored nobles to gossip about?",
-  "fr": "Et pas juste un bâtard aux yeux\nde nobles ennuyeux\favides de cancan ?",
+  "fr": "Et pas juste un bâtard aux yeux de\nnobles ennuyeux avides de\fcancan ?",
   "src": "pinky",
   "relu": true
  },
@@ -360,7 +360,7 @@
   "max": 34,
   "who": "Liane",
   "en": "You ordered all your troops to\nwithdraw?!",
-  "fr": "Vous avez ordonné à toutes\nvos troupes de se retirer ?!",
+  "fr": "Vous avez ordonné à toutes vos\ntroupes de se retirer ?!",
   "src": "pinky"
  },
  {
@@ -376,7 +376,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "I simply acted according to your\ncounsel.",
-  "fr": "J'ai simplement agi en accord\navec votre conseil.",
+  "fr": "J'ai simplement agi en accord avec\nvotre conseil.",
   "src": "pinky"
  },
  {
@@ -400,7 +400,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "demanding he lay down arms and\nsurrender Paris to us.",
-  "fr": "lui demandant de rendre les\narmes et de nous livrer Paris.",
+  "fr": "lui demandant de rendre les armes\net de nous livrer Paris.",
   "src": "pinky"
  },
  {
@@ -424,7 +424,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "You sang quite a different tune\nearlier.",
-  "fr": "Vous chantiez un air différent\nil y a peu.",
+  "fr": "Vous chantiez un air différent il y\na peu.",
   "src": "pinky"
  },
  {
@@ -432,7 +432,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "\"The King of Heaven commands\nwe stay our swords for the\nnonce.\" Were those not your\nexact words?",
-  "fr": "\"Le Roi des Cieux commande\nque nous retenions nos épées\fpour l'heure.\" N'était-ce\npas vos mots exacts ?",
+  "fr": "\"Le Roi des Cieux commande que\nnous retenions nos épées pour\fl'heure.\"\nN'était-ce pas vos mots exacts ?",
   "src": "pinky",
   "relu": true
  },
@@ -441,7 +441,7 @@
   "max": 34,
   "who": "Liane",
   "en": "No!\nI mean...yes, but...",
-  "fr": "Non !\nJe veux dire... oui, mais...",
+  "fr": "Non ! Je veux dire... oui, mais...",
   "src": "pinky"
  },
  {
@@ -457,7 +457,7 @@
   "max": 34,
   "who": "Richard",
   "en": "(If you cannot hear the Voice,\nthen you must become a voice.)",
-  "fr": "(Si tu n'entends pas la Voix,\nalors tu dois devenir une voix.)",
+  "fr": "(Si tu n'entends pas la Voix, alors\ntu dois devenir une voix.)",
   "src": "pinky"
  },
  {
@@ -465,7 +465,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "Towns once under enemy control\nare capitulating one by one;",
-  "fr": "Les villes sous contrôle ennemi\ncapitulent les unes\faprès les autres;",
+  "fr": "Les villes sous contrôle ennemi\ncapitulent les unes après les\fautres;",
   "src": "pinky"
  },
  {
@@ -473,7 +473,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "any chance to avoid the gold\nand blood costs of battle lies\nin our best interests.",
-  "fr": "Toute chance de ne pas avoir\nde batailles coûteuses\fen sang et en or est dans notre\nintérêt.",
+  "fr": "Toute chance de ne pas avoir de\nbatailles coûteuses en sang et en\for est dans notre intérêt.",
   "src": "pinky",
   "relu": true
  },
@@ -490,7 +490,7 @@
   "max": 34,
   "who": "Georges",
   "en": "If you'd rather fight, then go\ntake Parith back by forthe!",
-  "fr": "Si vous préférez vous battre,\nalors reprenez Paris\fpar la force !",
+  "fr": "Si vous préférez vous battre, alors\nreprenez Paris par la force !",
   "src": "pinky"
  },
  {
@@ -498,7 +498,7 @@
   "max": 34,
   "who": "Georges",
   "en": "I, for one, hold no delusionth\nabout how much weight thome\nthlip of paper holdth.",
-  "fr": "Pour ma part, je ne me fais pas\nd'illusion sur le poids de\fquelques papiers.",
+  "fr": "Pour ma part,\fje ne me fais pas d'illusion sur le\npoids de quelques papiers.",
   "src": "pinky"
  },
  {
@@ -514,7 +514,7 @@
   "max": 34,
   "who": "Georges",
   "en": "She doethn't need an army for\none little thity.",
-  "fr": "Elle n'a pas besoin d'une\narmée pour une petite ville.",
+  "fr": "Elle n'a pas besoin d'une armée\npour une petite ville.",
   "src": "pinky"
  },
  {
@@ -530,7 +530,7 @@
   "max": 34,
   "who": "Georges",
   "en": "You can manage all by yourthelf.",
-  "fr": "Vous pouvez vous en sortir\nseule.",
+  "fr": "Vous pouvez vous en sortir seule.",
   "src": "pinky"
  },
  {
@@ -554,7 +554,7 @@
   "max": 34,
   "who": "Richard",
   "en": "The enemy have yet to respond\nto our demands.",
-  "fr": "L'ennemi n'a pas encore répondu\nà nos requêtes.",
+  "fr": "L'ennemi n'a pas encore répondu à\nnos requêtes.",
   "src": "pinky"
  },
  {
@@ -562,7 +562,7 @@
   "max": 34,
   "who": "Richard",
   "en": "If our attack is perceived as \nbreaking the peace\\u2014",
-  "fr": "Si notre attaque est perçue\ncomme une rupture de traité...",
+  "fr": "Si notre attaque est perçue comme\nune rupture de traité...",
   "src": "pinky"
  },
  {
@@ -578,7 +578,7 @@
   "max": 34,
   "who": "Liane",
   "en": "We'll just have to take the castle \nbefore they \"perceive\" anything!",
-  "fr": "Nous devrons juste prendre le\nchâteau\favant qu'ils ne \"perçoivent\"\nquelque chose !",
+  "fr": "Nous devrons juste prendre le\nchâteau avant qu'ils ne\f\"perçoivent\" quelque chose !",
   "src": "pinky"
  },
  {
@@ -586,7 +586,7 @@
   "max": 34,
   "who": "Liane",
   "en": "The enemy will quiver so hard\nthey'll drop their lances!",
-  "fr": "L'ennemi tremblera tellement\nfort\fqu'il en laissera tomber sa\nlance !",
+  "fr": "L'ennemi tremblera tellement\nfort qu'il en laissera tomber sa\flance !",
   "src": "pinky"
  },
  {
@@ -618,7 +618,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Only if they try to stop us\nfrom entering the castle!",
-  "fr": "Seulement s'ils essaient de nous\nempêcher d'entrer\fdans le château !",
+  "fr": "Seulement s'ils essaient de nous\nempêcher d'entrer dans le\fchâteau !",
   "src": "pinky"
  },
  {
@@ -855,7 +855,7 @@
   "max": 34,
   "who": "",
   "en": "Temporary retreat... Regroup at Chinon.",
-  "fr": "Battez en retraite. Regroupez-vous à\nChinon.",
+  "fr": "Battez en retraite.\nRegroupez-vous à Chinon.",
   "src": "pinky"
  },
  {
@@ -895,7 +895,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Liane, that's enough!\nWe have to withdraw!",
-  "fr": "Liane, ça suffit ! Nous devons\nbattre en retraite !",
+  "fr": "Liane, ça suffit !\nNous devons battre en retraite !",
   "src": "pinky"
  },
  {
@@ -911,7 +911,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Enough!\nJust COME ON!",
-  "fr": "Ça suffit !\nVIENS !!!",
+  "fr": "Ça suffit ! VIENS !!!",
   "src": "pinky"
  },
  {
@@ -999,7 +999,7 @@
   "max": 34,
   "who": "Roger",
   "en": "I don't know what to do anymore.\n\fShe's been like this ever since\nthe battle.",
-  "fr": "Je ne sais pas quoi faire de plus.\fElle est dans cet état depuis\nla bataille.",
+  "fr": "Je ne sais pas quoi faire de plus.\fElle est dans cet état depuis la\nbataille.",
   "src": "pinky"
  },
  {
@@ -1040,7 +1040,7 @@
   "max": 34,
   "who": "Richard",
   "en": "The king's counsellors called\noff the attack.\fWe don't have to fight anymore.",
-  "fr": "Les conseillers du roi ont\nannulé l'attaque.\fNous ne devons plus nous\nbattre.",
+  "fr": "Les conseillers du roi ont annulé\nl'attaque.\fNous ne devons plus nous battre.",
   "src": "pinky"
  },
  {
@@ -1056,7 +1056,7 @@
   "max": 34,
   "who": "Liane",
   "en": "...Defeat?\nWe...we lost...",
-  "fr": "... Une défaite ?\nNous... Nous avons perdu...",
+  "fr": "... Une défaite ? Nous...\nNous avons perdu...",
   "src": "pinky"
  },
  {
@@ -1080,7 +1080,7 @@
   "max": 34,
   "who": "Liane",
   "en": "I practically shouted my lungs\nout! Where were you, Roger?",
-  "fr": "J'ai pratiquement fait exploser\nmes poumons ! \fOù étais-tu, Roger ?",
+  "fr": "J'ai pratiquement fait exploser\nmes poumons !\fOù étais-tu, Roger ?",
   "src": "pinky"
  },
  {
@@ -1104,7 +1104,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Why do you have to torture me...\nGod, why!",
-  "fr": "Pourquoi me torturer de la\nsorte...\fMon Dieu, pourquoi !",
+  "fr": "Pourquoi me torturer de la sorte...\nMon Dieu, pourquoi !",
   "src": "pinky"
  },
  {
@@ -1112,7 +1112,7 @@
   "max": 34,
   "who": "Liane",
   "en": "No one stands in our way now!\nTake the fort!",
-  "fr": "La voie est libre !\nPrenez le fort !",
+  "fr": "La voie est libre ! Prenez le fort !",
   "src": "pinky",
   "relu": true
  },
@@ -1234,7 +1234,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Why do you have to torture me...\nGod, why!!!",
-  "fr": "Pourquoi me torturer de la\nsorte...\fMon Dieu, pourquoi !!!",
+  "fr": "Pourquoi me torturer de la sorte...\nMon Dieu, pourquoi !!!",
   "src": "pinky"
  },
  {
@@ -1242,7 +1242,7 @@
   "max": 34,
   "who": "",
   "en": "March to La Charit\\u00e9 and quell the insurgency!",
-  "fr": "En route pour La Charité, étouffons\nl'insurrection !",
+  "fr": "En route pour La Charité,\nétouffons l'insurrection !",
   "src": "pinky"
  },
  {
@@ -1250,7 +1250,7 @@
   "max": 34,
   "who": "",
   "en": "March to St. Pierre-le-Moutier to subdue the bandits!",
-  "fr": "En route pour St. Pierre-le-Moutier et\nsoumettons les bandits !",
+  "fr": "En route pour St.\fPierre-le-Moutier et soumettons\nles bandits !",
   "src": "pinky"
  },
  {
@@ -1298,7 +1298,7 @@
   "max": 34,
   "who": "Georges",
   "en": "we inadvertently protracted peath \ntalkth wiff the Duke of Burgundy.",
-  "fr": "mais en plus nous prolongeons\naccidentellement les pourparlers\fde paix avec le Duc de\nBourgogne.",
+  "fr": "mais en plus nous prolongeons\naccidentellement les pourparlers\fde paix avec le Duc de Bourgogne.",
   "src": "pinky"
  },
  {
@@ -1314,7 +1314,7 @@
   "max": 34,
   "who": "Georges",
   "en": "They might haff offered uth the\nthity on a thilver platter!",
-  "fr": "Ils nous auraient sans doute\noffert la ville \fsur un plateau d'argent !",
+  "fr": "Ils nous auraient sans doute offert\nla ville sur un plateau d'argent !",
   "src": "pinky"
  },
  {
@@ -1338,7 +1338,7 @@
   "max": 34,
   "who": "Georges",
   "en": "'Twath the girl who dethided\nto launch the attack on Parith!",
-  "fr": "C'est la fille qui a décidé de\nlancer l'attaque sur Paris !",
+  "fr": "C'est la fille qui a décidé de lancer\nl'attaque sur Paris !",
   "src": "pinky"
  },
  {
@@ -1387,7 +1387,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "You're alone.\nWhere is Jeanne?",
-  "fr": "Vous êtes seul.\nOù est Jeanne ?",
+  "fr": "Vous êtes seul. Où est Jeanne ?",
   "src": "pinky"
  },
  {
@@ -1395,7 +1395,7 @@
   "max": 34,
   "who": "Richard",
   "en": "I am sorry, Your Highness. She\nis too...confused...to attend\\u2014",
-  "fr": "Je suis désolé, Votre Altesse. Elle\nest trop... perturbée...\fpour être présente parmi nous.",
+  "fr": "Je suis désolé, Votre Altesse.\nElle est trop... perturbée...\fpour être présente parmi nous.",
   "src": "pinky",
   "relu": true
  },
@@ -1404,7 +1404,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Let go! Let go of me!",
-  "fr": "Laissez-moi !\nLaissez-moi passer !",
+  "fr": "Laissez-moi ! Laissez-moi passer !",
   "src": "pinky"
  },
  {
@@ -1428,7 +1428,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Tell me why you didn't give me\nany soldiers!",
-  "fr": "Dites-moi pourquoi vous ne\nm'avez pas\fenvoyé un seul soldat !",
+  "fr": "Dites-moi pourquoi vous ne\nm'avez pas envoyé un seul soldat !",
   "src": "pinky"
  },
  {
@@ -1444,7 +1444,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "We only did as you counseled,\nleading to present consequences.",
-  "fr": "Nous avons agi selon vos\nconseils,\fce qui nous a conduits à la\nsituation actuelle.",
+  "fr": "Nous avons agi selon vos conseils,\fce qui nous a conduits à la\nsituation actuelle.",
   "src": "pinky",
   "relu": true
  },
@@ -1470,7 +1470,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "Jeanne, I have decided to disband\nthe royal army.",
-  "fr": "Jeanne, j'ai décidé de\ndémobiliser l'armée royale.",
+  "fr": "Jeanne, j'ai décidé de démobiliser\nl'armée royale.",
   "src": "pinky"
  },
  {
@@ -1478,7 +1478,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "I order you to redirect your\nmilitary endeavors to the Loire.",
-  "fr": "Je vous ordonne de recentrer\nvos attaques vers la Loire.",
+  "fr": "Je vous ordonne de recentrer vos\nattaques vers la Loire.",
   "src": "pinky"
  },
  {
@@ -1494,7 +1494,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "I would like you to return to the\ncountry for a time.",
-  "fr": "Je voudrais que vous retourniez\nau pays pour un temps.",
+  "fr": "Je voudrais que vous retourniez au\npays pour un temps.",
   "src": "pinky"
  },
  {
@@ -1518,7 +1518,7 @@
   "max": 34,
   "who": "Georges",
   "en": "A shame. Thuch a dear friend\nwill be thorely mifthed.",
-  "fr": "Dommage. Un ami si cher qui\nvous manquera cruellement.",
+  "fr": "Dommage. Un ami si cher qui vous\nmanquera cruellement.",
   "src": "pinky"
  },
  {
@@ -1567,7 +1567,7 @@
   "max": 34,
   "who": "Richard",
   "en": "Were we to go there, we could\nprobably cripple a significant\nanti-royal movement.",
-  "fr": "En nous rendant là-bas, nous\npourrons probablement écraser\fl'insurrection anti-royaliste.",
+  "fr": "En nous rendant là-bas,\fnous pourrons probablement\nécraser l'insurrection\fanti-royaliste.",
   "src": "pinky",
   "relu": true
  },
@@ -1576,7 +1576,7 @@
   "max": 34,
   "who": "Richard",
   "en": "Your other choice:\fsubjugate a group of sellswords-\nturned-brigands.",
-  "fr": "Le second :\fFaire capituler un groupe de\nmercenaires devenus\fbrigands.",
+  "fr": "Le second :\fFaire capituler un groupe de\nmercenaires devenus brigands.",
   "src": "pinky",
   "relu": true
  },
@@ -1602,7 +1602,7 @@
   "max": 34,
   "who": "Richard",
   "en": "We would head there and try to\ndefend the residents.",
-  "fr": "Nous devrions y aller et\ndéfendre les habitants.",
+  "fr": "Nous devrions y aller et défendre\nles habitants.",
   "src": "pinky"
  },
  {
@@ -1658,7 +1658,7 @@
   "max": 34,
   "who": "Roger",
   "en": "...This must be the rebels'\nhideout.",
-  "fr": "Ça doit être le repaire des\nrebelles.",
+  "fr": "Ça doit être le repaire des rebelles.",
   "src": "pinky"
  },
  {
@@ -1666,7 +1666,7 @@
   "max": 34,
   "who": "Roger",
   "en": "So what do we do now?",
-  "fr": "Que devons-nous faire à\nprésent ?",
+  "fr": "Que devons-nous faire à présent ?",
   "src": "pinky"
  },
  {
@@ -1690,7 +1690,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Uh-oh...\nDid they spot us?!",
-  "fr": "Uh-oh...\nIls nous ont découverts ?!",
+  "fr": "Uh-oh... Ils nous ont découverts ?!",
   "src": "pinky"
  },
  {
@@ -1730,7 +1730,7 @@
   "max": 34,
   "who": "Lady Bandit",
   "en": "Ooh, get outta the way, before\nthey catch me!",
-  "fr": "Ooh, tirons-nous d'ici, avant\nqu'ils ne m'attrapent !",
+  "fr": "Ooh, tirons-nous d'ici, avant qu'ils\nne m'attrapent !",
   "src": "pinky",
   "relu": true
  },
@@ -1747,7 +1747,7 @@
   "max": 34,
   "who": "Lady Bandit",
   "en": "Bridge, bridge, gotta make a\nbridge...",
-  "fr": "Un pont, un pont, je dois\nfaire un pont...",
+  "fr": "Un pont, un pont, je dois faire un\npont...",
   "src": "pinky"
  },
  {
@@ -1755,7 +1755,7 @@
   "max": 34,
   "who": "Rebel Lookout",
   "en": "I've spotted 'er!\nAnd 'er accomplices, too!",
-  "fr": "Elle est là ! Et son complice\naussi !",
+  "fr": "Elle est là ! Et son complice aussi !",
   "src": "pinky"
  },
  {
@@ -1803,7 +1803,7 @@
   "max": 34,
   "who": "Bertrand",
   "en": "Meh heh heh!\nNo needs for thanks\\u2014",
-  "fr": "Hé hé hé !\nNe me remerciez pas...",
+  "fr": "Hé hé hé ! Ne me remerciez pas...",
   "src": "pinky"
  },
  {
@@ -1819,7 +1819,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Hey, you didn't happen to see the\nrebel leader, did you?",
-  "fr": "Hé, vous n'avez pas trouvé le\nchef des rebelles non plus ?",
+  "fr": "Hé, vous n'avez pas trouvé le chef\ndes rebelles non plus ?",
   "src": "pinky"
  },
  {
@@ -1827,7 +1827,7 @@
   "max": 34,
   "who": "Lady Bandit",
   "en": "Huh?\nOh, I get it.",
-  "fr": "Hein ?\nAh, j'ai compris.",
+  "fr": "Hein ? Ah, j'ai compris.",
   "src": "pinky"
  },
  {
@@ -1851,7 +1851,7 @@
   "max": 34,
   "who": "Lady Bandit",
   "en": "I admit I was stuck on how to\nget past the vigilant bugger.",
-  "fr": "J'admets que je ne sais pas\ncomment détourner l'attention\fde cet idiot de vigile.",
+  "fr": "J'admets que je ne sais pas\ncomment détourner l'attention de\fcet idiot de vigile.",
   "src": "pinky"
  },
  {

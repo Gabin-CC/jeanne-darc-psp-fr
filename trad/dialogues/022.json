@@ -108,7 +108,7 @@
   "max": 34,
   "who": "",
   "en": "The Gem of Portent fused with Roger's armlet!",
-  "fr": "La Gemme du présage fusionne avec le\nbracelet de Roger !",
+  "fr": "La Gemme du présage fusionne\navec le bracelet de Roger !",
   "src": "pinky",
   "relu": true
  },
@@ -141,7 +141,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Wrong, Bedford! The reapers have\nplayed you false!",
-  "fr": "Faux, Bedford ! Les moissonneurs\nvous ont dupé !",
+  "fr": "Faux, Bedford !\nLes moissonneurs vous ont dupé !",
   "src": "pinky",
   "relu": true
  },
@@ -207,7 +207,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "With war raging all about us, our\nkingdom was ready to fall apart.",
-  "fr": "Avec la guerre faisant rage,\nnotre royaume était sur le point\fde s'effondrer.",
+  "fr": "Avec la guerre faisant rage,\fnotre royaume était sur le point\nde s'effondrer.",
   "src": "pinky"
  },
  {
@@ -223,7 +223,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "I had to do what I did, to defend\nthe king's honor and keep my\ncountry from collapsing!",
-  "fr": "J'ai fait ce que j'avais à faire,\npour défendre l'honneur du roi\fet empêcher mon pays de\nsombrer !",
+  "fr": "J'ai fait ce que j'avais à faire,\fpour défendre l'honneur du roi et\nempêcher mon pays de sombrer !",
   "src": "pinky"
  },
  {
@@ -239,7 +239,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "I had to protect my country from\nthem. My king...",
-  "fr": "Je devais protéger mon pays\nd'eux. Mon roi...",
+  "fr": "Je devais protéger mon pays d'eux.\nMon roi...",
   "src": "pinky"
  },
  {
@@ -263,7 +263,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "I should have taken matters...more\nslowly...",
-  "fr": "J'aurais dû m'en occuper... avec\nplus de précautions...",
+  "fr": "J'aurais dû m'en occuper...\navec plus de précautions...",
   "src": "pinky"
  },
  {
@@ -280,7 +280,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "You... Witch girl.\nTake care...of Henry...",
-  "fr": "Toi... Sorcière.\nPrends soin de... Henry...",
+  "fr": "Toi... Sorcière. Prends soin de...\nHenry...",
   "src": "pinky"
  },
  {
@@ -288,7 +288,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "No, no! Open your eyes!\nUNCLE!!!",
-  "fr": "Non, non ! Mon oncle ! Ouvrez les\nyeux ! MON ONCLE !!!",
+  "fr": "Non, non ! Mon oncle !\nOuvrez les yeux ! MON ONCLE !!!",
   "src": "pinky"
  },
  {
@@ -345,7 +345,7 @@
   "max": 34,
   "who": "Gilvaroth",
   "en": "Ahh...\nThen you have killed the human.",
-  "fr": "Ahh... Alors vous avez tué\nl'humain.",
+  "fr": "Ahh...\nAlors vous avez tué l'humain.",
   "src": "pinky"
  },
  {
@@ -353,7 +353,7 @@
   "max": 34,
   "who": "Gilvaroth",
   "en": "Hmm, whatever was going through\nthat creature's head?",
-  "fr": "Hmm, qu'importe ce qui se\npassait dans la tête\fde cette créature.",
+  "fr": "Hmm, qu'importe ce qui se passait\ndans la tête de cette créature.",
   "src": "pinky"
  },
  {
@@ -369,7 +369,7 @@
   "max": 34,
   "who": "Gilvaroth",
   "en": "Feh...\nIt has been an eternity.",
-  "fr": "Pff...\nÇa a pris une éternité.",
+  "fr": "Pff... Ça a pris une éternité.",
   "src": "pinky"
  },
  {
@@ -377,7 +377,7 @@
   "max": 34,
   "who": "Gilvaroth",
   "en": "Trapped inside a gem, in a world\nof nothing...",
-  "fr": "Coincé dans une gemme, dans\nun monde du néant...",
+  "fr": "Coincé dans une gemme, dans un\nmonde du néant...",
   "src": "pinky"
  },
  {
@@ -385,7 +385,7 @@
   "max": 34,
   "who": "Gilvaroth",
   "en": "passing dull days with nary a\nshriek nor scream to comfort me.",
-  "fr": "passant des journées\nennuyeuses avec à peine\fun hurlement ou un cri pour me\nconsoler.",
+  "fr": "passant des journées ennuyeuses\navec à peine un hurlement ou un\fcri pour me consoler.",
   "src": "pinky"
  },
  {
@@ -393,7 +393,7 @@
   "max": 34,
   "who": "Gilvaroth",
   "en": "I shall never forget the pleasure\nof escaping that foul prison.",
-  "fr": "Je n'oublierai jamais la\ndélivrance que ça a été\fen sortant de cette prison.",
+  "fr": "Je n'oublierai jamais la délivrance\nque ça a été en sortant de cette\fprison.",
   "src": "pinky"
  },
  {
@@ -449,7 +449,7 @@
   "max": 34,
   "who": "Gilvaroth",
   "en": "Oh, my dear armlet wielder.\nDon't say such cruel things.",
-  "fr": "Oh ma chère porteuse de\nbracelet.\fNe dis pas une telle chose.",
+  "fr": "Oh ma chère porteuse de bracelet.\nNe dis pas une telle chose.",
   "src": "pinky"
  },
  {
@@ -860,7 +860,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Roger!\nThe transfer device!",
-  "fr": "Roger !\nLa machine !",
+  "fr": "Roger ! La machine !",
   "src": "pinky"
  },
  {
@@ -900,7 +900,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "Gilvaroth is gone for g\\u2014\nAgh!!!",
-  "fr": "Gilvaroth est mort...\nAgh !!!",
+  "fr": "Gilvaroth est mort... Agh !!!",
   "src": "pinky"
  },
  {
@@ -916,7 +916,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "\"Ribbit\"?\nWait, that's not right...",
-  "fr": "\"Rainette\" ?\nCe n'est pas ça...",
+  "fr": "\"Rainette\" ? Ce n'est pas ça...",
   "src": "pinky"
  },
  {
@@ -964,7 +964,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "The boy king is back to normal?",
-  "fr": "Le petit roi est redevenu\nnormal ?",
+  "fr": "Le petit roi est redevenu normal ?",
   "src": "pinky"
  },
  {
@@ -980,7 +980,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Yes. Look at his face... The face\nof a sweet child.",
-  "fr": "Oui. Regardez son visage... Celui\nd'un adorable enfant.",
+  "fr": "Oui. Regardez son visage...\nCelui d'un adorable enfant.",
   "src": "pinky"
  },
  {
@@ -1012,7 +1012,7 @@
   "max": 34,
   "who": "Colet",
   "en": "Hawumph!\nEet eez about time, non?",
-  "fr": "Haoumpf ! C'est une histoire de\ntemps, non ?",
+  "fr": "Haoumpf !\nC'est une histoire de temps, non ?",
   "src": "pinky"
  },
  {
@@ -1687,7 +1687,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "La Hire's friends all seem to be\nin one piece.",
-  "fr": "Les amis de la Hire semblent\ntous être en un seul morceau.",
+  "fr": "Les amis de la Hire semblent tous\nêtre en un seul morceau.",
   "src": "pinky"
  },
  {
@@ -1751,7 +1751,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "And he may not break free today,\nor tomorrow...",
-  "fr": "Et il n'est pas près de se libérer\nni aujourd'hui ni demain...",
+  "fr": "Et il n'est pas près de se libérer ni\naujourd'hui ni demain...",
   "src": "pinky",
   "relu": true
  },
@@ -1760,7 +1760,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "but it only takes one person to\nset him loose.",
-  "fr": "mais il n'y a qu'une seule\npersonne à pouvoir le relâcher.",
+  "fr": "mais il n'y a qu'une seule personne\nà pouvoir le relâcher.",
   "src": "pinky"
  },
  {
@@ -1768,7 +1768,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Then...this will all happen again?",
-  "fr": "Alors... Tout ça pourra se\nreproduire ?",
+  "fr": "Alors...\nTout ça pourra se reproduire ?",
   "src": "pinky"
  },
  {
@@ -1776,7 +1776,7 @@
   "max": 34,
   "who": "Richard",
   "en": "...There is a way to stop it.",
-  "fr": "... Il existe un moyen de\nl'empêcher.",
+  "fr": "...\nIl existe un moyen de l'empêcher.",
   "src": "pinky"
  },
  {
@@ -1817,7 +1817,7 @@
   "max": 34,
   "who": "Richard",
   "en": "Perhaps the right heart could\neven purge the fiend altogether.",
-  "fr": "Peut-être même que le bon\ncoeur pourrait purifier\ftotalement le démon.",
+  "fr": "Peut-être même que le bon coeur\npourrait purifier totalement le\fdémon.",
   "src": "pinky"
  },
  {
@@ -1849,7 +1849,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Roger! What are you saying?!",
-  "fr": "Roger ?! Mais ne dis pas\nn'importe quoi !",
+  "fr": "Roger ?!\nMais ne dis pas n'importe quoi !",
   "src": "pinky"
  },
  {
@@ -1866,7 +1866,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "But...we finally set you free.",
-  "fr": "Mais... Nous avons pu enfin te\nlibérer.",
+  "fr": "Mais...\nNous avons pu enfin te libérer.",
   "src": "pinky"
  },
  {
@@ -1922,7 +1922,7 @@
   "max": 34,
   "who": "Roger",
   "en": "I need to do this...to atone.",
-  "fr": "Je dois le faire... pour expier mes\nfautes.",
+  "fr": "Je dois le faire...\npour expier mes fautes.",
   "src": "pinky"
  },
  {
@@ -1930,7 +1930,7 @@
   "max": 34,
   "who": "Roger",
   "en": "For killing innocent people.\nFor not saving Liane...",
-  "fr": "Car j'ai tué des innocents. Et je\nn'ai pas sauvé Liane...",
+  "fr": "Car j'ai tué des innocents.\nEt je n'ai pas sauvé Liane...",
   "src": "pinky"
  },
  {
@@ -1938,7 +1938,7 @@
   "max": 34,
   "who": "Roger",
   "en": "I need to make up for all of it.",
-  "fr": "Je dois me faire pardonner tout\nça.",
+  "fr": "Je dois me faire pardonner tout ça.",
   "src": "pinky"
  },
  {
@@ -1946,7 +1946,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "That's ridiculous!\nNone of that was your fault!",
-  "fr": "C'est ridicule ! Rien de tout ça\nn'était de ta faute !",
+  "fr": "C'est ridicule !\nRien de tout ça n'était de ta faute !",
   "src": "pinky"
  },
  {
@@ -1978,7 +1978,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Gilles... Why?\nYou should have let me do it.",
-  "fr": "Gilles... Pourquoi ! Tu aurais dû\nme laisser faire.",
+  "fr": "Gilles... Pourquoi !\nTu aurais dû me laisser faire.",
   "src": "pinky"
  },
  {
@@ -2002,7 +2002,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Be free...Roger.\nDo it for me...",
-  "fr": "Sois libre... Roger.\nFais-le pour moi.",
+  "fr": "Sois libre... Roger. Fais-le pour moi.",
   "src": "pinky"
  },
  {

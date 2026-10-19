@@ -164,7 +164,7 @@
   "max": 34,
   "who": "",
   "en": "Head north. Onward to Clairoix.",
-  "fr": "Cap au nord. En route pour Clairoix.",
+  "fr": "Cap au nord.\nEn route pour Clairoix.",
   "src": "pinky"
  },
  {
@@ -180,7 +180,7 @@
   "max": 34,
   "who": "Lady Bandit",
   "en": "Never been better. Have a gander\nat this haul!",
-  "fr": "Extrêmement bien. Jette un\noeil sur ce butin !",
+  "fr": "Extrêmement bien.\nJette un oeil sur ce butin !",
   "src": "pinky"
  },
  {
@@ -204,7 +204,7 @@
   "max": 34,
   "who": "Lady Bandit",
   "en": "See, I fence what I filch and\nthen give the money to poor folk.",
-  "fr": "Tu vois, j'amasse ce que je vole et\nle redistribue ensuite\faux pauvres gens.",
+  "fr": "Tu vois,\fj'amasse ce que je vole et le\nredistribue ensuite aux pauvres\fgens.",
   "src": "pinky"
  },
  {
@@ -212,7 +212,7 @@
   "max": 34,
   "who": "Liane",
   "en": "We did it! We won! We won!",
-  "fr": "Nous avons réussi ! Nous avons\ngagné !",
+  "fr": "Nous avons réussi !\nNous avons gagné !",
   "src": "pinky"
  },
  {
@@ -244,7 +244,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Roger?\nWhat's wrong?",
-  "fr": "Roger ?\nQu'est-ce qui ne va pas ?",
+  "fr": "Roger ? Qu'est-ce qui ne va pas ?",
   "src": "pinky"
  },
  {
@@ -252,7 +252,7 @@
   "max": 34,
   "who": "Roger",
   "en": "I'm so sick of this! You're not\nthe same person anymore.",
-  "fr": "Ça me rend dingue ! Tu n'es\nplus la même personne.",
+  "fr": "Ça me rend dingue !\nTu n'es plus la même personne.",
   "src": "pinky"
  },
  {
@@ -318,7 +318,7 @@
   "max": 34,
   "who": "Rose",
   "en": "Whattaya say we partner up?\nI could use tough types like you.",
-  "fr": "Que diriez-vous de nous\nassocier ?\fDes gens forts comme\nvous seraient utiles.",
+  "fr": "Que diriez-vous de nous associer ?\fDes gens forts comme vous\nseraient utiles.",
   "src": "pinky"
  },
  {
@@ -342,7 +342,7 @@
   "max": 34,
   "who": "Georges",
   "en": "Hee hee hee!\nPfft ha ha ha haaahhh!",
-  "fr": "Hi hi hi !\nPff ha ha haaahh !",
+  "fr": "Hi hi hi ! Pff ha ha haaahh !",
   "src": "pinky"
  },
  {
@@ -358,7 +358,7 @@
   "max": 34,
   "who": "Georges",
   "en": "The fool thought he could haff a\nchuckle at my expenth...",
-  "fr": "Ce fou a pensé qu'il pouvait\nrire à mes dépens...",
+  "fr": "Ce fou a pensé qu'il pouvait rire à\nmes dépens...",
   "src": "pinky"
  },
  {
@@ -422,7 +422,7 @@
   "max": 34,
   "who": "Richard",
   "en": "Try to temper your grief before\nthen.",
-  "fr": "Essaie de calmer ta peine avant\nde partir.",
+  "fr": "Essaie de calmer ta peine avant de\npartir.",
   "src": "pinky"
  },
  {
@@ -430,7 +430,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Clairoix...is a long ways from\nhere, isn't it...",
-  "fr": "Clairoix... C'est loin d'ici,\nn'est-ce pas...",
+  "fr": "Clairoix...\nC'est loin d'ici, n'est-ce pas...",
   "src": "pinky"
  },
  {
@@ -446,7 +446,7 @@
   "max": 34,
   "who": "Colet",
   "en": "Eez eet just me, or eez zis town,\nhow do you say...stwange?",
-  "fr": "C'est moi ou c'est cette ville,\nqui est... comment dirais-je...\f... étrange ?",
+  "fr": "C'est moi ou c'est cette ville, qui\nest... comment dirais-je... ...\fétrange ?",
   "src": "pinky"
  },
  {
@@ -454,7 +454,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "La Hire will be at the tavern if\nyou need him.",
-  "fr": "La Hire sera à la taverne\nsi vous avez besoin de lui.",
+  "fr": "La Hire sera à la taverne si vous\navez besoin de lui.",
   "src": "pinky"
  },
  {
@@ -470,7 +470,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Listen to you all! We have to get\nrid of those brigands first.",
-  "fr": "Ecoutez tous ! Nous devons\nd'abord nous débarrasser\fde ces brigands.",
+  "fr": "Ecoutez tous !\fNous devons d'abord nous\ndébarrasser de ces brigands.",
   "src": "pinky"
  },
  {
@@ -478,7 +478,7 @@
   "max": 34,
   "who": "Liane",
   "en": "We have to, or I'll...\nWe just have to!",
-  "fr": "Il le faut, ou je... Il nous faut le\nfaire !",
+  "fr": "Il le faut, ou je...\nIl nous faut le faire !",
   "src": "pinky"
  },
  {
@@ -534,7 +534,7 @@
   "max": 34,
   "who": "Brigand Archer",
   "en": "So go an' get it!\fAnd be quick about it. The decor\n'ere gives me the willies.",
-  "fr": "Alors allez le chercher !\fEt vite fait. L'architecture d'ici\nme fiche la frousse.",
+  "fr": "Alors allez le chercher !\fEt vite fait. L'architecture d'ici me\nfiche la frousse.",
   "src": "pinky",
   "relu": true
  },
@@ -551,7 +551,7 @@
   "max": 34,
   "who": "Magician Girl",
   "en": "As if ragamuffins like you would\nknow diddlyspit about decor!",
-  "fr": "Comme si des vauriens comme\nvous y connaissaient \fquoi que ce soit !",
+  "fr": "Comme si des vauriens comme\nvous y connaissaient quoi que ce\fsoit !",
   "src": "pinky",
   "relu": true
  },
@@ -584,7 +584,7 @@
   "max": 34,
   "who": "Claire",
   "en": "You tykes ran fresh out of luck\nthe minute you decided to\nplunder the home of Claire de\nLoon!",
-  "fr": "Votre chance a tourné à la\nminute même où vous avez\fdécidé de piller chez moi, chez\nClaire de Loon !",
+  "fr": "Votre chance a tourné à la minute\nmême où vous avez décidé de\fpiller chez moi, chez Claire de\nLoon !",
   "src": "pinky"
  },
  {
@@ -648,7 +648,7 @@
   "max": 34,
   "who": "Claire",
   "en": "I'd like to see some upstart even\nTRY to vince me!",
-  "fr": "J'aimerais bien voir quelques\narrivistes ESSAYER\fde me vaincre !",
+  "fr": "J'aimerais bien voir quelques\narrivistes ESSAYER de me\fvaincre !",
   "src": "pinky",
   "relu": true
  },
@@ -697,7 +697,7 @@
   "max": 34,
   "who": "Claire",
   "en": "Just so you know, kiddos:",
-  "fr": "Sachez juste une chose, les\ngosses :",
+  "fr": "Sachez juste une chose, les gosses :",
   "src": "pinky"
  },
  {
@@ -705,7 +705,7 @@
   "max": 34,
   "who": "Claire",
   "en": "you lay one paw on the town\ncrystals and I'll learn you good!",
-  "fr": "Vous posez une main sur les\ncristaux de la ville \fet je vous réduis en bouillie !",
+  "fr": "Vous posez une main sur les\ncristaux de la ville et je vous\fréduis en bouillie !",
   "src": "pinky"
  },
  {
@@ -721,7 +721,7 @@
   "max": 34,
   "who": "Claire",
   "en": "That's right. Crystal's a source\nof life for us magical types.",
-  "fr": "C'est exact. Le cristal est une\nsource vitale pour nous,\fles êtres magiques.",
+  "fr": "C'est exact.\fLe cristal est une source vitale\npour nous, les êtres magiques.",
   "src": "pinky"
  },
  {
@@ -754,7 +754,7 @@
   "max": 34,
   "who": "Claire",
   "en": "Aaagh! Cripes!\nMe and my big blabby mouth!",
-  "fr": "Aaagh ! Mince !\fQuand apprendrai-je à tenir ma\nlangue !",
+  "fr": "Aaagh ! Mince ! Quand\napprendrai-je à tenir ma langue !",
   "src": "pinky",
   "relu": true
  },
@@ -763,7 +763,7 @@
   "max": 34,
   "who": "Brigand Archer",
   "en": "After 'em crystals! We can break\n'em down an' make a fortune!",
-  "fr": "Tous aux cristaux ! \fNous allons les débiter et nous\nfaire les couilles en or !",
+  "fr": "Tous aux cristaux !\fNous allons les débiter et nous\nfaire les couilles en or !",
   "src": "pinky"
  },
  {
@@ -771,7 +771,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Come on!\nWe have to stop them!",
-  "fr": "Vite !\nNous devons les arrêter !",
+  "fr": "Vite ! Nous devons les arrêter !",
   "src": "pinky"
  },
  {
@@ -972,7 +972,7 @@
   "max": 34,
   "who": "Claire",
   "en": "(That girl... She's that witch\neveryone's talking about!)",
-  "fr": "(Cette fille... C'est la sorcière\ndont tout le monde parle !)",
+  "fr": "(Cette fille... C'est la sorcière dont\ntout le monde parle !)",
   "src": "pinky"
  },
  {
@@ -996,7 +996,7 @@
   "max": 34,
   "who": "Claire",
   "en": "You've got the armor... You must\nbe her! I CHALLENGE YOU!",
-  "fr": "Tu portes l'armure... Tu dois\nêtre elle ! JE TE DEFIE !",
+  "fr": "Tu portes l'armure...\nTu dois être elle ! JE TE DEFIE !",
   "src": "pinky"
  },
  {
@@ -1012,7 +1012,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Wait, what? No, I'm not\\u2014",
-  "fr": "Attends, quoi ? Non, je ne suis\npas...",
+  "fr": "Attends, quoi ?\nNon, je ne suis pas...",
   "src": "pinky"
  },
  {
@@ -1095,7 +1095,7 @@
   "max": 34,
   "who": "Georges",
   "en": "The fool thought he could haff\na chuckle at my expenth...",
-  "fr": "Ce fou a pensé qu'il pouvait\nse rire de moi...",
+  "fr": "Ce fou a pensé qu'il pouvait se rire\nde moi...",
   "src": "pinky"
  },
  {
@@ -1127,7 +1127,7 @@
   "max": 34,
   "who": "Sellsword",
   "en": "You had me worried sick, coz!\nTakin' off the way you did.",
-  "fr": "Tu m'as drôlement inquiété, l'ami !\fDisparaître ainsi de la\ncirculation.",
+  "fr": "Tu m'as drôlement inquiété, l'ami !\nDisparaître ainsi de la circulation.",
   "src": "pinky"
  },
  {
@@ -1143,7 +1143,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Huh? Sorry, I think you have the\nwrong man.",
-  "fr": "Hein ? Navré, vous devez faire\nerreur.",
+  "fr": "Hein ?\nNavré, vous devez faire erreur.",
   "src": "pinky"
  },
  {
@@ -1151,7 +1151,7 @@
   "max": 34,
   "who": "Sellsword",
   "en": "None of that, Aldric.\nYou grab yourself a stein.",
-  "fr": "Mais pas du tout, Aldric. Allez\nviens boire une mousse !",
+  "fr": "Mais pas du tout, Aldric.\nAllez viens boire une mousse !",
   "src": "pinky"
  },
  {
@@ -1159,7 +1159,7 @@
   "max": 34,
   "who": "Roger",
   "en": "I'm telling you!\nI don't know any Ald\\u2014",
-  "fr": "Mais vous ne comprenez pas ?\fJe ne connais pas le moindre\nAld...",
+  "fr": "Mais vous ne comprenez pas ?\nJe ne connais pas le moindre Ald...",
   "src": "pinky"
  },
  {
@@ -1167,7 +1167,7 @@
   "max": 34,
   "who": "Sellsword",
   "en": "I think I would know my best ol'\nwar buddy, now wouldn't I?",
-  "fr": "Je crois que je reconnaitrais\nmon vieil ami de guerre partout !",
+  "fr": "Je crois que je reconnaitrais mon\nvieil ami de guerre partout !",
   "src": "pinky"
  },
  {
@@ -1183,7 +1183,7 @@
   "max": 34,
   "who": "Sellsword",
   "en": "Hey, get this man a round, on\nme!",
-  "fr": "Patron, une tournée pour ce\ntype, c'est pour moi !",
+  "fr": "Patron, une tournée pour ce type,\nc'est pour moi !",
   "src": "pinky"
  },
  {
@@ -1231,7 +1231,7 @@
   "max": 34,
   "who": "Sellsword",
   "en": "Forget what I call you\\u2014are\nyou in on that job I talked about?",
-  "fr": "Oublie comment je t'ai appelé...\fTu fais toujours le même\nboulot ?",
+  "fr": "Oublie comment je t'ai appelé...\nTu fais toujours le même boulot ?",
   "src": "pinky"
  },
  {
@@ -1255,7 +1255,7 @@
   "max": 34,
   "who": "Sellsword",
   "en": "There, see?\nYou got the bulk of it.",
-  "fr": "Tiens, tu vois ? Tu t'es fait une\nsacrée place.",
+  "fr": "Tiens, tu vois ?\nTu t'es fait une sacrée place.",
   "src": "pinky",
   "relu": true
  },
@@ -1296,7 +1296,7 @@
   "max": 34,
   "who": "Sellsword",
   "en": "Don't you go forgettin' on me\nlater, neither!",
-  "fr": "Faudra pas que tu m'oublies\naprès, pas une nouvelle fois !",
+  "fr": "Faudra pas que tu m'oublies après,\npas une nouvelle fois !",
   "src": "pinky"
  },
  {
@@ -1304,7 +1304,7 @@
   "max": 34,
   "who": "Sellsword",
   "en": "You stick by that \"savior\" dame\nand make us some gold!",
-  "fr": "Tu soutiens ce \"sauveur\", et\nnous on se fait de l'or !",
+  "fr": "Tu soutiens ce \"sauveur\", et nous\non se fait de l'or !",
   "src": "pinky"
  },
  {
@@ -1344,7 +1344,7 @@
   "max": 34,
   "who": "Richard",
   "en": "is to defend the town of Clairoix\nfrom enemy attack.",
-  "fr": "est de défendre la ville de\nClairoix des attaques ennemies.",
+  "fr": "est de défendre la ville de Clairoix\ndes attaques ennemies.",
   "src": "pinky"
  },
  {
@@ -1352,7 +1352,7 @@
   "max": 34,
   "who": "Richard",
   "en": "The king has vouchsafed us a\nnumber of soldiers.",
-  "fr": "Le roi nous a accordé un\ncertain nombre de soldats.",
+  "fr": "Le roi nous a accordé un certain\nnombre de soldats.",
   "src": "pinky"
  },
  {
@@ -1384,7 +1384,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "You do not need Gilles or Roger\nwhen La Hire is on the prrrowl!",
-  "fr": "Tu n'as pas besoin de Gilles ou\nde Roger\fquand La Hire est dans les\nparages !",
+  "fr": "Tu n'as pas besoin de Gilles ou de\nRoger quand La Hire est dans les\fparages !",
   "src": "pinky"
  },
  {
@@ -1456,7 +1456,7 @@
   "max": 34,
   "who": "Sellsword",
   "en": "Is that like your \"warrior\" name?\n\"Roger the Rogue\"? Heh!",
-  "fr": "C'est une sorte de nom de\nguerre ? \"Roger la Fripouille\" ?",
+  "fr": "C'est une sorte de nom de guerre ?\n\"Roger la Fripouille\" ?",
   "src": "pinky"
  },
  {
@@ -1472,7 +1472,7 @@
   "max": 34,
   "who": "Sellsword",
   "en": "I'll call you Baldric if you rather,\n\fbut you sure you know the plan?",
-  "fr": "Je t'appellerai Baldric si tu\npréfères,\fmais t'es sûr de connaître le\nplan ?",
+  "fr": "Je t'appellerai Baldric si tu\npréfères,\fmais t'es sûr de connaître le plan ?",
   "src": "pinky"
  },
  {
@@ -1480,7 +1480,7 @@
   "max": 34,
   "who": "Sellsword",
   "en": "Soon as our pals make a run for\nthe town,\fthat's our signal to shut you-\nknow-who out.",
-  "fr": "Dès que nos amis attaquent la\nville,\fc'est notre signal pour\néliminer tu-sais-qui.",
+  "fr": "Dès que nos amis attaquent la\nville,\fc'est notre signal pour éliminer\ntu-sais-qui.",
   "src": "pinky"
  },
  {
@@ -1504,7 +1504,7 @@
   "max": 34,
   "who": "Richard",
   "en": "We must join our might and\ndefend the town!",
-  "fr": "Nous devons unir nos forces\net défendre la ville !",
+  "fr": "Nous devons unir nos forces et\ndéfendre la ville !",
   "src": "pinky"
  },
  {
