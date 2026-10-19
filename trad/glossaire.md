@@ -117,7 +117,7 @@ dans les dialogues, réutiliser **exactement** la traduction qui s'y trouve.
 
 ## Dialogues de l'équipe PSP Traduction
 
-- Les dialogues sont la traduction de Pinky & Bleachy, reprise **telle quelle** : pas d'accent anglais
+- Les dialogues sont la traduction de Pinky, reprise **telle quelle** : pas d'accent anglais
   ajouté (la règle d'accent de la v1 est abandonnée), seules l'orthographe et les contre-sens validés par
   Pinky ont été corrigés.
 - Le vocabulaire des objets, menus et cartes est aligné sur le leur (voir `termes_logic.md`).

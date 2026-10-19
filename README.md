@@ -127,7 +127,7 @@ docs/                  images du README
 
 | Contenu | Source |
 |---|---|
-| Dialogues | équipe PSP Traduction (Pinky & Bleachy), `src: "pinky"` ; relecture orthographique `relu: true` ; quelques répliques absentes de leurs scripts traduites par nous (`src: "ia"`) |
+| Dialogues | équipe PSP Traduction (Pinky), `src: "pinky"` ; relecture orthographique `relu: true` ; quelques répliques absentes de leurs scripts traduites par nous (`src: "ia"`) |
 | Textures, bandeaux, pages d'aide | Raven (équipe PSP Traduction), `trad/raven/` |
 | Vidéos sous-titrées, écrans NIVEAU FINI / NIVEAU + !, fond du menu PSP, icônes de sauvegarde | ISO patché de l'équipe du 12/04/2013, `trad/equipe2013/` |
 | Objets, sorts, menus, cartes, carte du monde | ce dépôt, vocabulaire aligné sur celui de l'équipe |
@@ -154,11 +154,20 @@ Pour signaler un problème en jeu, ouvrez une *issue* avec une capture et le con
 
 ## Crédits
 
-**Équipe PSP Traduction** — traduction des dialogues : Pinky & Bleachy ; graphismes : Raven ;
-avec Lyan, Alb_à_tort, Loki, Mardhor, Messis et BahaBulle.
-<!-- À compléter avec les rôles confirmés par Pinky avant la fusion dans main. -->
+Cette traduction est avant tout celle de l'équipe **PSP Traduction** (2012-2015), qui a donné son travail au projet :
 
-Intégration, outils, objets/menus et relecture : ce dépôt.
+- **Pinky** (pinktagada) : traduction des dialogues, coordination et relecture
+- **Raven** : graphismes (textures, bandeaux, pages d'aide, bannières de compétences, vidéos sous-titrées)
+- **Rylefury** : graphismes
+- **Messis** (Messis-Summa) : hacking et patchs
+- **Lyan** : analyse technique et outils GIM
+- **Meradrin** : correction de bugs et conversion de fichiers
+- **BahaBulle** : recherches techniques
+- avec la participation d'Alb_à_tort, Loki et Mardhor
+
+Merci aussi aux bêta-testeurs de 2015 sur romhack.org.
+
+Intégration, outils de build, objets, menus et relecture : ce dépôt.
 
 ## Licences et mentions légales
 
