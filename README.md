@@ -57,7 +57,7 @@ Les textures elles aussi sont traduites — exemple avec une page d'aide (en hau
    - en ligne, sans installation : [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) ;
    - Windows : *xdelta UI* ou *Delta Patcher* ;
    - ligne de commande : `xdelta3 -d -s "Jeanne d'Arc (USA).iso" Jeanne_dArc_FR.xdelta "Jeanne d'Arc (FR).iso"`
-4. Vérifiez le résultat — MD5 de l'ISO français : `94ff4a28402aa216865ecccec60434f2` (v2.0).
+4. Vérifiez le résultat — MD5 de l'ISO français : `b7b196361adb5b5988e855a97ae82b3f` (v2.0.1).
 
 Compatible **PPSSPP** et **PSP avec custom firmware** (l'exécutable est fourni déchiffré).
 
@@ -67,8 +67,8 @@ Compatible **PPSSPP** et **PSP avec custom firmware** (l'exécutable est fourni 
 
 ## Limites connues
 
-- La police système de la PSP n'a pas de tiret court : les traits d'union utilisent le caractère
-  U+2012, le plus fin disponible.
+- La police système de la PSP n'a qu'un trait d'union, assez large. Ne pas utiliser U+2012 : PPSSPP
+  l'affiche correctement, mais une vraie PSP le remplace par « _ ».
 
 ## Reconstruire le patch depuis les sources
 
@@ -135,7 +135,7 @@ docs/                  images du README
 ### Notes techniques
 
 - Les dialogues sont dans `EVENT/ST*.BIN` : en-tête, table d'offsets relatifs, bytecode, puis bloc de
-  texte Latin-1. Les caractères hors Latin-1 (œ, —, ‒) passent par des échappements `\uXXXX` que le
+  texte Latin-1. Les caractères hors Latin-1 (œ, —) passent par des échappements `\uXXXX` que le
   moteur interprète.
 - Le jeu lit ses fichiers par LBA via `USRDIR/DATA/FILEINFO.DAT` : les fichiers agrandis sont
   déplacés en fin d'image et la table est mise à jour. Les copies d'un même fichier dans les

@@ -7,7 +7,6 @@ import collections
 import glob
 import json
 import os
-import re
 import sys
 
 sys.path.insert(0, os.path.dirname(__file__))
@@ -49,20 +48,12 @@ def iso_paths_by_name():
     return by
 
 
-HYPHEN = re.compile(r'(?<=[^\W\d_])-(?=[^\W\d_])')
-
-
-def typo(text):
-    """Trait d'union entre deux lettres -> U+2012, plus étroit dans la police de la PSP."""
-    return HYPHEN.sub('\u2012', text)
-
-
 def build_events(mem, by_name):
     repl = {}
     for path in sorted(glob.glob(os.path.join(DATA, 'EVENT/ST*.BIN'))):
         data = open(path, 'rb').read()
         e = EventFile(data)
-        tr = {i: typo(mem[s]['fr']) for i, s in e.strings() if s in mem}
+        tr = {i: mem[s]['fr'] for i, s in e.strings() if s in mem}
         if not tr:
             continue
         new = e.build(tr)
