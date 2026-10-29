@@ -124,7 +124,7 @@
   "max": 34,
   "who": "Jacques",
   "en": "Oh, while you're out there, find \nRoger for me, would you?",
-  "fr": "Oh, pendant que vous êtes là-bas,\ntrouvez Roger pour moi, d'accord ?",
+  "fr": "Oh, pendant que vous êtes là-bas,\ntrouvez Roger pour moi,\fd'accord ?",
   "src": "pinky"
  },
  {
@@ -1276,7 +1276,7 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Brrsshhh...",
   "fr": "Brrsshhh...",
@@ -1284,7 +1284,7 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Bsshh...",
   "fr": "Bsshh...",
@@ -1292,7 +1292,7 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Kaff...",
   "fr": "Kaff...",
@@ -1300,7 +1300,7 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Burr hrr hrr!",
   "fr": "Burr hrr hrr !",
@@ -1308,7 +1308,7 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Grble...",
   "fr": "Grble...",
@@ -1316,7 +1316,7 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Grr hrr hrr!",
   "fr": "Grr hrr hrr !",
@@ -1324,7 +1324,7 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Bshh...",
   "fr": "Bshh...",
@@ -1332,7 +1332,7 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Ba ha ha!",
   "fr": "Ba ha ha !",
@@ -1340,7 +1340,7 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Bagh!",
   "fr": "Bagh !",
@@ -1348,7 +1348,7 @@
  },
  {
   "ctx": "ST1010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Baaaghh!",
   "fr": "Baaaghh !",
@@ -1367,7 +1367,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Jeanne...it hurts...\nSave me...",
-  "fr": "Jeanne... Ça fait mal... Sauve-moi...",
+  "fr": "Jeanne... Ça fait mal...\nSauve-moi...",
   "src": "pinky"
  },
  {
@@ -1695,7 +1695,7 @@
   "max": 34,
   "who": "Roger",
   "en": "What? The two of you took those \nmonsters on alone?!",
-  "fr": "Quoi ? Toutes les deux ? Vous avez\naffronté des monstres ?!",
+  "fr": "Quoi ? Toutes les deux ? Vous\navez affronté des monstres ?!",
   "src": "pinky"
  },
  {

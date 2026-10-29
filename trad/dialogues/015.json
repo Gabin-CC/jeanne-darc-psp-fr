@@ -1,15 +1,15 @@
 [
  {
   "ctx": "ST3050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "This time, for\nsure...!",
-  "fr": "C'est le moment ça c'est sûr... !",
+  "fr": "C'est le moment\nça c'est sûr... !",
   "src": "pinky"
  },
  {
   "ctx": "ST3050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "This shall be\nthe end!",
   "fr": "Finissons-en !",
@@ -41,7 +41,7 @@
  },
  {
   "ctx": "ST3050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Eee!",
   "fr": "Hiiii !",
@@ -49,7 +49,7 @@
  },
  {
   "ctx": "ST3050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Yaahhhh!!",
   "fr": "Yaahhhh !!",
@@ -57,7 +57,7 @@
  },
  {
   "ctx": "ST3050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Gagah!!",
   "fr": "Gagah !!",
@@ -65,7 +65,7 @@
  },
  {
   "ctx": "ST3050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Eeeee!!",
   "fr": "Hiii !!",
@@ -473,7 +473,7 @@
   "max": 34,
   "who": "Roger",
   "en": "yES, yOU sAW iT...\n...tHE gIRL iS dEAD...\fjEANNE kILLED hER...",
-  "fr": "oUI, Tu l'AS Vu... ...\nlA FilLE esT MORte...\fjEANNE l'A TUée...",
+  "fr": "oUI, Tu l'AS Vu...\n... lA FilLE esT MORte...\fjEANNE l'A TUée...",
   "src": "pinky"
  },
  {
@@ -579,7 +579,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "Huh?\nWhat's this doing on my leg?",
-  "fr": "Huh ? Qu'est-ce que ça fait sur ma\njambe ?",
+  "fr": "Huh ? Qu'est-ce que ça fait sur\nma jambe ?",
   "src": "pinky"
  },
  {
@@ -772,7 +772,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "But Luther did tell me stories\nwhile I was hiding in the woods.\fLots of them!",
-  "fr": "Mais Luther m'a raconté beaucoup\nd'histoires pendant que j'étais\fcaché dans les bois.\fBeaucoup !",
+  "fr": "Mais Luther m'a raconté\nbeaucoup d'histoires pendant que\fj'étais caché dans les bois.\fBeaucoup !",
   "src": "pinky"
  },
  {
@@ -838,7 +838,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "his reaper servants are\nawakening, one by one.",
-  "fr": "Ses serviteurs les moissonneurs se\nréveillent, les uns après les autres.",
+  "fr": "Ses serviteurs les moissonneurs se\nréveillent,\fles uns après les autres.",
   "src": "pinky",
   "relu": true
  },
@@ -873,7 +873,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "What?!\nThen King Charles is in peril!",
-  "fr": "Quoi ?!\nAlors le Roi Charles est en danger !",
+  "fr": "Quoi ?! Alors le Roi Charles est en\ndanger !",
   "src": "pinky"
  },
  {
@@ -881,7 +881,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "Yes\\u2014and the Fiend himself,\fhe sleeps within none other\nthan Henry VI!",
-  "fr": "Oui...\fet le Démon en personne est\nendormi dans le corps de Henry VI\flui-même !",
+  "fr": "Oui...\fet le Démon en personne est\nendormi dans le corps de Henry\fVI lui-même !",
   "src": "pinky"
  },
  {
@@ -1109,7 +1109,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "with the ultimate goal of ferreting\nthe reapers out of hiding.",
-  "fr": "dont le seul objectif est de traquer\nles moissonneurs où qu'ils soient.",
+  "fr": "dont le seul objectif est de\ntraquer les moissonneurs où qu'ils\fsoient.",
   "src": "pinky",
   "relu": true
  },
@@ -1184,7 +1184,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "I need someone to persuade the\nDuke of Burgundy to end it.",
-  "fr": "J'ai besoin de quelqu'un pour\npersuader le Duc de Bourgogne d'y\fmettre un terme.",
+  "fr": "J'ai besoin de quelqu'un pour\npersuader le Duc de Bourgogne\fd'y mettre un terme.",
   "src": "pinky"
  },
  {
@@ -1587,23 +1587,23 @@
  },
  {
   "ctx": "ST3060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Is that all you\ngot? Too bad...",
-  "fr": "C'est tout ce que tu as ?\nDommage...",
+  "fr": "C'est tout ce que\ntu as ? Dommage...",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Your life...\nIt's mine now.",
-  "fr": "Ta vie... Est mienne à présent.",
+  "fr": "Ta vie... Est\nmienne à présent.",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Now it's your\nturn!",
   "fr": "À ton tour !",
@@ -1619,81 +1619,81 @@
  },
  {
   "ctx": "ST3060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Behold...my\ntrue power!",
-  "fr": "Contemple...\nmon véritable pouvoir !",
+  "fr": "Contemple... mon\nvéritable pouvoir !",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "My power...to\nme...",
-  "fr": "Mon pouvoir... à moi...",
+  "fr": "Mon pouvoir...\nà moi...",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "How could this\nbe...?",
-  "fr": "Comment ça a pu... ?",
+  "fr": "Comment ça\na pu... ?",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST3060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Hmm...how should\nI finish you?",
-  "fr": "Hmm...\ncomment vais-je t'achever ?",
+  "fr": "Hmm... comment\nvais-je t'achever ?",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Heh heh...you\ncan't get away.",
-  "fr": "Héhé... tu ne peux pas fuir.",
+  "fr": "Héhé... tu ne\npeux pas fuir.",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "How could this\nhappen to me...?",
-  "fr": "Comment ça a pu m'arriver... ?",
+  "fr": "Comment ça a pu\nm'arriver... ?",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST3060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I can still\ndo this!",
-  "fr": "Je peux toujours le faire !",
+  "fr": "Je peux toujours\nle faire !",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You won't get\npast me!",
-  "fr": "Tu ne passeras pas !",
+  "fr": "Tu ne passeras\npas !",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You shall\nnot pass...",
-  "fr": "Vous ne passerez pas...",
+  "fr": "Vous ne passerez\npas...",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "How amazingly\nweak...",
   "fr": "Quelle faiblesse...",
@@ -1701,15 +1701,15 @@
  },
  {
   "ctx": "ST3060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Strike back!\nCome on!",
-  "fr": "Riposte ! Allez !",
+  "fr": "Riposte !\nAllez !",
   "src": "pinky"
  },
  {
   "ctx": "ST3060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Ow!",
   "fr": "Ouch !",
@@ -1717,7 +1717,7 @@
  },
  {
   "ctx": "ST3060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Oof, that stung!",
   "fr": "Waf, ça pique !",
@@ -1725,10 +1725,10 @@
  },
  {
   "ctx": "ST3060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Wait'll I show\nyou this!",
-  "fr": "Attends, je vais te montrer !",
+  "fr": "Attends, je vais\nte montrer !",
   "src": "pinky"
  },
  {

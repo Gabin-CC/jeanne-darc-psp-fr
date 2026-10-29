@@ -1,79 +1,79 @@
 [
  {
   "ctx": "ST1050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Let your guard\ndown, yes?",
-  "fr": "Baissez votre garde, d'accord ?",
+  "fr": "Baissez votre\ngarde, d'accord ?",
   "src": "pinky"
  },
  {
   "ctx": "ST1050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Am I...destined\nto lose?",
-  "fr": "Suis-je... voué à l'échec ?",
+  "fr": "Suis-je... voué\nà l'échec ?",
   "src": "pinky"
  },
  {
   "ctx": "ST1050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Are you...the\nreal...?",
-  "fr": "Êtes-vous... vraiment... ?",
+  "fr": "Êtes-vous...\nvraiment... ?",
   "src": "pinky"
  },
  {
   "ctx": "ST1050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Thought you\ncould escape?",
-  "fr": "Vous pensiez pouvoir fuir ?",
+  "fr": "Vous pensiez\npouvoir fuir ?",
   "src": "pinky"
  },
  {
   "ctx": "ST1050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I told you I'd\nfinish this!",
-  "fr": "Je t'ai dit que j'allais finir !",
+  "fr": "Je t'ai dit que\nj'allais finir !",
   "src": "pinky"
  },
  {
   "ctx": "ST1050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You under-\nestimated them!",
-  "fr": "Vous les avez sous-estimés !",
+  "fr": "Vous les avez\nsous-estimés !",
   "src": "pinky"
  },
  {
   "ctx": "ST1050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Oh, my, that\nlooks painful.",
-  "fr": "Oh, mince, ça doit faire mal.",
+  "fr": "Oh, mince, ça\ndoit faire mal.",
   "src": "pinky"
  },
  {
   "ctx": "ST1050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You thought you\nwere our equal?",
-  "fr": "Vous pensiez pouvoir rivaliser ?",
+  "fr": "Vous pensiez\npouvoir rivaliser ?",
   "src": "pinky"
  },
  {
   "ctx": "ST1050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You shall leave\nthis world, now!",
-  "fr": "À présent, votre heure est venue !",
+  "fr": "À présent, votre\nheure est venue !",
   "src": "pinky"
  },
  {
   "ctx": "ST1050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Arrgh...",
   "fr": "Arrgh...",
@@ -81,7 +81,7 @@
  },
  {
   "ctx": "ST1050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Kee hee hee!",
   "fr": "Mouahahahah !",
@@ -89,7 +89,7 @@
  },
  {
   "ctx": "ST1050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Ee hee hee!",
   "fr": "Hi hi hi !",
@@ -97,7 +97,7 @@
  },
  {
   "ctx": "ST1050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Idiots!",
   "fr": "Idiots !",
@@ -105,7 +105,7 @@
  },
  {
   "ctx": "ST1050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Eee...",
   "fr": "Hiii...",
@@ -113,7 +113,7 @@
  },
  {
   "ctx": "ST1050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I'll kill you...",
   "fr": "Je te tuerai...",
@@ -121,10 +121,10 @@
  },
  {
   "ctx": "ST1050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "That didn't\nhurt...",
-  "fr": "Ça ne fait pas mal...",
+  "fr": "Ça ne fait\npas mal...",
   "src": "pinky"
  },
  {
@@ -138,7 +138,7 @@
  },
  {
   "ctx": "ST1050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Damned human...",
   "fr": "Maudit humain...",
@@ -147,7 +147,7 @@
  },
  {
   "ctx": "ST1050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "HP down.",
   "fr": "Les PV diminuent.",
@@ -155,47 +155,47 @@
  },
  {
   "ctx": "ST1050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Disadvantage\nin battle.",
-  "fr": "Handicap au combat.",
+  "fr": "Handicap\nau combat.",
   "src": "pinky"
  },
  {
   "ctx": "ST1050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Advantage\nin battle.",
-  "fr": "Avantage au combat.",
+  "fr": "Avantage\nau combat.",
   "src": "pinky"
  },
  {
   "ctx": "ST1050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Friend about to\ndie.",
-  "fr": "Allié sur le point de mourir.",
+  "fr": "Allié sur le\npoint de mourir.",
   "src": "pinky"
  },
  {
   "ctx": "ST1050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Enemy about to\ndie.",
-  "fr": "Ennemi sur le point de mourir.",
+  "fr": "Ennemi sur le\npoint de mourir.",
   "src": "pinky"
  },
  {
   "ctx": "ST1050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Took damage.",
-  "fr": "Encaisser des dégâts.",
+  "fr": "Encaisser des\ndégâts.",
   "src": "pinky"
  },
  {
   "ctx": "ST1050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Used skill.",
   "fr": "Compétence utilisée.",
@@ -231,7 +231,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "Har!\nWell fought, lass...",
-  "fr": "Hargh !\nTu t'es bien défendue, jeune fille...",
+  "fr": "Hargh ! Tu t'es bien défendue,\njeune fille...",
   "src": "pinky"
  },
  {
@@ -264,7 +264,7 @@
   "max": 34,
   "who": "Jean",
   "en": "Ta-ta! (Lightning smite you for\npicking on the Pucelle...)",
-  "fr": "Ta-ta ! (La foudre frappe ceux qui\ns'en prennent à la Pucelle.)",
+  "fr": "Ta-ta ! (La foudre frappe ceux\nqui s'en prennent à la Pucelle.)",
   "src": "pinky"
  },
  {
@@ -436,7 +436,7 @@
   "max": 34,
   "who": "Colet",
   "en": "Eet has been fun playing weez\nyou, neencompoopy-head...\fbut now I beed you bon voyage!",
-  "fr": "Ça a été très drôle de jouer avec\nvous, tête de conserve...\fMais je vous souhaite bon voyage !",
+  "fr": "Ça a été très drôle de jouer avec\nvous, tête de conserve...\fMais je vous souhaite bon\nvoyage !",
   "src": "pinky"
  },
  {
@@ -762,7 +762,7 @@
   "max": 34,
   "who": "Marcel",
   "en": "You were amazing, Jeannette!\nI thought we were all goners.",
-  "fr": "Vous étiez incroyable, Jeannette !\fJ'ai pensé que nous allions tous\nmourir.",
+  "fr": "Vous étiez incroyable,\nJeannette !\fJ'ai pensé que nous allions tous\nmourir.",
   "src": "pinky"
  },
  {
@@ -770,7 +770,7 @@
   "max": 34,
   "who": "Marcel",
   "en": "But then you started fighting,",
-  "fr": "Mais quand vous avez commencé à\nvous battre,",
+  "fr": "Mais quand vous avez commencé\nà vous battre,",
   "src": "pinky"
  },
  {
@@ -1591,39 +1591,39 @@
  },
  {
   "ctx": "ST1060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Hah...think\nyou're a hero?",
-  "fr": "Hah... Vous pensez être un héros ?",
+  "fr": "Hah... Vous pensez\nêtre un héros ?",
   "src": "pinky"
  },
  {
   "ctx": "ST1060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Hah...no hard\nfeelings, yes?",
-  "fr": "Hah... Sans rancune ?",
+  "fr": "Hah... Sans\nrancune ?",
   "src": "pinky"
  },
  {
   "ctx": "ST1060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Prepare to die!",
-  "fr": "Préparez-vous à mourir !",
+  "fr": "Préparez-vous à\nmourir !",
   "src": "pinky"
  },
  {
   "ctx": "ST1060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Bet you regret\nfacing me now!",
-  "fr": "Vous regrettez de m'avoir défié !",
+  "fr": "Vous regrettez de\nm'avoir défié !",
   "src": "pinky"
  },
  {
   "ctx": "ST1060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "What...?",
   "fr": "Quoi ?!",
@@ -1771,7 +1771,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "...I came of my own free will.",
-  "fr": "...\nJe suis venue de mon propre chef.",
+  "fr": "... Je suis venue de mon propre\nchef.",
   "src": "pinky"
  },
  {
@@ -1983,7 +1983,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "Did you all hear?!",
-  "fr": "Vous avez entendu, vous autres ?!",
+  "fr": "Vous avez entendu, vous\nautres ?!",
   "src": "pinky"
  },
  {
@@ -2007,7 +2007,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "Rejoice, for France's day of\ntriumph is nigh at hand!",
-  "fr": "Réjouissez-vous, le triomphe de la\nFrance est à portée de main !",
+  "fr": "Réjouissez-vous, le triomphe de\nla France est à portée de main !",
   "src": "pinky"
  },
  {

@@ -37,7 +37,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I'm sorry, Liane.\nI know I worried you terribly.",
-  "fr": "Je suis désolée, Liane. Je sais que je\nt'ai fait faire un sang d'encre.",
+  "fr": "Je suis désolée, Liane. Je sais que\nje t'ai fait faire un sang d'encre.",
   "src": "pinky"
  },
  {
@@ -123,58 +123,58 @@
  },
  {
   "ctx": "ST2030BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Dammit! I can't\ngive up yet!",
-  "fr": "Non ! Je ne peux abandonner !",
+  "fr": "Non ! Je ne peux\nabandonner !",
   "src": "pinky"
  },
  {
   "ctx": "ST2030BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I refuse to be\ndefeated twice!",
-  "fr": "Je ne perdrai pas deux fois !",
+  "fr": "Je ne perdrai\npas deux fois !",
   "src": "pinky"
  },
  {
   "ctx": "ST2030BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "This mere girl!\nHow...?!",
-  "fr": "Cette gamine ! Comment... ?!",
+  "fr": "Cette gamine !\nComment... ?!",
   "src": "pinky"
  },
  {
   "ctx": "ST2030BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "We're taking the\nfortress back!",
-  "fr": "Nous reprendrons la forteresse !",
+  "fr": "Nous reprendrons\nla forteresse !",
   "src": "pinky"
  },
  {
   "ctx": "ST2030BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Too bad...my\ndear.",
-  "fr": "Dommage... Mon cher.",
+  "fr": "Dommage...\nMon cher.",
   "src": "pinky"
  },
  {
   "ctx": "ST2030BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Now, time for\nthe death blow!",
-  "fr": "C'est l'heure du coup de grâce !",
+  "fr": "C'est l'heure du\ncoup de grâce !",
   "src": "pinky"
  },
  {
   "ctx": "ST2030BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Can you stand\nthis attack?",
-  "fr": "Pouvez-vous survivre à ça ?",
+  "fr": "Pouvez-vous\nsurvivre à ça ?",
   "src": "pinky"
  },
  {
@@ -396,7 +396,7 @@
   "max": 34,
   "who": "",
   "en": "You created \"Sniper\" by combining\n\"Accuracy +5\" and \"Force Down.\"",
-  "fr": "Fusion de Précision +5 et Force - =\nTireur d'élite !",
+  "fr": "Fusion de Précision +5 et Force - =\nTir d'élite !",
   "src": "pinky",
   "relu": true
  },
@@ -422,7 +422,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "And now, with all of you at my\nside, \nI believe I can win the coming\nbattle as well.",
-  "fr": "Et maintenant, vous êtes toujours\nà mes côtés.\fJe suis certaine que nous allons\nremporter celle-là.",
+  "fr": "Et maintenant, vous êtes\ntoujours à mes côtés.\fJe suis certaine que nous allons\nremporter celle-là.",
   "src": "pinky",
   "relu": true
  },
@@ -532,7 +532,7 @@
  },
  {
   "ctx": "ST2040BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Enemy reinforcements!",
   "fr": "Renforts ennemis !",
@@ -588,47 +588,47 @@
  },
  {
   "ctx": "ST2040BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Dammit...how\ncould this be...",
-  "fr": "Impossible... Comment...",
+  "fr": "Impossible...\nComment...",
   "src": "pinky"
  },
  {
   "ctx": "ST2040BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I can't believe\nthis...",
-  "fr": "Je ne peux pas y croire...",
+  "fr": "Je ne peux pas\ny croire...",
   "src": "pinky"
  },
  {
   "ctx": "ST2040BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I'll never let\nyou past!",
-  "fr": "Vous ne passerez pas !",
+  "fr": "Vous ne\npasserez pas !",
   "src": "pinky"
  },
  {
   "ctx": "ST2040BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "This shall be\nyour grave!",
-  "fr": "Ce sera votre tombe !",
+  "fr": "Ce sera\nvotre tombe !",
   "src": "pinky"
  },
  {
   "ctx": "ST2040BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Time to face\nyour fates!",
-  "fr": "Faites face à votre destin !",
+  "fr": "Faites face à\nvotre destin !",
   "src": "pinky"
  },
  {
   "ctx": "ST2040BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Hah...figures.",
   "fr": "Ha, pitoyables.",
@@ -636,31 +636,31 @@
  },
  {
   "ctx": "ST2040BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I'll kill you in\none stroke!",
-  "fr": "Je vous tuerai en un coup !",
+  "fr": "Je vous tuerai\nen un coup !",
   "src": "pinky"
  },
  {
   "ctx": "ST2040BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Now! Do it!",
-  "fr": "Vas-y, maintenant !",
+  "fr": "Vas-y,\nmaintenant !",
   "src": "pinky"
  },
  {
   "ctx": "ST2040BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I'm...not out\nyet...",
-  "fr": "Je... n'ai pas encore perdu...",
+  "fr": "Je... n'ai pas\nencore perdu...",
   "src": "pinky"
  },
  {
   "ctx": "ST2040BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Yahh!",
   "fr": "Yahh !",
@@ -668,7 +668,7 @@
  },
  {
   "ctx": "ST2040BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "How about this!",
   "fr": "Et ça ?",
@@ -929,31 +929,31 @@
  },
  {
   "ctx": "ST2050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Keep it going!\nFull-on attack!",
-  "fr": "Encore ! Attaquez !",
+  "fr": "Encore !\nAttaquez !",
   "src": "pinky"
  },
  {
   "ctx": "ST2050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Fight on! We\nmust not lose!",
-  "fr": "À l'attaque !\nNous ne pouvons pas perdre !",
+  "fr": "À l'attaque ! Nous\nne pouvons pas\fperdre !",
   "src": "pinky"
  },
  {
   "ctx": "ST2050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Savior? Don't\nmake me laugh!",
-  "fr": "Sauveur ? Ne me faites pas rire !",
+  "fr": "Sauveur ? Ne me\nfaites pas rire !",
   "src": "pinky"
  },
  {
   "ctx": "ST2050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Such a shame...",
   "fr": "Quelle honte...",
@@ -961,39 +961,39 @@
  },
  {
   "ctx": "ST2050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Give it up,\nlittle lady...",
-  "fr": "Capitulez, petite dame...",
+  "fr": "Capitulez,\npetite dame...",
   "src": "pinky"
  },
  {
   "ctx": "ST2050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "This fortress\nis impregnable!",
-  "fr": "Cette forteresse est imprenable !",
+  "fr": "Cette forteresse\nest imprenable !",
   "src": "pinky"
  },
  {
   "ctx": "ST2050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Still think you\ncan win this?",
-  "fr": "Vous pensez toujours pouvoir\ngagner ?",
+  "fr": "Vous pensez\ntoujours pouvoir\fgagner ?",
   "src": "pinky"
  },
  {
   "ctx": "ST2050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Do not be\ndaunted!",
-  "fr": "Ne soyez pas intimidés !",
+  "fr": "Ne soyez pas\nintimidés !",
   "src": "pinky"
  },
  {
   "ctx": "ST2050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Yaaaaahhhh!!",
   "fr": "Yaaaaahhhh !!",
@@ -1001,7 +1001,7 @@
  },
  {
   "ctx": "ST2050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Pitiful!",
   "fr": "Pitoyable !",
@@ -1020,7 +1020,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "Har... I may have underestimated\nyou.",
-  "fr": "Har...\nJe vous ai peut-être sous-estimée.",
+  "fr": "Har... Je vous ai peut-être\nsous-estimée.",
   "src": "pinky"
  },
  {
@@ -1052,7 +1052,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "What did my forefathers do to\nyours?",
-  "fr": "Qu'ont donc fait mes ancêtres aux\nvôtres ?",
+  "fr": "Qu'ont donc fait mes ancêtres\naux vôtres ?",
   "src": "pinky"
  },
  {
@@ -1140,7 +1140,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "One day, lass...very soon...",
-  "fr": "Un jour, jeune fille... très bientôt...",
+  "fr": "Un jour, jeune fille...\ntrès bientôt...",
   "src": "pinky"
  },
  {
@@ -1397,7 +1397,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "And I'm quite certain they're \nready to die for a cause \nas noble as yours.",
-  "fr": "Et je suis certain qu'ils sont prêts à\nmourir pour une cause aussi noble\fque la vôtre.",
+  "fr": "Et je suis certain qu'ils sont prêts\nà mourir pour une cause aussi\fnoble que la vôtre.",
   "src": "pinky"
  },
  {
@@ -1429,7 +1429,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "It's not a trick!\fI only want to see the dauphin\ncrowned France's rightful king.",
-  "fr": "Aucune sournoiserie !\fJe veux seulement voir le sacre du\ndauphin,\fquand il deviendra roi de France.",
+  "fr": "Aucune sournoiserie !\fJe veux seulement voir le sacre\ndu dauphin,\fquand il deviendra roi de France.",
   "src": "pinky"
  },
  {
@@ -1494,7 +1494,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "I will not pass up any chance to\ncrown my king. Certainly not now,",
-  "fr": "Je ne laisserai pas passer la chance\nde couronner mon roi.",
+  "fr": "Je ne laisserai pas passer la\nchance de couronner mon roi.",
   "src": "pinky"
  },
  {
@@ -1502,7 +1502,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "when the girl's victory at Orléans\nhas given us ground to stand on.",
-  "fr": "Certainement pas maintenant,\nalors que la victoire de cette fille à\fOrléans nous a donné une raison\nde continuer le combat.",
+  "fr": "Certainement pas maintenant,\nalors que la victoire de cette fille\fà Orléans nous a donné une\nraison de continuer le combat.",
   "src": "pinky"
  },
  {
@@ -1510,7 +1510,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Encouraging words, sir.",
-  "fr": "Voilà des mots encourageants, ser.",
+  "fr": "Voilà des mots encourageants,\nser.",
   "src": "pinky"
  },
  {
@@ -1647,7 +1647,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "I shall be humbled to see a\ntitan like you once again in the\nbattlefield, sir.",
-  "fr": "Je serai ravi de voir un titan tel\nque vous de nouveau sur le champ\fde bataille, ser.",
+  "fr": "Je serai ravi de voir un titan tel\nque vous de nouveau sur le\fchamp de bataille, ser.",
   "src": "pinky"
  },
  {
@@ -1697,7 +1697,7 @@
   "max": 34,
   "who": "Georges",
   "en": "Heaffen forbid the dauphin's\ncounthellor be wiff the dauphin!",
-  "fr": "Diantre, le conseiller ne devrait-il\npas être avec le dauphin ?",
+  "fr": "Diantre,\fle conseiller ne devrait-il pas\nêtre avec le dauphin ?",
   "src": "pinky"
  },
  {
@@ -1721,7 +1721,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "Very well, then.\nLet us depart at once.",
-  "fr": "Très bien.\nDans ce cas, nous partons de suite.",
+  "fr": "Très bien. Dans ce cas, nous\npartons de suite.",
   "src": "pinky"
  },
  {
@@ -1737,7 +1737,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "I see this time you've got an\nentire army in tow.\fYou must be moving up in the\nworld. Praise be to God, har!",
-  "fr": "Je vois que cette fois-ci vous avez\nune armée entière dans votre\fsillage.\fVous devez avoir eu de\nl'avancement. Gloire à Dieu, har !",
+  "fr": "Je vois que cette fois-ci vous\navez une armée entière dans\fvotre sillage.\fVous devez avoir eu de\nl'avancement. Gloire à Dieu, har !",
   "src": "pinky"
  },
  {

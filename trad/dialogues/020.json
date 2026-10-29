@@ -4,7 +4,7 @@
   "max": 34,
   "who": "Elder",
   "en": "of how stubborn their subject's\nsoul would be.",
-  "fr": "de la force d'esprit de leur cobaye.",
+  "fr": "de la force d'esprit de leur\ncobaye.",
   "src": "pinky"
  },
  {
@@ -131,7 +131,7 @@
  },
  {
   "ctx": "ST4041BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "...No...",
   "fr": "Non...",
@@ -139,7 +139,7 @@
  },
  {
   "ctx": "ST4041BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "...Give it up...",
   "fr": "Abandonne...",
@@ -147,7 +147,7 @@
  },
  {
   "ctx": "ST4041BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "This is it!",
   "fr": "C'est ça !",
@@ -350,7 +350,7 @@
   "max": 34,
   "who": "Rose",
   "en": "We'll just have to find ourselves\na switch, loves.",
-  "fr": "Il va falloir qu'on trouve comment\nl'actionner, mes chéris.",
+  "fr": "Il va falloir qu'on trouve\ncomment l'actionner, mes chéris.",
   "src": "pinky"
  },
  {
@@ -374,7 +374,7 @@
   "max": 34,
   "who": "Village Dwarf",
   "en": "Woh, my! Dey made short work of\nda twaps, didn't dey?",
-  "fr": "Whaa ! Ils ont esquivé les pièges en\nun rien de temps !",
+  "fr": "Whaa ! Ils ont esquivé les pièges\nen un rien de temps !",
   "src": "pinky",
   "relu": true
  },
@@ -416,7 +416,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Dat waddie in da cape took it?\nDa test subject?",
-  "fr": "C'est le type à la cape qui l'a prise ?\nLe cobaye ?",
+  "fr": "C'est le type à la cape qui l'a\nprise ? Le cobaye ?",
   "src": "pinky"
  },
  {
@@ -457,7 +457,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Aye, dat's what dey told him he\nwas. Twuth be told, though,\fde Engwish onwy wanted him for\ndeir vile expewiments.",
-  "fr": "Oui, c'est ce qu'ils ont dit qu'il\nétait. Pour être franc, les Anglais\fne s'intéressaient à lui que pour\nleurs expériences.",
+  "fr": "Oui, c'est ce qu'ils ont dit qu'il\nétait. Pour être franc,\fles Anglais ne s'intéressaient à lui\nque pour leurs expériences.",
   "src": "pinky",
   "relu": true
  },
@@ -502,7 +502,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Most o' da soldiers dey pwayed\nGod with wejected the weapers,\fand 'fore wong, Soldat was full\nto da bwim with human\nvegetables.",
-  "fr": "La plupart des soldats sur lesquels\nils ont fait leurs expérimentations\font rejeté le moissonneur.\fLe Soldat s'est retrouvé plein\nd'unités à l'état de légumes.",
+  "fr": "La plupart des soldats sur lesquels\nils ont fait leurs\fexpérimentations ont rejeté le\nmoissonneur.\fLe Soldat s'est retrouvé plein\nd'unités à l'état de légumes.",
   "src": "pinky",
   "relu": true
  },
@@ -595,7 +595,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "If you don't stop now,",
-  "fr": "Si tu n'arrêtes pas immédiatement,",
+  "fr": "Si tu n'arrêtes pas\nimmédiatement,",
   "src": "pinky"
  },
  {
@@ -715,7 +715,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Hey, hold on! A reaper like you\ncan't die!",
-  "fr": "Hé, une minute !\nLes moissonneurs sont immortels !",
+  "fr": "Hé, une minute ! Les\nmoissonneurs sont immortels !",
   "src": "pinky",
   "relu": true
  },
@@ -724,7 +724,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Huff, huff...\nYou are all going to PAY!",
-  "fr": "Pfff... Pfff... Vous allez le PAYER !",
+  "fr": "Pfff... Pfff...\nVous allez le PAYER !",
   "src": "pinky"
  },
  {
@@ -740,7 +740,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "I was hoping for a chance to put\nthe new armor through some\ntests.",
-  "fr": "J'espérais une occasion de mettre\nla nouvelle armure pour effectuer\fquelques tests.",
+  "fr": "J'espérais une occasion de mettre\nla nouvelle armure pour\feffectuer quelques tests.",
   "src": "pinky"
  },
  {
@@ -809,24 +809,24 @@
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Ugh, get out of\nmy sight...",
-  "fr": "Hors de ma vue...",
+  "fr": "Hors de\nma vue...",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Is this how it\nwill end...?",
-  "fr": "Tout finit ainsi... ?",
+  "fr": "Tout finit\nainsi... ?",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Sigh...so it is.",
   "fr": "Pff... C'est ainsi.",
@@ -834,47 +834,47 @@
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I see...the test\nis almost over.",
-  "fr": "Je vois.\nLe test est presque terminé.",
+  "fr": "Je vois. Le test est\npresque terminé.",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Hmph...all talk,\nwere you...?",
-  "fr": "Mpff...\nQue des mots, somme toute...",
+  "fr": "Mpff... Que des\nmots, somme toute...",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "This test ends\nin our victory!",
-  "fr": "Ce test s'achève avec notre\nvictoire !",
+  "fr": "Ce test s'achève\navec notre victoire\f!",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Stand up...you\ncan do this...",
-  "fr": "Debout... Tu peux le faire...",
+  "fr": "Debout... Tu\npeux le faire...",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "At least go\ndown fighting!",
-  "fr": "Arrête de combattre !",
+  "fr": "Arrête de\ncombattre !",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Give it up!",
   "fr": "Abandonne !",
@@ -882,7 +882,7 @@
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Useless...",
   "fr": "Inutile...",
@@ -890,23 +890,23 @@
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You fools...\nBow before me!",
-  "fr": "Inconscient...\nÀ genoux à mes pieds !",
+  "fr": "Inconscient... À\ngenoux à mes pieds !",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Let me show you\nmy full power...",
-  "fr": "Laissez-moi vous montrer ma\npuissance !",
+  "fr": "Laissez-moi vous\nmontrer ma\fpuissance !",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Ah, ahh...",
   "fr": "Ah, ahh...",
@@ -914,7 +914,7 @@
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "No escape...",
   "fr": "Aucune issue...",
@@ -922,39 +922,39 @@
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Ahh, what a\nblunder!",
-  "fr": "Ahh, quelle bévue !",
+  "fr": "Ahh, quelle\nbévue !",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "We...we cannot\nlose!",
-  "fr": "Nous.. Ne pouvons pas perdre !",
+  "fr": "Nous.. Ne pouvons\npas perdre !",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "No...even with\nall our power?!",
-  "fr": "Non... Même avec toute notre\npuissance ?!",
+  "fr": "Non... Même avec\ntoute notre\fpuissance ?!",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Ergh...I refuse\nto surrender!",
-  "fr": "Argh... Je refuse de me rendre !",
+  "fr": "Argh... Je refuse\nde me rendre !",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "This power...\nAmazing!",
   "fr": "Cette puissance...\nImpressionnant !",
@@ -962,71 +962,71 @@
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Sweep up the\nrest of them!",
-  "fr": "Écrasez ceux qui restent !",
+  "fr": "Écrasez ceux\nqui restent !",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Ancient armlets?\nPah! Trinkets!",
-  "fr": "Les anciens bracelets ? Pouah !\nDes babioles !",
+  "fr": "Les anciens\nbracelets ? Pouah !\fDes babioles !",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "What...? Done\nalready?!",
-  "fr": "Quoi ?! Déjà à terre ?!",
+  "fr": "Quoi ?! Déjà\nà terre ?!",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You can't let\nyour guard down!",
-  "fr": "Ne baisse pas ta garde !",
+  "fr": "Ne baisse pas\nta garde !",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Strike! Now!",
-  "fr": "Frappe ! Maintenant !",
+  "fr": "Frappe ! Maintenant\n!",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Thank you for\nthe honor...",
-  "fr": "Merci pour les honneurs...",
+  "fr": "Merci pour les\nhonneurs...",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I'm...still in\nthis...!",
-  "fr": "Je suis... encore là...",
+  "fr": "Je suis...\nencore là...",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Ahhh...this\npower!",
-  "fr": "Ahh... Cette puissance !",
+  "fr": "Ahh... Cette\npuissance !",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Youuuu!",
   "fr": "Vouuuuus !",
@@ -1034,7 +1034,7 @@
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Grahh!",
   "fr": "Grahh !",
@@ -1042,7 +1042,7 @@
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Gahh!",
   "fr": "Gahh !",
@@ -1050,26 +1050,26 @@
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Behold...my\nskill!",
-  "fr": "Voilà... ma puissance !",
+  "fr": "Voilà... ma\npuissance !",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Can you stand\nup to this?",
-  "fr": "Pouvez-vous encaisser ça ?",
+  "fr": "Pouvez-vous\nencaisser ça ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4050BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Cower at our\nvast strength!",
-  "fr": "Fuyez face à notre puissance !",
+  "fr": "Fuyez face à\nnotre puissance !",
   "src": "pinky"
  },
  {
@@ -1134,7 +1134,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Thousands have died, and you\nstole your own nephew's body!",
-  "fr": "Beaucoup sont morts, et toi, tu as\nvolé le corps de ton propre neveu !",
+  "fr": "Beaucoup sont morts, et toi,\ftu as volé le corps de ton propre\nneveu !",
   "src": "pinky"
  },
  {
@@ -1174,7 +1174,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "will seem no more than a dated\ntrinket in comparison.",
-  "fr": "votre bracelet sacré ne sera en\ncomparaison qu'une vieille babiole\fsans intérêt.",
+  "fr": "votre bracelet sacré ne sera en\ncomparaison qu'une vieille\fbabiole sans intérêt.",
   "src": "pinky"
  },
  {
@@ -1255,7 +1255,7 @@
   "max": 34,
   "who": "Richard",
   "en": "I never imagined such armor\ncould be forged by human hands.",
-  "fr": "Je n'aurais jamais pensé qu'une\ntelle armure puisse être forgée par\fdes humains.",
+  "fr": "Je n'aurais jamais pensé qu'une\ntelle armure puisse être forgée\fpar des humains.",
   "src": "pinky"
  },
  {
@@ -1263,7 +1263,7 @@
   "max": 34,
   "who": "Richard",
   "en": "Fighting those soldiers was\nlike fighting my own reflection.",
-  "fr": "Affronter ces soldats était comme\naffronter mon propre reflet.",
+  "fr": "Affronter ces soldats était\ncomme affronter mon propre\freflet.",
   "src": "pinky"
  },
  {
@@ -1303,7 +1303,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "You mean march to our deaths?",
-  "fr": "Tu veux dire nous rendre droit à la\nmort ?",
+  "fr": "Tu veux dire nous rendre droit à\nla mort ?",
   "src": "pinky"
  },
  {
@@ -1319,7 +1319,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Then we'll invade the facility\nand get rid of our problem.",
-  "fr": "Nous pourrons alors attaquer le\nlaboratoire et nous débarrasser de\fnos problèmes.",
+  "fr": "Nous pourrons alors attaquer le\nlaboratoire et nous débarrasser\fde nos problèmes.",
   "src": "pinky",
   "relu": true
  },
@@ -1486,87 +1486,87 @@
  },
  {
   "ctx": "ST4060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "All this, and we\nstill can't win?",
-  "fr": "Avec tout ça, nous sommes\nvaincus ?",
+  "fr": "Avec tout ça, nous\nsommes vaincus ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Ergh...I won't\ngive up!",
-  "fr": "Je ne me rendrai pas !",
+  "fr": "Je ne me\nrendrai pas !",
   "src": "pinky"
  },
  {
   "ctx": "ST4060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Don't give up!\nFull forward!",
-  "fr": "Continue ! En avant !",
+  "fr": "Continue !\nEn avant !",
   "src": "pinky"
  },
  {
   "ctx": "ST4060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Well? What's the\nproblem?!",
-  "fr": "Hein ? Il y a un problème ?",
+  "fr": "Hein ? Il y a\nun problème ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Charge! Forward!",
-  "fr": "Chargez ! En avant !",
+  "fr": "Chargez !\nEn avant !",
   "src": "pinky"
  },
  {
   "ctx": "ST4060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Slash 'em to\nribbons!",
-  "fr": "Coupez-les en rondelles !",
+  "fr": "Coupez-les\nen rondelles !",
   "src": "pinky"
  },
  {
   "ctx": "ST4060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Say your\nprayers!",
-  "fr": "Dites vos prières !",
+  "fr": "Dites vos\nprières !",
   "src": "pinky"
  },
  {
   "ctx": "ST4060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I'll fight 'til\nthe bitter end!",
-  "fr": "Je me battrai jusqu'au bout !",
+  "fr": "Je me battrai\njusqu'au bout !",
   "src": "pinky"
  },
  {
   "ctx": "ST4060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "The room is supressing Burning Auras!",
-  "fr": "La pièce bloque l'utilisation de\nl'aura !",
+  "fr": "La pièce bloque\nl'utilisation de\fl'aura !",
   "src": "pinky"
  },
  {
   "ctx": "ST4060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "The room is supressing your skills!",
-  "fr": "La pièce bloque l'utilisation de\ncompétences !",
+  "fr": "La pièce bloque\nl'utilisation de\fcompétences !",
   "src": "pinky"
  },
  {
   "ctx": "ST4060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "The room is supressing\ntransformations!",
   "fr": "La pièce bloque les\ntransformations !",
@@ -1574,26 +1574,26 @@
  },
  {
   "ctx": "ST4060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You can use Burning Auras again!",
-  "fr": "Vous pouvez à nouveau utiliser\nl'aura !",
+  "fr": "Vous pouvez à\nnouveau utiliser\fl'aura !",
   "src": "pinky"
  },
  {
   "ctx": "ST4060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You can use skills again!",
-  "fr": "Vous pouvez à nouveau utiliser\nvos compétences !",
+  "fr": "Vous pouvez à\nnouveau utiliser vos\fcompétences !",
   "src": "pinky"
  },
  {
   "ctx": "ST4060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You can transform again!",
-  "fr": "Vous pouvez à nouveau vous\ntransformer !",
+  "fr": "Vous pouvez à\nnouveau vous\ftransformer !",
   "src": "pinky"
  },
  {

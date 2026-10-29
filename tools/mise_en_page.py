@@ -5,13 +5,15 @@
 - une phrase qui tient entière sur la 2e ligne y commence ;
 - une phrase plus longue qu'une boîte continue dans la suivante, coupée après sa dernière virgule (, ; :) ;
 - fin de phrase : . ! ? ... (jamais : ni ;).
-Les bulles de combat (max=16) ne sont pas touchées.
+Bulles de combat (max=16) : mêmes règles à leur largeur, appliquées seulement à celles qui débordent.
 
 Usage : python3 tools/mise_en_page.py [--apply]   (sans --apply : liste seulement le nombre de répliques à revoir)"""
 import glob, json, os, re, sys
 
 ADV = json.load(open(os.path.join(os.path.dirname(__file__), 'psp_font_widths.json'), encoding='utf-8'))
-PX = 326  # même valeur que check_trad.PX_DIALOGUE
+PX = 320  # boîte de dialogue (~328 px mesurés, marge pour les arrondis), même valeur que check_trad.PX_DIALOGUE
+PX_BULLE = 200  # bulle de combat (largeur fixe, mesurée en jeu), même valeur que check_trad.PX_BULLE
+WIDTH = PX  # largeur en cours
 END = re.compile(r'([.!?…]|\.\.\.)["»)]?$|\\u2014$')
 
 def px(t):
@@ -30,7 +32,7 @@ def tokens(text):
 def lines_of(words):
     lines = []
     for w in words:
-        if lines and px(lines[-1] + ' ' + w) <= PX:
+        if lines and px(lines[-1] + ' ' + w) <= WIDTH:
             lines[-1] += ' ' + w
         else:
             lines.append(w)
@@ -42,7 +44,7 @@ def layout(text):
     sentences, cur = [], []
     for w in words:
         cur.append(w)
-        if END.search(w):
+        if END.search(w) and not (len(cur) == 1 and re.fullmatch(r'\.\.\.|…', w)):  # « ... » en tête de phrase
             sentences.append(cur); cur = []
     if cur:
         sentences.append(cur)
@@ -50,10 +52,10 @@ def layout(text):
     for s in sentences:
         st = ' '.join(s)
         if box:
-            if px(box[-1] + ' ' + st) <= PX:  # la phrase tient au bout de la ligne en cours
+            if px(box[-1] + ' ' + st) <= WIDTH:  # la phrase tient au bout de la ligne en cours
                 box[-1] += ' ' + st
                 continue
-            if len(box) == 1 and px(st) <= PX:  # elle tient entière sur la 2e ligne : elle y commence
+            if len(box) == 1 and px(st) <= WIDTH:  # elle tient entière sur la 2e ligne : elle y commence
                 box.append(st)
                 continue
             cont = lines_of(tokens(' '.join(box)) + s)
@@ -93,6 +95,29 @@ def segments(fr, en):
                 out.append(' '.join(fr_s[i:i + c])); i += c
             return out
     cuts = [i for i, c in enumerate(fr) if c == '\f']
+    if 0 < len(cuts) == k:
+        # autant de boîtes que la VO : une coupure placée en pleine phrase alors que la VO marque
+        # une pause après une virgule est déplacée vers la virgule la plus proche en VF
+        segs = fr.split('\f')
+        en_segs = en.split('\f')
+        for j in range(k):
+            if END.search(segs[j].rstrip()) or re.search(r'[,;:]\s*$', segs[j]) \
+                    or not re.search(r'[,;:]\s*$', en_segs[j]):
+                continue
+            words = tokens(segs[j] + ' ' + segs[j + 1])
+            ratio = len(' '.join(en_segs[j].split())) / len(' '.join((en_segs[j] + ' ' + en_segs[j + 1]).split()))
+            n = len(' '.join(words))
+            pos, best = 0, None
+            for w_i, w in enumerate(words[:-1]):
+                pos += len(w) + 1
+                if re.search(r'[,;:]$', w) and (best is None or abs(pos / n - ratio) < abs(best[0] / n - ratio)):
+                    best = (pos, w_i + 1)
+            if best:
+                a, b = ' '.join(words[:best[1]]), ' '.join(words[best[1]:])
+                nb = lambda x, y: len(layout(' '.join(x.split()))) + len(layout(' '.join(y.split())))
+                if nb(a, b) <= nb(segs[j], segs[j + 1]):  # seulement si ça n'ajoute pas de boîte
+                    segs[j], segs[j + 1] = a, b
+        return segs
     if len(cuts) <= k:
         return fr.split('\f')
     end_cuts = [i for i in cuts if END.search(fr[:i].rstrip())]
@@ -104,9 +129,13 @@ def segments(fr, en):
     return out
 
 def reflow(e):
+    global WIDTH
     fr, en = e['fr'], e['en']
-    if e.get('max') != 34 or not fr or fr.startswith('&'):
+    if e.get('max') not in (16, 34) or not fr or fr.startswith('&'):
         return None
+    WIDTH = PX if e['max'] == 34 else PX_BULLE
+    if e['max'] == 16 and all(px(l) <= WIDTH for l in fr.replace('\f', '\n').split('\n')):
+        return None  # bulle : on ne touche qu'à celles qui débordent
     cut = fr.endswith('\x14')  # \x14 final : réplique interrompue, le code reste en fin de texte
     body = fr[:-1] if cut else fr
     if '\x14' in body:

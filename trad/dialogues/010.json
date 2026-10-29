@@ -264,7 +264,7 @@
   "max": 34,
   "who": "",
   "en": "Cross the Bogs of Vermonde and head for Reims.",
-  "fr": "Traverser les marais de Vermonde\nvers Reims.",
+  "fr": "Traverser les marais de\nVermonde vers Reims.",
   "src": "pinky"
  },
  {
@@ -706,7 +706,7 @@
   "max": 34,
   "who": "Mawra",
   "en": "We WILL get you that armlet.",
-  "fr": "Nous vous ramènerons le bracelet.",
+  "fr": "Nous vous ramènerons le\nbracelet.",
   "src": "pinky"
  },
  {
@@ -898,7 +898,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "We have only been apart for a\nfew days, and yet...",
-  "fr": "Nous avons été séparés seulement\nquelques jours, et pourtant...",
+  "fr": "Nous avons été séparés\nseulement quelques jours,\fet pourtant...",
   "src": "pinky"
  },
  {
@@ -954,7 +954,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "Are you certain you feel well?",
-  "fr": "Êtes-vous certaine d'aller mieux ?",
+  "fr": "Êtes-vous certaine d'aller\nmieux ?",
   "src": "pinky"
  },
  {

@@ -197,15 +197,15 @@
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You shall pay\nfor this!!",
-  "fr": "Vous allez payer pour ça !",
+  "fr": "Vous allez\npayer pour ça !",
   "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Cursed humans!!",
   "fr": "Maudits humains !",
@@ -213,47 +213,47 @@
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I'm not done\nquite yet!",
-  "fr": "Je ne suis pas encore mort !",
+  "fr": "Je ne suis pas\nencore mort !",
   "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "This world is\nour property!",
-  "fr": "Ce monde est à nous !",
+  "fr": "Ce monde est\nà nous !",
   "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Heh heh...\nYou fools...",
-  "fr": "Hé hé... Inconscients...",
+  "fr": "Hé hé...\nInconscients...",
   "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Release...\nyour soul...!",
-  "fr": "Libère... Ton âme !!!",
+  "fr": "Libère...\nTon âme !!!",
   "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Your power is\nnothing to me!",
-  "fr": "Ton pouvoir n'est rien face au\nmien !",
+  "fr": "Ton pouvoir n'est\nrien face au mien !",
   "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Eee...!",
   "fr": "Hiii... !",
@@ -261,15 +261,15 @@
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You...you\nwitch!",
-  "fr": "Sale... Sale sorcière !",
+  "fr": "Sale... Sale\nsorcière !",
   "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Grrh...",
   "fr": "Grrh...",
@@ -277,71 +277,71 @@
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I won't take\nthis abuse!",
-  "fr": "Je ne me laisserai pas malmener !",
+  "fr": "Je ne me laisserai\npas malmener !",
   "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Get out of my\nsight, you!",
-  "fr": "Hors de ma vue !",
+  "fr": "Hors de\nma vue !",
   "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Heh heh...I'm\nnot done yet...",
-  "fr": "Hé hé, je n'ai pas dit mon dernier\nmot.",
+  "fr": "Hé hé, je n'ai pas\ndit mon dernier mot.",
   "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I...I am no\nfool, you know!",
-  "fr": "Je ne suis pas un imbécile !",
+  "fr": "Je ne suis pas\nun imbécile !",
   "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Ahh ha ha! How\nd'you like that?",
-  "fr": "Ha ha ha ! Tu aimes ça ?",
+  "fr": "Ha ha ha ! Tu\naimes ça ?",
   "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Whadaya think?\nScared, huh?!",
-  "fr": "T'en penses quoi ? t'as peur ?",
+  "fr": "T'en penses quoi ?\nt'as peur ?",
   "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Ha ha! That'll\nshow you!",
-  "fr": "Ha ha ! J'vais te montrer !",
+  "fr": "Ha ha ! J'vais\nte montrer !",
   "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Good, good!\nGet 'em!",
-  "fr": "Bien ! Saisissez-les !",
+  "fr": "Bien !\nSaisissez-les !",
   "src": "pinky"
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Damn youuuu!",
   "fr": "Maudit sois-tu !",
@@ -350,7 +350,7 @@
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Brk...",
   "fr": "Brk...",
@@ -358,7 +358,7 @@
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Bshrrr!",
   "fr": "Bshrrr !",
@@ -366,7 +366,7 @@
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Baagh!!",
   "fr": "Baagh !!",
@@ -374,7 +374,7 @@
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Grrrgh...",
   "fr": "Grrrgh...",
@@ -382,7 +382,7 @@
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Yaaahhh!!",
   "fr": "Yaaahhh !!",
@@ -390,7 +390,7 @@
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Grahhh!!",
   "fr": "Grahhh !!",
@@ -398,7 +398,7 @@
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Grgh!",
   "fr": "Grgh !",
@@ -406,7 +406,7 @@
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Grrrr...",
   "fr": "Grrrr...",
@@ -414,7 +414,7 @@
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Gaaaah!!",
   "fr": "Gaaaah !!",
@@ -434,7 +434,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Damn it... We can't let him\nmake any more monsters! Hurry!",
-  "fr": "Bon sang...\fIl nous faut l'empêcher d'invoquer\nd'autres monstres,\fil faut faire vite !",
+  "fr": "Bon sang...\fIl nous faut l'empêcher\nd'invoquer d'autres monstres,\fil faut faire vite !",
   "src": "pinky"
  },
  {
@@ -483,7 +483,7 @@
   "max": 34,
   "who": "Georges",
   "en": "Hee hee...\nOoh, are you doomed now!",
-  "fr": "Hi hi... Ooh, vous êtes condamnés !",
+  "fr": "Hi hi...\nOoh, vous êtes condamnés !",
   "src": "pinky"
  },
  {
@@ -548,7 +548,7 @@
   "max": 34,
   "who": "",
   "en": "Stop Henry VI's coronation! To Reims!",
-  "fr": "Arrêter le couronnement d'Henry\nVI à Reims !",
+  "fr": "Arrêter le couronnement\nd'Henry VI à Reims !",
   "src": "pinky"
  },
  {
@@ -589,7 +589,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "...I owe it to you and your\nsecret negotiations, Richemont.",
-  "fr": "... Je vous remercie vous et vos\nnégociations secrètes, Richemont.",
+  "fr": "... Je vous remercie vous et vos\nnégociations secrètes,\fRichemont.",
   "src": "pinky"
  },
  {
@@ -765,7 +765,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "...But then the people started\ncalling my saint the witch,",
-  "fr": "...\fMais alors les gens ont commencé\nà appeler ma sainte la sorcière,",
+  "fr": "... Mais alors les gens ont\ncommencé à appeler ma sainte la\fsorcière,",
   "src": "pinky"
  },
  {
@@ -861,7 +861,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "We cannot sit back and let him.\nWe must act accordingly.",
-  "fr": "Nous ne pouvons rester assis et le\nlaisser faire.\fNous devons agir en conséquence.",
+  "fr": "Nous ne pouvons rester assis et le\nlaisser faire.\fNous devons agir en\nconséquence.",
   "src": "pinky",
   "relu": true
  },
@@ -894,7 +894,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "you can vie directly with Henry\nfor control of the capital.",
-  "fr": "vous pouvez rivaliser directement\navec Henry pour le contrôle de la\fcapitale.",
+  "fr": "vous pouvez rivaliser\ndirectement avec Henry pour le\fcontrôle de la capitale.",
   "src": "pinky"
  },
  {
@@ -950,7 +950,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "For the time being, your ranks\nand mine will act separately.",
-  "fr": "Pour le moment, vos troupes et les\nmiennes agiront séparément.",
+  "fr": "Pour le moment, vos troupes et\nles miennes agiront séparément.",
   "src": "pinky"
  },
  {
@@ -1007,7 +1007,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "You're about to find out.",
-  "fr": "Tu es à deux doigts de le découvrir.",
+  "fr": "Tu es à deux doigts de le\ndécouvrir.",
   "src": "pinky"
  },
  {
@@ -1071,7 +1071,7 @@
   "max": 34,
   "who": "Isabeau",
   "en": "My darling Henry is to be\ncrowned king of France,",
-  "fr": "Mon cher Henry va être couronné\nroi de France,",
+  "fr": "Mon cher Henry va être\ncouronné roi de France,",
   "src": "pinky"
  },
  {
@@ -1125,10 +1125,10 @@
  },
  {
   "ctx": "ST3090BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "The gem fused with Jeanne's armlet!",
-  "fr": "La gemme fusionne avec le\nbracelet de Jeanne !",
+  "fr": "La gemme fusionne\navec le bracelet de\fJeanne !",
   "src": "pinky"
  },
  {
@@ -1214,58 +1214,58 @@
  },
  {
   "ctx": "ST3090BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Let me make this\neasy for you...",
-  "fr": "Laissez-moi vous faciliter les\nchoses...",
+  "fr": "Laissez-moi vous\nfaciliter les\fchoses...",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST3090BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "All will be\ndarkness...",
-  "fr": "Tout ne sera plus que ténèbres...",
+  "fr": "Tout ne sera plus\nque ténèbres...",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST3090BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You'll be eaten\nsoon enough...",
-  "fr": "Tu vas vite finir dévoré...",
+  "fr": "Tu vas vite finir\ndévoré...",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST3090BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "What is it...?\nDone already?",
-  "fr": "Quoi... ? Déjà fini ?",
+  "fr": "Quoi... ?\nDéjà fini ?",
   "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Accept...the\ndarkness...",
-  "fr": "Accepte... les ténèbres...",
+  "fr": "Accepte...\nles ténèbres...",
   "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Just what I\nneeded...",
-  "fr": "Juste ce qu'il me fallait...",
+  "fr": "Juste ce qu'il\nme fallait...",
   "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Gwahh!",
   "fr": "Graaaah !",
@@ -1273,15 +1273,15 @@
  },
  {
   "ctx": "ST3090BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "May it embed\ninto my soul!",
-  "fr": "Mon âme va l'engloutir !",
+  "fr": "Mon âme va\nl'engloutir !",
   "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Errgh...",
   "fr": "Arrrgh....",
@@ -1289,15 +1289,15 @@
  },
  {
   "ctx": "ST3090BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You've been\nsurrounded...",
-  "fr": "Tu es encerclé...",
+  "fr": "Tu es\nencerclé...",
   "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I must go on!",
   "fr": "Je dois continuer !",
@@ -1305,31 +1305,31 @@
  },
  {
   "ctx": "ST3090BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I cannot lose\nto you!",
-  "fr": "Tu ne peux pas me vaincre !",
+  "fr": "Tu ne peux pas\nme vaincre !",
   "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "We're far ahead\nof you...",
-  "fr": "On est loin devant toi...",
+  "fr": "On est loin\ndevant toi...",
   "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Strike back\nat them!",
-  "fr": "Droit sur eux !",
+  "fr": "Droit sur\neux !",
   "src": "pinky"
  },
  {
   "ctx": "ST3090BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Stand up!",
   "fr": "Debout !",
@@ -1337,16 +1337,16 @@
  },
  {
   "ctx": "ST3090BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "...We can do\nthis.",
-  "fr": "... On peut y arriver.",
+  "fr": "... On peut\ny arriver.",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST3090BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Look out...",
   "fr": "Attention...",
@@ -1495,7 +1495,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Ah, it's you! How kind of you\nto finally pay me a visit.",
-  "fr": "Ah, c'est toi ! Comme c'est aimable\nde ta part de me rendre visite.",
+  "fr": "Ah, c'est toi !\fComme c'est aimable de ta part de\nme rendre visite.",
   "src": "pinky"
  },
  {
@@ -1511,7 +1511,7 @@
   "max": 34,
   "who": "Henry VI",
   "en": "Creating you was undoubtedly\none of my career lows...",
-  "fr": "Te créer a été indubitablement un\nde mes échecs...",
+  "fr": "Te créer a été indubitablement\nun de mes échecs...",
   "src": "pinky"
  },
  {
@@ -1713,7 +1713,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "So that was the knight we saw\nat the chapel outside Domremy...",
-  "fr": "C'était donc ce chevalier que nous\navons vu à la chapelle de\fDomrémy...",
+  "fr": "C'était donc ce chevalier que\nnous avons vu à la chapelle de\fDomrémy...",
   "src": "pinky"
  },
  {
@@ -2023,7 +2023,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "Gilles...you were born in\nBrittany, were you not?",
-  "fr": "Gilles, tu es originaire de Bretagne,\nnon ?",
+  "fr": "Gilles, tu es originaire de\nBretagne, non ?",
   "src": "pinky"
  }
 ]

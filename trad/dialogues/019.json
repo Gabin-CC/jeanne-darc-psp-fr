@@ -4,7 +4,7 @@
   "max": 34,
   "who": "Elder",
   "en": "No, I consider myself your friend.",
-  "fr": "Non, je vous considère comme mes\namis.",
+  "fr": "Non, je vous considère comme\nmes amis.",
   "src": "pinky"
  },
  {
@@ -12,7 +12,7 @@
   "max": 34,
   "who": "Elder",
   "en": "For I know there are still good\nhumans out there,",
-  "fr": "De ce que j'en sais, il existe de bons\nhumains,",
+  "fr": "De ce que j'en sais, il existe de\nbons humains,",
   "src": "pinky"
  },
  {
@@ -36,7 +36,7 @@
   "max": 34,
   "who": "Elder",
   "en": "The elves' Alrond Wood is outside\nof Reims,",
-  "fr": "Le bois d'Alrond des elfes est après\nReims,",
+  "fr": "Le bois d'Alrond des elfes est\naprès Reims,",
   "src": "pinky"
  },
  {
@@ -297,7 +297,7 @@
   "max": 34,
   "who": "Man's Voice",
   "en": "You should just steal the gem if\nyou want it that bad.",
-  "fr": "Vous n'avez qu'à voler la gemme si\nvous la voulez autant.",
+  "fr": "Vous n'avez qu'à voler la gemme\nsi vous la voulez autant.",
   "src": "pinky"
  },
  {
@@ -463,7 +463,7 @@
  },
  {
   "ctx": "ST4030BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Hah...useless.",
   "fr": "Haha... Inutile.",
@@ -471,10 +471,10 @@
  },
  {
   "ctx": "ST4030BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "That gem is\nmine...",
-  "fr": "Cette gemme est à moi...",
+  "fr": "Cette gemme\nest à moi...",
   "src": "pinky"
  },
  {
@@ -677,7 +677,7 @@
   "max": 34,
   "who": "Roger",
   "en": "I can't even get rid of one\nstupid little woman!",
-  "fr": "Je n'arrive même pas à me\ndébarrasser d'une stupide gamine !",
+  "fr": "Je n'arrive même pas à me\ndébarrasser d'une stupide\fgamine !",
   "src": "pinky",
   "relu": true
  },
@@ -736,7 +736,7 @@
   "max": 34,
   "who": "Elder",
   "en": "What reason could you have for\nreneging,\nreturning remorseless\\u2014",
-  "fr": "Quelles raisons pouvez-vous avoir\npour nous renier,\fet revenir sans remords...",
+  "fr": "Quelles raisons pouvez-vous\navoir pour nous renier,\fet revenir sans remords...",
   "src": "pinky",
   "relu": true
  },
@@ -861,7 +861,7 @@
   "max": 34,
   "who": "Elder",
   "en": "In time the reaper will ravage\nRoger; hack at his human habit,",
-  "fr": "Avec le temps le moissonneur\ndétruira Roger,\féradiquant tout ce qu'il a d'humain\nen lui,",
+  "fr": "Avec le temps le moissonneur\ndétruira Roger,\féradiquant tout ce qu'il a\nd'humain en lui,",
   "src": "pinky",
   "relu": true
  },
@@ -878,7 +878,7 @@
   "max": 34,
   "who": "Elder",
   "en": "...You came here, I sense, in\nsearch of a certain something.",
-  "fr": "...\fVous êtes venus jusqu'ici, je\nprésume,\fà la recherche de quelque chose.",
+  "fr": "... Vous êtes venus jusqu'ici, je\nprésume,\fà la recherche de quelque chose.",
   "src": "pinky"
  },
  {
@@ -967,7 +967,7 @@
   "max": 34,
   "who": "Elder",
   "en": "If you are to halt Gilvaroth's\nhavoc, and save France's scions,\fthen you must procure the\narmlets' prodigious power.",
-  "fr": "Si vous êtes ici pour stopper les\nravages de Gilvaroth, et sauver\fl'avenir de la France, alors vous\ndevez vous procurer la prodigieuse\fpuissance des bracelets.",
+  "fr": "Si vous êtes ici pour stopper les\nravages de Gilvaroth, et sauver\fl'avenir de la France, alors vous\ndevez vous procurer la\fprodigieuse puissance des\nbracelets.",
   "src": "pinky"
  },
  {
@@ -975,7 +975,7 @@
   "max": 34,
   "who": "Elder",
   "en": "We have enshrined the gem in a\nsheltered stretch of the woods;",
-  "fr": "Nous avons dissimulé la gemme à\nl'abri d'un sanctuaire dans les bois.",
+  "fr": "Nous avons dissimulé la gemme à\nl'abri d'un sanctuaire dans les\fbois.",
   "src": "pinky"
  },
  {
@@ -1008,7 +1008,7 @@
   "max": 34,
   "who": "Bertrand",
   "en": "Let me handle this one!\nI'm good with dwarfses.",
-  "fr": "Laisse-moi m'occuper de ça ! Je\nsuis en bons termes avec les nains.",
+  "fr": "Laisse-moi m'occuper de ça !\fJe suis en bons termes avec les\nnains.",
   "src": "pinky",
   "relu": true
  },
@@ -1017,7 +1017,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Oh, Bertrand! I didn't know you\ncame along.",
-  "fr": "Oh, Bertrand !\nJe ne savais pas que tu étais par là.",
+  "fr": "Oh, Bertrand ! Je ne savais pas\nque tu étais par là.",
   "src": "pinky"
  },
  {
@@ -1058,7 +1058,7 @@
   "max": 34,
   "who": "Jean",
   "en": "We'll be fine! Probably.\n...Possibly.",
-  "fr": "Tout ira bien ! Probablement. ...\nÉventuellement.",
+  "fr": "Tout ira bien ! Probablement.\n... Éventuellement.",
   "src": "pinky"
  },
  {
@@ -1092,7 +1092,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "...Wuh? Wet me see dat!\f\"If ye do not we winquish da gem\nto dese\\u2014\" ACHOO!\fDis wetter is caked in wayers of\ndust! Wie's awwergic to dust!",
-  "fr": "... Quoi ? Montrez-moi ça !\f\"Si vous ne remettez pas la gemme\nà ces...\" ATCHOUM !\fCette lettre est entièrement\nrecouverte de poussière !\fJ'suis allergique à la poussière !",
+  "fr": "... Quoi ? Montrez-moi ça !\f\"Si vous ne remettez pas la\ngemme à ces...\" ATCHOUM !\fCette lettre est entièrement\nrecouverte de poussière !\fJ'suis allergique à la poussière !",
   "src": "pinky"
  },
  {
@@ -1100,7 +1100,7 @@
   "max": 34,
   "who": "Bertrand",
   "en": "Oh! Sorry. It says:\f\"If you do not relinquish the gem\nto these warriors, the\\u2014\"",
-  "fr": "Oh ! Désolé, ça dit :\f\"Si vous ne remettez pas la gemme\nà ces guerriers, la...\"",
+  "fr": "Oh ! Désolé, ça dit :\f\"Si vous ne remettez pas la\ngemme à ces guerriers, la...\"",
   "src": "pinky"
  },
  {
@@ -1145,15 +1145,15 @@
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Am I losing my\ntouch...?",
-  "fr": "Ai-je perdu ma cible... ?",
+  "fr": "Ai-je perdu\nma cible... ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Youuu...",
   "fr": "Vouuuus...",
@@ -1161,106 +1161,106 @@
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Some respect for\nthe aged, you!",
-  "fr": "Respecte tes aînés !",
+  "fr": "Respecte tes\naînés !",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "How pathetic\nof me...",
-  "fr": "Que suis-je pathétique...",
+  "fr": "Que suis-je\npathétique...",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Prepare to meet\nyour fate!",
-  "fr": "Affronte ton destin !",
+  "fr": "Affronte\nton destin !",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "What on earth\nis this?!",
-  "fr": "Mais bordel, c'est quoi ça ?!",
+  "fr": "Mais bordel,\nc'est quoi ça ?!",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "My age...it's\ndragging me.",
-  "fr": "Mon âge... Ça me perdra.",
+  "fr": "Mon âge...\nÇa me perdra.",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Errrgh...I\ncan't lose this!",
-  "fr": "Arrgh...\nJe ne peux pas perdre ainsi.",
+  "fr": "Arrgh... Je ne peux\npas perdre ainsi.",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "They're good,\nthey are...",
-  "fr": "Ils sont bons, ils sont...",
+  "fr": "Ils sont bons,\nils sont...",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Come on! Dig\nin, everyone!",
-  "fr": "Venez ! Mettez- vous à creuser !",
+  "fr": "Venez ! Mettez-\nvous à creuser !",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I'm not gonna\nretire yet!",
-  "fr": "Je ne vais pas abandonner !",
+  "fr": "Je ne vais pas\nabandonner !",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You're out-\nclassed here.",
-  "fr": "Vous n'avez rien à faire ici !",
+  "fr": "Vous n'avez rien\nà faire ici !",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Nice try,\nyoungster!",
-  "fr": "Bien essayé, gamin !",
+  "fr": "Bien essayé,\ngamin !",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You, beat me?\nPah!",
-  "fr": "Toi, me vaincre ? Sans rire...",
+  "fr": "Toi, me vaincre ?\nSans rire...",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You all right?!",
   "fr": "Ça va ?",
@@ -1268,31 +1268,31 @@
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You've got to\ntake it easy!",
-  "fr": "Il faut te calmer !",
+  "fr": "Il faut te\ncalmer !",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Don't over-\nexert yourself.",
-  "fr": "Ménage-toi un peu plus !",
+  "fr": "Ménage-toi\nun peu plus !",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Have you thought\nabout surrender?",
-  "fr": "Penses-tu à te rendre ?",
+  "fr": "Penses-tu à\nte rendre ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "My thanks.",
   "fr": "Mes remerciements.",
@@ -1300,7 +1300,7 @@
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Hahhh!",
   "fr": "Hahhh !",
@@ -1308,39 +1308,39 @@
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "A brutal\nmistake...",
-  "fr": "Quelle grossière erreur...",
+  "fr": "Quelle grossière\nerreur...",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Losing...to\nthese humans...",
-  "fr": "Perdre face à ces humains...",
+  "fr": "Perdre face à\nces humains...",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I won't give up\n'til the end!",
-  "fr": "Je me battrai jusqu'au bout !",
+  "fr": "Je me battrai\njusqu'au bout !",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Where's your\ndwarven pride?!",
-  "fr": "Où est votre fierté de nains ?!",
+  "fr": "Où est votre fierté\nde nains ?!",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Take a rest!",
   "fr": "Reposez-vous !",
@@ -1348,23 +1348,23 @@
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You! You'll pay\nfor that!",
-  "fr": "Toi ! Tu vas payer pour ça !",
+  "fr": "Toi ! Tu vas payer\npour ça !",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Take it like a\nsoldier!",
-  "fr": "Encaisse comme un soldat !",
+  "fr": "Encaisse comme\nun soldat !",
   "src": "pinky"
  },
  {
   "ctx": "ST4031BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Haaahhhhh!",
   "fr": "Haaahhhhh !",
@@ -1384,7 +1384,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Shut yer twap! All ye intwuders\nawe gettin' fwom us is de axe!\f...ACHOO!",
-  "fr": "Ferme ton claque-merde ! Tout\fc'que des intrus comme vous\nméritent,\fc'est goûter à nos haches ! ...\nATCHOUUM !",
+  "fr": "Ferme ton claque-merde ! Tout\fc'que des intrus comme vous\nméritent,\fc'est goûter à nos haches !\n... ATCHOUUM !",
   "src": "pinky"
  },
  {
@@ -1392,7 +1392,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Yer a wot stwonger dan I\nthought...",
-  "fr": "T'en as plus dans les bras que je ne\nle pensais...",
+  "fr": "T'en as plus dans les bras que je\nne le pensais...",
   "src": "pinky",
   "relu": true
  },
@@ -1401,7 +1401,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "What a wamentable day,\fwhen a dwarf woozes to a pack\nof wobbers... ACHOO!",
-  "fr": "Quelle pitoyable journée, quand\nun nain perd face à un groupe\fde brigands... ATCHOUM !",
+  "fr": "Quelle pitoyable journée,\fquand un nain perd face à un\ngroupe de brigands... ATCHOUM !",
   "src": "pinky",
   "relu": true
  },
@@ -1508,7 +1508,7 @@
   "max": 34,
   "who": "Dwarf Doyen",
   "en": "Wie'll have da miners fetch ye\ndat key ye need. \nJust a moment\\u2014",
-  "fr": "Nous enverrons les mineurs\nchercher cette clé dont vous avez\fbesoin. Ça ne sera pas bien long.",
+  "fr": "Nous enverrons les mineurs\nchercher cette clé dont vous\favez besoin.\nÇa ne sera pas bien long.",
   "src": "pinky",
   "relu": true
  },
@@ -1583,7 +1583,7 @@
   "max": 34,
   "who": "Village Dwarf",
   "en": "Woh, well...\nQuite a shock, dat was.",
-  "fr": "Oh, bon... Quels rebondissements !",
+  "fr": "Oh, bon...\nQuels rebondissements !",
   "src": "pinky"
  },
  {
@@ -1760,31 +1760,31 @@
  },
  {
   "ctx": "ST4040BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I'll never give\nup the gem!",
-  "fr": "Je n'abandonnerai pas la gemme !",
+  "fr": "Je n'abandonnerai\npas la gemme !",
   "src": "pinky"
  },
  {
   "ctx": "ST4040BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Hah, pathetic!",
-  "fr": "Tellement pathétique !",
+  "fr": "Tellement\npathétique !",
   "src": "pinky"
  },
  {
   "ctx": "ST4040BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Well...? All\ntalk, huh?",
-  "fr": "Alors, fini de causer ?",
+  "fr": "Alors, fini\nde causer ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4040BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Sssss!",
   "fr": "Shhh !",
@@ -1851,7 +1851,7 @@
   "max": 34,
   "who": "Beatrix",
   "en": "Elder!\nDon't die...",
-  "fr": "Ancien ! Accrochez-vous à la vie !",
+  "fr": "Ancien !\nAccrochez-vous à la vie !",
   "src": "pinky"
  },
  {
@@ -1909,7 +1909,7 @@
   "max": 34,
   "who": "Elder",
   "en": "I buckled, blindly, to the\nburdens of my office and\nbanished you,",
-  "fr": "Je me suis contenté, aveuglément,\ndes tâches qui m'ont été confiées,\fet je vous ai bannis,",
+  "fr": "Je me suis contenté,\naveuglément,\fdes tâches qui m'ont été confiées,\net je vous ai bannis,",
   "src": "pinky"
  },
  {
@@ -1982,7 +1982,7 @@
   "max": 34,
   "who": "Elder",
   "en": "Legatee of Luther's armlet...",
-  "fr": "L'héritière du bracelet de Luther...",
+  "fr": "L'héritière du bracelet de\nLuther...",
   "src": "pinky",
   "relu": true
  },

@@ -430,7 +430,7 @@
   "max": 34,
   "who": "",
   "en": "The gem did not fuse with\n anyone's armlet!",
-  "fr": "La gemme ne fusionne avec aucun\nbracelet !",
+  "fr": "La gemme ne fusionne avec\naucun bracelet !",
   "src": "pinky"
  },
  {
@@ -479,7 +479,7 @@
   "max": 34,
   "who": "",
   "en": "The gem doesn't fuse to your armlets...",
-  "fr": "La gemme ne fusionne avec aucun\nbracelet...",
+  "fr": "La gemme ne fusionne avec\naucun bracelet...",
   "src": "pinky"
  },
  {
@@ -679,7 +679,7 @@
   "max": 34,
   "who": "Colet",
   "en": "Zat harpy over zere...\nShe must be ze one responsible!",
-  "fr": "Cette harpie, là... Ça doit être elle !",
+  "fr": "Cette harpie, là...\nÇa doit être elle !",
   "src": "pinky"
  },
  {
@@ -687,7 +687,7 @@
   "max": 34,
   "who": "Marcel",
   "en": "Waaaaaah!\nColette, save meeeee!",
-  "fr": "Waaaaaah ! Colette, sauve-moiiii !",
+  "fr": "Waaaaaah !\nColette, sauve-moiiii !",
   "src": "pinky"
  },
  {
@@ -933,7 +933,7 @@
   "max": 34,
   "who": "",
   "en": "Would you like to switch Liane\nin for Cuisses?",
-  "fr": "Voulez-vous échanger Liane avec\nCuisses ?",
+  "fr": "Voulez-vous échanger Liane\navec Cuisses ?",
   "src": "pinky"
  },
  {
@@ -965,7 +965,7 @@
   "max": 34,
   "who": "",
   "en": "Would you like to switch Liane in\nfor Cuisses?",
-  "fr": "Voulez-vous échanger Liane avec\nCuisses ?",
+  "fr": "Voulez-vous échanger Liane\navec Cuisses ?",
   "src": "pinky"
  },
  {

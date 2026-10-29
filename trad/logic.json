@@ -2361,7 +2361,7 @@
   "ctx": "0x24980",
   "max": 25,
   "en": "Ice Bullet",
-  "fr": "Trait de glace"
+  "fr": "Pic de glace"
  },
  {
   "ctx": "0x249d2",
@@ -2385,7 +2385,7 @@
   "ctx": "0x24bc0",
   "max": 25,
   "en": "Thunderbolt",
-  "fr": "Coup de tonnerre"
+  "fr": "Foudre"
  },
  {
   "ctx": "0x24c12",
@@ -2433,7 +2433,7 @@
   "ctx": "0x25040",
   "max": 25,
   "en": "Ice Bullet II",
-  "fr": "Trait de glace II"
+  "fr": "Pic de glace II"
  },
  {
   "ctx": "0x25092",
@@ -2457,7 +2457,7 @@
   "ctx": "0x25280",
   "max": 25,
   "en": "Thunderbolt II",
-  "fr": "Coup de tonnerre II"
+  "fr": "Foudre II"
  },
  {
   "ctx": "0x252d2",
@@ -2577,7 +2577,7 @@
   "ctx": "0x25dc0",
   "max": 25,
   "en": "Magic Shield",
-  "fr": "Bouclier magique"
+  "fr": "Égide magique"
  },
  {
   "ctx": "0x25e12",
@@ -2661,7 +2661,7 @@
   "ctx": "0x265a0",
   "max": 25,
   "en": "Mind Eater",
-  "fr": "Dévoreur d'esprit"
+  "fr": "Dévore-esprit"
  },
  {
   "ctx": "0x265f2",
@@ -2745,7 +2745,7 @@
   "ctx": "0x26d80",
   "max": 25,
   "en": "Sinister Storm",
-  "fr": "Tempête sinistre"
+  "fr": "Sombre tempête"
  },
  {
   "ctx": "0x26dd2",
@@ -2889,7 +2889,7 @@
   "ctx": "0x27b00",
   "max": 25,
   "en": "Spirit Sword",
-  "fr": "Épée spirituelle"
+  "fr": "Épée des âmes"
  },
  {
   "ctx": "0x27b52",
@@ -2913,7 +2913,7 @@
   "ctx": "0x27d40",
   "max": 25,
   "en": "War Reverie",
-  "fr": "Rêverie guerrière"
+  "fr": "Songe guerrier"
  },
  {
   "ctx": "0x27d92",
@@ -3273,7 +3273,7 @@
   "ctx": "0x29f00",
   "max": 25,
   "en": "Day of Judgment",
-  "fr": "Jour du Jugement"
+  "fr": "Jugement final"
  },
  {
   "ctx": "0x29f52",
@@ -3333,7 +3333,7 @@
   "ctx": "0x2a4a0",
   "max": 25,
   "en": "Treasure Hunter",
-  "fr": "Chasse au trésor"
+  "fr": "Chasse-trésor"
  },
  {
   "ctx": "0x2a4f2",
@@ -3405,7 +3405,7 @@
   "ctx": "0x2ab60",
   "max": 25,
   "en": "Death Beckons",
-  "fr": "Appel de la mort"
+  "fr": "Appel funèbre"
  },
  {
   "ctx": "0x2abb2",
@@ -3417,7 +3417,7 @@
   "ctx": "0x2ac80",
   "max": 25,
   "en": "Hour of Death",
-  "fr": "Heure de la mort"
+  "fr": "Heure fatale"
  },
  {
   "ctx": "0x2acd2",
@@ -3525,7 +3525,7 @@
   "ctx": "0x2b6a0",
   "max": 25,
   "en": "Critical Edge",
-  "fr": "Tranchant critique"
+  "fr": "Lame critique"
  },
  {
   "ctx": "0x2b6f2",
@@ -3561,7 +3561,7 @@
   "ctx": "0x2ba00",
   "max": 25,
   "en": "Intemporal Light",
-  "fr": "Lumière intemporelle"
+  "fr": "Lueur éternelle"
  },
  {
   "ctx": "0x2ba52",
@@ -3657,7 +3657,7 @@
   "ctx": "0x2c300",
   "max": 25,
   "en": "Stella Spirit +1",
-  "fr": "Esprit stella +1"
+  "fr": "Esprit stella+1"
  },
  {
   "ctx": "0x2c352",
@@ -3669,7 +3669,7 @@
   "ctx": "0x2c420",
   "max": 25,
   "en": "Stella Spirit +2",
-  "fr": "Esprit stella +2"
+  "fr": "Esprit stella+2"
  },
  {
   "ctx": "0x2c472",
@@ -3681,7 +3681,7 @@
   "ctx": "0x2c540",
   "max": 25,
   "en": "Stella Spirit +3",
-  "fr": "Esprit stella +3"
+  "fr": "Esprit stella+3"
  },
  {
   "ctx": "0x2c592",
@@ -3705,7 +3705,7 @@
   "ctx": "0x2c780",
   "max": 25,
   "en": "Visiting Goddess",
-  "fr": "Visite de la déesse"
+  "fr": "Visite divine"
  },
  {
   "ctx": "0x2c7d2",
@@ -3873,7 +3873,7 @@
   "ctx": "0x2d740",
   "max": 25,
   "en": "HP Recovery",
-  "fr": "Régénération PV"
+  "fr": "Regain PV"
  },
  {
   "ctx": "0x2d792",
@@ -3885,7 +3885,7 @@
   "ctx": "0x2d860",
   "max": 25,
   "en": "HP Recovery II",
-  "fr": "Régénération PV II"
+  "fr": "Regain PV II"
  },
  {
   "ctx": "0x2d8b2",
@@ -3897,7 +3897,7 @@
   "ctx": "0x2d980",
   "max": 25,
   "en": "HP Recovery III",
-  "fr": "Régénération PV III"
+  "fr": "Regain PV III"
  },
  {
   "ctx": "0x2d9d2",
@@ -4041,7 +4041,7 @@
   "ctx": "0x2e700",
   "max": 25,
   "en": "Man-Eater",
-  "fr": "Mangeur d'hommes"
+  "fr": "Anthropophage"
  },
  {
   "ctx": "0x2e752",
@@ -4065,7 +4065,7 @@
   "ctx": "0x2e940",
   "max": 25,
   "en": "Undead Slayer",
-  "fr": "Tueur de morts-vivants"
+  "fr": "Tueur de goules"
  },
  {
   "ctx": "0x2e992",
@@ -4095,7 +4095,7 @@
   "ctx": "0x2eca0",
   "max": 25,
   "en": "Dragon Slayer",
-  "fr": "Tueur de dragons"
+  "fr": "Tueur de dragon"
  },
  {
   "ctx": "0x2ecf2",
@@ -4155,7 +4155,7 @@
   "ctx": "0x2f240",
   "max": 25,
   "en": "Look of Despair",
-  "fr": "Regard du désespoir"
+  "fr": "Regard funeste"
  },
  {
   "ctx": "0x2f292",
@@ -4359,7 +4359,7 @@
   "ctx": "0x30560",
   "max": 25,
   "en": "Dark Regen",
-  "fr": "Régénération noire"
+  "fr": "Regain obscur"
  },
  {
   "ctx": "0x305b2",
@@ -4383,7 +4383,7 @@
   "ctx": "0x307a0",
   "max": 25,
   "en": "Sniper",
-  "fr": "Tireur d'élite"
+  "fr": "Tir d'élite"
  },
  {
   "ctx": "0x307f2",
@@ -4395,7 +4395,7 @@
   "ctx": "0x308c0",
   "max": 25,
   "en": "Sniper II",
-  "fr": "Tireur d'élite II"
+  "fr": "Tir d'élite II"
  },
  {
   "ctx": "0x30912",
@@ -4407,7 +4407,7 @@
   "ctx": "0x309e0",
   "max": 25,
   "en": "Sniper III",
-  "fr": "Tireur d'élite III"
+  "fr": "Tir d'élite III"
  },
  {
   "ctx": "0x30a32",
@@ -4419,7 +4419,7 @@
   "ctx": "0x30b00",
   "max": 25,
   "en": "Sniper IV",
-  "fr": "Tireur d'élite IV"
+  "fr": "Tir d'élite IV"
  },
  {
   "ctx": "0x30b52",
@@ -4443,7 +4443,7 @@
   "ctx": "0x30d40",
   "max": 25,
   "en": "Poison Arrow",
-  "fr": "Flèche empoisonnée"
+  "fr": "Flèche-poison"
  },
  {
   "ctx": "0x30d92",
@@ -4455,7 +4455,7 @@
   "ctx": "0x30e60",
   "max": 25,
   "en": "Stun Arrow",
-  "fr": "Flèche étourdissante"
+  "fr": "Flèche-choc"
  },
  {
   "ctx": "0x30eb2",
@@ -4539,7 +4539,7 @@
   "ctx": "0x31640",
   "max": 25,
   "en": "Skill Shakedown",
-  "fr": "Racket de pierres"
+  "fr": "Racket-pierre"
  },
  {
   "ctx": "0x31692",
@@ -4575,7 +4575,7 @@
   "ctx": "0x319a0",
   "max": 25,
   "en": "Gold Snatcher",
-  "fr": "Chapardeuse d'or"
+  "fr": "Pique-or"
  },
  {
   "ctx": "0x319f2",
@@ -4587,7 +4587,7 @@
   "ctx": "0x31ac0",
   "max": 25,
   "en": "Stun Whip",
-  "fr": "Fouet étourdissant"
+  "fr": "Fouet-choc"
  },
  {
   "ctx": "0x31b12",
@@ -4599,7 +4599,7 @@
   "ctx": "0x31be0",
   "max": 25,
   "en": "Skill Snatcher",
-  "fr": "Chapardeuse de pierres"
+  "fr": "Pique-pierre"
  },
  {
   "ctx": "0x31c32",
@@ -4647,7 +4647,7 @@
   "ctx": "0x32060",
   "max": 25,
   "en": "Magic Attack +10",
-  "fr": "Attaque mag. +10"
+  "fr": "Attaque mag+10"
  },
  {
   "ctx": "0x320b2",
@@ -4659,7 +4659,7 @@
   "ctx": "0x32180",
   "max": 25,
   "en": "Magic Attack +20",
-  "fr": "Attaque mag. +20"
+  "fr": "Attaque mag+20"
  },
  {
   "ctx": "0x321d2",
@@ -4749,25 +4749,25 @@
   "ctx": "0x32dc0",
   "max": 25,
   "en": "Ice Throw",
-  "fr": "Lancer de glace"
+  "fr": "Jet de glace"
  },
  {
   "ctx": "0x33100",
   "max": 25,
   "en": "Thunder Arrow",
-  "fr": "Flèche de foudre"
+  "fr": "Trait-foudre"
  },
  {
   "ctx": "0x33780",
   "max": 25,
   "en": "Ice Throw II",
-  "fr": "Lancer de glace II"
+  "fr": "Jet de glace II"
  },
  {
   "ctx": "0x33ac0",
   "max": 25,
   "en": "Thunder Arrow II",
-  "fr": "Flèche de foudre II"
+  "fr": "Trait-foudre II"
  },
  {
   "ctx": "0x34960",
@@ -4803,7 +4803,7 @@
   "ctx": "0x354c0",
   "max": 25,
   "en": "Revival Magic",
-  "fr": "Magie de résurrection"
+  "fr": "Retour à la vie"
  },
  {
   "ctx": "0x359a0",
@@ -4833,7 +4833,7 @@
   "ctx": "0x36840",
   "max": 25,
   "en": "Rallying Cry",
-  "fr": "Cri de ralliement"
+  "fr": "Ralliement"
  },
  {
   "ctx": "0x37060",
@@ -4905,7 +4905,7 @@
   "ctx": "0x39420",
   "max": 25,
   "en": "An End in Sight",
-  "fr": "La fin est proche"
+  "fr": "Fin imminente"
  },
  {
   "ctx": "0x39900",
@@ -4935,7 +4935,7 @@
   "ctx": "0x3be60",
   "max": 25,
   "en": "Blue Heart-Hunt",
-  "fr": "Chasse au coeur bleu"
+  "fr": "Chasse azurée"
  },
  {
   "ctx": "0x3c000",
@@ -4965,13 +4965,13 @@
   "ctx": "0x3cb60",
   "max": 25,
   "en": "Goddess's Love",
-  "fr": "Amour de la déesse"
+  "fr": "Amour divin"
  },
  {
   "ctx": "0x3cd00",
   "max": 25,
   "en": "Goddess's Pathos",
-  "fr": "Pathos de la déesse"
+  "fr": "Pathos divin"
  },
  {
   "ctx": "0x3d040",
@@ -5049,7 +5049,7 @@
   "ctx": "0x40c60",
   "max": 25,
   "en": "Poison Knife",
-  "fr": "Couteau empoisonné"
+  "fr": "Dague-poison"
  },
  {
   "ctx": "0x41480",
@@ -5103,37 +5103,37 @@
   "ctx": "0x45240",
   "max": 25,
   "en": "Restore 10% HP",
-  "fr": "Rend 10 % des PV"
+  "fr": "Rend 10 % de PV"
  },
  {
   "ctx": "0x453e0",
   "max": 25,
   "en": "Restore 20% HP",
-  "fr": "Rend 20 % des PV"
+  "fr": "Rend 20 % de PV"
  },
  {
   "ctx": "0x45580",
   "max": 25,
   "en": "Restore 30% HP",
-  "fr": "Rend 30 % des PV"
+  "fr": "Rend 30 % de PV"
  },
  {
   "ctx": "0x45720",
   "max": 25,
   "en": "Restore 10% MP",
-  "fr": "Rend 10 % des PM"
+  "fr": "Rend 10 % de PM"
  },
  {
   "ctx": "0x458c0",
   "max": 25,
   "en": "Restore 20% MP",
-  "fr": "Rend 20 % des PM"
+  "fr": "Rend 20 % de PM"
  },
  {
   "ctx": "0x45a60",
   "max": 25,
   "en": "Restore 30% MP",
-  "fr": "Rend 30 % des PM"
+  "fr": "Rend 30 % de PM"
  },
  {
   "ctx": "0x45c00",

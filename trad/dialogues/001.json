@@ -124,7 +124,7 @@
   "max": 16,
   "who": "Jeanne",
   "en": "I won't forgive\nyou for this!",
-  "fr": "Je ne vous\npardonnerai pas pour\fça !",
+  "fr": "Je ne vous\npardonnerai pas\fpour ça !",
   "src": "pinky"
  },
  {
@@ -491,7 +491,7 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You bastard...",
   "fr": "Salauds...",
@@ -499,7 +499,7 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Village swine...!",
   "fr": "Gros porc... !",
@@ -507,31 +507,31 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "No...\nNot like this...",
-  "fr": "Non... Pas comme ça...",
+  "fr": "Non...\nPas comme ça...",
   "src": "pinky"
  },
  {
   "ctx": "ST1020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You will pay...\nMark my words...",
-  "fr": "Vous le paierez...\nN'oubliez pas mes paroles...",
+  "fr": "Vous le paierez...\nN'oubliez pas mes\fparoles...",
   "src": "pinky"
  },
  {
   "ctx": "ST1020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You can't\nescape!",
-  "fr": "Vous ne pouvez pas fuir !",
+  "fr": "Vous ne pouvez\npas fuir !",
   "src": "pinky"
  },
  {
   "ctx": "ST1020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Imbeciles!",
   "fr": "Imbéciles !",
@@ -547,7 +547,7 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Impossible...",
   "fr": "Impossible...",
@@ -555,7 +555,7 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "This can't be...",
   "fr": "Impossible...",
@@ -563,23 +563,23 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You're fools to\ndefy us!",
-  "fr": "Vous avez tort de nous défier !",
+  "fr": "Vous avez tort de\nnous défier !",
   "src": "pinky"
  },
  {
   "ctx": "ST1020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You and your\nhovels can burn!",
-  "fr": "Vous et vos cahutes pouvez\nbrûler !",
+  "fr": "Vous et vos cahutes\npouvez brûler !",
   "src": "pinky"
  },
  {
   "ctx": "ST1020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Useless worm!",
   "fr": "Ver insignifiant !",
@@ -587,15 +587,15 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I'll make the\npain go away...",
-  "fr": "J'effacerai la souffrance...",
+  "fr": "J'effacerai la\nsouffrance...",
   "src": "pinky"
  },
  {
   "ctx": "ST1020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You idiot!",
   "fr": "Idiot !",
@@ -611,7 +611,7 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You...!",
   "fr": "Vous... !",
@@ -636,7 +636,7 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Surrounded.",
   "fr": "Encerclé.",
@@ -644,7 +644,7 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Uh oh...",
   "fr": "Oh oh...",
@@ -652,31 +652,31 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I'd like this\nover with.",
-  "fr": "J'aurais préféré autrement.",
+  "fr": "J'aurais préféré\nautrement.",
   "src": "pinky"
  },
  {
   "ctx": "ST1020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Oh, dear, what\na bother.",
-  "fr": "Oh bon sang, quelle poisse.",
+  "fr": "Oh bon sang, quelle\npoisse.",
   "src": "pinky"
  },
  {
   "ctx": "ST1020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Does it hurt,\nI wonder?",
-  "fr": "Est-ce que ça fait mal ?\nJe me le demande.",
+  "fr": "Est-ce que ça fait\nmal ? Je me le\fdemande.",
   "src": "pinky"
  },
  {
   "ctx": "ST1020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Healed.",
   "fr": "Soigné.",
@@ -692,10 +692,10 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Behold my power!",
-  "fr": "Voyez ma puissance !",
+  "fr": "Voyez ma\npuissance !",
   "src": "pinky"
  },
  {
@@ -740,10 +740,10 @@
  },
  {
   "ctx": "ST1020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "FOR YOUR FRIENDS' SAKE... \nSET ITS POWER FREE......",
-  "fr": "PAR AMOUR POUR TES AMIS...\nLIBÈRE SON POUVOIR......",
+  "fr": "PAR AMOUR POUR\nTES AMIS...\fLIBÈRE SON\nPOUVOIR......",
   "src": "pinky"
  },
  {
@@ -1001,7 +1001,7 @@
   "max": 34,
   "who": "Roger",
   "en": "They're rusty, \nbut still sturdy enough.",
-  "fr": "Ils sont rouillés, mais sont toujours\nrobustes.",
+  "fr": "Ils sont rouillés, mais sont\ntoujours robustes.",
   "src": "pinky"
  },
  {
@@ -1067,7 +1067,7 @@
   "max": 34,
   "who": "Liane",
   "en": "...Do you think the three of us \nwill be all right?",
-  "fr": "... Tu penses qu'on s'en sortira tous\nles trois ?",
+  "fr": "... Tu penses qu'on s'en sortira\ntous les trois ?",
   "src": "pinky"
  },
  {
@@ -1083,7 +1083,7 @@
   "max": 34,
   "who": "Liane",
   "en": "What if we're attacked by the \nEnglish before we get there?",
-  "fr": "Et si nous sommes attaqués par les\nAnglais avant d'y arriver ?",
+  "fr": "Et si nous sommes attaqués par\nles Anglais avant d'y arriver ?",
   "src": "pinky"
  },
  {
@@ -1091,7 +1091,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "There's no point in being scared.",
-  "fr": "Il n'y a aucune raison d'avoir peur.",
+  "fr": "Il n'y a aucune raison d'avoir\npeur.",
   "src": "pinky"
  },
  {
@@ -1253,7 +1253,7 @@
   "max": 34,
   "who": "Captain Robert",
   "en": "You say a voice from heaven \ninspired you to defeat the \nEnglish?",
-  "fr": "Vous dites qu'une voix céleste\nvous a demandé de bouter les\fAnglais hors de France ?",
+  "fr": "Vous dites qu'une voix céleste\nvous a demandé de bouter les",
   "src": "pinky",
   "relu": true
  },
@@ -1262,8 +1262,9 @@
   "max": 34,
   "who": "Captain Robert",
   "en": "...What concern is that of mine?",
-  "fr": "... En quoi cela me concerne-t-il ?",
-  "src": "pinky"
+  "fr": "Anglais hors de France ?\n... En quoi cela me concerne-t-il ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST1021BM",
@@ -1302,7 +1303,7 @@
   "max": 34,
   "who": "Captain Robert",
   "en": "I hope you'll pardon my saying \nthis, but a rustic like you...\fin the army?\nPeople will think it a joke.",
-  "fr": "J'espère que vous me pardonnerez\nde dire ceci,\fmais une paysanne comme vous...\fdans l'armée ? Les gens croiront à\nune plaisanterie.",
+  "fr": "J'espère que vous me\npardonnerez de dire ceci,\fmais une paysanne comme vous...\fdans l'armée ? Les gens croiront à\nune plaisanterie.",
   "src": "pinky"
  },
  {
@@ -1406,7 +1407,7 @@
   "max": 34,
   "who": "Captain Robert",
   "en": "...I'm sorry, but you and your \nvoice will have to wait.",
-  "fr": "... Je suis désolé, mais vous et votre\nvoix devrez attendre.",
+  "fr": "... Je suis désolé, mais vous et\nvotre voix devrez attendre.",
   "src": "pinky",
   "relu": true
  },
@@ -1567,7 +1568,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Why isn't it working?!",
-  "fr": "Pourquoi est-ce que ça ne marche\npas ?!",
+  "fr": "Pourquoi est-ce que ça ne\nmarche pas ?!",
   "src": "pinky"
  },
  {
@@ -1599,7 +1600,7 @@
   "max": 34,
   "who": "Jean",
   "en": "A thousand thanks are no match \nfor one smile from you, my sweet.",
-  "fr": "Mille mercis ne sont rien comparés\nà un sourire de vous, ma douce.",
+  "fr": "Mille mercis ne sont rien\ncomparés à un sourire de vous,\fma douce.",
   "src": "pinky",
   "relu": true
  },
@@ -1688,7 +1689,7 @@
   "max": 16,
   "who": "Jean",
   "en": "We can't lose\nanyone else!",
-  "fr": "Nous ne pouvons rien\nperdre de plus !",
+  "fr": "Nous ne pouvons\nrien perdre de plus !",
   "src": "pinky"
  },
  {

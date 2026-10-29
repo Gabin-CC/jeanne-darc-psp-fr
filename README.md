@@ -57,7 +57,7 @@ Les textures elles aussi sont traduites — exemple avec une page d'aide (en hau
    - en ligne, sans installation : [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) ;
    - Windows : *xdelta UI* ou *Delta Patcher* ;
    - ligne de commande : `xdelta3 -d -s "Jeanne d'Arc (USA).iso" Jeanne_dArc_FR.xdelta "Jeanne d'Arc (FR).iso"`
-4. Vérifiez le résultat — MD5 de l'ISO français : `1a1a15a04757ee9daf3e20cb5780ac3c` (v2.0.3).
+4. Vérifiez le résultat — MD5 de l'ISO français : `4b94b2ba08dfaef4240c5c3b12a5158c` (v2.0.4).
 
 Compatible **PPSSPP** et **PSP avec custom firmware** (l'exécutable est fourni déchiffré).
 
@@ -136,12 +136,17 @@ docs/                  images du README
 
 ### Notes techniques
 
-- Mise en page des boîtes de dialogue (mesurée en jeu) : 2 lignes de 326 px au plus dans la police
-  `ltn5` de la PSP ; au-delà, le moteur coupe la ligne en plein mot et envoie la 3e ligne dans une
-  nouvelle boîte. `tools/mise_en_page.py` applique les règles : lignes remplies avec des mots entiers,
-  changements de boîte de la VO conservés, une phrase qui ne tient pas dans la boîte en cours passe à
-  la suivante (une phrase trop longue est coupée après sa dernière virgule). Les bulles de combat ont
-  une largeur fixe (~200 px) et ne passent pas à la ligne d'elles-mêmes.
+- Mise en page des boîtes de dialogue (mesurée en jeu) : 2 lignes d'environ 328 px dans la police
+  `ltn5` de la PSP (on se limite à 320 px) ; au-delà, le moteur coupe la ligne en plein mot et envoie
+  la 3e ligne dans une nouvelle boîte. `tools/mise_en_page.py` applique les règles : lignes remplies
+  avec des mots entiers, changements de boîte de la VO conservés (y compris après une virgule), une
+  phrase qui ne tient pas dans la boîte en cours passe à la suivante (une phrase trop longue est coupée
+  après sa dernière virgule si ça n'ajoute pas de boîte). Les bulles de combat ont une largeur fixe
+  (~205 px, on se limite à 200) et ne passent pas à la ligne d'elles-mêmes : seules celles qui
+  débordent sont recoupées. Dans les scripts de combat, une réplique précédée d'un nom de locuteur
+  (`&Nom`) s'affiche en boîte de dialogue, les autres en bulle.
+- Le menu des compétences en combat recopie le nom dans une zone d'environ 16 octets : les noms de
+  compétences sont limités à 15 caractères.
 
 - Les dialogues sont dans `EVENT/ST*.BIN` : en-tête, table d'offsets relatifs, bytecode, puis bloc de
   texte Latin-1. Les caractères hors Latin-1 (œ, —) passent par des échappements `\uXXXX` que le

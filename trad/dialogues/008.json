@@ -292,7 +292,7 @@
  },
  {
   "ctx": "ST2060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Man-spawn!",
   "fr": "Menu fretin !",
@@ -340,7 +340,7 @@
  },
  {
   "ctx": "ST2060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I must not lose!",
   "fr": "Je ne perdrai pas !",
@@ -348,18 +348,18 @@
  },
  {
   "ctx": "ST2060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I must\npersevere!",
-  "fr": "Je dois persévérer !",
+  "fr": "Je dois\npersévérer !",
   "src": "pinky"
  },
  {
   "ctx": "ST2060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Prepare to die,\nman-spawn!",
-  "fr": "Préparez-vous à mourir !",
+  "fr": "Préparez-vous\nà mourir !",
   "src": "pinky"
  },
  {
@@ -372,18 +372,18 @@
  },
  {
   "ctx": "ST2060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Thou cannot\nwin!",
-  "fr": "Vous ne gagnerez pas !",
+  "fr": "Vous ne gagnerez\npas !",
   "src": "pinky"
  },
  {
   "ctx": "ST2060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Stand fast,\nsluggard!",
-  "fr": "Du nerf, fainéant !",
+  "fr": "Du nerf,\nfainéant !",
   "src": "pinky",
   "relu": true
  },
@@ -479,23 +479,23 @@
  },
  {
   "ctx": "ST2060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "How 'bout this?!",
-  "fr": "Que dites-vous de ça ?",
+  "fr": "Que dites-vous de ça\n?",
   "src": "pinky"
  },
  {
   "ctx": "ST2060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I...I can still\ngo on...",
-  "fr": "Je... Je peux... continuer...",
+  "fr": "Je... Je peux...\ncontinuer...",
   "src": "pinky"
  },
  {
   "ctx": "ST2060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Graaaagh!",
   "fr": "Graaaah !",
@@ -503,7 +503,7 @@
  },
  {
   "ctx": "ST2060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Nnngh...",
   "fr": "Gnnn...",
@@ -511,7 +511,7 @@
  },
  {
   "ctx": "ST2060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Hrrnnhh...",
   "fr": "Rnnnhhh...",
@@ -519,23 +519,23 @@
  },
  {
   "ctx": "ST2060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "...more...more\npain...",
-  "fr": "Encore... de la souffrance...",
+  "fr": "Encore... de la\nsouffrance...",
   "src": "pinky"
  },
  {
   "ctx": "ST2060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Now...go...",
-  "fr": "Vas-y... Maintenant...",
+  "fr": "Vas-y...\nMaintenant...",
   "src": "pinky"
  },
  {
   "ctx": "ST2060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Hit...you...",
   "fr": "Frappe...",
@@ -543,7 +543,7 @@
  },
  {
   "ctx": "ST2060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Orrhh...",
   "fr": "Orrhh...",
@@ -551,7 +551,7 @@
  },
  {
   "ctx": "ST2060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Gngh...",
   "fr": "Gngh...",
@@ -559,7 +559,7 @@
  },
  {
   "ctx": "ST2060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Ooooh...",
   "fr": "Ooooh...",
@@ -567,7 +567,7 @@
  },
  {
   "ctx": "ST2060BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Graaahhh!!",
   "fr": "Graaahhh !!",
@@ -610,8 +610,9 @@
   "max": 34,
   "who": "Beatrix",
   "en": "Hail, Pucelle! You are not,\nby chance, beleaguered...\fby that bothersome, beastly brute\nand his belligerent band of boors?",
-  "fr": "Bonjour, Pucelle.\nNe seriez vous pas\fmaltraitée par cette abominable\nbête brutale et sa bande de\frustres ?",
-  "src": "pinky"
+  "fr": "Bonjour, Pucelle.\nNe seriez-vous pas maltraitée...\fpar cette abominable bête\nbrutale et sa bande de rustres ?",
+  "src": "pinky",
+  "relu": true
  },
  {
   "ctx": "ST2060BT",
@@ -762,7 +763,7 @@
   "max": 34,
   "who": "Beatrix",
   "en": "Wake up! And fight with your\nfuture bride.",
-  "fr": "Réveille-toi !\nEt combats avec ta future femme.",
+  "fr": "Réveille-toi ! Et combats avec ta\nfuture femme.",
   "src": "pinky",
   "relu": true
  },
@@ -779,7 +780,7 @@
   "max": 34,
   "who": "Beatrix",
   "en": "our brethren can neither bristle\nat nor bridle our love.",
-  "fr": "où nos frères ne peuvent ni brider,\nni briser notre amour.",
+  "fr": "où nos frères ne peuvent ni\nbrider, ni briser notre amour.",
   "src": "pinky"
  },
  {
@@ -867,7 +868,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Jeanne,\ncan you spare a moment?\fWe've called a council about \ntomorrow's march...",
-  "fr": "Jeanne, peux-tu m'accorder un\ninstant ?\fNous devons réunir le conseil pour\nles opérations de demain.",
+  "fr": "Jeanne, peux-tu m'accorder un\ninstant ?\fNous devons réunir le conseil\npour les opérations de demain.",
   "src": "pinky"
  },
  {
@@ -883,7 +884,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Jeanne!\nWe're not through talking yet!",
-  "fr": "Jeanne ! Notre discussion n'est pas\nterminée !",
+  "fr": "Jeanne ! Notre discussion n'est\npas terminée !",
   "src": "pinky"
  },
  {
@@ -1038,7 +1039,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Brother Richard, a traveling friar.",
-  "fr": "Frère Richard, un moine itinérant.",
+  "fr": "Frère Richard, un moine\nitinérant.",
   "src": "pinky"
  },
  {
@@ -1070,7 +1071,7 @@
   "max": 34,
   "who": "Slinker",
   "en": "You Burgundians show\nrefreshingly good sense.",
-  "fr": "Vous les Bourguignons, vous faites\npreuve d'un bon sens divertissant.",
+  "fr": "Vous les Bourguignons,\fvous faites preuve d'un bon sens\ndivertissant.",
   "src": "pinky"
  },
  {
@@ -1095,7 +1096,7 @@
   "max": 34,
   "who": "Mayor of Troyes",
   "en": "Now that Brother Richard\\u2014\nthere's the one to worry about.",
-  "fr": "Et maintenant Frère Richard...\nC'est de lui dont il faut s'inquiéter.",
+  "fr": "Et maintenant Frère Richard...\fC'est de lui dont il faut\ns'inquiéter.",
   "src": "pinky"
  },
  {
@@ -1468,7 +1469,7 @@
   "max": 16,
   "who": "La Hire",
   "en": "Grrar! Run\nfrom La Hire!",
-  "fr": "Grrar ! Mesurez-vous\nà La Hire !",
+  "fr": "Grrar !\fMesurez-vous à La\nHire !",
   "src": "pinky"
  },
  {
@@ -1599,7 +1600,7 @@
   "max": 16,
   "who": "Marcel",
   "en": "Why are you\ndoing this?",
-  "fr": "Pourquoi faites-vous\ntout ça ?",
+  "fr": "Pourquoi\nfaites-vous tout ça ?",
   "src": "pinky"
  },
  {

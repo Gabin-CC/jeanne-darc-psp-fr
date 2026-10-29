@@ -14,7 +14,8 @@ from jda_fixed import fit
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 # Avance (px) de chaque caractère dans la police du jeu (flash0/font/ltn5.pgf, serif gras, lue via PPSSPP)
 ADV = json.load(open(os.path.join(os.path.dirname(__file__), 'psp_font_widths.json'), encoding='utf-8'))
-PX_DIALOGUE = 326  # mesuré en jeu (~328 px) : au-delà, le jeu coupe la ligne en plein mot
+PX_DIALOGUE = 320  # mesuré en jeu (~328 px, marge pour les arrondis) : au-delà, le jeu coupe la ligne en plein mot
+PX_BULLE = 200  # bulle de combat, largeur fixe (~205 px) : au-delà, le texte déborde
 CODES = re.compile(r'%[0-9.]*[dsxf]|\\u[0-9a-fA-F]{4}')
 
 
@@ -45,12 +46,8 @@ def check_entry(e, fixed):
         except UnicodeEncodeError as x:
             err.append(f'caractère non latin-1 : {x.object[x.start]!r}')
     else:
-        vlen = lambda t: len(re.sub(r'\\u[0-9a-fA-F]{4}', 'x', t.rstrip()))
         px = lambda t: sum(ADV.get(c, ADV['M']) for c in re.sub(
             r'\\u([0-9a-fA-F]{4})', lambda m: chr(int(m.group(1), 16)), re.sub(r'<[^>]*>', '', t)).rstrip())
-        en_longest = max(vlen(l) for l in en.replace('\f', '\n').split('\n'))
-        # largeurs validées en jeu : dialogues 38, bulles de combat 20
-        lim = max({34: 38, 16: 20}.get(e.get('max'), 38), en_longest + 2)
         nb_en = max(len(b.split('\n')) for b in en.split('\f'))
         for box in fr.split('\f'):
             lines = box.split('\n')
@@ -60,8 +57,8 @@ def check_entry(e, fixed):
                 if e.get('max') == 34:  # boîte de dialogue : largeur en pixels
                     if px(l) > PX_DIALOGUE:
                         err.append(f'ligne trop large ({px(l):.0f}>{PX_DIALOGUE} px) : {l!r}')
-                elif vlen(l) > lim:
-                    err.append(f'ligne trop longue ({vlen(l)}>{lim}) : {l!r}')
+                elif px(l) > PX_BULLE and re.search(r' (?![!?:;»])', l.strip()):  # un mot seul ne peut pas être coupé
+                    err.append(f'ligne trop large ({px(l):.0f}>{PX_BULLE} px) : {l!r}')
     return err
 
 

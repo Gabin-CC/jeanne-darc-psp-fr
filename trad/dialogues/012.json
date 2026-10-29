@@ -45,7 +45,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Really terrifying dreams. And in\nthem, I...I change, Liane.",
-  "fr": "Des rêves vraiment terrifiants.\nEt par eux, j'ai... j'ai changé, Liane.",
+  "fr": "Des rêves vraiment terrifiants. Et\npar eux, j'ai... j'ai changé, Liane.",
   "src": "pinky"
  },
  {
@@ -93,7 +93,7 @@
   "max": 34,
   "who": "Roger",
   "en": "So I want to go find out who I\nam. Get my past back.",
-  "fr": "Donc je veux aller découvrir qui je\nsuis. Ramener mon passé.",
+  "fr": "Donc je veux aller découvrir qui\nje suis. Ramener mon passé.",
   "src": "pinky"
  },
  {
@@ -327,7 +327,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "and not just some bastard for\nbored nobles to gossip about?",
-  "fr": "Et pas juste un bâtard aux yeux de\nnobles ennuyeux avides de\fcancan ?",
+  "fr": "Et pas juste un bâtard aux yeux\nde nobles ennuyeux avides de\fcancan ?",
   "src": "pinky",
   "relu": true
  },
@@ -376,7 +376,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "I simply acted according to your\ncounsel.",
-  "fr": "J'ai simplement agi en accord avec\nvotre conseil.",
+  "fr": "J'ai simplement agi en accord\navec votre conseil.",
   "src": "pinky"
  },
  {
@@ -392,7 +392,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "We have already sent terms to\nour primary rival,\fthe Duke of Burgundy,",
-  "fr": "Nous avons déjà envoyé les\nconditions à notre rival\fprincipal, le Duc de Bourgogne,",
+  "fr": "Nous avons déjà envoyé les\nconditions à notre rival principal,\fle Duc de Bourgogne,",
   "src": "pinky"
  },
  {
@@ -400,7 +400,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "demanding he lay down arms and\nsurrender Paris to us.",
-  "fr": "lui demandant de rendre les armes\net de nous livrer Paris.",
+  "fr": "lui demandant de rendre les\narmes et de nous livrer Paris.",
   "src": "pinky"
  },
  {
@@ -490,7 +490,7 @@
   "max": 34,
   "who": "Georges",
   "en": "If you'd rather fight, then go\ntake Parith back by forthe!",
-  "fr": "Si vous préférez vous battre, alors\nreprenez Paris par la force !",
+  "fr": "Si vous préférez vous battre,\nalors reprenez Paris par la force !",
   "src": "pinky"
  },
  {
@@ -554,7 +554,7 @@
   "max": 34,
   "who": "Richard",
   "en": "The enemy have yet to respond\nto our demands.",
-  "fr": "L'ennemi n'a pas encore répondu à\nnos requêtes.",
+  "fr": "L'ennemi n'a pas encore répondu\nà nos requêtes.",
   "src": "pinky"
  },
  {
@@ -562,7 +562,7 @@
   "max": 34,
   "who": "Richard",
   "en": "If our attack is perceived as \nbreaking the peace\\u2014",
-  "fr": "Si notre attaque est perçue comme\nune rupture de traité...",
+  "fr": "Si notre attaque est perçue\ncomme une rupture de traité...",
   "src": "pinky"
  },
  {
@@ -632,24 +632,24 @@
  },
  {
   "ctx": "ST3010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You will not\ntake Paris!",
-  "fr": "Vous ne prendrez pas Paris !",
+  "fr": "Vous ne prendrez\npas Paris !",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST3010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "This rabble...\nNo...!",
-  "fr": "Cette foule... Non... !",
+  "fr": "Cette foule...\nNon... !",
   "src": "pinky"
  },
  {
   "ctx": "ST3010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Paris is ours!",
   "fr": "Paris est à nous !",
@@ -657,23 +657,23 @@
  },
  {
   "ctx": "ST3010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "We have no use\nfor you!",
-  "fr": "Vous n'avez aucune utilité !",
+  "fr": "Vous n'avez\naucune utilité !",
   "src": "pinky"
  },
  {
   "ctx": "ST3010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You won't go in\nthat easily!",
-  "fr": "Vous n'entrerez pas si\nfacilement !",
+  "fr": "Vous n'entrerez\npas si facilement !",
   "src": "pinky"
  },
  {
   "ctx": "ST3010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "This is fate...",
   "fr": "C'est la vie...",
@@ -681,18 +681,18 @@
  },
  {
   "ctx": "ST3010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Must be hard\nfor you...",
-  "fr": "Ça doit être dur pour vous...",
+  "fr": "Ça doit être dur\npour vous...",
   "src": "pinky"
  },
  {
   "ctx": "ST3010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Taste the force\nof my magic!",
-  "fr": "Goûtez donc à ma magie !",
+  "fr": "Goûtez donc\nà ma magie !",
   "src": "pinky"
  },
  {
@@ -806,7 +806,7 @@
   "max": 34,
   "who": "Liane",
   "en": "We did it!\nNow, on to the castle!",
-  "fr": "Nous avons réussi !\nMaintenant, direction le château !",
+  "fr": "Nous avons réussi ! Maintenant,\ndirection le château !",
   "src": "pinky"
  },
  {
@@ -1314,7 +1314,7 @@
   "max": 34,
   "who": "Georges",
   "en": "They might haff offered uth the\nthity on a thilver platter!",
-  "fr": "Ils nous auraient sans doute offert\nla ville sur un plateau d'argent !",
+  "fr": "Ils nous auraient sans doute\noffert la ville sur un plateau\fd'argent !",
   "src": "pinky"
  },
  {
@@ -1428,7 +1428,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Tell me why you didn't give me\nany soldiers!",
-  "fr": "Dites-moi pourquoi vous ne\nm'avez pas envoyé un seul soldat !",
+  "fr": "Dites-moi pourquoi vous ne\nm'avez pas envoyé un seul\fsoldat !",
   "src": "pinky"
  },
  {
@@ -1494,7 +1494,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "I would like you to return to the\ncountry for a time.",
-  "fr": "Je voudrais que vous retourniez au\npays pour un temps.",
+  "fr": "Je voudrais que vous retourniez\nau pays pour un temps.",
   "src": "pinky"
  },
  {
@@ -1658,7 +1658,7 @@
   "max": 34,
   "who": "Roger",
   "en": "...This must be the rebels'\nhideout.",
-  "fr": "Ça doit être le repaire des rebelles.",
+  "fr": "Ça doit être le repaire des\nrebelles.",
   "src": "pinky"
  },
  {
@@ -1666,7 +1666,7 @@
   "max": 34,
   "who": "Roger",
   "en": "So what do we do now?",
-  "fr": "Que devons-nous faire à présent ?",
+  "fr": "Que devons-nous faire à\nprésent ?",
   "src": "pinky"
  },
  {
@@ -1690,7 +1690,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Uh-oh...\nDid they spot us?!",
-  "fr": "Uh-oh... Ils nous ont découverts ?!",
+  "fr": "Uh-oh...\nIls nous ont découverts ?!",
   "src": "pinky"
  },
  {
@@ -1730,7 +1730,7 @@
   "max": 34,
   "who": "Lady Bandit",
   "en": "Ooh, get outta the way, before\nthey catch me!",
-  "fr": "Ooh, tirons-nous d'ici, avant qu'ils\nne m'attrapent !",
+  "fr": "Ooh, tirons-nous d'ici, avant\nqu'ils ne m'attrapent !",
   "src": "pinky",
   "relu": true
  },
@@ -1819,7 +1819,7 @@
   "max": 34,
   "who": "Liane",
   "en": "Hey, you didn't happen to see the\nrebel leader, did you?",
-  "fr": "Hé, vous n'avez pas trouvé le chef\ndes rebelles non plus ?",
+  "fr": "Hé, vous n'avez pas trouvé le\nchef des rebelles non plus ?",
   "src": "pinky"
  },
  {
@@ -1851,7 +1851,7 @@
   "max": 34,
   "who": "Lady Bandit",
   "en": "I admit I was stuck on how to\nget past the vigilant bugger.",
-  "fr": "J'admets que je ne sais pas\ncomment détourner l'attention de\fcet idiot de vigile.",
+  "fr": "J'admets que je ne sais pas\ncomment détourner l'attention\fde cet idiot de vigile.",
   "src": "pinky"
  },
  {
@@ -1928,7 +1928,7 @@
  },
  {
   "ctx": "ST3020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Ergh...!",
   "fr": "Argh... !",
@@ -1936,90 +1936,90 @@
  },
  {
   "ctx": "ST3020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Ugh...who are\nyou people...",
-  "fr": "Gnn... Qui êtes-vous... ?",
+  "fr": "Gnn... Qui\nêtes-vous... ?",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Damn...I can't\nstand to lose!",
-  "fr": "J'ai horreur de perdre !",
+  "fr": "J'ai horreur\nde perdre !",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Hang in there,\nyou bastards!",
-  "fr": "Tenez bon, les gars !",
+  "fr": "Tenez bon,\nles gars !",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Guess you under-\nestimated me...",
-  "fr": "Vous m'avez sous-estimé...",
+  "fr": "Vous m'avez\nsous-estimé...",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Hmph...bunch of\npetty thieves.",
-  "fr": "Mpff... Bande de racaille...",
+  "fr": "Mpff... Bande\nde racaille...",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "It won't be\nthat easy!",
-  "fr": "Ça ne sera pas si facile !",
+  "fr": "Ça ne sera\npas si facile !",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Die for me,\nwould you...",
-  "fr": "Mourez, voulez-vous...",
+  "fr": "Mourez,\nvoulez-vous...",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Get as many as\nyou can!",
-  "fr": "Prenez-en le plus possible !",
+  "fr": "Prenez-en le\nplus possible !",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "No...the main\nforce!",
-  "fr": "Non... Le gros des troupes !",
+  "fr": "Non... Le gros\ndes troupes !",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I'll protect\nthe hideout!",
-  "fr": "Je protègerai le repaire !",
+  "fr": "Je protègerai\nle repaire !",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Didn't expect\nthis, huh?",
-  "fr": "Vous n'attendiez pas ça, hein ?",
+  "fr": "Vous n'attendiez\npas ça, hein ?",
   "src": "pinky"
  }
 ]

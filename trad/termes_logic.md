@@ -221,15 +221,15 @@
 | Gem of Darkness | Gemme des ténèbres |
 | Fireball | Boule de feu |
 | Flame | Flammes |
-| Ice Bullet | Trait de glace |
+| Ice Bullet | Pic de glace |
 | Blizzard | Blizzard |
-| Thunderbolt | Coup de tonnerre |
+| Thunderbolt | Foudre |
 | Cyclone | Cyclone |
 | Fireball II | Boule de feu II |
 | Flame II | Flammes II |
-| Ice Bullet II | Trait de glace II |
+| Ice Bullet II | Pic de glace II |
 | Blizzard II | Blizzard II |
-| Thunderbolt II | Coup de tonnerre II |
+| Thunderbolt II | Foudre II |
 | Cyclone II | Cyclone II |
 | Lightning | Éclair |
 | Meteor | Météore |
@@ -239,21 +239,21 @@
 | Healing Wind II | Vent curatif II |
 | Cure | Remède |
 | Raise Force | Vigueur |
-| Magic Shield | Bouclier magique |
+| Magic Shield | Égide magique |
 | Raise Mobility | Accélération |
 | Poison | Poison |
 | Lower Mobility | Ralentissement |
 | Lower Force | Affaiblissement |
 | Lower Defenses | Brise-défense |
 | Revivify | Résurrection |
-| Mind Eater | Dévoreur d'esprit |
+| Mind Eater | Dévore-esprit |
 | Swap | Permutation |
 | Raise Defenses | Fortification |
 | Magic Rust | Rouille magique |
 | Inferno | Inferno |
 | Angel Tear | Larme d'ange |
 | Thor's Hammer | Marteau de Thor |
-| Sinister Storm | Tempête sinistre |
+| Sinister Storm | Sombre tempête |
 | Earthquake | Séisme |
 | Follow Me! | Suivez-moi ! |
 | Follow Me! II | Suivez-moi ! II |
@@ -265,9 +265,9 @@
 | Triple Slash | Triple entaille |
 | Heaven's Gate | Porte du Ciel |
 | Crescent Arc | Arc de lune |
-| Spirit Sword | Épée spirituelle |
+| Spirit Sword | Épée des âmes |
 | Tempest Sword | Épée tempête |
-| War Reverie | Rêverie guerrière |
+| War Reverie | Songe guerrier |
 | Hymn of Glory | Hymne de gloire |
 | Impale! | Empalement ! |
 | Take Flight! | Envol ! |
@@ -297,19 +297,19 @@
 | HP +300 | PV +300 |
 | HP +150 | PV +150 |
 | HP +20 | PV +20 |
-| Day of Judgment | Jour du Jugement |
+| Day of Judgment | Jugement final |
 | Godspeed | Élan divin |
 | HP +30 | PV +30 |
 | HP +50 | PV +50 |
 | HP +100 | PV +100 |
-| Treasure Hunter | Chasse au trésor |
+| Treasure Hunter | Chasse-trésor |
 | MP +20 | PM +20 |
 | MP +30 | PM +30 |
 | MP +50 | PM +50 |
 | Treasure Lover | Amour du trésor |
 | Attack +3 | Attaque +3 |
-| Death Beckons | Appel de la mort |
-| Hour of Death | Heure de la mort |
+| Death Beckons | Appel funèbre |
+| Hour of Death | Heure fatale |
 | Defense +3 | Défense +3 |
 | Defense +5 | Défense +5 |
 | Magic Defense +3 | Défense mag. +3 |
@@ -318,10 +318,10 @@
 | Accuracy +10 | Précision +10 |
 | Evade +5 | Esquive +5 |
 | Evade +10 | Esquive +10 |
-| Critical Edge | Tranchant critique |
+| Critical Edge | Lame critique |
 | Mobility +1 | Déplacement +1 |
 | MP +150 | PM +150 |
-| Intemporal Light | Lumière intemporelle |
+| Intemporal Light | Lueur éternelle |
 | MP +10 | PM +10 |
 | Sol Spirit +1 | Esprit sol +1 |
 | Sol Spirit +2 | Esprit sol +2 |
@@ -329,11 +329,11 @@
 | Luna Spirit +1 | Esprit luna +1 |
 | Luna Spirit +2 | Esprit luna +2 |
 | Luna Spirit +3 | Esprit luna +3 |
-| Stella Spirit +1 | Esprit stella +1 |
-| Stella Spirit +2 | Esprit stella +2 |
-| Stella Spirit +3 | Esprit stella +3 |
+| Stella Spirit +1 | Esprit stella+1 |
+| Stella Spirit +2 | Esprit stella+2 |
+| Stella Spirit +3 | Esprit stella+3 |
 | Attack +5 | Attaque +5 |
-| Visiting Goddess | Visite de la déesse |
+| Visiting Goddess | Visite divine |
 | Attack +10 | Attaque +10 |
 | Attack +20 | Attaque +20 |
 | Attack +30 | Attaque +30 |
@@ -347,9 +347,9 @@
 | Slip Through | Passe-passe |
 | Piercing Power III | Perforation III |
 | Healing Perfume | Parfum curatif |
-| HP Recovery | Régénération PV |
-| HP Recovery II | Régénération PV II |
-| HP Recovery III | Régénération PV III |
+| HP Recovery | Regain PV |
+| HP Recovery II | Regain PV II |
+| HP Recovery III | Regain PV III |
 | Toxic Arrow | Flèche toxique |
 | Rift in the Light | Faille de lumière |
 | Dead Revelry | Danse macabre |
@@ -361,16 +361,16 @@
 | Two Rounds | Deux assauts |
 | Three Rounds | Trois assauts |
 | Beast Slayer | Tueur de bêtes |
-| Man-Eater | Mangeur d'hommes |
+| Man-Eater | Anthropophage |
 | Goliath Slayer | Tueur de géants |
-| Undead Slayer | Tueur de morts-vivants |
+| Undead Slayer | Tueur de goules |
 | Devil Slayer | Tueur de démons |
-| Dragon Slayer | Tueur de dragons |
+| Dragon Slayer | Tueur de dragon |
 | Loving Goddess | Déesse aimante |
 | Grieving Goddess | Déesse affligée |
 | Ordained End | Fin décrétée |
 | Divine Intervention | Intervention divine |
-| Look of Despair | Regard du désespoir |
+| Look of Despair | Regard funeste |
 | Bloodletting | Saignée |
 | Incubus | Incube |
 | Deific Talons | Serres divines |
@@ -387,32 +387,32 @@
 | Desperation | Témérité |
 | Desperation II | Témérité II |
 | Desperation III | Témérité III |
-| Dark Regen | Régénération noire |
+| Dark Regen | Regain obscur |
 | Dire Swing | Coup funeste |
-| Sniper | Tireur d'élite |
-| Sniper II | Tireur d'élite II |
-| Sniper III | Tireur d'élite III |
-| Sniper IV | Tireur d'élite IV |
+| Sniper | Tir d'élite |
+| Sniper II | Tir d'élite II |
+| Sniper III | Tir d'élite III |
+| Sniper IV | Tir d'élite IV |
 | Skewer Shot | Tir perforant |
-| Poison Arrow | Flèche empoisonnée |
-| Stun Arrow | Flèche étourdissante |
+| Poison Arrow | Flèche-poison |
+| Stun Arrow | Flèche-choc |
 | Shadow Stitch | Ombre cousue |
 | Venom Edge | Lame venimeuse |
 | Two Hits | Double coup |
 | Three Hits | Triple coup |
 | Four Hits | Quadruple coup |
 | Strange Dance | Danse étrange |
-| Skill Shakedown | Racket de pierres |
+| Skill Shakedown | Racket-pierre |
 | Gold Shakedown | Racket d'or |
 | Aero Dagger | Dague volante |
-| Gold Snatcher | Chapardeuse d'or |
-| Stun Whip | Fouet étourdissant |
-| Skill Snatcher | Chapardeuse de pierres |
+| Gold Snatcher | Pique-or |
+| Stun Whip | Fouet-choc |
+| Skill Snatcher | Pique-pierre |
 | Tearstain | Trace de larmes |
 | Range +1 | Portée +1 |
 | Range +2 | Portée +2 |
-| Magic Attack +10 | Attaque mag. +10 |
-| Magic Attack +20 | Attaque mag. +20 |
+| Magic Attack +10 | Attaque mag+10 |
+| Magic Attack +20 | Attaque mag+20 |
 | Mobility +3 | Déplacement +3 |
 | Mobility +2 | Déplacement +2 |
 | Evade +30 | Esquive +30 |
@@ -422,21 +422,21 @@
 | Theologian's Armlet | Bracelet du théologien |
 | Creator's Armlet | Bracelet du créateur |
 | Usurper's Armlet | Bracelet de l'usurpateur |
-| Ice Throw | Lancer de glace |
-| Thunder Arrow | Flèche de foudre |
-| Ice Throw II | Lancer de glace II |
-| Thunder Arrow II | Flèche de foudre II |
+| Ice Throw | Jet de glace |
+| Thunder Arrow | Trait-foudre |
+| Ice Throw II | Jet de glace II |
+| Thunder Arrow II | Trait-foudre II |
 | Strong | Puissance |
 | Mobility Up | Déplacement + |
 | Slow | Lenteur |
 | Force Down | Force - |
 | Weak | Faiblesse |
-| Revival Magic | Magie de résurrection |
+| Revival Magic | Retour à la vie |
 | Defensive | Défensive |
 | Magic Down | Magie - |
 | To Arms! | Aux armes ! |
 | To Arms! II | Aux armes ! II |
-| Rallying Cry | Cri de ralliement |
+| Rallying Cry | Ralliement |
 | Tri-Slash | Tri-entaille |
 | Moonrise Cut | Taille lunaire |
 | Fly! | Vole ! |
@@ -448,18 +448,18 @@
 | Tail Attack | Attaque caudale |
 | Punch | Coup de poing |
 | Jump Press | Saut écrasant |
-| An End in Sight | La fin est proche |
+| An End in Sight | Fin imminente |
 | Jezebel's Captive | Captive de Jézabel |
 | Jezebel's Captive II | Captive de Jézabel II |
 | Death's Way | Voie de la mort |
 | Light-Splitting Lament | Lamento brise-lumière |
-| Blue Heart-Hunt | Chasse au coeur bleu |
+| Blue Heart-Hunt | Chasse azurée |
 | Divine Talons | Griffes divines |
 | Divine Talons II | Griffes divines II |
 | Divine Talons III | Griffes divines III |
 | Time of Dissolution | Heure de la dissolution |
-| Goddess's Love | Amour de la déesse |
-| Goddess's Pathos | Pathos de la déesse |
+| Goddess's Love | Amour divin |
+| Goddess's Pathos | Pathos divin |
 | Heaven-Sent Miracle | Miracle du Ciel |
 | Wakeless Nightmare | Cauchemar sans fin |
 | Tragedy III | Tragédie III |
@@ -472,7 +472,7 @@
 | Beard the Lion IV | Défier le lion IV |
 | Disaster Strike | Frappe désastre |
 | Piercing Strike | Frappe perçante |
-| Poison Knife | Couteau empoisonné |
+| Poison Knife | Dague-poison |
 | Steal Skill Stone | Vol de pierre |
 | Steal Gold | Vol d'or |
 | Skills, SVP | Pierres, SVP |
@@ -481,12 +481,12 @@
 | Counter I | Riposte I |
 | Slip By | Se glisser |
 | Restore HP to All | PV rendus à tous |
-| Restore 10% HP | Rend 10 % des PV |
-| Restore 20% HP | Rend 20 % des PV |
-| Restore 30% HP | Rend 30 % des PV |
-| Restore 10% MP | Rend 10 % des PM |
-| Restore 20% MP | Rend 20 % des PM |
-| Restore 30% MP | Rend 30 % des PM |
+| Restore 10% HP | Rend 10 % de PV |
+| Restore 20% HP | Rend 20 % de PV |
+| Restore 30% HP | Rend 30 % de PV |
+| Restore 10% MP | Rend 10 % de PM |
+| Restore 20% MP | Rend 20 % de PM |
+| Restore 30% MP | Rend 30 % de PM |
 | 120% EXP | EXP 120 % |
 | 150% EXP | EXP 150 % |
 | 200% EXP | EXP 200 % |

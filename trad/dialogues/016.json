@@ -29,7 +29,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "It's awfully quiet...",
-  "fr": "C'est tellement calme que c'en est\ninquiétant...",
+  "fr": "C'est tellement calme que c'en\nest inquiétant...",
   "src": "pinky"
  },
  {
@@ -77,7 +77,7 @@
   "max": 34,
   "who": "Duke of Burgundy",
   "en": "I have singular talents\\u2014\nlike sniffing out tHE darkNESS...",
-  "fr": "J'ai des talents singuliers... Comme\ncelui de ressentir LEs TEnèbRES...",
+  "fr": "J'ai des talents singuliers...\fComme celui de ressentir LEs\nTEnèbRES...",
   "src": "pinky"
  },
  {
@@ -500,23 +500,23 @@
  },
  {
   "ctx": "ST3070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "How...a mere\nhuman...",
-  "fr": "Comment... un simple humain...",
+  "fr": "Comment... un\nsimple humain...",
   "src": "pinky"
  },
  {
   "ctx": "ST3070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You will not\nescape...",
-  "fr": "Vous ne fuirez pas...",
+  "fr": "Vous ne\nfuirez pas...",
   "src": "pinky"
  },
  {
   "ctx": "ST3070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Damned flies...",
   "fr": "Putain de mouches...",
@@ -524,32 +524,32 @@
  },
  {
   "ctx": "ST3070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Do not under-\nestimate me...",
-  "fr": "Ne me sous- estimez pas...",
+  "fr": "Ne me sous-\nestimez pas...",
   "src": "pinky"
  },
  {
   "ctx": "ST3070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "How...by a pack\nof humans...",
-  "fr": "Comment...\nPar une bande d'humains...",
+  "fr": "Comment... Par une\nbande d'humains...",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST3070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You...you\ndamned pests...",
-  "fr": "Vous... Vous... Soyez maudits.",
+  "fr": "Vous... Vous...\nSoyez maudits.",
   "src": "pinky"
  },
  {
   "ctx": "ST3070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Grooorrrgh!!",
   "fr": "Grooorrrgh !!",
@@ -557,34 +557,34 @@
  },
  {
   "ctx": "ST3070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "A child, able to\ndefeat me? Hah!",
-  "fr": "Un gosse, me vaincre, moi ?!",
+  "fr": "Un gosse, me\nvaincre, moi ?!",
   "src": "pinky"
  },
  {
   "ctx": "ST3070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "May you all die\nin darkness...",
-  "fr": "Crevez tous en enfer...",
+  "fr": "Crevez tous\nen enfer...",
   "src": "pinky"
  },
  {
   "ctx": "ST3070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "We...shall\nconsume all...",
-  "fr": "Nous... brûlerons tout...",
+  "fr": "Nous... brûlerons\ntout...",
   "src": "pinky"
  },
  {
   "ctx": "ST3070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Now...accept\nyour death...",
-  "fr": "Faites face à la mort...",
+  "fr": "Faites face\nà la mort...",
   "src": "pinky"
  },
  {
@@ -597,15 +597,15 @@
  },
  {
   "ctx": "ST3070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "What...? Is that\nall you have...?",
-  "fr": "Quoi ?\nC'est tout ce que vous avez ?",
+  "fr": "Quoi ? C'est tout\nce que vous avez ?",
   "src": "pinky"
  },
  {
   "ctx": "ST3070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Groorrgh!!",
   "fr": "Groorrgh !!",
@@ -613,7 +613,7 @@
  },
  {
   "ctx": "ST3070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Damned human...!",
   "fr": "Maudits humains... !",
@@ -621,39 +621,39 @@
  },
  {
   "ctx": "ST3070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Darkness, spread\nbefore me...!",
-  "fr": "Que les ténèbres vous\nrecouvrent !",
+  "fr": "Que les ténèbres\nvous recouvrent !",
   "src": "pinky"
  },
  {
   "ctx": "ST3070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "May the darkness\nfill me...",
-  "fr": "Puissent les ténèbres m'emplir...",
+  "fr": "Puissent les\nténèbres m'emplir...",
   "src": "pinky"
  },
  {
   "ctx": "ST3070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Sweep across\nthe land...!",
-  "fr": "Videz-moi tout ça !",
+  "fr": "Videz-moi\ntout ça !",
   "src": "pinky"
  },
  {
   "ctx": "ST3070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Come, messenger\nof death...",
-  "fr": "Viens, envoyé de la Mort...",
+  "fr": "Viens, envoyé\nde la Mort...",
   "src": "pinky"
  },
  {
   "ctx": "ST3070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Worrrrgh!",
   "fr": "Worrrrgh !",
@@ -769,7 +769,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Damn!\nThe door won't budge.",
-  "fr": "Diantre !\nLa porte ne bouge pas d'un pouce !",
+  "fr": "Diantre ! La porte ne bouge pas\nd'un pouce !",
   "src": "pinky"
  },
  {
@@ -945,7 +945,7 @@
   "max": 34,
   "who": "Claire",
   "en": "Ugh! What's the big idea?\nWho locked this door?!",
-  "fr": "Hein ?!\nQui a eu l'idée de fermer la porte ?!",
+  "fr": "Hein ?! Qui a eu l'idée de fermer la\nporte ?!",
   "src": "pinky"
  },
  {
@@ -1156,7 +1156,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "What's gotten into you? Who is\nthis woman you speak of?",
-  "fr": "Qu'est-ce qui vous arrive ? Qui est\ncette femme dont vous parlez ?",
+  "fr": "Qu'est-ce qui vous arrive ?\fQui est cette femme dont vous\nparlez ?",
   "src": "pinky"
  },
  {
@@ -1196,7 +1196,7 @@
   "max": 34,
   "who": "Charles VII",
   "en": "Why have you not come to see\nme? Are my sins so many?",
-  "fr": "Pourquoi n'êtes-vous pas venu me\nvoir ?\fMes péchés sont-ils si nombreux ?",
+  "fr": "Pourquoi n'êtes-vous pas venu\nme voir ?\fMes péchés sont-ils si nombreux ?",
   "src": "pinky",
   "relu": true
  },
@@ -1294,7 +1294,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "Did you have him sign an accord\nas I ordered?",
-  "fr": "Lui avez-vous fait signer un traité\ncomme je l'avais demandé ?",
+  "fr": "Lui avez-vous fait signer un\ntraité comme je l'avais demandé ?",
   "src": "pinky"
  },
  {
@@ -1318,7 +1318,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "I am going to hold on to this\nfor the time being;",
-  "fr": "Je vais le conserver pour l'instant.",
+  "fr": "Je vais le conserver pour\nl'instant.",
   "src": "pinky"
  },
  {
@@ -1326,7 +1326,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "before I can send it to the king,\fI need you to do something for\nme.",
-  "fr": "Avant de pouvoir l'envoyer au roi,\fj'ai besoin que vous fassiez autre\nchose pour moi.",
+  "fr": "Avant de pouvoir l'envoyer au\nroi,\fj'ai besoin que vous fassiez autre\nchose pour moi.",
   "src": "pinky"
  },
  {
@@ -1446,7 +1446,7 @@
   "max": 34,
   "who": "Richemont",
   "en": "And now they haunt Georges's...",
-  "fr": "Et maintenant ils hantent ceux de\nGeorges...",
+  "fr": "Et maintenant ils hantent ceux\nde Georges...",
   "src": "pinky"
  },
  {
@@ -1568,7 +1568,7 @@
   "max": 34,
   "who": "Roger",
   "en": "...Where have you been?\nI don't like to be kept waiting.",
-  "fr": "... Où étais-tu ? Je n'aime pas qu'on\nme fasse attendre.",
+  "fr": "... Où étais-tu ? Je n'aime pas\nqu'on me fasse attendre.",
   "src": "pinky"
  },
  {
@@ -1650,7 +1650,7 @@
   "max": 34,
   "who": "Georges",
   "en": "No one told me the reaper would\ndeffour my thoul!",
-  "fr": "Personne ne m'a dit que le\nmoissonneur dévorerait mon âme !",
+  "fr": "Personne ne m'a dit que le\nmoissonneur dévorerait mon\fâme !",
   "src": "pinky",
   "relu": true
  },
@@ -1822,7 +1822,7 @@
   "max": 34,
   "who": "Roger",
   "en": "That tripe is exactly what makes\npeople around you suffer.",
-  "fr": "Ces absurdités sont exactement la\ncause de la souffrance de ceux qui\ft'entourent.",
+  "fr": "Ces absurdités sont exactement\nla cause de la souffrance de ceux\fqui t'entourent.",
   "src": "pinky"
  },
  {
@@ -1915,7 +1915,7 @@
  },
  {
   "ctx": "ST3080BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Defeat Avaritia",
   "fr": "Vaincre Avaritia",

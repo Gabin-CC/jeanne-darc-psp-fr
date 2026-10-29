@@ -189,7 +189,7 @@
   "max": 34,
   "who": "Young Noble",
   "en": "Well, you two can keep your\nprimal instincts, thank you kindly.",
-  "fr": "Eh bien, vous deux pouvez garder\nvos instincts primaires, merci bien.",
+  "fr": "Eh bien, vous deux pouvez garder\nvos instincts primaires,\fmerci bien.",
   "src": "pinky"
  },
  {
@@ -383,7 +383,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "Har! We'll just have to see. In\nthe meantime, stop screwing up.",
-  "fr": "Ha ! Nous verrons bien. En\nattendant, arrêtez de tout gâcher.",
+  "fr": "Ha ! Nous verrons bien.\fEn attendant, arrêtez de tout\ngâcher.",
   "src": "pinky",
   "relu": true
  },
@@ -482,7 +482,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Don't EVER talk about throwing\nyour life away!",
-  "fr": "Ne parle PLUS JAMAIS de sacrifier\nta vie !",
+  "fr": "Ne parle PLUS JAMAIS de\nsacrifier ta vie !",
   "src": "pinky"
  },
  {
@@ -730,7 +730,7 @@
  },
  {
   "ctx": "ST2010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "What the...",
   "fr": "Qu'est-ce...",
@@ -738,15 +738,15 @@
  },
  {
   "ctx": "ST2010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You have no\nescape!",
-  "fr": "Vous ne pouvez fuir !",
+  "fr": "Vous ne pouvez\nfuir !",
   "src": "pinky"
  },
  {
   "ctx": "ST2010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Fend them off!",
   "fr": "Repoussez-les !",
@@ -754,18 +754,18 @@
  },
  {
   "ctx": "ST2010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Do something!",
-  "fr": "Faites quelque chose !",
+  "fr": "Faites\nquelque chose !",
   "src": "pinky"
  },
  {
   "ctx": "ST2010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Everything here\nis ours!",
-  "fr": "Tout ici nous appartient !",
+  "fr": "Tout ici nous\nappartient !",
   "src": "pinky"
  },
  {
@@ -778,7 +778,7 @@
  },
  {
   "ctx": "ST2010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "God damn it...",
   "fr": "Bon sang...",
@@ -786,39 +786,39 @@
  },
  {
   "ctx": "ST2010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "What a terrible\nturn of events.",
-  "fr": "Comme c'est fâcheux.",
+  "fr": "Comme c'est\nfâcheux.",
   "src": "pinky"
  },
  {
   "ctx": "ST2010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "The death blow\nis near!",
-  "fr": "Le coup de grâce arrive !",
+  "fr": "Le coup de\ngrâce arrive !",
   "src": "pinky"
  },
  {
   "ctx": "ST2010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I let my\nguard down...",
-  "fr": "J'ai baissé ma garde...",
+  "fr": "J'ai baissé\nma garde...",
   "src": "pinky"
  },
  {
   "ctx": "ST2010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "We can still\ndo this!",
-  "fr": "Nous pouvons toujours le faire !",
+  "fr": "Nous pouvons\ntoujours le faire !",
   "src": "pinky"
  },
  {
   "ctx": "ST2010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Grrngh...",
   "fr": "Grrngh...",
@@ -826,15 +826,15 @@
  },
  {
   "ctx": "ST2010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "How did you even\nget near me...",
-  "fr": "Comment avez-vous pu me\ntoucher...",
+  "fr": "Comment avez-vous\npu me toucher...",
   "src": "pinky"
  },
  {
   "ctx": "ST2010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Enjoy my arrows!",
   "fr": "Goûtez mes flèches !",
@@ -842,7 +842,7 @@
  },
  {
   "ctx": "ST2010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Fly!",
   "fr": "Vole !",
@@ -850,23 +850,23 @@
  },
  {
   "ctx": "ST2010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You'll pay for\nthis...!",
-  "fr": "Vous paierez pour cela... !",
+  "fr": "Vous paierez\npour cela... !",
   "src": "pinky"
  },
  {
   "ctx": "ST2010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "We've got to\nstop them!",
-  "fr": "Nous devons les arrêter !",
+  "fr": "Nous devons\nles arrêter !",
   "src": "pinky"
  },
  {
   "ctx": "ST2010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Oh, my God...",
   "fr": "Oh, mon dieu...",
@@ -984,7 +984,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "...My, you seem to be taking \nthis all rather hard.",
-  "fr": "... Mon cher, vous semblez prendre\ncela trop à coeur.",
+  "fr": "... Mon cher, vous semblez\nprendre cela trop à coeur.",
   "src": "pinky"
  },
  {
@@ -1001,7 +1001,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "If you just want to feign guilt, \nthen do it elsewhere.\fYou and your put-on penitence \nhave no place on the battlefield.",
-  "fr": "Si vous voulez juste feindre la\nculpabilité, alors faites-le ailleurs.\fVous et votre repentance n'avez\npas votre place sur le champ de\fbataille.",
+  "fr": "Si vous voulez juste feindre la\nculpabilité,\falors faites-le ailleurs.\fVous et votre repentance n'avez\npas votre place sur le champ de\fbataille.",
   "src": "pinky",
   "relu": true
  },
@@ -1018,7 +1018,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "You can kill England with your \nchoices, or you can save it.",
-  "fr": "Vous pouvez détruire l'Angleterre\npar vos choix, ou la sauver.",
+  "fr": "Vous pouvez détruire\nl'Angleterre par vos choix,\fou la sauver.",
   "src": "pinky"
  },
  {
@@ -1082,7 +1082,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "La Hire has brought you the \nphysician!",
-  "fr": "La Hire vous a ramené le docteur !",
+  "fr": "La Hire vous a ramené le\ndocteur !",
   "src": "pinky"
  },
  {
@@ -1106,7 +1106,7 @@
   "max": 34,
   "who": "Physician",
   "en": "She needs be taken someplace \nshe can rest and receive proper \ncare.",
-  "fr": "Elle a besoin d'être emmenée dans\nun endroit où elle pourra se\freposer et avoir des soins.",
+  "fr": "Elle a besoin d'être emmenée\ndans un endroit où elle pourra se\freposer et avoir des soins.",
   "src": "pinky"
  },
  {
@@ -1114,7 +1114,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "How can such a thing be done \nwith a war rrraging outside!",
-  "fr": "Comment faire alors que la guerre\nfait rage à l'extérieur !",
+  "fr": "Comment faire alors que la\nguerre fait rage à l'extérieur !",
   "src": "pinky"
  },
  {
@@ -1187,7 +1187,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "My frrriend, what is wrong?!",
-  "fr": "Mon ami, qu'est-ce qui ne va pas ?!",
+  "fr": "Mon ami, qu'est-ce qui ne va\npas ?!",
   "src": "pinky"
  },
  {
@@ -1211,7 +1211,7 @@
   "max": 34,
   "who": "Marcel",
   "en": "Hey, um... Jeannette is going \nto pull through...right?",
-  "fr": "Hey, um... Jeannette va s'en tirer...\nhein ?",
+  "fr": "Hey, um...\nJeannette va s'en tirer... hein ?",
   "src": "pinky"
  },
  {
@@ -1243,7 +1243,7 @@
   "max": 34,
   "who": "Young Noble",
   "en": "Why did she have to be so \nreckless?",
-  "fr": "Pourquoi a-t-il fallu qu'elle ait\nfait preuve de tant d'imprudence ?",
+  "fr": "Pourquoi a-t-il fallu qu'elle ait\nfait preuve de tant\fd'imprudence ?",
   "src": "pinky"
  },
  {
@@ -1275,7 +1275,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "...I'm sorry.\nI shouldn't have been so rash.",
-  "fr": "... Je suis désolée. Je n'aurais pas dû\nêtre autant téméraire.",
+  "fr": "... Je suis désolée. Je n'aurais pas\ndû être autant téméraire.",
   "src": "pinky"
  },
  {
@@ -1339,7 +1339,7 @@
   "max": 34,
   "who": "Roger",
   "en": "I'm...I'm not sure myself.\nWhy do I have that power...",
-  "fr": "Je... je n'en suis pas sûr moi-même.\nNi pourquoi j'ai ce pouvoir...",
+  "fr": "Je...\nje n'en suis pas sûr moi-même.\fNi pourquoi j'ai ce pouvoir...",
   "src": "pinky",
   "relu": true
  },
@@ -1452,7 +1452,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "What manner of monster...\fSo help me, this time I'll choke\nthe life out of her for good!",
-  "fr": "Quelle sorte de monstre...\fAide-moi, cette fois je lui ôterai sa\nvie pour de bon !",
+  "fr": "Quelle sorte de monstre...\fAide-moi, cette fois je lui ôterai\nsa vie pour de bon !",
   "src": "pinky",
   "relu": true
  },
@@ -1491,26 +1491,26 @@
  },
  {
   "ctx": "ST2020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Dammit...you\nmonster...",
-  "fr": "Bon sang... Sale monstre...",
+  "fr": "Bon sang...\nSale monstre...",
   "src": "pinky"
  },
  {
   "ctx": "ST2020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You cannot have\nthis...!",
-  "fr": "Vous ne l'aurez pas !",
+  "fr": "Vous ne\nl'aurez pas !",
   "src": "pinky"
  },
  {
   "ctx": "ST2020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Today you shall\ndie for sure!",
-  "fr": "Aujourd'hui vous allez mourir !",
+  "fr": "Aujourd'hui vous\nallez mourir !",
   "src": "pinky"
  },
  {
@@ -1523,15 +1523,15 @@
  },
  {
   "ctx": "ST2020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Can you survive\nthis one?!",
-  "fr": "Pouvez-vous survivre à ça ?!",
+  "fr": "Pouvez-vous\nsurvivre à ça ?!",
   "src": "pinky"
  },
  {
   "ctx": "ST2020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Take this!!",
   "fr": "Prends ça !!",
@@ -1539,23 +1539,23 @@
  },
  {
   "ctx": "ST2020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Your time is\nnear...",
-  "fr": "Votre fin est proche...",
+  "fr": "Votre fin\nest proche...",
   "src": "pinky"
  },
  {
   "ctx": "ST2020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "No...this is\nabsurd...",
-  "fr": "Non... C'est absurde...",
+  "fr": "Non... C'est\nabsurde...",
   "src": "pinky"
  },
  {
   "ctx": "ST2020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "We cannot lose!",
   "fr": "Nous vaincrons !",
@@ -1563,16 +1563,16 @@
  },
  {
   "ctx": "ST2020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "All right...\nLet's do this.",
-  "fr": "Très bien... Faisons-le.",
+  "fr": "Très bien...\nFaisons-le.",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST2020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Grgh...",
   "fr": "Grgh...",
@@ -1580,7 +1580,7 @@
  },
  {
   "ctx": "ST2020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Die!!",
   "fr": "Meurs !!",
@@ -1647,7 +1647,7 @@
   "max": 34,
   "who": "Marcel",
   "en": "...Hey, what if we just found the \ncontraption that opens the gates?",
-  "fr": "...\fHé,\fet si nous cherchions simplement\nce qui ouvre les portes ?",
+  "fr": "... Hé,\fet si nous cherchions simplement\nce qui ouvre les portes ?",
   "src": "pinky"
  },
  {
@@ -1687,7 +1687,7 @@
   "max": 34,
   "who": "Jean",
   "en": "Hmm, don't suppose knocking\nwould work.",
-  "fr": "Hmm, je ne pense pas que toquer à\nla porte puisse fonctionner.",
+  "fr": "Hmm, je ne pense pas que toquer\nà la porte puisse fonctionner.",
   "src": "pinky"
  },
  {
@@ -1719,7 +1719,7 @@
   "max": 34,
   "who": "Rufus",
   "en": "Raybe the gates r'open from the \nruther side.",
-  "fr": "Peut-être que les portes s'ouvrent\nde l'autre côté.",
+  "fr": "Peut-être que les portes\ns'ouvrent de l'autre côté.",
   "src": "pinky"
  },
  {
@@ -1986,7 +1986,7 @@
   "max": 34,
   "who": "Glasdale",
   "en": "...Be my guest. But I think I \nshall miss your sour grapes more\nthan your dour japes.",
-  "fr": "... Comme vous voudrez.\fMais je pense que votre aigreur me\nmanquera plus que votre humour\facide.",
+  "fr": "... Comme vous voudrez.\fMais je pense que votre aigreur\nme manquera plus que votre\fhumour acide.",
   "src": "pinky"
  },
  {

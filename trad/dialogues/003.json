@@ -28,7 +28,7 @@
   "max": 34,
   "who": "French Soldier",
   "en": "Please take care while you and \nhe have your talk.",
-  "fr": "Faites attention quand vous aurez\nvotre audience.",
+  "fr": "Faites attention quand vous\naurez votre audience.",
   "src": "pinky"
  },
  {
@@ -181,7 +181,7 @@
   "max": 34,
   "who": "Duke of Lorraine",
   "en": "It represents an oath,\fthat France's future never go \nundefended.",
-  "fr": "Il représente un serment, que\nl'avenir de la France\fsoit à jamais protégé.",
+  "fr": "Il représente un serment,\fque l'avenir de la France soit à\njamais protégé.",
   "src": "pinky"
  },
  {
@@ -189,7 +189,7 @@
   "max": 34,
   "who": "Duke of Lorraine",
   "en": "This armlet chose you, Jeanne.",
-  "fr": "Ce bracelet vous a choisie, Jeanne.",
+  "fr": "Ce bracelet vous a choisie,\nJeanne.",
   "src": "pinky",
   "relu": true
  },
@@ -206,7 +206,7 @@
   "max": 34,
   "who": "Duke of Lorraine",
   "en": "To be frank, I called you here \nout of hope...",
-  "fr": "Pour être franc, je vous ai amenée\nici dans l'espoir...",
+  "fr": "Pour être franc, je vous ai\namenée ici dans l'espoir...",
   "src": "pinky"
  },
  {
@@ -238,7 +238,7 @@
   "max": 34,
   "who": "Duke of Lorraine",
   "en": "A few extra years tacked on to \none decrepit old man's life...",
-  "fr": "Quelques années supplémentaires\najoutées à la vie d'un vieil homme\fdécrépi...",
+  "fr": "Quelques années\nsupplémentaires ajoutées à la vie\fd'un vieil homme décrépi...",
   "src": "pinky"
  },
  {
@@ -318,7 +318,7 @@
   "max": 34,
   "who": "Duke of Lorraine",
   "en": "And do it for all the people \nof France.",
-  "fr": "Et faites-le pour tout le peuple de\nFrance.",
+  "fr": "Et faites-le pour tout le peuple\nde France.",
   "src": "pinky"
  },
  {
@@ -342,7 +342,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "...You needn't even ask.",
-  "fr": "... Vous n'avez même pas besoin de\nle demander.",
+  "fr": "... Vous n'avez même pas besoin\nde le demander.",
   "src": "pinky"
  },
  {
@@ -438,7 +438,7 @@
   "max": 34,
   "who": "Roger",
   "en": "You look terrible. Like you \nhaven't slept for days.",
-  "fr": "Tu sembles éprouvée. Comme si tu\nn'avais pas dormi depuis des jours.",
+  "fr": "Tu sembles éprouvée.\fComme si tu n'avais pas dormi\ndepuis des jours.",
   "src": "pinky"
  },
  {
@@ -478,7 +478,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "I'll be departing soon for Chinon.",
-  "fr": "Je vais bientôt partir pour Chinon.",
+  "fr": "Je vais bientôt partir pour\nChinon.",
   "src": "pinky"
  },
  {
@@ -550,7 +550,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "let alone dream of saving France.",
-  "fr": "Sans parler de mon rêve de sauver\nla France.",
+  "fr": "Sans parler de mon rêve de\nsauver la France.",
   "src": "pinky"
  },
  {
@@ -606,7 +606,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I couldn't protect my village \nor the townsmen or anything!",
-  "fr": "Je n'ai pas pu protéger mon village,\nni les villageois,\fni quoi que ce soit !",
+  "fr": "Je n'ai pas pu protéger mon\nvillage, ni les villageois,\fni quoi que ce soit !",
   "src": "pinky",
   "relu": true
  },
@@ -647,7 +647,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "I, at least, am ready to lay \ndown my life for Mother France.",
-  "fr": "Moi, au moins, je suis prêt à donner\nma vie pour la France, ma patrie.",
+  "fr": "Moi, au moins, je suis prêt à\ndonner ma vie pour la France,\fma patrie.",
   "src": "pinky"
  },
  {
@@ -888,7 +888,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "...Don't you have any love for\nFrance?",
-  "fr": "... N'avez-vous pas d'amour pour la\nFrance ?",
+  "fr": "... N'avez-vous pas d'amour pour\nla France ?",
   "src": "pinky"
  },
  {
@@ -912,7 +912,7 @@
   "max": 34,
   "who": "Marcel",
   "en": "Ooh, Colette! Look! I found this\ninsect in my field guide.",
-  "fr": "Ooh, Colette ! Regarde ! J'ai trouvé\ncet insecte sur mon manuel.",
+  "fr": "Ooh, Colette ! Regarde !\fJ'ai trouvé cet insecte sur mon\nmanuel.",
   "src": "pinky"
  },
  {
@@ -1075,7 +1075,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "The Pucelle...\nFrance's savior, or so I'm told.",
-  "fr": "La Pucelle... Sauveuse de France, à\nce qu'on m'a dit.",
+  "fr": "La Pucelle... Sauveuse de France,\nà ce qu'on m'a dit.",
   "src": "pinky"
  },
  {
@@ -1316,7 +1316,7 @@
   "max": 16,
   "who": "Jean",
   "en": "Now, how ought\nwe proceed...",
-  "fr": "Maintenant, comment\ndoit-on faire...",
+  "fr": "Maintenant,\fcomment doit-on\nfaire...",
   "src": "pinky"
  },
  {
@@ -1408,7 +1408,7 @@
   "max": 16,
   "who": "Colet",
   "en": "Out of ze way!",
-  "fr": "Hors de mon chemin !",
+  "fr": "Hors de mon\nchemin !",
   "src": "pinky"
  },
  {

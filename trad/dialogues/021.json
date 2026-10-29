@@ -52,7 +52,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Am I inside Roger's memories?",
-  "fr": "Suis-je dans la mémoire de Roger ?",
+  "fr": "Suis-je dans la mémoire de\nRoger ?",
   "src": "pinky"
  },
  {
@@ -186,26 +186,26 @@
  },
  {
   "ctx": "ST4071BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I'll kill you...\nI must...",
-  "fr": "Je vais te tuer... Je le dois...",
+  "fr": "Je vais te tuer...\nJe le dois...",
   "src": "pinky"
  },
  {
   "ctx": "ST4071BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I'll kill you...\nJeanne...",
-  "fr": "Je vais te tuer... Jeanne...",
+  "fr": "Je vais te tuer...\nJeanne...",
   "src": "pinky"
  },
  {
   "ctx": "ST4071BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Hah...prepare\nto die...",
-  "fr": "Hah... Prépare-toi à mourir...",
+  "fr": "Hah... Prépare-toi\nà mourir...",
   "src": "pinky"
  },
  {
@@ -221,7 +221,7 @@
   "max": 34,
   "who": "Roger",
   "en": "You think a miserable woman like\nyou can kill me?",
-  "fr": "Tu penses qu'une pitoyable femme\ntelle que toi peut me vaincre ?",
+  "fr": "Tu penses qu'une pitoyable\nfemme telle que toi peut me\fvaincre ?",
   "src": "pinky"
  },
  {
@@ -261,7 +261,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I understand why you hate me.",
-  "fr": "Je comprends ta haine envers moi.",
+  "fr": "Je comprends ta haine envers\nmoi.",
   "src": "pinky"
  },
  {
@@ -317,7 +317,7 @@
   "max": 34,
   "who": "Liane",
   "en": "If you loved me, you'd kill\nJeanne for me.",
-  "fr": "Si tu m'aimais, tu aurais tué Jeanne\npour moi.",
+  "fr": "Si tu m'aimais, tu aurais tué\nJeanne pour moi.",
   "src": "pinky"
  },
  {
@@ -639,7 +639,7 @@
  },
  {
   "ctx": "ST4072BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Well? Now what?",
   "fr": "Bon, et maintenant ?",
@@ -647,15 +647,15 @@
  },
  {
   "ctx": "ST4072BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Get out of my\nway...!",
-  "fr": "Hors de mon chemin !",
+  "fr": "Hors de mon\nchemin !",
   "src": "pinky"
  },
  {
   "ctx": "ST4072BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Tch...!",
   "fr": "Tch... !",
@@ -663,15 +663,15 @@
  },
  {
   "ctx": "ST4072BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You...? Kill me?\nAgain?!",
-  "fr": "Toi ? Me tuer ?! Encore ?!",
+  "fr": "Toi ? Me tuer ?!\nEncore ?!",
   "src": "pinky"
  },
  {
   "ctx": "ST4072BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "How dare you...!",
   "fr": "Comment oses-tu ?",
@@ -679,39 +679,39 @@
  },
  {
   "ctx": "ST4072BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Heh heh heh...\nWhat's wrong?",
-  "fr": "Hé hé hé...\nQuelque chose ne va pas ?",
+  "fr": "Hé hé hé... Quelque\nchose ne va pas ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4072BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Oh, dear, giving\nup already?",
-  "fr": "Oh, tu abandonnes déjà, ma\nchère ?",
+  "fr": "Oh, tu abandonnes\ndéjà, ma chère ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4072BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Roger is mine...\nand mine alone.",
-  "fr": "Roger est à moi, et à moi seule.",
+  "fr": "Roger est à moi,\net à moi seule.",
   "src": "pinky"
  },
  {
   "ctx": "ST4072BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Hee hee...\nPainful, yes?",
-  "fr": "Hi hi... Ça fait mal, hein ?",
+  "fr": "Hi hi...\nÇa fait mal, hein ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4072BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Did that hurt?!",
   "fr": "Ça fait mal ?!",
@@ -719,26 +719,26 @@
  },
  {
   "ctx": "ST4072BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Oh, now you've\ndone it...",
-  "fr": "Maintenant que tu l'as fait...",
+  "fr": "Maintenant que\ntu l'as fait...",
   "src": "pinky"
  },
  {
   "ctx": "ST4072BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Let me show you\nmy power!",
-  "fr": "Regarde ma puissance !",
+  "fr": "Regarde ma\npuissance !",
   "src": "pinky"
  },
  {
   "ctx": "ST4072BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Don't under-\nestimate me...",
-  "fr": "Ne me sous- estime pas !",
+  "fr": "Ne me sous-\nestime pas !",
   "src": "pinky"
  },
  {
@@ -923,7 +923,7 @@
  },
  {
   "ctx": "ST4073BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Heh heh.",
   "fr": "Hé hé.",
@@ -931,7 +931,7 @@
  },
  {
   "ctx": "ST4073BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Heh heh heh!",
   "fr": "Hé hé hé !",
@@ -939,7 +939,7 @@
  },
  {
   "ctx": "ST4073BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Kah kah!",
   "fr": "Kah kah !",
@@ -987,31 +987,31 @@
  },
  {
   "ctx": "ST4074BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I'll wipe all of\nyou out...",
-  "fr": "Je vais tout nettoyer...",
+  "fr": "Je vais tout\nnettoyer...",
   "src": "pinky"
  },
  {
   "ctx": "ST4074BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Prepare to be\nextinct...",
-  "fr": "Prépare-toi à disparaitre...",
+  "fr": "Prépare-toi à\ndisparaitre...",
   "src": "pinky"
  },
  {
   "ctx": "ST4074BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Ooh, that's\nvery nice...",
-  "fr": "Ohh, c'est chouette...",
+  "fr": "Ohh, c'est\nchouette...",
   "src": "pinky"
  },
  {
   "ctx": "ST4074BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Here we go!!",
   "fr": "Nous y sommes !",
@@ -1038,7 +1038,7 @@
   "max": 34,
   "who": "Ira",
   "en": "gRRRaaaHHH...\n...rrrrrrAAAAAAAH!",
-  "fr": "gRRRaaaHHH... ...\nrrrrrrAAAAAAAH !",
+  "fr": "gRRRaaaHHH...\n... rrrrrrAAAAAAAH !",
   "src": "pinky"
  },
  {
@@ -1256,7 +1256,7 @@
  },
  {
   "ctx": "ST4075BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Guraaahhh!",
   "fr": "Guraaahhh !",
@@ -1332,7 +1332,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "But she said she would wait for\nyou in Domrémy.\fFor you and Roger.",
-  "fr": "Mais elle a dit qu'elle t'attendrait à\nDomrémy.\fToi et Roger.",
+  "fr": "Mais elle a dit qu'elle t'attendrait\nà Domrémy.\fToi et Roger.",
   "src": "pinky",
   "relu": true
  },
@@ -1634,7 +1634,7 @@
   "max": 34,
   "who": "Roger",
   "en": "I...I'm not sure.\fNow that Gilvaroth is whole\nagain, \nhis power must be immeasurable.",
-  "fr": "Je.. Je ne sais pas.\fMaintenant que Gilvaroth est à\npleine puissance,\fson pouvoir est incommensurable.",
+  "fr": "Je.. Je ne sais pas.\fMaintenant que Gilvaroth est à\npleine puissance,\fson pouvoir est\nincommensurable.",
   "src": "pinky"
  },
  {
@@ -1698,7 +1698,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "Reckless as always, lass...\nHar!",
-  "fr": "Téméraire, comme toujours... Har !",
+  "fr": "Téméraire, comme toujours...\nHar !",
   "src": "pinky"
  },
  {
@@ -1762,7 +1762,7 @@
   "max": 34,
   "who": "Talbot",
   "en": "Remember? I need you to send\nme to Heaven.",
-  "fr": "Vous n'avez pas oublié ? J'ai besoin\nde vous pour atteindre le paradis.",
+  "fr": "Vous n'avez pas oublié ?\fJ'ai besoin de vous pour atteindre\nle paradis.",
   "src": "pinky"
  },
  {
@@ -1898,7 +1898,7 @@
   "max": 34,
   "who": "Duke of Bedford",
   "en": "you need his uncle's permission.\nHeh heh...",
-  "fr": "vous aurez besoin de la permission\nde son oncle. Hé hé...",
+  "fr": "vous aurez besoin de la\npermission de son oncle. Hé hé...",
   "src": "pinky"
  },
  {

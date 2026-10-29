@@ -36,7 +36,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "How can we even the odds\nagainst him?",
-  "fr": "Que pouvons-nous faire, il ne fera\nqu'une bouchée de nous...",
+  "fr": "Que pouvons-nous faire, il ne\nfera qu'une bouchée de nous...",
   "src": "pinky"
  },
  {
@@ -76,7 +76,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "a trip to the Warren in Paris\nwill yield some answers.",
-  "fr": "si nous allions à la tanière de Paris,\fnous y trouverions quelques\nréponses à nos questions.",
+  "fr": "si nous allions à la tanière de\nParis,\fnous y trouverions quelques\nréponses à nos questions.",
   "src": "pinky",
   "relu": true
  },
@@ -110,7 +110,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "Some of its residents actually\nlived through the reaper war\\u2014",
-  "fr": "Certains de ses habitants ont vécu\nla guerre des moissonneurs...",
+  "fr": "Certains de ses habitants ont\nvécu la guerre des moissonneurs...",
   "src": "pinky",
   "relu": true
  },
@@ -127,7 +127,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "What? You are pulling La Hire's\nmane.",
-  "fr": "Quoi ? Vous tirez sur la crinière de\nLa Hire !",
+  "fr": "Quoi ? Vous tirez sur la crinière\nde La Hire !",
   "src": "pinky",
   "relu": true
  },
@@ -168,7 +168,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "His snoozing foes in Paris will\nnever see him coming, rrrar!",
-  "fr": "Ses ennemis ramollis ne le verront\npas arriver, rrar !",
+  "fr": "Ses ennemis ramollis ne le\nverront pas arriver, rrar !",
   "src": "pinky"
  },
  {
@@ -208,7 +208,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "I was blessed with a good home.\nI wanted for nothing...and yet...",
-  "fr": "J'ai eu la chance d'avoir une bonne\nfamille... Je ne manquais de rien...\fEt maintenant...",
+  "fr": "J'ai eu la chance d'avoir une\nbonne famille...\fJe ne manquais de rien...\nEt maintenant...",
   "src": "pinky",
   "relu": true
  },
@@ -290,7 +290,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "...I trust you're prepared?",
-  "fr": "...\nJ'espère que tu es bien préparée ?",
+  "fr": "... J'espère que tu es bien\npréparée ?",
   "src": "pinky"
  },
  {
@@ -306,7 +306,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "This is the passage city therions\ntake to rrreach the Warren.",
-  "fr": "C'est le souterrain employé par les\ntherions pourrrr aller au terrier.",
+  "fr": "C'est le souterrain employé par\nles therions pourrrr aller au\fterrier.",
   "src": "pinky"
  },
  {
@@ -314,7 +314,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "When La Hire was a cub,\fhe used this canal many times,\nto sneak in and out of town.",
-  "fr": "Quand La Hire était un lionceau, il\nempruntait souvent ce passage\fpour se faufiler hors de la ville.",
+  "fr": "Quand La Hire était un lionceau,\fil empruntait souvent ce passage\npour se faufiler hors de la ville.",
   "src": "pinky",
   "relu": true
  },
@@ -364,7 +364,7 @@
   "max": 34,
   "who": "Therion Cub",
   "en": "I only wanted some food!",
-  "fr": "Je voulais juste un truc à manger !",
+  "fr": "Je voulais juste un truc à\nmanger !",
   "src": "pinky"
  },
  {
@@ -437,7 +437,7 @@
   "max": 34,
   "who": "Therion Cub",
   "en": "Ruh-huh.\nWhy do you ask?",
-  "fr": "Rah-ah. Pourquoi cette question ?",
+  "fr": "Rah-ah.\nPourquoi cette question ?",
   "src": "pinky"
  },
  {
@@ -453,7 +453,7 @@
   "max": 34,
   "who": "Therion Cub",
   "en": "My grandpapa is the oldest...",
-  "fr": "Mon grand-père est le plus vieux...",
+  "fr": "Mon grand-père est le plus\nvieux...",
   "src": "pinky"
  },
  {
@@ -461,7 +461,7 @@
   "max": 34,
   "who": "Therion Cub",
   "en": "but I do not think he is that old.",
-  "fr": "mais je ne pense pas qu'il soit assez\nvieux.",
+  "fr": "mais je ne pense pas qu'il soit\nassez vieux.",
   "src": "pinky"
  },
  {
@@ -517,7 +517,7 @@
   "max": 34,
   "who": "Therion Cub",
   "en": "N-no! They aided me!",
-  "fr": "N-non ! Ils me sont venus en aide !",
+  "fr": "N-non !\nIls me sont venus en aide !",
   "src": "pinky"
  },
  {
@@ -533,7 +533,7 @@
   "max": 34,
   "who": "Therion Grunt",
   "en": "That smart-aleck cub, too!",
-  "fr": "Ce petit lionceau qui se croit malin\naussi !",
+  "fr": "Ce petit lionceau qui se croit\nmalin aussi !",
   "src": "pinky"
  },
  {
@@ -541,7 +541,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "Aren't you from the Warren?\nThis child is no enemy of yours!",
-  "fr": "N'êtes-vous pas de la tanière ? Cet\nenfant n'est pas votre ennemi !",
+  "fr": "N'êtes-vous pas de la tanière ?\fCet enfant n'est pas votre\nennemi !",
   "src": "pinky",
   "relu": true
  },
@@ -558,7 +558,7 @@
   "max": 34,
   "who": "Therion Grunt",
   "en": "To disgrace the therions is a\nshameful act, punishable by death!",
-  "fr": "Mettre les therions en disgrâce est\nun acte terrible,\fpunissable de mort !",
+  "fr": "Mettre les therions en disgrâce\nest un acte terrible,\fpunissable de mort !",
   "src": "pinky",
   "relu": true
  },
@@ -774,7 +774,7 @@
  },
  {
   "ctx": "ST4010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Cheeky little...",
   "fr": "Petit impertinent...",
@@ -782,7 +782,7 @@
  },
  {
   "ctx": "ST4010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "...Got you.",
   "fr": "... Je te tiens.",
@@ -790,7 +790,7 @@
  },
  {
   "ctx": "ST4010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "...You're mine.",
   "fr": "... Tu es à moi.",
@@ -798,40 +798,40 @@
  },
  {
   "ctx": "ST4010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "...Don't let\nthem escape!",
-  "fr": "Ne les laissez pas s'échapper !",
+  "fr": "Ne les laissez\npas s'échapper !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Chase after the\ninvaders!",
-  "fr": "Sus à l'envahisseur !",
+  "fr": "Sus à\nl'envahisseur !",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Prepare to die,\ninvaders!",
-  "fr": "Prépare-toi à mourir,\nenvahisseur !",
+  "fr": "Prépare-toi à\nmourir, envahisseur\f!",
   "src": "pinky",
   "relu": true
  },
  {
   "ctx": "ST4010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Prepare to meet\nyour maker.",
-  "fr": "Tu vas rencontrer ton créateur.",
+  "fr": "Tu vas rencontrer\nton créateur.",
   "src": "pinky"
  },
  {
   "ctx": "ST4010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "...Get 'em!",
   "fr": "Attrapez-les !",
@@ -839,7 +839,7 @@
  },
  {
   "ctx": "ST4010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Nrrngh...",
   "fr": "Nrrngh...",
@@ -847,7 +847,7 @@
  },
  {
   "ctx": "ST4010BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "...Take this!",
   "fr": "Prends ça !",
@@ -1002,7 +1002,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "We're all here!\nTime to set sail, coa!",
-  "fr": "Tout le monde est là, appareillons,\ncroa !",
+  "fr": "Tout le monde est là,\nappareillons, croa !",
   "src": "pinky"
  },
  {
@@ -1026,7 +1026,7 @@
   "max": 34,
   "who": "Rose",
   "en": "Maybe Red-Handed Rose should\ngive them a cut of her loot...",
-  "fr": "Peut-être que Rose-aux-mains\nrouges devrait leur donner un peu\fde son butin...",
+  "fr": "Peut-être que Rose-aux-mains\nrouges devrait leur donner un\fpeu de son butin...",
   "src": "pinky"
  },
  {
@@ -1083,7 +1083,7 @@
   "max": 34,
   "who": "Rufus",
   "en": "Rurry! Ruh boat on the ruther\nbank rasn't reft yet!",
-  "fr": "Vite ! Le bateau d'en face n'est pas\nencore parti !",
+  "fr": "Vite ! Le bateau d'en face n'est\npas encore parti !",
   "src": "pinky"
  },
  {
@@ -1115,7 +1115,7 @@
   "max": 34,
   "who": "Cuisses",
   "en": "Oh, no... But look! Across the\nwater! There's one more boat!",
-  "fr": "Oh non... Regardez !\nSur l'autre rive ! Un autre bateau !",
+  "fr": "Oh non... Regardez ! Sur l'autre\nrive ! Un autre bateau !",
   "src": "pinky"
  },
  {
@@ -1123,7 +1123,7 @@
   "max": 34,
   "who": "Claire",
   "en": "H-hey!\nHow dare you leave without me!",
-  "fr": "H-Hé ! Comment osez-vous partir\nsans moi !",
+  "fr": "H-Hé ! Comment osez-vous\npartir sans moi !",
   "src": "pinky"
  },
  {
@@ -1211,7 +1211,7 @@
   "max": 34,
   "who": "Rufus",
   "en": "Ruh boats reft rithout us!\nAwooo...",
-  "fr": "Les bateaux sont partis sans nous !\nAwouuuuh !",
+  "fr": "Les bateaux sont partis sans\nnous ! Awouuuuh !",
   "src": "pinky"
  },
  {
@@ -1339,7 +1339,7 @@
   "max": 34,
   "who": "Marcel",
   "en": "Yippee!\nThis is my first boat ride!",
-  "fr": "Youpi !!\nC'est mon premier tour en bateau !",
+  "fr": "Youpi !! C'est mon premier tour\nen bateau !",
   "src": "pinky"
  },
  {
@@ -1380,7 +1380,7 @@
   "max": 34,
   "who": "Rose",
   "en": "In we go, whee!\nForgot how much I like boats!",
-  "fr": "Et voilà ! J'avais oublié à quel point\nj'aime naviguer !",
+  "fr": "Et voilà ! J'avais oublié à quel\npoint j'aime naviguer !",
   "src": "pinky"
  },
  {
@@ -1517,7 +1517,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "So this is what a therion town\nlooks like...",
-  "fr": "Alors, c'est à ça que ressemble une\nville therion...",
+  "fr": "Alors, c'est à ça que ressemble\nune ville therion...",
   "src": "pinky"
  },
  {
@@ -1557,7 +1557,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "La Hire cannot believe you are\nstill alive!",
-  "fr": "La Hire n'arrive pas à croire que tu\nsois encore en vie !",
+  "fr": "La Hire n'arrive pas à croire que\ntu sois encore en vie !",
   "src": "pinky"
  },
  {
@@ -1689,7 +1689,7 @@
   "max": 34,
   "who": "Elder",
   "en": "The therions took up arms,\fand for men, armlets were forged\nfrom gems present in nature.",
-  "fr": "Les therions ont pris les armes, et\nles bracelets furent forgés\fpour les humains avec des gemmes\ntrouvées dans la nature.",
+  "fr": "Les therions ont pris les armes, et\nles bracelets furent forgés\fpour les humains avec des\ngemmes trouvées dans la nature.",
   "src": "pinky"
  },
  {
@@ -1715,7 +1715,7 @@
   "max": 34,
   "who": "Elder",
   "en": "Humankind lauded themselves for\na victory won by the armlets;",
-  "fr": "Les humains les ont persécutés\nalors qu'ils avaient gagné la guerre\fgrâce aux bracelets.",
+  "fr": "Les humains les ont persécutés\nalors qu'ils avaient gagné la\fguerre grâce aux bracelets.",
   "src": "pinky"
  },
  {
@@ -1723,7 +1723,7 @@
   "max": 34,
   "who": "Elder",
   "en": "the therions, however, who gave\nthem the armlets received all\nbut shackles in return.",
-  "fr": "les therions qui leur avaient\ndonné les bracelets n'ont reçu que\fdes chaînes en retour.",
+  "fr": "les therions qui leur avaient\ndonné les bracelets n'ont reçu\fque des chaînes en retour.",
   "src": "pinky"
  },
  {
@@ -1747,7 +1747,7 @@
   "max": 34,
   "who": "Elder",
   "en": "Most therions hate mankind;\fsome, swayed by the Fiend's\nhoneyed words, \nhave gone so far as to take\nvengeance on humanity. ",
-  "fr": "La plupart des therions haïssent\nles humains,\fCertains, amadoués par les paroles\nmielleuses du démon ont voulu se\fvenger des humains.",
+  "fr": "La plupart des therions haïssent\nles humains,\fCertains, amadoués par les\nparoles mielleuses du démon ont\fvoulu se venger des humains.",
   "src": "pinky",
   "relu": true
  },
@@ -1789,7 +1789,7 @@
   "max": 34,
   "who": "Therion",
   "en": "English troops are outside the\nWarren! Lots of them!",
-  "fr": "Des troupes anglaises se massent\nautour de la tanière !\fIls sont de plus en plus nombreux !",
+  "fr": "Des troupes anglaises se massent\nautour de la tanière !\fIls sont de plus en plus\nnombreux !",
   "src": "pinky"
  },
  {
@@ -1813,7 +1813,7 @@
   "max": 16,
   "who": "unité#139, unité#113",
   "en": "Take 'em on!",
-  "fr": "Emparez-vous d'eux !",
+  "fr": "Emparez-vous\nd'eux !",
   "src": "pinky"
  },
  {
@@ -1843,39 +1843,39 @@
  },
  {
   "ctx": "ST4020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You can't get\naway!",
-  "fr": "Vous ne pouvez vous enfuir !",
+  "fr": "Vous ne pouvez\nvous enfuir !",
   "src": "pinky"
  },
  {
   "ctx": "ST4020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "What on...who\nare these?!",
-  "fr": "Mais... Qui sont-ils ?",
+  "fr": "Mais... Qui\nsont-ils ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Geh...I won't\ngive up!",
-  "fr": "Je n'abandonnerai pas... Gah....",
+  "fr": "Je n'abandonnerai\npas... Gah....",
   "src": "pinky"
  },
  {
   "ctx": "ST4020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Weren't expect-\ning that, no?",
-  "fr": "Ça n'était pas prévu, hein ?",
+  "fr": "Ça n'était pas\nprévu, hein ?",
   "src": "pinky"
  },
  {
   "ctx": "ST4020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Haaaaahh!",
   "fr": "Haaaaahh !",
@@ -1883,7 +1883,7 @@
  },
  {
   "ctx": "ST4020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Forget it!",
   "fr": "Oublie ça !",
@@ -1891,26 +1891,26 @@
  },
  {
   "ctx": "ST4020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I won't take it\nsitting down!",
-  "fr": "Je ne vais pas attendre assis !",
+  "fr": "Je ne vais pas\nattendre assis !",
   "src": "pinky"
  },
  {
   "ctx": "ST4020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Spies! Chase\nthem!",
-  "fr": "Espions ! Après eux !",
+  "fr": "Espions !\nAprès eux !",
   "src": "pinky"
  },
  {
   "ctx": "ST4020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Damned spies...\nPrepare to die!",
-  "fr": "Maudits espions... Tu vas mourir !",
+  "fr": "Maudits espions...\nTu vas mourir !",
   "src": "pinky"
  },
  {
@@ -1990,7 +1990,7 @@
   "max": 34,
   "who": "Elder",
   "en": "It was not the therions at all\nthat made the armlets,\fbut rather the elves and the\ndwarves.",
-  "fr": "Ce ne sont pas les therions qui ont\nforgé les bracelets,\fmais plutôt des elfes ou des nains.",
+  "fr": "Ce ne sont pas les therions qui\nont forgé les bracelets,\fmais plutôt des elfes ou des nains.",
   "src": "pinky"
  },
  {
@@ -2007,7 +2007,7 @@
   "max": 34,
   "who": "Elder",
   "en": "If you wish to face the Fiend,\fthen you must acquire one of the\nmighty gems in their possession.",
-  "fr": "Si vous voulez affronter le\nDémon, vous devez mettre\fla main sur une des gemmes en\nleur possession.",
+  "fr": "Si vous voulez affronter le\nDémon,\fvous devez mettre la main sur\nune des gemmes en leur\fpossession.",
   "src": "pinky"
  },
  {

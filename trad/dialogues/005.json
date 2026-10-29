@@ -166,7 +166,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "Just being able to wield the\narmlet's power earned me\na hero's honors.",
-  "fr": "Juste le fait de posséder le pouvoir\ndu bracelet m'a valu les honneurs\fd'un héros.",
+  "fr": "Juste le fait de posséder le\npouvoir du bracelet m'a valu les\fhonneurs d'un héros.",
   "src": "pinky"
  },
  {
@@ -174,7 +174,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "But to think someone out there\ncould hear God's voice!",
-  "fr": "Mais penser que quelqu'un\npourrait entendre la Voix de Dieu !",
+  "fr": "Mais penser que quelqu'un\npourrait entendre la Voix de\fDieu !",
   "src": "pinky"
  },
  {
@@ -295,7 +295,7 @@
   "max": 34,
   "who": "Jeanne",
   "en": "I thought it was already agreed\nwe were marching on Orléans?",
-  "fr": "Il me semblait qu'il était déjà\nconvenu de marcher sur Orléans ?",
+  "fr": "Il me semblait qu'il était déjà\nconvenu de marcher sur\fOrléans ?",
   "src": "pinky"
  },
  {
@@ -520,7 +520,7 @@
   "max": 34,
   "who": "La Hire",
   "en": "Of courrrse! See how La Hire\naches for battle?",
-  "fr": "Bien sûr ! Regardez comment La\nHire meurt d'envie d'en découdre !",
+  "fr": "Bien sûr !\fRegardez comment La Hire meurt\nd'envie d'en découdre !",
   "src": "pinky",
   "relu": true
  },
@@ -1139,7 +1139,7 @@
   "max": 16,
   "who": "La Hire",
   "en": "Fight like you\nWANT to win!",
-  "fr": "Combattez comme si\nvous VOULIEZ gagner\f!",
+  "fr": "Combattez comme si\nvous VOULIEZ\fgagner !",
   "src": "pinky"
  },
  {
@@ -1334,7 +1334,7 @@
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Ssssss!!",
   "fr": "Ssssss !!",
@@ -1350,31 +1350,31 @@
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Fool! You call\nthat defending?!",
-  "fr": "Fous ! Vous appelez ça défendre ?!",
+  "fr": "Fous ! Vous appelez\nça défendre ?!",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "How could\nthis...?!",
-  "fr": "Comment est-ce possible ?",
+  "fr": "Comment est-ce\npossible ?",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Ergh...I won't\nstand for this!",
-  "fr": "Ergh...pas question !",
+  "fr": "Ergh...pas\nquestion !",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Stop them!",
   "fr": "Arrêtez-les !",
@@ -1382,55 +1382,55 @@
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Do not let them\ninside!",
-  "fr": "Ne les laissez pas à l'intérieur !",
+  "fr": "Ne les laissez pas\nà l'intérieur !",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Hah...that was\ntrivial.",
-  "fr": "Hah... c'était sans intérêt.",
+  "fr": "Hah... c'était\nsans intérêt.",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You think you\ncan beat me?!",
-  "fr": "Vous pensez pouvoir me battre ?!",
+  "fr": "Vous pensez pouvoir\nme battre ?!",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Better luck\nnext time!",
-  "fr": "Ça ira mieux la prochaine fois !",
+  "fr": "Ça ira mieux la\nprochaine fois !",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Get away from me\nwhile you can!",
-  "fr": "Éloignez-vous de moi tant que\nvous le pouvez !",
+  "fr": "Éloignez-vous de\nmoi tant que vous le\fpouvez !",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Someone heal\nhim!",
-  "fr": "Que quelqu'un le soigne !",
+  "fr": "Que quelqu'un\nle soigne !",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Rank beginners!",
   "fr": "Amateurs !",
@@ -1446,31 +1446,31 @@
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I'm ending this\nright now.",
-  "fr": "Finissons-en maintenant !",
+  "fr": "Finissons-en\nmaintenant !",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Just one more\nstrike...",
-  "fr": "Encore un coup...",
+  "fr": "Encore un\ncoup...",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Now! The final\nblow!",
-  "fr": "Et voilà, le coup de grâce !",
+  "fr": "Et voilà, le\ncoup de grâce !",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Ah, very good.",
   "fr": "Ah, très bien.",
@@ -1478,7 +1478,7 @@
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Curse you...!",
   "fr": "Maudit sois-tu !",
@@ -1487,7 +1487,7 @@
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Taaaahhhh!!",
   "fr": "Taaaahhhh !!",
@@ -1495,7 +1495,7 @@
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Dieeeee!",
   "fr": "Meuuuuuurs !",
@@ -1503,23 +1503,23 @@
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Behold my vast\nsword skill!",
-  "fr": "Je suis un maître à l'épée !",
+  "fr": "Je suis un maître\nà l'épée !",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You shall go\nno further!",
-  "fr": "Vous n'irez pas plus loin !",
+  "fr": "Vous n'irez pas\nplus loin !",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Ernh...",
   "fr": "Ernh...",
@@ -1527,7 +1527,7 @@
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "The pain...",
   "fr": "J'ai mal...",
@@ -1535,15 +1535,15 @@
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You can't\nescape...",
-  "fr": "Vous ne pouvez fuir !",
+  "fr": "Vous ne\npouvez fuir !",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Give it up...",
   "fr": "Abandonnez...",
@@ -1551,7 +1551,7 @@
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Stop it...",
   "fr": "Arrêtez...",
@@ -1559,7 +1559,7 @@
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "Liane, Jeanne",
   "en": "Ahh...",
   "fr": "Ahh...",
@@ -1567,7 +1567,7 @@
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Oh, Lord...",
   "fr": "Oh, mon dieu...",
@@ -1575,31 +1575,31 @@
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Ahhh...how could\nthis be?",
-  "fr": "Ahhh... Impossible...",
+  "fr": "Ahhh...\nImpossible...",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "The battle is\nnearing its end!",
-  "fr": "Le combat touche à sa fin !",
+  "fr": "Le combat touche\nà sa fin !",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "The light shines\non us...",
-  "fr": "La lumière nous inonde !",
+  "fr": "La lumière\nnous inonde !",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You must heal...",
   "fr": "Un médecin...",
@@ -1607,7 +1607,7 @@
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I'm coming over.",
   "fr": "J'arrive.",
@@ -1615,7 +1615,7 @@
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Such is fate...",
   "fr": "Quel destin...",
@@ -1623,7 +1623,7 @@
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "It's over...",
   "fr": "C'est fini...",
@@ -1631,7 +1631,7 @@
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Urgh...",
   "fr": "Urgh...",
@@ -1639,7 +1639,7 @@
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Ow...",
   "fr": "Ouch...",
@@ -1647,15 +1647,15 @@
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Grant us your\npower...",
-  "fr": "Donnez-nous la force...",
+  "fr": "Donnez-nous\nla force...",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "O light...",
   "fr": "Oh lumière...",
@@ -1663,7 +1663,7 @@
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "No...!",
   "fr": "Non... !",
@@ -1671,23 +1671,23 @@
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Look around\nyou...",
-  "fr": "Regardez tout autour !",
+  "fr": "Regardez\ntout autour !",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Hah! The perfect\nprey!",
-  "fr": "Ha ! La proie parfaite !",
+  "fr": "Ha ! La proie\nparfaite !",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Dammit!",
   "fr": "Bon sang !",
@@ -1695,7 +1695,7 @@
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "This can't be\nhappening...",
   "fr": "Impossible...",
@@ -1703,63 +1703,63 @@
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I will not\nallow this!",
-  "fr": "Je n'accepterai pas cela !",
+  "fr": "Je n'accepterai\npas cela !",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Your resistance\nis pointless!",
-  "fr": "Votre résistance est inutile !",
+  "fr": "Votre résistance\nest inutile !",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "We'll never\ngive this up!",
-  "fr": "Abandonner ? Jamais !",
+  "fr": "Abandonner ?\nJamais !",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You won't get\naway with that!",
-  "fr": "Vous ne partirez pas avec !",
+  "fr": "Vous ne partirez\npas avec !",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I'll utterly\nannihilate you!",
-  "fr": "Je vous anéantirai !",
+  "fr": "Je vous\nanéantirai !",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Grant me your\npower!",
-  "fr": "Donnez-moi la force !",
+  "fr": "Donnez-moi\nla force !",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Untold power...\nat my fingers!",
-  "fr": "Pouvoir immense... Viens à moi !",
+  "fr": "Pouvoir immense...\nViens à moi !",
   "src": "pinky"
  },
  {
   "ctx": "ST1070BT",
-  "max": 34,
+  "max": 16,
   "who": "Roger",
   "en": "Haaaaaahhh!",
   "fr": "Haaaaaahhh !",
@@ -1786,7 +1786,7 @@
   "max": 34,
   "who": "Roger",
   "en": "...Gilles, why didn't you stop\nJeanne?",
-  "fr": "... Gilles, pourquoi n'avez-vous pas\narrêté Jeanne ?",
+  "fr": "... Gilles, pourquoi n'avez-vous\npas arrêté Jeanne ?",
   "src": "pinky"
  },
  {
@@ -1875,7 +1875,7 @@
   "max": 34,
   "who": "Gilles",
   "en": "will have little trouble burning\nthrough a ragtag army like this. ",
-  "fr": "... ne trouvera aucune résistance à\nbrûler cette armée de racaille.",
+  "fr": "... ne trouvera aucune résistance\nà brûler cette armée de racaille.",
   "src": "pinky"
  },
  {
@@ -1883,7 +1883,7 @@
   "max": 34,
   "who": "Roger",
   "en": "Then why didn't you say that at\nthe council!",
-  "fr": "Alors pourquoi ne pas l'avoir dit au\nconseil !",
+  "fr": "Alors pourquoi ne pas l'avoir dit\nau conseil !",
   "src": "pinky"
  },
  {

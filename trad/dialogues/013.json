@@ -1,23 +1,23 @@
 [
  {
   "ctx": "ST3020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Death to the\ninvaders!",
-  "fr": "Éliminez les intrus !",
+  "fr": "Éliminez les\nintrus !",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "You won't\nescape!",
-  "fr": "Vous ne fuirez pas !",
+  "fr": "Vous ne\nfuirez pas !",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Ka ha ha...",
   "fr": "Ka ha ha...",
@@ -25,7 +25,7 @@
  },
  {
   "ctx": "ST3020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Surrounded...",
   "fr": "Encerclés...",
@@ -33,26 +33,26 @@
  },
  {
   "ctx": "ST3020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Death...\nto them.",
-  "fr": "Tuez-les... Tous...",
+  "fr": "Tuez-les...\nTous...",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Death...to\nall...",
-  "fr": "Qu'ils... Crèvent...",
+  "fr": "Qu'ils...\nCrèvent...",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "One final\nblow...",
-  "fr": "Le coup de grâce...",
+  "fr": "Le coup\nde grâce...",
   "src": "pinky"
  },
  {
@@ -65,23 +65,23 @@
  },
  {
   "ctx": "ST3020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "My power...\nBehold...",
-  "fr": "Mon pouvoir... Regardez...",
+  "fr": "Mon pouvoir...\nRegardez...",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "The power...of\ndarkness...",
-  "fr": "Le pouvoir... De l'ombre...",
+  "fr": "Le pouvoir...\nDe l'ombre...",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Blow...",
   "fr": "Ahh...",
@@ -89,7 +89,7 @@
  },
  {
   "ctx": "ST3020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "What on...",
   "fr": "Mais que...",
@@ -97,26 +97,26 @@
  },
  {
   "ctx": "ST3020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Don't take me\nlightly, now!",
-  "fr": "Prenez-moi au sérieux !",
+  "fr": "Prenez-moi\nau sérieux !",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "No going back\nfor you now...",
-  "fr": "C'en est fini de vous...",
+  "fr": "C'en est fini\nde vous...",
   "src": "pinky"
  },
  {
   "ctx": "ST3020BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Sorry 'bout\nthat.",
-  "fr": "Vous m'en voyez navré...",
+  "fr": "Vous m'en voyez\nnavré...",
   "src": "pinky"
  },
  {
@@ -318,7 +318,7 @@
   "max": 34,
   "who": "Rose",
   "en": "Whattaya say we partner up?\nI could use tough types like you.",
-  "fr": "Que diriez-vous de nous associer ?\fDes gens forts comme vous\nseraient utiles.",
+  "fr": "Que diriez-vous de nous\nassocier ?\fDes gens forts comme vous\nseraient utiles.",
   "src": "pinky"
  },
  {
@@ -422,7 +422,7 @@
   "max": 34,
   "who": "Richard",
   "en": "Try to temper your grief before\nthen.",
-  "fr": "Essaie de calmer ta peine avant de\npartir.",
+  "fr": "Essaie de calmer ta peine avant\nde partir.",
   "src": "pinky"
  },
  {
@@ -446,7 +446,7 @@
   "max": 34,
   "who": "Colet",
   "en": "Eez eet just me, or eez zis town,\nhow do you say...stwange?",
-  "fr": "C'est moi ou c'est cette ville, qui\nest... comment dirais-je... ...\fétrange ?",
+  "fr": "C'est moi ou c'est cette ville, qui\nest... comment dirais-je...\f... étrange ?",
   "src": "pinky"
  },
  {
@@ -534,7 +534,7 @@
   "max": 34,
   "who": "Brigand Archer",
   "en": "So go an' get it!\fAnd be quick about it. The decor\n'ere gives me the willies.",
-  "fr": "Alors allez le chercher !\fEt vite fait. L'architecture d'ici me\nfiche la frousse.",
+  "fr": "Alors allez le chercher !\fEt vite fait. L'architecture d'ici\nme fiche la frousse.",
   "src": "pinky",
   "relu": true
  },
@@ -584,7 +584,7 @@
   "max": 34,
   "who": "Claire",
   "en": "You tykes ran fresh out of luck\nthe minute you decided to\nplunder the home of Claire de\nLoon!",
-  "fr": "Votre chance a tourné à la minute\nmême où vous avez décidé de\fpiller chez moi, chez Claire de\nLoon !",
+  "fr": "Votre chance a tourné à la\nminute même où vous avez décidé\fde piller chez moi, chez Claire de\nLoon !",
   "src": "pinky"
  },
  {
@@ -697,7 +697,7 @@
   "max": 34,
   "who": "Claire",
   "en": "Just so you know, kiddos:",
-  "fr": "Sachez juste une chose, les gosses :",
+  "fr": "Sachez juste une chose, les\ngosses :",
   "src": "pinky"
  },
  {
@@ -776,31 +776,31 @@
  },
  {
   "ctx": "ST3021BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "I'll tear you\nlimb from limb!",
-  "fr": "Je vais te dépecer !",
+  "fr": "Je vais te\ndépecer !",
   "src": "pinky"
  },
  {
   "ctx": "ST3021BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "What a windfall\nthis will be!",
-  "fr": "Quelle aubaine ce serait !",
+  "fr": "Quelle aubaine\nce serait !",
   "src": "pinky"
  },
  {
   "ctx": "ST3021BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Don't leave any\nof them alive!",
-  "fr": "Ne les laissez pas fuir !",
+  "fr": "Ne les laissez\npas fuir !",
   "src": "pinky"
  },
  {
   "ctx": "ST3021BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "How pathetic.",
   "fr": "Si pathétique...",
@@ -808,23 +808,23 @@
  },
  {
   "ctx": "ST3021BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Don't get in\nmy way...",
-  "fr": "Hors de mon passage !",
+  "fr": "Hors de mon\npassage !",
   "src": "pinky"
  },
  {
   "ctx": "ST3021BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "The crystals\nare mine!",
-  "fr": "À moi les cristaux !",
+  "fr": "À moi les\ncristaux !",
   "src": "pinky"
  },
  {
   "ctx": "ST3021BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "It's all mine!",
   "fr": "C'est à MOI !",
@@ -832,15 +832,15 @@
  },
  {
   "ctx": "ST3021BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "OK, let's sweep\n'em all up!",
-  "fr": "Faisons-les déguerpir !",
+  "fr": "Faisons-les\ndéguerpir !",
   "src": "pinky"
  },
  {
   "ctx": "ST3021BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Who is...",
   "fr": "Qui...",
@@ -848,7 +848,7 @@
  },
  {
   "ctx": "ST3021BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Sss!",
   "fr": "Sss !",
@@ -940,7 +940,7 @@
   "max": 34,
   "who": "Rufus",
   "en": "Ruh-oh!\nRey broke the sparkly!",
-  "fr": "Ruh-oh ! Il est en mille morceaux !",
+  "fr": "Ruh-oh !\nIl est en mille morceaux !",
   "src": "pinky"
  },
  {
@@ -972,7 +972,7 @@
   "max": 34,
   "who": "Claire",
   "en": "(That girl... She's that witch\neveryone's talking about!)",
-  "fr": "(Cette fille... C'est la sorcière dont\ntout le monde parle !)",
+  "fr": "(Cette fille... C'est la sorcière\ndont tout le monde parle !)",
   "src": "pinky"
  },
  {
@@ -1095,7 +1095,7 @@
   "max": 34,
   "who": "Georges",
   "en": "The fool thought he could haff\na chuckle at my expenth...",
-  "fr": "Ce fou a pensé qu'il pouvait se rire\nde moi...",
+  "fr": "Ce fou a pensé qu'il pouvait se\nrire de moi...",
   "src": "pinky"
  },
  {
@@ -1127,7 +1127,7 @@
   "max": 34,
   "who": "Sellsword",
   "en": "You had me worried sick, coz!\nTakin' off the way you did.",
-  "fr": "Tu m'as drôlement inquiété, l'ami !\nDisparaître ainsi de la circulation.",
+  "fr": "Tu m'as drôlement inquiété,\nl'ami !\fDisparaître ainsi de la circulation.",
   "src": "pinky"
  },
  {
@@ -1472,7 +1472,7 @@
   "max": 34,
   "who": "Sellsword",
   "en": "I'll call you Baldric if you rather,\n\fbut you sure you know the plan?",
-  "fr": "Je t'appellerai Baldric si tu\npréfères,\fmais t'es sûr de connaître le plan ?",
+  "fr": "Je t'appellerai Baldric si tu\npréfères,\fmais t'es sûr de connaître le\nplan ?",
   "src": "pinky"
  },
  {
@@ -1678,7 +1678,7 @@
  },
  {
   "ctx": "ST3030BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Gah...!",
   "fr": "Gha... !",
@@ -1686,31 +1686,31 @@
  },
  {
   "ctx": "ST3030BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "We're still in\nthis! Forward!",
-  "fr": "On est encore dans la course !",
+  "fr": "On est encore\ndans la course !",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Heh heh...It's\nmine now.",
-  "fr": "Héhé... C'est à moi, maintenant !",
+  "fr": "Héhé... C'est à moi,\nmaintenant !",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "That's not about\nto stop me!",
-  "fr": "Ça ne va pas m'arrêter !",
+  "fr": "Ça ne va pas\nm'arrêter !",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "All right,\nlet's go!",
   "fr": "C'est parti !",
@@ -1718,15 +1718,15 @@
  },
  {
   "ctx": "ST3030BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Now! Plow in\nthere!",
-  "fr": "Taillez dans le tas !",
+  "fr": "Taillez dans\nle tas !",
   "src": "pinky"
  },
  {
   "ctx": "ST3030BT",
-  "max": 34,
+  "max": 16,
   "who": "",
   "en": "Ergh!",
   "fr": "Argh !",
@@ -1842,7 +1842,7 @@
   "max": 34,
   "who": "Rose",
   "en": "Hey...what're you playin' at,\nyou backstabbers?!",
-  "fr": "Hé... À quoi jouez-vous, traitres ?!",
+  "fr": "Hé...\nÀ quoi jouez-vous, traitres ?!",
   "src": "pinky"
  },
  {
@@ -1858,7 +1858,7 @@
   "max": 34,
   "who": "Rufus",
   "en": "Awooo!\nRut do we roo?",
-  "fr": "Ahouuu ! Que devons-nous faire ?",
+  "fr": "Ahouuu !\nQue devons-nous faire ?",
   "src": "pinky"
  },
  {
